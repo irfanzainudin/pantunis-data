@@ -1,0 +1,23 @@
+- (Sipangka)
+- (Sialek)
+- (line ~43520) Hidup beruntungan
+  Mati berhukumkan Allah
+- (regex pattern) ===\n.\*\n===
+- &nbsp;
+- yg
+- nk
+- lh
+- chgu
+- (regex pattern) ,.
+- jgn
+- ..
+- ...
+- &amp;
+- (regex pattern) \s,
+- find all the extra whitespaces
+- (regex pattern) \[[0-9]\]
+- dlm
+- dgn
+- (regex pattern) ^[a-z] <!-- find uncapitalised starting letters -->
+- (regex pattern) \(.\) <!-- numbers in parentheses -->
+-
