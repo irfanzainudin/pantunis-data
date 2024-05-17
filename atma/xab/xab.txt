@@ -3871,15 +3871,11 @@ Anak kudo mandowek-dowek
 Anak kambiang balari-lari
 Urang tuo bagolek-golek
 Takana mudonyo hari
-
-
-Anak kuda mendongkak-dongkak
-Anak kambing berlari-lari
-Orang tua bergolek-golek
-
-Teringat mudanya hari
 ===
 Anak kumbang belajar terbang
+Terbang merayap atas jerami
+Rupa kurang bangsa pun kurang
+Apa dipandang kepada kami.
 ===
 Anak kumbang merayap-rayap
 Dinding tinggi cuba didaki
@@ -4508,32 +4504,6 @@ Di tanah rata hujungan desa
 Kalau orang sudah berbudi
 Tentu kita pula berbahasa
 ===
-Anak memerang memakan sagu
-===
-Anak memerang memakan sagu
-Di perdu jarak di air tenang
-Ketika hari senjakala
-Gadis orang jangan diganggu
-
-Kalau hendak masuklah pinang
-Supaya diri tidak terhela
-===
-Anak memerang memakan sagu
-Di perdu pudak di air tenang
-Ketika hari senja kala
-Gadis orang jangan diganggu
-
-Kalau hendak masuklah pinang
-Supaya diri tidak tercela
-===
-Anak memerang memakan sagu
-Di-perdu pudak di air tenang
-Ketika hari senjakala
-Gadis orang jangan diganggu
-
-Kalau hendak masuklah pinang
-Supaya diri tidak tercela
-===
 Anak memerang merayau ke hutan
 Hutan bakau pohonnya rendang
 Rokok dilarang demi kesihatan
@@ -4835,12 +4805,10 @@ Anak murai di ateh batu
 Rabuang dipapek jo sambilu
 Dek taulan matilah aku
 Taduang di baliak kalang ulu
-
-
+===
 Anak murai di atas batu
 Rebung dipepat dengan sembilu
 Sebab taulan matilah aku
-
 Tedung di balik kalang hulu
 ===
 Anak murai diatas nangka
@@ -4965,8 +4933,6 @@ Tidak orang seperti akoe
 Menanggoeng dendam se'oemoer hidoep
 ===
 Anak orang di Sungai Paku
-===
-Anak orang di Sungai Paku
 Tanjung Pandan teluknya redup
 Tiada orang seperti aku
 Menanggung dendam seumur hidup
@@ -4977,27 +4943,29 @@ Tiada orang seperti aku
 Menanggung dendam seumur hidup
 ===
 Anak orang di Tajung Sani
+Duduk bersandar di pedati
+Tidak disangka akan begini
+Pisau dikandung makan hati.
 ===
 Anak orang kampung melayu
+Hendak menjelang desa Tambun.
+Kita mengaku orang melayu
+Orang melayu gemar berpantun
 ===
 Anak orang kampung sebelah
+Hendak pergi ke Indragiri
+Kalau tak takut kepada Allah
+Rusaklah iman fasiklah diri.
 ===
 Anak orang koto hilalang
 Hendak lalu ke pekan Baso
 Malu dan sopan kalaulah hilang
 Habislah rasa dengan periksa
 ===
-Anak orang Padang Panjang
-Singgah nan lalu ke Bukit Tinggi
-Membawa kain dan baju
-Kalau adik menjadi helang
-
-Kanda menjadi pohon tinggi
-Di udara kita bertemu
-===
-Anak orang Pandangpanjang
-===
 Anak orang sabut Andalas
+Singgah ke rumah sutan muda.
+Biar habis biarlah tandas
+Hati cinta bagaimanapun jua.
 ===
 Anak orang si layang tinggi
 Dichabut pokok dihempaskan
@@ -5652,12 +5620,12 @@ Laut yang mana menjadi daratan
 Anak raja turun menyumpet
 Dapat sa-ekor anak terkukor
 Alang-kah chantek bintang terbit
-Sebagi songket kuntum bertabor.
+Sebagi songket kuntum bertabor
 ===
 Anak raja turun menyumpet
 Dapat sa-ekor anak terkukor
 Alang-kah chantek bintang terbit
-Sebagi songket kuntum bertabor.
+Sebagi songket kuntum bertabor
 ===
 Anak raja turun menyumpet
 Diipit sa-ekor anak terkukur
@@ -5665,55 +5633,39 @@ Alang chantek bintang terbet
 Sebagi songlet kuntum bertabor
 ===
 Anak Rajah dari Daik
+Masok ka kabun mandi di kolam
+Kalu asal baja yang baik
+S'dikit di asah suda jadi tajam
 ===
 Anak Rajah kahutan Langat
 Jalan sampai di-pintu guah
 Tahan seksa serta penat
 Kerna mengidam sebijik buah
 ===
-Anak rajo mangarang surf
-Takarang di guluang lapiak
-Kok dapek aka jo budi
-Ula lalok bungo diambiak
-
-
-Anak raja mengarang surf
-Terkarang akan gulung lapik
-Kalau dapat akal dengan budi
-
-Ular tidur bunga dipetik
-===
-Anak rajo pandai ma-mulih
-===
 Anak rang baruah Koto Tinggi
 Nak singgah ka Koto Tuo
 Lah susah buruang renowali
 Diganyang buruang jolong tibo
-
-
-Anak orang baruh Koto Tinggi
-Hendak singgah ke Koto Tuo
-Telah susah burung rajawali
-
-Diganyang burung baru tiba
 ===
 Anak rang bukik Kote Tinggi
+Di-bubuik bayam di-hampehkan
+Arok di buruang tabang tinggi
+Punai di ganggam di-lapeh-kan.
 ===
 Anak rang di Bukit tinggi
 Singgah ka pasa bali cindai
 Mangko bak itu kato kami
 Kami dirintang jo gundalai
-
-
-Anak orang di Bukit tinggi
-Singgah ke pasar membeli cindai
-Mengapa begitu kata kami
-
-Kami dirintang dengan janji
 ===
 Anak rang di Gunuang Rajo
 Padi tak manjadi amek
-Awak randah
+Awak randah tampan tabao
+Nan kuniang tak pabunyi amek
+===
+Anak rang di Gunung Raja
+Padi tumbuhnya tak menjadi amat
+Awak rendah tampan terbawa
+Yang kuning tak bersuara amat
 ===
 Anak rang di kampuang baruah
 Nak lalu ka aia angek
@@ -5724,54 +5676,30 @@ Anak rang di Koto Baru
 Manembak ikan dalam lubuak
 Dek ayam bakukuak ambolah ragu
 Konon maadang kabasaran sagalo Datuak
-
-
-Anak orang di Koto Baru
-Menembak ikan dalam lubuk
-Ayam berkokok hambalah ragu
-
-Konon menghadang kebesaran segala
-===
-Anak rang di Padang Panjang
-Nak lalu ka Pandai Sikek
-Manuju ka Koto Tuo
-Kurang pandai marantang panjang
-
-Elok dikumpa mak nyo singkek
-Singkek sakadar ka paguno
 ===
 Anak rang di Padang Panjang
 Nak lalu ke Pandai Sikek
 Indak guno dirantang panjang
 Elok dikumpa nak nyo singkek
-
-
-Anak orang di Padang Panjang
-Hendak lalu ke Pandai Sikek
-Tidak guna direntang panjang
-
-Eloklah dikumpal supaya singkat
 ===
 Anak rang di Pasia Baru
 Pandai maisok kaduo-duonyo
 Gatah elok lidihnyo bare
 Kanailah sayok kadua-duonyo
-
-
+===
 Anak orang di Pasia Baru
 Pandai menghisap kedua-duanya
-Getah elok
+Getah elok lidinya baru
+Kenalah sayap kedua-duanya
 ===
 Anak rang di Pulau Pagai
 Masuak kualo Banda Padang
 Kok lapeh kumbang nan barantai
 Binaso bungo jolong kambang
-
-
+===
 Anak orang di Pulau Pagai
 Masuk kuala Banda Padang
 Jika lepas kumbang yang berantai
-
 Binasa bunga yang baru kembang
 ===
 Anak rang di Tanjuang Alai
@@ -18651,14 +18579,14 @@ Kalu tau isarat hati
 Sa-umor idop merasa senang
 ===
 Bagi mana sulasih nak panjang
+Orang bujudi di atas tana
+Bagi mana kasih nak panjang
+Tuan tak sudi saya tak lama.
 ===
 Bagi masyarakat Aceh yang sangat kita sayang
 UKM membantu dengan strategi jangkapanjang
-Latihan pascasiswazah
-===
-Bagi masyarakat Aceh yang sangat kita sayang
-UKM membantu dengan strategi jangkapanjang
-Latihan pascasiswazah
+Latihan pascasiswazah penyelidikan dan pembangunan bidang
+Meningkatkan kapasiti bagi masa masa akan datang
 ===
 Bagi meluahkan dendam kesumat
 Melahirkan perasaan dalam pertemuan
@@ -36604,11 +36532,9 @@ Sedin pelepe araq tambah
 Dendeq sedaq aten kaulenpe
 Ate seda sekat selah
 ===
-Bilang keempat puluh dua :
 Adapun adat sebenar adat
 Kepada syarak ia berdiri
 Berhimpun umat sesama umat
-
 Duduk dan tegak  tahukan diri
 ===
 Bilang kelemeq beli bubur
@@ -36617,6 +36543,9 @@ Negare ite sere mundur
 Sengaq pejabat na girang korupsi
 ===
 Bilang pinang di kayu laka
+Cina menampi di dalam perahu;
+Pak Sayang terbilang di Melaka
+Syina Tambi dijemput menjamu.
 ===
 Bilik dikemas lantai dilap
 Mahal kerusi si kayu jati
@@ -55671,7 +55600,7 @@ Besar tak boleh disangka bapa
 Cik Ungku mudik ke hulu
 Ambil kain basuh nilanya
 Kalau yang itu biarlah dulu
-Kalau yang lain
+Kalau yang lain barang bilanya
 ===
 Cik Yam duduk di pintu
 Sambil menjahit baju kurung
@@ -55688,13 +55617,8 @@ Kalau dibasuh hilang pedasnya
 Bukan berbahas mencari musuh
 Matang berbincang mencari bijaknya
 ===
-Cili kecil cili belanda
-Jatuh ke bibir sampai ke lidah;
-Tuan kecil jambangan mata
-Tetaplah iman di dalam dada.
-===
 Cili kecil cili Belanda
-Jatuh ke bibir sampai ke lidah
+Jatuh ke bibir sampai ke lidah;
 Tuan kecil jambangan mata
 Tetaplah iman di dalam dada.
 ===
@@ -55743,24 +55667,15 @@ Di dalam dulang ikan belanak;
 Syina Tambi jemput menjamu
 Pak Sayang pulang mengambil anak.
 ===
-Cina
+Cina Melayu membeli beledu
+Memakai kasut sehari-hari
+Alangkah sukarnya menanggung rindu
+Nasi dimakan serasa duri.
 ===
 Cinantuang di Bukik Putuih
 Di-tanam kacang dalam padi
 Baru ba-dantuang ombak Puruih
 Dagang sangsai di-mano kini.
-===
-Cincang air di dalam kolam
-Tangan basah air tak patah
-Umpan cinta dengan harta
-Bisa pudar bisa binasa
-
-
-Chop the lines on water at lake
-Hands get wet yet water not separated
-Buying love with heaps of money
-
-(It) can be vague or fade and die
 ===
 Cincang rebung lerengan 
 Di Kuala Tanjung Bulang
@@ -55788,28 +55703,14 @@ Petang-petang surat abang datang
 Belum membaca tunduk menangis.
 ===
 Cincang-cincang kulit di batang
+Sayang nuraca bertampok manggis
+Petang-petang surat datang
+Belum baca tunduk menangis.
 ===
 Cincang-cincang si kerabulah macang
 Buatlah ulam pucuk selasih
 Walau tinggal seribu malam
 Takkan putus hati ku kasih
-===
-Cincin akiak parmato mayang
-Aluih bak bagai tulang udang
-Rotan ditariak ka kutayo
-Ayuhai adinda sayang
-
-Kalau buliah ajuang ditompang
-Kalau tidak apo kan dayo
-
-Cincin akik permata mayang
-
-Halus bagai tulang udang
-Rotan ditarik buat ketaya
-Ayuhai adinda sayang
-Kalau boleh jong ditumpang
-
-Kalau tidak apakan daya
 ===
 Cincin ampek Hang limo
 Hang di pakan Kuraitaji
@@ -55831,18 +55732,6 @@ Tidak tamuek di kalingkiang
 Hang ka mano dicari
 Lauik bapaga bakuliliang
 ===
-Cincin banamo ganto surf
-Sasuai sajo di kalingkiang
-Bang ka mano adiak cari
-Lautan sajo bakuliliang
-
-
-Cincin bernama genta surf
-Sesuai saja di kelengkeng
-Hilang ke mana adik cari
-
-Lautan saja sekeliling
-===
 Cincin banamo ganto-sori
 Sa-suai sajo di kalingkieng
 Ilang ka-mano ka di-cari
@@ -55852,12 +55741,10 @@ Cincin banamo lipek gando
 Rantainyo duo satuangan
 Ati di dalam banyak ibo
 Tagah dek pandai mailangkan
-
-
+===
 Cincin bernama lipat ganda
 Rantainya dua setuangan
 Hati di dalam banyak hiba
-
 Hanya kerana pandai menghilangkan
 ===
 Cincin bandu permata sailan
@@ -56014,12 +55901,10 @@ Cincin perak tangkainyo perak
 Dibawo naiak ka parahu
 Aia ditampuah jan bariak
 Kawan sairiang jangan tau
-
-
+===
 Cincin perak tangkainya perak
 Dibawa naik ke perahu
 Air ditempuh jangan beriak
-
 Kawan seiring jangan tahu
 ===
 Cincin permata akik
@@ -56031,6 +55916,3 @@ Cincin permata batunya retak
 Pakaian anak Raja Muda
 Musim durian rambutan masak
 Manggis menumpang bertaruk muda
-
-
-A ring with a cracked gem
