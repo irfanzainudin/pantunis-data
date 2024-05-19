@@ -25,3 +25,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Placeholder for Pantunis database for testing insertion of new data
+db.sqlite
