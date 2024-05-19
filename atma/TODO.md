@@ -20,4 +20,17 @@
 - dgn
 - (regex pattern) ^[a-z] <!-- find uncapitalised starting letters -->
 - (regex pattern) \(.\) <!-- numbers in parentheses -->
--
+- (regex pattern) ===\n.+\n===
+- (regex pattern) ===\n.+\n.+\n===
+- (regex pattern) ===\n.+\n.+\n.+\n===
+- (regex pattern) ===\n(.+\n){5}===
+- (regex pattern) ===\n(.+\n){6}===
+- (regex pattern) ===\n(.+\n){7}===
+- (regex pattern) ===\n(.+\n){8}===
+- (regex pattern) ===\n(.+\n){9}===
+- (regex pattern) ===\n(.+\n){10}===
+- (regex pattern) ===\n(.+\n){11}===
+- (regex pattern) ===\n(.+\n){12}===
+- (regex pattern) ===\n(.+\n){13}===
+- (regex pattern) ===\n(.+\n){14}===
+- (regex pattern) ===\n(.+\n){15}===
