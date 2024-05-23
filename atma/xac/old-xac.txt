@@ -178,9 +178,6 @@ Colok dipotong dengan sekin
 <br />Sekin waja buatan Jawa;<br />Hendaklah diturut dengan yakin
 <br />Yakin di hati selamatlah nyawa.<br /><br />
 Pantun Melayu
-<br />Sekin waja buatan Jawa;<br />Hendaklah diturut dengan yakin
-<br />Yakin di hati selamatlah nyawa.<br /><br />
-Pantun Melayu
 ===
 Colok dipotong dengan sekin
 ===
@@ -250,9 +247,6 @@ Conggang-conggong kerabat batang
 <br />Terlunjuk kediri tikam mata.<br /><br />
 ===
 Contoh jas dari Selipi
-<br />Boleh ditaruh dalam kereta
-<br />Tiap malam mendapat mimpi
-<br />Itulah tanda sangat bercinta.<br /><br />
 ===
 Contoh terbilang dalam Quran
 Firaun menindas Bani Israel
@@ -788,9 +782,6 @@ Tetamu dijemput hilang ramah
 ===
 Dahan melampai ke belukar
 Ditanam oleh raja yang sakti
-<br />Permata intan dari kompeni
-<br />Hancur luluh rasanya hati
-<br />Entah-entah dengan begini.<br /><br />
 <br />Permata intan dari kompeni
 <br />Hancur luluh rasanya hati
 <br />Entah-entah dengan begini.<br /><br />
@@ -1417,14 +1408,8 @@ Dalang berasal dari Pati
 <br />Asal dapat adik seorang.<br /><br />
 ===
 Dalang bermain dengan wayang
-<br />Perawit sibuk dengan gamelan
-<br />Adik tumpahan kasih sayang
-<br />Beserta nyawa dengan badan.<br /><br />
 ===
 Dalang bernama Sudir Santosa
-<br />Sinden berasal dari Jepara
-<br />Yang penting kita berdua
-<br />Sehidup semati selamanya.<br /><br />
 <br />Sinden berasal dari Jepara
 <br />Yang penting kita berdua
 <br />Sehidup semati selamanya.<br /><br />
@@ -1437,9 +1422,6 @@ Dalima dalam kolam
 <br />Trima kan apa dagang piatu.<br /><br />
 ===
 Dalima di tunga padang
-<br />Raja blarak dari asahan
-<br />Trima la saya anak dagang
-<br />Datang dangan kain basahan.<br /><br />
 ===
 Dalimo di tangah sawah
 Antaro sasuak jo rimbo
@@ -2545,12 +2527,6 @@ Dari Bandung ke Sumedang
 <br />Terus ke Bali membeli patung
 <br />Abang memberi hamba selendang
 <br />Hamba mengirim belahan jantung.<br /><br />
-<br />Terus ke Bali membeli patung
-<br />Abang memberi hamba selendang
-<br />Hamba mengirim belahan jantung.<br /><br />
-<br />Terus ke Bali membeli patung
-<br />Abang memberi hamba selendang
-<br />Hamba mengirim belahan jantung.<br /><br />
 ===
 Dari Bandung ke Sumedang
 ===
@@ -2926,9 +2902,6 @@ Dari bukit tampaknya kapal
 <br />Pekan Kunak jauh di kuala
 <br />Retak sedikit dapat ditampal
 <br />Retak banyak baikilah semula.<br /><br />
-<br />Pekan Kunak jauh di kuala
-<br />Retak sedikit dapat ditampal
-<br />Retak banyak baikilah semula.<br /><br />
 ===
 Dari bukit tampaknya kapal
 ===
@@ -2949,9 +2922,6 @@ Telan tak lepas mati tersangkut
 ===
 Dari bulang berjalan pantai
 Ikan dikupas dengan tangan
-<br />Dipuput bayu seri medan
-<br />Intan terlepas dari tangan
-<br />Terlucut baju dari badan.<br /><br />
 <br />Dipuput bayu seri medan
 <br />Intan terlepas dari tangan
 <br />Terlucut baju dari badan.<br /><br />
@@ -3004,9 +2974,6 @@ Dari Ciamis ke Kota Padang
 <br />Siang dan malam terbayang-bayang.<br /><br />
 ===
 Dari Cilandak ke Cijantung
-<br />Ke Semarang jalan ke Pati
-<br />Adik mengirim belahan jantung
-<br />Abang membalas belahan hati.<br /><br />
 ===
 Dari Cina lalu ke Jawa
 Lalu naik pergi ke pekan
@@ -3229,9 +3196,6 @@ Dari Gerisek ke Surabaya
 Pantun Melayu
 ===
 Dari Gerisik ke Surabaya
-<br />Pagar siapa saya sesarkan
-<br />Wahai nasib apakan daya
-<br />Pada siapa saya sesalkan.<br /><br />
 ===
 Dari Gersek ke Surabaya
 <br />Singgah memetik kuntum delima
@@ -3299,9 +3263,6 @@ Dari gunung ke Kampung Silam
 <br />Akhirnya kulihat salah sendiri.<br /><br />
 ===
 Dari gunung sesudah kelam
-<br />Kayak mendarat di Karambunai
-<br />Bila ku renung sedalam-dalam
-<br />Banyak hasrat tidak tertunai.<br /><br />
 ===
 Dari Hila cabar ke mari
 Besok pagilah ia datang
@@ -3502,9 +3463,6 @@ Dari jauh kapallah datang
 <br />Rasa semangat pulang di badan.<br /><br />
 ===
 Dari jauh kapalnya datang
-<br />Syarat muatan menyan setanggi
-<br />Dari jauh abang datang
-<br />Apa maksud di dalam hati.<br /><br />
 ===
 Dari jauh kapal-nya datang
 Pasang tiang tali kemudi
@@ -4397,9 +4355,6 @@ Dari mana datangnya lintah
 <br />Dari sawah turun ke kali.<br />Dari mana datangnya cinta
 <br />Dari mata turun ke hati.<br /><br />
 Berbalas Pantun Remaja
-<br />Dari sawah turun ke kali.<br />Dari mana datangnya cinta
-<br />Dari mata turun ke hati.<br /><br />
-Berbalas Pantun Remaja
 ===
 Dari mana datangnya lintah
 ===
@@ -4439,9 +4394,6 @@ Hari mana taun mana
 Engkau masuk dalam hatiku
 ===
 Dari mana hendak ke mana
-<br />Dari Jepang ke Bandar Cina
-<br />Kalau tuan sudi bertanya
-<br />Bunga yang kembang ada yang punya.<br /><br />
 <br />Dari Jepang ke Bandar Cina
 <br />Kalau tuan sudi bertanya
 <br />Bunga yang kembang ada yang punya.<br /><br />
@@ -4734,9 +4686,6 @@ Dari Medan ke kampung Berandan
 Berbalas Pantun Remaja
 ===
 Dari Medan ke Kampung Berandan
-<br />Dicuci daging dibuat rendang
-<br />Biar hilang nyawa di badan
-<br />Asal selamat adindaku sayang.<br /><br />
 ===
 Dari Medan ke kota Berandan
 <br />Singgah lalu di Kuala Deli.<br />Biar hilang nyawa di badan
@@ -4987,9 +4936,6 @@ Dari Padang ke tangsi Curup
 <br />Dipanggil bonda tidak menyahut.<br /><br />
 ===
 Dari Padang ke Teluk Betung
-<br />Orang rantau berkirim surat
-<br />Tuan seorang tempat bergantung
-<br />Dari dunia hingga akhirat.<br /><br />
 <br />Orang rantau berkirim surat
 <br />Tuan seorang tempat bergantung
 <br />Dari dunia hingga akhirat.<br /><br />
@@ -5318,9 +5264,6 @@ Dari Perlak lalu Kelantan
 <br />Pukat 'ku labuh ikan tak dapat.<br /><br />
 ===
 Dari perlak langsong Kelantan
-<br />Mengadap raja tinggi berdaulat
-<br />Berolak ayer
- ku sangka ikan
 ===
 Dari Perleh ke Johor Bahru
 Sebelom sampai singgah di Perak
@@ -5483,9 +5426,6 @@ Kelebihan orang pantang di lihat
 Hatinya geram bukan kepalang
 ===
 Dari Rembang ke Banyuwangi
-<br />Pakai baju sutera Kerawang
-<br />Jikalau kembang asalnya wangi
-<br />Sampai layu tidak dibuang.<br /><br />
 <br />Pakai baju sutera Kerawang
 <br />Jikalau kembang asalnya wangi
 <br />Sampai layu tidak dibuang.<br /><br />
@@ -5855,9 +5795,6 @@ Dari Sembulan ke Buang Sayang
  <br />Tiada cahaya terang mencermin.<br /><br />
 ===
 Dari Senaja ke Kampung Sulad
-<br />Di Kampung Sulad hendak berjaja
-<br />Bukan bekerja dalam solat
-<br />Baik solat dalam bekerja.<br /><br />
 ===
 Dari Senaling ke Sungai Dua
 Kampung Melayu indah berseri
@@ -5965,9 +5902,6 @@ Dari si Dunsah ka si Dunsai
 <br />Dagang ba-tulak ka lauit-an.<br /><br />
 ===
 Dari si Joah ka Si Jodi
-<br />Putieh pinang anak rang 'Lunto
-<br />Kasieh ba-joak kok tak jadi
-<br />Putieh tulang tidak rang lupo.<br /><br />
 ===
 Dari si Lolak ka si Lolai
 <br />Man-dapek jalo panjang tujuah
@@ -6023,9 +5957,6 @@ Dari Sindumin ke Pulau Banggi
 <br />Entahkan ranggi entahkah cantik?<br /><br />
 ===
 Dari Singkarak ke Pitalah
-<br />Anak Serani mandikan kuda
-<br />Jika boleh pinta ke Allah
-<br />Hendaklah kita mati berdua.<br /><br />
 ===
 Dari Singkarak ke Tanjungsani
 <br />Duduk bersandar di pedati
@@ -6033,9 +5964,6 @@ Dari Singkarak ke Tanjungsani
 <br />Pisai dikandung menusuk hati.<br /><br />
 ===
 Dari Sintuk ke Kuraitaji
-<br />Singgah lalu ke negeri Kamang.<br />Jangan tuan suka berjanji
-<br />Karena janji adalah hutang.<br /><br />
-Berbalas Pantun Remaja
 <br />Singgah lalu ke negeri Kamang.<br />Jangan tuan suka berjanji
 <br />Karena janji adalah hutang.<br /><br />
 Berbalas Pantun Remaja
@@ -6093,17 +6021,8 @@ Dari Solok ke Guguk Serai
 <br />Pengobat malu di orang ramai.<br /><br />
 ===
 Dari Solok ke Gunung Talang
-<br />Di Silayo berhenti makan
-<br />Alangkah sakit kasih seorang
-<br />Bagai bertepuk sebelah tangan.<br /><br />
 ===
 Dari Solok ke Padang Panjang
-<br />Singgah lalu ke Empat tangkat
-<br />Sudahkah abang berpikir panjang
-<br />Hamba sudah beranak empat.<br /><br />
-<br />Singgah lalu ke Empat tangkat
-<br />Sudahkah abang berpikir panjang
-<br />Hamba sudah beranak empat.<br /><br />
 <br />Singgah lalu ke Empat tangkat
 <br />Sudahkah abang berpikir panjang
 <br />Hamba sudah beranak empat.<br /><br />
@@ -6305,9 +6224,6 @@ Dari teluk ke tepi perigi
 <br />Buatlah yang tinggi hendak dicapai.<br /><br />
 ===
 Dari teluk menyeberang ke pulau
-<br />Burung terkukur terbang ke pantai
-<br />Laksana kodok di timpa kemarau
-<br />Riuh berketor
 ===
 Dari teluk pergi ke pekan
 Singgah bermalam di Batu Lima
@@ -6443,9 +6359,6 @@ Dari Tomani ke ibu kota
 <br />Kerana salah tuan sendiri.<br /><br />
 ===
 Dari Tomani ke Kampung Ganda
-<br />Jauh melintas huma dan dawah
-<br />Hidup ini umpama roda
-<br />Sekejap di atas sekejap di bawah.<br /><br />
 ===
 Dari Tsunami ambil pengajaran
 Umat Islam wajib beramal soleh
@@ -6458,9 +6371,6 @@ Dari Tuaran ke Layang-Layang
 <br />Kita bertemu di dalam mimpi.<br /><br />
 ===
 Dari Tungku ke Pulau Sipadan
-<br />Langit berawan ombak berbuih
-<br />Tingkah dan laku jadi teladan
-<br />Baik acuan baiklah kuih.<br /><br />
 ===
 Dari udara cantik meluas
 <br />Ladang sawit di daerah Tawau
@@ -6533,9 +6443,6 @@ Daripada berakit
 Puisi Melayu Lama: Pantun
 ===
 Daripada buah mengkudu
-<br />Baik dikupas buah kuini
-<br />Daripada hidup dimadu
-<br />Baiklah putus semenjak kini. <br /><br />
 ===
 Daripada cempedak baiklah nangka
 <br />Daripada tidak baiklah ada.<br />
@@ -7057,9 +6964,6 @@ Datuak Majoindo rang si Tujuah
 <br />Pantun nago ma-lingka gunuang.<br /><br />
 ===
 Datuak Paduka Rajo Lelo
-<br />Ajun jasa di Si Junjuang
-<br />Antah pa bilo ka ba suo
-<br />Badan di bao untuang-untuang.<br /><br />
 ===
 Datuak Sati juru tulih Solok
 <br />Tingga di rumah Tuan Tambang
@@ -7222,9 +7126,6 @@ Daulu namo si Centeng
 <br />Kini badan mangko ta-buang.<br /><br />
 ===
 Daulu pakuih di Lolo
-<br />Kini mantari di Si Junjuang
-<br />Tidak untuang apo kan dayo
-<br />Jan di sasa pado untuang.<br /><br />
 ===
 Daulu rabab nan ba-tangkai
 <br />Kini lah kopi nan ba-buah
@@ -7242,9 +7143,6 @@ Daulu-nyo pakuih di Jambak
 <br />Iko sabab tidak ma-nyasa.<br /><br />
 ===
 Daum mempelas di dalam padi
-<br />Rumah merpati bertingkat-tingkat;<br />Amatlah belas hatiku ini
-<br />Dipangkal hati sudah terikat.<br /><br />
-Pantun Melayu
 ===
 Daun anggan jangan diulam
 Sayang ketumbar baru berbunga
@@ -7377,9 +7275,6 @@ Daun dilam batangnya manis
 <br />Makan tak enak tidur tak senang.<br /><br />
 ===
 Daun dilam di pintu raja
-<br />Bakar capa di pohon lontar
-<br />Siang dan malam teringat saja
-<br />Tiada lupa barang sebentar.<br /><br />
 ===
 Daun dilam di pintu raja
 Bakar capa di pohon lontar
@@ -7392,9 +7287,6 @@ Daun diukir bertali-tali
 <br />Sudah berjanji bertapak tangan.<br /><br />
 ===
 Daun durian jatuh tercampak
-<br />Lopak-lopak isi selasih
-<br />Tujuh tahun di lambung ombak
-<br />Tiada 'ku lupa hati yang kasih.<br /><br />
 ===
 Daun empelas dalam puan
 <br />Puyuh mengeram dalam padi
@@ -7571,9 +7463,6 @@ Daun ketaya akar terjumbai
 Berbalas Pantun Remaja
 ===
 Daun ketupat bakul baru
-<br />Kulit tercampak lautan silam;<br />Tuan dapat sahabat baru
-<br />Buang saya dalam diam.<br /><br />
-Pantun Melayu
 ===
 Daun kobis di-masak kichap
 Kalau likat champor-lah ayer
@@ -7716,9 +7605,6 @@ Daun miana di atas peti
 <br />Saya tidak mencari lain.<br /><br />
 ===
 Daun miana di dalam dulang
-<br />Ambil sedah di pohon dilam
-<br />Mari adinda mengikut pulang
-<br />Sebab sudah hampirnya malam.<br /><br />
 ===
 Daun miana di dalam dulang
 Ambil sedah di pohon dilam
@@ -7741,9 +7627,6 @@ Daun miana di muka pintu
 <br />Apa suka saya turuti.<br /><br />
 ===
 Daun miana di Pinangsia
-<br />Orang Gadut main pedati
-<br />Bagaimana nasib untungnya saya
-<br />Dari hidup baiklah mati.<br /><br />
 ===
 Daun miana di Pinangsia
 Orang Gadut main pedati
@@ -8246,9 +8129,6 @@ Daun terak di atas bukit
 Pantun Melayu
 ===
 Daun terap di atas bukit
-<br />Tempat berjemur buah pala
-<br />Harapnya saya bukan sedikit
-<br />Sebanyak rambut di kepala.<br /><br />
 ===
 Daun terap di atas bukit
 Tempat budak menjemur pala 
@@ -9311,9 +9191,6 @@ Dengar-lah Nyonya dengar-lah Chek
 Panton Dondang Sayang &amp; Nyanyian Lain-lain
 ===
 Dengar-lah Nyonya
- dengar-lah Chek
-<br />Kita bersoal chrita dulu-kala.<br />Baba Pranakan salin-kan deri koh-chek;<br />'Ow Liat Kok Chee' nama-nya chrita dulu-kala
-[Untitled]
 ===
 Dengarlah pula wasiat Nabi
 Istri yang dinilai paling baik
@@ -9520,9 +9397,6 @@ Prasan dunia kalu tak suchi
 Besok ka akir menangongan 
 ===
 Deri mekasar pergi kadeli
-<br />Anak china manimbang  madat
-<br />Bahsa tidak di jual buli
-<br />Hidop di dunia suda bugitu.<br /><br />
 <br />Anak china manimbang  madat
 <br />Bahsa tidak di jual buli
 <br />Hidop di dunia suda bugitu.<br /><br />
@@ -10006,9 +9880,6 @@ Di Bandar Sahabat kita bersua
 <br />Selagi hidup selagi mengenang.<br /><br />
 ===
 Di Bandar Tawau mencari amplang
-<br />Keropok ikan menjadi kudapan
-<br />Sudah kutinjau sudah kubilang
-<br />Kerja berpasukan tetap di depan.<br /><br />
 ===
 Di barat manusia masih tidur
 Seks bebas berlaku merata
@@ -10490,9 +10361,6 @@ Di Jalan Labuk Taman Sepilok
 <br />Hatiku gamat terasa kagum.<br /><br />
 ===
 Di jalan Mapata mencari pitis
-<br />Sesudah lelah mencari rata
-<br />Ilmu kita hanya setitis
-<br />Ilmu Allah seluruh semesta.<br /><br />
 ===
 Di Jirek tumbuh pagaran
 Di baliak batang limpato
@@ -10532,9 +10400,6 @@ Di kampung Rungus kami mengigol
  dikatakan unggul
 ===
 Di Kampung Silam tempatnya kami
-<br />Hendak menghala ke Pulau Batik
-<br />Laut dalam lagi ku selami
-<br />Inikan pula teluk yang cetek.<br /><br />
 ===
 Di kedai Yahya berjual surat
 Di kedai kami berjual sisir
@@ -10599,9 +10464,6 @@ Di Kota Belud orang berlumba
 <br />Cara berkeras akhir sekali.<br /><br />
 ===
 Di kota Kudus terkenal soto
-<br />Soto dimakan dengan kuahnya
-<br />Gadis Minang
- Mojang Priangan
 ===
 Di Koto Laweh Ampek Angkek
 Tumangguang Putiah niniak usali
@@ -10647,9 +10509,6 @@ Dalam kelas murid bersaing
 Otak ditempah badan pun sehat
 ===
 Di laut dinding papan
-<br />Di darat dinding upeh
-<br />Berkaul beranak jantan
-<br />Ke mana di suruh
 <br />Di darat dinding upeh
 <br />Berkaul beranak jantan
 <br />Ke mana di suruh
@@ -11332,12 +11191,6 @@ Di sana kota di sini kota
 <br />Tidak sama si kota Deli
 <br />Di sana muda di sini muda
 <br />Tidak sama si jantung hati.<br /><br />
-<br />Tidak sama si kota Deli
-<br />Di sana muda di sini muda
-<br />Tidak sama si jantung hati.<br /><br />
-<br />Tidak sama si kota Deli
-<br />Di sana muda di sini muda
-<br />Tidak sama si jantung hati.<br /><br />
 ===
 Di sana kota di sini kota
 ===
@@ -11436,9 +11289,6 @@ Di senggora orang nya sakit
 <br />Kami membacha hatinya senang.<br /><br />
 ===
 Di Seni bemban saya tugalkan
-<br />Anak Keling dari Melaka
-<br />Di sini dendam kekanda tinggalkan
-<br />Antara kening dengan mata.<br /><br />
 ===
 Di senja hari berhawa nyaman
 Warna mega memerah jingga
@@ -11536,9 +11386,6 @@ Di sini raja di sana raja
 <br />Adinda jua lekat di hati.<br /><br />
 ===
 Di Sipitang kita bersua
-<br />Hendak berkereta ke Sundar Bazaar
-<br />Mentang-mentang kita yang tua
-<br />Pada yang muda janganlah kasar.<br /><br />
 ===
 Di situ disingkap benar daa salah
 Di situ dicurai halal dan haramnya
@@ -11563,9 +11410,6 @@ Di Sri Sempelang makan siakap
 <br />Inikan pula ikan di air.<br /><br />
 ===
 Di sumbat-sumbat di padat-padat
-<br />Gelojoh makan babi tak cukup
-<br />Kelaku buruk kena jajat
-<br />Malu tak boleh tudung serekup.<br /><br />
 ===
 Di Sungai Dua menanam ubi
 Ambil isi bubuh di raga
@@ -11920,9 +11764,6 @@ Di teratak tua terjual tembikai
 <br />Soal utama hadiah dihargai.<br /><br />
 ===
 Di Terus Madi orang mendaki
-<br />Menyikut tekiding beramai-ramai
-<br />Menabur budi sangat dikehendaki
-<br />Tuding-menuding penghalang damai.<br /><br />
 ===
 Di Tigo Batua datuak batigo
 Datuak Rajo Malano nan partamo
@@ -12184,9 +12025,6 @@ Dian tiga pelita tiga
 Pantun Melayu
 ===
 Dian tiga
- lilin pun tiga<br />Tanglong tergantong rumah laksamana<br />Diam juga
- sabar pun juga<br />Ada umor tidak ka-mana<br /><br />
-Pantun Melayu Lama
 ===
 Dianjak pecah
  diubah pecah<br />Biarkan terletak ia di sini<br />Carilah yang lain di hulu<br />Berdestar sudah
@@ -12219,9 +12057,6 @@ Dalam tambo alah basuo
 Paham di sinan kito pardapek
 ===
 Diatur dengan duri pandan
-<br />Ikan bercampur dengan tendeman
-<br />Antara pintu dengan halaman
-<br />Di situ adik abang tinggalkan.<br /><br />
 <br />Ikan bercampur dengan tendeman
 <br />Antara pintu dengan halaman
 <br />Di situ adik abang tinggalkan.<br /><br />
@@ -12930,9 +12765,6 @@ Digali-gali pohon ketala
 <br />Rupanya adik mata duitan.<br /><br />
 ===
 Digali-gali urat pandan
-<br />Digali lalu ditimbuni
-<br />Dikaji-kaji untung badan
-<br />Dikaji lalu ditangisi.<br /><br />
 ===
 Digantiah urang baparuah
 Ditanun anak mudo-mudo
@@ -13215,9 +13047,6 @@ Dikarang hari 'lah siang
 Berbalas Pantun Remaja
 ===
 Dikarang pula dengan berjalur
-<br />Buah zaitun dari Kemboja;<br />Terang seperti cermin hablur
-<br />Patut diletak di atas meja.<br /><br />
-Pantun Melayu
 ===
 Dikarang pulak berjalur-jalur 
 Buah zaitun dari Kamboja 
@@ -13596,9 +13425,6 @@ Dinding papan ditaruh cat
 <br />Kepada tuan muda remaja.<br /><br />
 ===
 Dinding perepoh rumah Che'Alang
-<br />Pagar buluh tepi perigi
-<br />Sungguh tuan panglima garang
-<br />Mengadap musuh tak pernah lagi.<br /><br />
 ===
 Dinding rumah sudah berlumut
 Perabot pun mulai rapih
@@ -14146,9 +13972,6 @@ Disemai pula serta disiram
 Pantun Melayu
 ===
 Disembahkan kepada bendahara
-<br />Bendahara Datuk Seri Paduka;<br />Tubuh pun lepas dari sengsara
-<br />Sengsara masuk dalam neraka.<br /><br />
-Pantun Melayu
 <br />Bendahara Datuk Seri Paduka;<br />Tubuh pun lepas dari sengsara
 <br />Sengsara masuk dalam neraka.<br /><br />
 Pantun Melayu
@@ -15211,9 +15034,6 @@ Dua belas dayung ke Jambi
 <br />Putik nanas di dalam kebun;<br />Rawan belas di hati kami
 <br />Siang berpanas malam berembun.<br /><br />
 Pantun Melayu
-<br />Putik nanas di dalam kebun;<br />Rawan belas di hati kami
-<br />Siang berpanas malam berembun.<br /><br />
-Pantun Melayu
 ===
 Dua belas dayung ke Jambi
 ===
@@ -15332,9 +15152,6 @@ Dua kali mata mendalit
 Yang sekali kami raungi
 ===
 Dua kali ke Pulau Pinang
-<br />Putus tali rantai tembaga
-<br />Dua kali abang terkenang
-<br />Putus hati tampar dada<br /><br />
 <br />Putus tali rantai tembaga
 <br />Dua kali abang terkenang
 <br />Putus hati tampar dada<br /><br />
@@ -16296,9 +16113,6 @@ Dulang emas tempat makanan
 <br />Kami nak walih hanya lai.<br /><br />
 ===
 Dulang Palembang dari Jawa
-<br />Penuh sesak berisi kain
-<br />Terbang melayang rasanya nyawa
-<br />Niatku tidak pada yang lain.<br /><br />
 ===
 Dulang Palembang dari Jawa
 Penuh sesak berisi kain
@@ -16771,9 +16585,6 @@ Kami dihadang berkelahi
 Katakanlah apa sebabnya
 ===
 Elang dipanah Seri Rama
-<br />Mati dipanah pedang sakti
-<br />Mati hidup kita bersama
-<br />Begitu pinta di dalam hati.<br /><br />
 <br />Mati dipanah pedang sakti
 <br />Mati hidup kita bersama
 <br />Begitu pinta di dalam hati.<br /><br />
@@ -18352,9 +18163,6 @@ Empat puluh rotan berjongok
 Pantun Melayu
 ===
 Empat sekawan burung merpati
-<br />Panah menancap di dalam sarang
-<br />Penat saja hamba menanti
-<br />Bunga mekar disunting orang.<br /><br />
 ===
 Empat simpang Kampung Kalawi
 Jambatan panjang ke Lumbuak
@@ -18419,9 +18227,6 @@ Empat-empat buah kuini
 <br />Padahal hidup lagi susah.<br /><br />
 ===
 Empat-empat kayu dipaya
-<br />Ada sepohon batang meranti;<br />Empat-empat muda sebaya
-<br />Ada seorang kenang dihati.<br /><br />
-Pantun Melayu
 ===
 Empatnya ada berbagaian
 Sama tegak dan sama naik
@@ -18508,9 +18313,6 @@ Enak rasanya kepang bijan
 <br />Awan ditembus angin dan ribot.<br /><br />
 ===
 Enak rasanya kipang bijan
-<br />Dimasak anak orang Garut
-<br />Disangka awan jadi hujan
-<br />Awan dirembus angin ribut.<br /><br />
 ===
 Enak rasanya kipang bijan
 Dimasak anak orang Garut
@@ -18668,9 +18470,6 @@ Enci kacung muda bangsawan
 <br />Tidak kuasa menanggung rindu.<br /><br />
 ===
 Encik Abit lari ke pantai
-<br />Hendak mengambil kain baju;<br />Rakyat yang mati bertindih bangkai
-<br />Ada yang mati ada yang hidup.<br /><br />
-Pantun Melayu
 ===
 Encik adam gulung benang
 <br />Gulung benang pagi hari;<br />Duduk badan hati tak senang
@@ -18678,9 +18477,6 @@ Encik adam gulung benang
 Pantun Melayu
 ===
 Encik Ahmad menikam gamat
-<br />Sarang mak lang dipokok terung;<br />Biar lambat asal selamat
-<br />Kalau tembelang apa nak di sorong.<br /><br />
-Pantun Melayu
 <br />Sarang mak lang dipokok terung;<br />Biar lambat asal selamat
 <br />Kalau tembelang apa nak di sorong.<br /><br />
 Pantun Melayu
@@ -18705,9 +18501,6 @@ Biar lambat asal selamat
 Ke mana sesar gunung berlari
 ===
 Encik Amat tukang pedati
-<br />Pedati ditarik oleh sapi.<br />Maka saya datang kemari
-<br />Untuk mencurahkan isi hati.<br /><br />
-Berbalas Pantun Remaja
 <br />Pedati ditarik oleh sapi.<br />Maka saya datang kemari
 <br />Untuk mencurahkan isi hati.<br /><br />
 Berbalas Pantun Remaja
@@ -18808,9 +18601,6 @@ Encik hilir saya pun mudik
 Pantun Melayu
 ===
 Encik' Hussin melayur daun
-<br />Jatuh ke laut di sambar todak
-<br />Sembilan musim tujuh tahun
-<br />Air tawar kena masin tidak.<br /><br />
 ===
 Encik Isah berbaju kurong 
 Oleh membeli pasar padungan 
@@ -18833,9 +18623,6 @@ Encik' Jamal mudik ke Bentung
 <br />Ikan di gulai habis melompat.<br /><br />
 ===
 Encik Kachong orang di pekan
-<br />Sunting bunga beribu-ribu
-<br />Beri racun 'nak saya makan
-<br />Tidak kuasa menanggung rindu. <br /><br />
 ===
 Encik kacong orang di dalam
 Kain biru di hujung rakit
@@ -18978,9 +18765,6 @@ Encik' Tahir bermain congkak
 <br />Mana boleh mudik ke ulu?<br /><br />
 ===
 Encik Tangok duduk berkedai
-<br />Ia pandai berjual beli
-<br />Sudah meremuk rupanya murai
-<br />Hampir mengena umbun tali.<br /><br />
 ===
 Encik Tarodi menjadi polis
 Turun berkawat berbaju putih
@@ -18993,9 +18777,6 @@ Encik Usuh memasang lilin
 Pantun Melayu
 ===
 Encik Usuh mengganti tikar
-<br />Tetak buah di atas galah;<br />Musuh pun sudah berhenti besar
-<br />Mintakan doa kepada Allah.<br /><br />
-Pantun Melayu
 ===
 Encik Wahid pergi memburu
 Memburu bersama encik farid
@@ -19440,9 +19221,6 @@ PANTUN ADAT LANGKAT
 PANTUN ADAT LANGKAT
 ===
 Esa teluk kedua pantai
-<br />Ketiga dengan jamban di ulu
-<br />Esa elok kedua pandai
-<br />Ketiga baik bangsa penghulu.<br /><br />
 ===
 Esap rokok di tepi sempang
 Di umbus asap nya ke sini sana
@@ -19582,9 +19360,6 @@ Fikir-memikir sama lawak
 <br />Jangan dibawa ke Tanjung Jati;<br />Sindir-menyindir sesama awak
 <br />Jangan dibawa masuk ke hati.<br /><br />
 Pantun Melayu
-<br />Jangan dibawa ke Tanjung Jati;<br />Sindir-menyindir sesama awak
-<br />Jangan dibawa masuk ke hati.<br /><br />
-Pantun Melayu
 ===
 Fikir-memikir sama lawak
 ===
@@ -19677,9 +19452,6 @@ Gadang gaduang Rangkiang Luluih
 <br />Tuan tak lupuik di mato kami.<br /><br />
 ===
 Gadang gureje di Batawi
-<br />Pasa-borong ma-lingka koto
-<br />Adiek lah bulieh tampek ati
-<br />Sisieh-lah kami dagang ino.<br /><br />
 ===
 Gadang jambatan kadai gadang
 Tampek mangaia basi-basi
@@ -19887,9 +19659,6 @@ Menangis mayat di pintu kubur
 Kerana badan tidak sembahyang
 ===
 Gadis menyunting bunga rampai
-<br />Rambut perawan dijalin empat
-<br />Pinggangnya ramping tinggi semampai
-<br />Seperti adik jarang didapat.<br /><br />
 <br />Rambut perawan dijalin empat
 <br />Pinggangnya ramping tinggi semampai
 <br />Seperti adik jarang didapat.<br /><br />
@@ -20239,9 +20008,6 @@ Galah bentangur kayu di rimba
 <br />iba yang besar lepas penyakit.<br /><br />
 ===
 Galah berdiri bergenta-genta
-<br />Naik ke darat berlayar sampan
-<br />Menyerahkan diri seperti unta
-<br />Jahat dan baik bak kata tuan.<br /><br />
 ===
 Galah berdiri bergenta-genta
 Naik ke darat berjalan pantai 
@@ -20442,9 +20208,6 @@ Gandasuli emas bersepuh
 <br />Caya mata bersamalah tuan<br /><br />
 ===
 Ganggang genjor sirih kuning
-<br />Letak di majlis jamu menteri
-<br />Tuan laksana air yang hening
-<br />Tiada payah di tapis lagi.<br /><br />
 ===
 Ganja dibawa dari hulu
 <br />Elang terbang ke seberang
@@ -20818,9 +20581,6 @@ Gelang di pakai perak masam
 <br />Kerap bersin hendak demam.<br /><br />
 ===
 Gelang emas di atas peti
-<br />Ambil lampu padam pelita
-<br />Alangkah puas rasanya hati
-<br />Jika dapat bertentangan mata.<br /><br />
 ===
 Gelang emas di atas peti
 Ambil lampu padam pelita
@@ -21010,9 +20770,6 @@ Turut serta menabur bakti
 Patik ke rumah dilupa jangan
 ===
 Gendang dipukul kulitnya tipis
-<br />Rebab dipetik putri kemala.<br />Makin  ku pandang semakin manis
-<br />Sampai di hati tambah menggila.<br /><br />
-Berbalas Pantun Remaja
 <br />Rebab dipetik putri kemala.<br />Makin  ku pandang semakin manis
 <br />Sampai di hati tambah menggila.<br /><br />
 Berbalas Pantun Remaja
@@ -21328,9 +21085,6 @@ Gila si badu gila
 <br />Di gila gadis seberang.<br /><br />
 ===
 Gila sipasin gila
-<br />Digila sibuah manggis.<br />Gila si Malin gila
-<br />Digila si hitam manis<br /><br />
-Berbalas Pantun Remaja
 ===
 Gila-gila pergi ke Rembang
 Sampai di sana menukar wang
@@ -21529,9 +21283,6 @@ Gorda suda di tuntang nyata
 <br />Sudang elok paya dikatah.<br /><br />
 ===
 Goreng keledek goreng keladi
-<br />Untuk sarapan di pagi hari
-<br />Sekapur sirih mengundur diri
-<br />Lain kali bertemu kembali.<br /><br />
 ===
 Goreng keledek goreng keladi
 Untuk sarapan di pagi hari
@@ -21562,9 +21313,6 @@ Mari Kita Berpantun
 Sindiran&#039;
 ===
 Goreng pisang keladi panas
-<br />Puas memasang hatinya rimas<br />
-Mari Kita Berpantun
-Karmina Jenaka&#039;
 ===
 Goreng teri kadu sutil
 Sambil kelaq bebek angsa
@@ -21845,9 +21593,6 @@ Gula batu isi keranjang
 <br />Hanyut segenap serata pantai.<br /><br />
 ===
 Gula buchampor ayer madu
-<br />Bambu rakit sabula kiri
-<br />Disitu tumpat kita mangadu
-<br />Subab miskin ini hari.<br /><br />
 ===
 Gula cempedak dalam kuali
 Gulai nangka ada juga
@@ -22223,9 +21968,6 @@ Gunong daik buchabang tiga
 <br />Kunang sampie zaman dolu.<br /><br />
 ===
 Gunong daik gunong di bantan
-<br />ketiga dengan gunong tanda<br />Lagi dahulo permata intan
-<br />sekarang ini batu belanda.<br /><br />
-Kabar Uchapan Baru
 ===
 Gunong di laut bertentang jati
 Kota di Daik sahya pagar-kan
@@ -22437,9 +22179,6 @@ Gunung Daik bercabang tiga
 <br />Tidak lupa siang dan malam.<br /><br />
 ===
 Gunung daik ber-chabang tinggi
-<br />Pandang serta ber killing-an
-<br />Budi baik sahya ke-mari
-<br />Hati yang chinta sahya tunjok kan.<br /><br />
 ===
 Gunung Daik di Padang Bentan
 Tampak dari Bukit Setanda
@@ -22562,9 +22301,6 @@ Gunung Lingga berkarang-karang
 Pantun Melayu
 ===
 Gunung Lumaku di barat Tomani
-<br />Jarang-jarang orang dekati
-<br />Biar aku hidup begini
-<br />Daripada orang aku sakiti.<br /><br />
 ===
 Gunung Mat Cincang berlekuk-lekuk
 Nampaknya indah tetapi sunyi
@@ -22626,9 +22362,6 @@ Buah hati tinggallah tuan
 Abang pergi tidakkan lama
 ===
 Gunung Pantai tinggi merawan
-<br />Tampak dari Padang Temu
-<br />Buah hati tinggallah tuan
-<br />Ada hayat kita bertemu.<br /><br />
 <br />Tampak dari Padang Temu
 <br />Buah hati tinggallah tuan
 <br />Ada hayat kita bertemu.<br /><br />
@@ -23411,9 +23144,6 @@ Halminda raja perkasa
 <br />Cucu kepada Birma Sakti;<br />Sebarang kerja hendak periksa
 <br />Supaya tidak sesal di hati.<br /><br />
 Pantun Melayu
-<br />Cucu kepada Birma Sakti;<br />Sebarang kerja hendak periksa
-<br />Supaya tidak sesal di hati.<br /><br />
-Pantun Melayu
 ===
 Halminda raja perkasa
 ===
@@ -23722,9 +23452,6 @@ Handalanga di gudang kopi
 <br />Sabab ma-like buruang tabang.<br /><br />
 ===
 Handalanga gudang Si Layang
-<br />Ba rumah di Kampuan Jao
-<br />Baru ta-tumpang biduak oleng
-<br />Raso carai badan jo nyao.<br /><br />
 ===
 Handalanga gudang Supayang
 <br />Nan ma-nolong Tuan Panasa
@@ -23732,9 +23459,6 @@ Handalanga gudang Supayang
 <br />Kudian mangko ka ma-nyasa.<br /><br />
 ===
 Hang Jebat berburu singa
-<br />Singa ditembak orang berburu
-<br />Penatlah kumbang menunggu bunga
-<br />Bunga dipetik orang lalu.<br /><br />
 ===
 Hang Jebat cukup berani
 Menentang Raja yang zalim
@@ -24017,9 +23741,6 @@ Hanyut berian bertali rumin
 Berbalas Pantun Remaja
 ===
 Hanyut buih berdalai-dalai
-<br />Paya darat paya mentimun;<br />Adik putih duduk di balai
-<br />Ibarat air saya nak minum.<br /><br />
-Pantun Melayu
 ===
 Hanyut buluh dari Rekan
 Surat ada dibaca tidak
@@ -24117,9 +23838,6 @@ Hanyut kembang dari hulu
 <br />'dinda seorang menjadi ubat.<br /><br />
 ===
 Hanyut ketupat pagi-pagi
-<br />Ambil sabut bakarlah ikan
-<br />Jangan diumpat kekanda pergi
-<br />Minta sebut
 ===
 Hanyut ketupat pagi-pagi
 Ambil sabit cocoh ke api 
@@ -24167,9 +23885,6 @@ Terimalah kiriman anak dagang
 Penuh berisi air mata
 ===
 Hanyut perian bertali ramin
-<br />Tali dipintal orang campa
-<br />Bercerai baju dengan kain
-<br />Pada kakanda tidak 'kan lupa.<br /><br />
 <br />Tali dipintal orang campa
 <br />Bercerai baju dengan kain
 <br />Pada kakanda tidak 'kan lupa.<br /><br />
@@ -24310,9 +24025,6 @@ Hanyutlah pandan dari Jawa
 <br />Dunia akhirat tidak bercerai.<br /><br />
 ===
 Hanyutlah rakit dari hulu
-<br />Mati pelanduk ditanduk rusa
-<br />Menanggung sakit menaruh malu
-<br />Orang tidak menimbang rasa.<br /><br />
 ===
 Hanyutlah rakit dari hulu
 Mati pelanduk ditanduk rusa
@@ -24531,9 +24243,6 @@ Hari baik ke Pulau Benkawan
  naiklah tuan
 ===
 Hari beresok ke Selasa
-<br />Orang Bajur pergi ke pekan
-<br />Hari beresok ke hari raya
-<br />Benang sebuhul tidak dibelikan.<br /><br />
 ===
 Hari buruk berhenti mencari
 Hendak berbual tiada pandai
@@ -24614,9 +24323,6 @@ Hari hujan di bangsal kilang
 Pantun Melayu
 ===
 Hari hujan dibuku kayu
-<br />Mari berteduh dahan saga;<br />Hendak pesan angin lalu
-<br />Angin tak pandai bertutur kata.<br /><br />
-Pantun Melayu
 ===
 Hari hujan hati menangis
 Hendak duduk lantainya basah
@@ -24634,9 +24340,6 @@ Hari hujan kodok ber-bunyi
 <br />Idop di dunia saja bergitu.<br /><br />
 ===
 Hari hujan naik ke sampan
-<br />Dari kuala patah kemudi;<br />Mati ikan kerana umpan
-<br />Mati saya kerana budi.<br /><br />
-Pantun Melayu
 ===
 Hari hujan naik ke sampan
 Dari kuala patah kemudi
@@ -24654,9 +24357,6 @@ Mati ikan kerana umpan
 Mati saya kerana budi
 ===
 Hari hujan puyuh mendengut
-<br />Mendengut mari sepanjang jalan;<br />Air dalam kapar tak hanyut
-<br />Kononlah pula kemarau panjang.<br /><br />
-Pantun Melayu
 <br />Mendengut mari sepanjang jalan;<br />Air dalam kapar tak hanyut
 <br />Kononlah pula kemarau panjang.<br /><br />
 Pantun Melayu
@@ -25669,9 +25369,6 @@ Hari-hari masak ke taman
 <br />Sedikit tak larat di dalam hati<br /><br />
 ===
 Hari-hari masuk ke hutan
-<br />Potong rumput di tepi perigi
-<br />Asyik pungguk kepada bulan
-<br />Bulan di kawal rajawali.<br /><br />
 ===
 Hari-hari masuk ke taman
 <br />Kiri kanan pandangan bunga
@@ -26458,9 +26155,6 @@ Hempaskan buyung di laman
 <br />Adalah punai pemujuk hati.<br /><br />
 ===
 Hempaskan mentimun dendang
-<br />Kerantong beri bertali
-<br />Lepaskan dagang 'nak pulang
-<br />Kalau untung ia kembali.<br /><br />
 ===
 Hempaskan mentimun dendang
 Kerantung beri bertali
@@ -26588,9 +26282,6 @@ Hendak berpalu
 Pantun Melayu
 ===
 Hendak berpatah ke Jalan Merteri
-<br />Mencari parang di pasar tamu
-<br />Puas sudah aku mencari
-<br />Baru sekarang aku bertemu.<br /><br />
 ===
 Hendak bersih tapian dekat
 Hendak tidur bantal disorongkan
@@ -26643,9 +26334,6 @@ Hendak di petik pucuk rebung
 <br />Tiada biasa terbang ke hutan.<br /><br />
 ===
 Hendak di putek puchok kangkong
-<br />Bula dangan sambilu rotan
-<br />Tuan saumpama gulatek kampong
-<br />Tidak biasa turbang kahutan.<br /><br />
 ===
 Hendak di ruang tidak teruang
 <br />Sudah menjadi chembul gading
@@ -26751,18 +26439,12 @@ Hendak gugor
  gugorlah nangka<br />Jangan menimpa si-ranting pauh<br />Hendak tidor
  tidorlah mata<br />Jangan dikenang orang yang jauh<br /><br />
 Pantun Melayu
- gugorlah nangka<br />Jangan menimpa si-ranting pauh<br />Hendak tidor
- tidorlah mata<br />Jangan dikenang orang yang jauh<br /><br />
-Pantun Melayu
 ===
 Hendak gugor
 ===
 Hendak gugor
 ===
 Hendak guguq
- gugoqlah nyioq<br />Jangan menimpa si bunga mangga<br />Hendak undoq
- undoqlah makmoq<br />Jangan dok kacau si budak gila<br /><br />
-Serangkaian Pantun Kedah
  gugoqlah nyioq<br />Jangan menimpa si bunga mangga<br />Hendak undoq
  undoqlah makmoq<br />Jangan dok kacau si budak gila<br /><br />
 Serangkaian Pantun Kedah
@@ -26770,9 +26452,6 @@ Serangkaian Pantun Kedah
 Hendak guguq
 ===
 Hendak gugur
- gugur lah nangka
-Sejuta Pantun
-Tuan Hj. Abd Razak Hussin
  gugur lah nangka
 Sejuta Pantun
 Tuan Hj. Abd Razak Hussin
@@ -26812,9 +26491,6 @@ Hendak hilir ke Pulau Lumut
 <br />Nyawa di badan saya berikan.<br /><br />
 ===
 Hendak hilir setanjung lagi
-<br />Saya menengok Pulau Mengkuang
-<br />Minta janji setahun lagi
-<br />Kalau ada bicara orang.<br /><br />
 ===
 Hendak hujan hujanlah panas
 Senang saya menjemur padi
@@ -26828,18 +26504,12 @@ Percintaan
  hujanlah hari<br />Kelak kamek berkajang kain<br />Hendak buang-buang sekali<br />Supaya kamek mencari lain<br /><br />
 Pantun Melayu Sarawak
 Percintaan
- hujanlah hari<br />Kelak kamek berkajang kain<br />Hendak buang-buang sekali<br />Supaya kamek mencari lain<br /><br />
-Pantun Melayu Sarawak
-Percintaan
 ===
 Hendak hujan
 ===
 Hendak hujan
 ===
 Hendak hujan-hujan lah hari
-<br />Mudah kami berkajang kain;<br />Hendak bujang bujanglah diri
-<br />Mudah kami mencari lain.<br /><br />
-Pantun Melayu
 ===
 Hendak hujan-hujan sekali 
 Nyaman saya bertudong kain 
@@ -26905,9 +26575,6 @@ Hendak ke Pahang tidak ke Pahang
 <br />Biar saya lepas baik.<br /><br />
 ===
 Hendak ke pasar waktunya malam
-<br />Dari Nabawan ke Tamparuli
-<br />Gelombang besar di laut dalam
-<br />Kerana tuan saya ke mari.<br /><br />
 ===
 Hendak ke pekan jalan ke kiri
 Ikut permatang hala ke barat
@@ -27013,9 +26680,6 @@ Hendak mandi ke hulu Cempong
 <br />Kasih terdiri di bibir mata.<br /><br />
 ===
 Hendak mandi ke tepi tebing
-<br />Mandi jangan di rentikan
-<br />Nasi keris ulamnya lembing
-<br />Main jangan di rentikan.<br /><br />
 ===
 Hendak mandi mari mandi
 Satu gayong kita berdua
@@ -27048,9 +26712,6 @@ Hendak masuk pintu terkancing
 <br />Boleh disuruh menunggu tempat.<br /><br />
 ===
 Hendak mati batang banyak
-<br />Mari ceduk batir tembaga;<br />Hendak berbini hutang banyak
-<br />Tambah pula rial belanja.<br /><br />
-Pantun Melayu
 ===
 Hendak mati matilah ikan
 Jala tetap direntang lagi
@@ -27128,9 +26789,6 @@ Hendak menangkap ikan sembilang
 Pantun Melayu
 ===
 Hendak mendaki
- dakilah tambang<br />Jangan dilabuh ditengah pekan<br />Hendak memaki
- makilah abang<br />Jangan dituduh yang bukan-bukan<br /><br />
-N/A
 ===
 Hendak menebang pokok cempedak
 Asah parang di tepi tangga
@@ -27273,9 +26931,6 @@ Hendak pergi ke Bukit Putus
  <br />Hilang jarum di tapak tangan<br /><br />
 ===
 Hendak pulang beli kuini
-<br />Bawa belayar ke Indragiri
-<br />Hilang takut timbul berani
-<br />Memetik kembang berpagar duri.<br /><br />
 ===
 Hendak rawan tiada terawan
 <br />Benang sutera dalam buluh
@@ -27795,9 +27450,6 @@ Hilir berakit berkajang kain
 <br />Alang sakit mencari lain
 ===
 Hilir berderap mudik berderap
-<br />Patah galah di dalam perahu
-<br />Tuan laksana bunga dedap
-<br />Sungguh merah tidak berbau.<br /><br />
 ===
 Hilir berderap mudik berderap
 Patah galah di dalam perahu
@@ -27859,9 +27511,6 @@ Hilir dari Sungai Jambi
 <br />Burung terbang di sambar ikan.<br /><br />
 ===
 Hilir dari Sungai Sagu
-<br />Singgah menjala di bulan terang
-<br />Bagai mana jong 'nak lalu
-<br />Kalau sudah di lengkung karang?<br /><br />
 ===
 Hilir derap mudik derap
 Singgah pangkalan gaharu
@@ -27947,9 +27596,6 @@ Hilir Natal mudik Batahan
 <br />Hanyutlah bemban dengan uratnya
 <br />Haus lapar boleh ditahan
 <br />Hati rindu apa ubatnya.<br /><br />
-<br />Hanyutlah bemban dengan uratnya
-<br />Haus lapar boleh ditahan
-<br />Hati rindu apa ubatnya.<br /><br />
 ===
 Hilir Natal mudik Batahan
 ===
@@ -27964,14 +27610,8 @@ Hilir rakit batang cendawan
 <br />Bangsawan juga akan ubatnya.<br /><br />
 ===
 Hilir rakit batu tenggelam
-<br />Tuan putri berpayung kuning
-<br />Bulan sakit matahari demam
-<br />Kalau tak jadi dengan yang kuning.<br /><br />
 ===
 Hilir rakit berkajang kain
-<br />Di mana teluk singgah bertimba
-<br />Niatku tidak pada yang lain
-<br />Adinda seorang tidaklah dua.<br /><br />
 <br />Di mana teluk singgah bertimba
 <br />Niatku tidak pada yang lain
 <br />Adinda seorang tidaklah dua.<br /><br />
@@ -28237,9 +27877,6 @@ Hisap rokok tembakau China
 <br />Asapnya keluar seperti bunga
 <br />Sebagai orang kena pesona
 <br />Tak tentu arah ia bertanya.<br /><br />
-<br />Asapnya keluar seperti bunga
-<br />Sebagai orang kena pesona
-<br />Tak tentu arah ia bertanya.<br /><br />
 ===
 Hisap rokok tembakau China
 ===
@@ -28397,9 +28034,6 @@ Hitam-itam setampok manggis
  dipandang manis
 ===
 Hitam-legam seperti hantu
-<br />Belakang hadapan sama suatu;<br />Ekor kepala tiada tentu
-<br />Dihadap orang kala waktu. (papan hitam)<br /><br />
-Pantun Melayu
 ===
 Hitung hitung jari sepuluh
 Tapak tangan dua yang kembar
@@ -28417,9 +28051,6 @@ Hiu beli belanak beli
 <br />Orang di kampung benci pula.<br /><br />
 ===
 Hiyu di Pulau Inderagiri
-<br />Punggur pinang rumah Tuk Alu;<br />Mati bulur dia sendiri
-<br />Tiada keniang memakan sagu.<br /><br />
-Pantun Melayu
 ===
 Hodong do pahu
 Holi-holi sanghalia
@@ -28467,9 +28098,6 @@ Hormat
 HA Mohd Ibrahim
 Singapura 20 Mei 1926
 ===
-HA Mohd Ibrahim
-Singapura 20 Mei 1926
-===
 ===
 Hormat
 ===
@@ -28489,9 +28117,6 @@ Apa guna rupa-nya chantek
 Jikalau tidak dengan budi-nya
 ===
 Hotel Perkasa di hujung kota
-<br />Bandar keningau jauh ke tengah
-<br />Kerana kuasa terkumpul harta
-<br />Tak diingau dan ibadah terlengah.<br /><br />
 <br />Bandar keningau jauh ke tengah
 <br />Kerana kuasa terkumpul harta
 <br />Tak diingau dan ibadah terlengah.<br /><br />
@@ -28679,9 +28304,6 @@ Hujan lebat gunung api
 Pantun Melayu
 ===
 Hujan lebat gunung Bani
-<br />Hujan pula pagar batu;<br />Marah sungguh adik di sini
-<br />Abang lepas ke negeri satu.<br /><br />
-Pantun Melayu
 ===
 Hujan lebat guruh mendayu
 Hari petang bertambah senja
@@ -28794,9 +28416,6 @@ Bedaun emas berbunga intan
 Bolehkah tidak disolek kamek
 ===
 Hujan panas kemarau embun
-<br />Keluar ke padang menjemur padi
-<br />Tuan umpama kunang-kunang sekebun
-<br />Sebagai shamsu bersinar pagi.<br /><br />
 ===
 Hujan panas kemarau embun
 Keluar ke padang menjemur padi
@@ -29804,9 +29423,6 @@ Ikan aya
  ikan mudin<br />Ikan jelawat
  ikan siluk<br />Masa kaya sebelum miskin<br />Masa rehat sebelum sibuk<br /><br />
 Himpunan Pantun Melayu Pak Zek
- ikan mudin<br />Ikan jelawat
- ikan siluk<br />Masa kaya sebelum miskin<br />Masa rehat sebelum sibuk<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan aya
 ===
@@ -29867,9 +29483,6 @@ Ikan banamo Sutan Deman
 <br />Kironyo ma racun ati.<br /><br />
 ===
 Ikan ba-namo Sutan Deman
-<br />Jauah panggang-nyo dari api
-<br />Di-karang surek ka pa-men-an
-<br />Kiro-nyo ma racun ati.<br /><br />
 ===
 Ikan ba-nao tumbuak-tabieng
 <br />Sia-koh garam ma-antak-kan
@@ -29967,9 +29580,6 @@ Ikan Belanak Dimasak chukka
 Kabar Uchapan Baru
 ===
 Ikan belanak hilir berenang
-<br />Burung dara membuat sarang
-<br />Makan tak enak tidur tak senang
-<br />Hanya teringat 'dinda seorang.<br /><br />
 ===
 Ikan belanak hilir berenang
 Burung dara membuat sarang
@@ -30074,9 +29684,6 @@ Ikan bermain di dalam tebat
 <br />ikan dimakan burung belibis.<br />Niat hati menulis surat
 <br />Kalam ada tintanya habis.<br /><br />
 Berbalas Pantun Remaja
-<br />ikan dimakan burung belibis.<br />Niat hati menulis surat
-<br />Kalam ada tintanya habis.<br /><br />
-Berbalas Pantun Remaja
 ===
 Ikan bermain di dalam tebat
 ===
@@ -30156,9 +29763,6 @@ Ikan bonang
  tuk dan pupu<br /><br />
 ===
 Ikan bujuk di pulau rumput
-<br />Daun selasih dipunjut kain;<br />Saya pujuk dia tak ikut
-<br />Dia berkasih ditempat lain.<br /><br />
-Pantun Melayu
 ===
 Ikan buluh ikan kaci
 Ikan pandan
@@ -30184,9 +29788,6 @@ Ikan cencaru
 Himpunan Pantun Melayu Pak Zek
 ===
 Ikan cini
- ikan tenggalan<br />Ikan kepar
- ikan toman<br />Perkara ini jika berterusan<br />Tentulah sukar mendapat aman<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan cucut mandi di laut
 Ombak-ombak tergoyang buntut
@@ -30398,9 +29999,6 @@ Ikan gelama
 Himpunan Pantun Melayu Pak Zek
 ===
 Ikan gerami banyak anaknya
-<br />Anak Cina beli penganan
-<br />Cempaka putih kebun Serani
-<br />Batang kelapa buah padinya
 ===
 Ikan goreng tolong panaskan
 Sudah panas suguh hidangkan
@@ -30495,14 +30093,8 @@ Ikan jelawat
 Himpunan Pantun Melayu Pak Zek
 ===
 Ikan jemedi
- ikan yu bodoh<br />Ikan aya
- ikan pari susun<br />Untuk dijadikan contoh<br />Diterakan dua rangkap pantun<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan juara
-Menyampuk; menyibuk
-Orang yang suka menyampuk percakapan orang lain.
-<p><a href="/collections/show/4">Peribahasa Melayu</a></p>
 Menyampuk; menyibuk
 Orang yang suka menyampuk percakapan orang lain.
 <p><a href="/collections/show/4">Peribahasa Melayu</a></p>
@@ -30510,9 +30102,6 @@ Orang yang suka menyampuk percakapan orang lain.
 Ikan juara
 ===
 Ikan kaci
- ikan sembilang<br />Ikan kacang
- ikan baji<br />Bila mati semuanya hilang<br />Apa yang dirancang tak guna lagi<br /><br />
-Himpunan Pantun Melayu Pak Zek
  ikan sembilang<br />Ikan kacang
  ikan baji<br />Bila mati semuanya hilang<br />Apa yang dirancang tak guna lagi<br /><br />
 Himpunan Pantun Melayu Pak Zek
@@ -30687,9 +30276,6 @@ Ikan kepiat mudik ke hulu
 <br />Minta perhamba kepada tuan.<br /><br />
 ===
 Ikan kepiat
- ikan kekaring<br />Ikan malung
- ikan kurau<br />Pakat memakat
- runding merunding<br />Tolong menolong
 ===
 Ikan kerai tubuhnya kuning
 Lembing dia taran kemuning
@@ -30702,9 +30288,6 @@ Nafsu serakah tidak terkawal
 Sia-sia ibadat si fasik
 ===
 Ikan kerapu
- ikan tetuka<br />Ikan raya
- ikan lelumba<br />Dengan adanya ibu dan bapa<br />Begitu juga lahirnya mereka<br /><br />
-Himpunan Pantun Melayu Pak Zek
  ikan tetuka<br />Ikan raya
  ikan lelumba<br />Dengan adanya ibu dan bapa<br />Begitu juga lahirnya mereka<br /><br />
 Himpunan Pantun Melayu Pak Zek
@@ -30767,9 +30350,6 @@ Ikan lalang
 Himpunan Pantun Melayu Pak Zek
 ===
 Ikan lelemah
- ikan tamban<br />Ikan demuduk
- ikan kerisi<br />Mengais tanah mencari makan<br />Penuh kemuluk baharu berhenti<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan lembat ikan belukang
 Ikan di simpan di dalam raga
@@ -30782,9 +30362,6 @@ Ikan lenga
 Himpunan Pantun Melayu Pak Zek
 ===
 Ikan mabuk di Kali Mati
-<br />Ambil panah dengan bangkainya
-<br />Saya dengar adinda mati
-<br />Kalau mati mana bangkainya.<br /><br />
 ===
 Ikan mas di dalam ayer
 <br />Suka  ma-main di sungei gua
@@ -31050,9 +30627,6 @@ Ikan pelata
  ikan selayang<br />Ikan kaci
  ikan alu-alu<br />Yang kita panggil moyang<br />Yang mesti di ambil tahu<br /><br />
 Himpunan Pantun Melayu Pak Zek
- ikan selayang<br />Ikan kaci
- ikan alu-alu<br />Yang kita panggil moyang<br />Yang mesti di ambil tahu<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan pelata
 ===
@@ -31128,9 +30702,6 @@ Ikan rambai
 ikan memparang<br />Ikan raya
  ikan tetuka<br />Seramai berempat orang<br />Mereka juga beribu bapa<br /><br />
 Himpunan Pantun Melayu Pak Zek
-ikan memparang<br />Ikan raya
- ikan tetuka<br />Seramai berempat orang<br />Mereka juga beribu bapa<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan rambai
 ===
@@ -31145,9 +30716,6 @@ Ikan raya
  ikan tetuka<br />Ikan rambai
  ikan memparang<br />Mereka juga beribu bapa<br />Seramai delapan orang<br /><br />
 Himpunan Pantun Melayu Pak Zek
- ikan tetuka<br />Ikan rambai
- ikan memparang<br />Mereka juga beribu bapa<br />Seramai delapan orang<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan raya
 ===
@@ -31159,9 +30727,6 @@ Ikan sagai
 Himpunan Pantun Melayu Pak Zek
 ===
 Ikan sandak
- ikan ketambak<br />Ikan kepayat
- ikan kering<br />Racik meracik
- cebak mencebak<br />Jerat menjerat
 ===
 Ikan sebakul dibuat kenduri
 Tamu datang penuh balai
@@ -31189,9 +30754,6 @@ Ikan selar
  belat membelat<br />Tuar menuar
 ===
 Ikan selat
- ikan sumpit<br />Ikan raya
- ikan mudin<br />Masa sihat sebelum sakit<br />Masa kaya sebelum miskin<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan selayang disangka senangin
 Tenggiri batang di mata joran
@@ -31204,9 +30766,6 @@ Dulu sayang anak diriba
 Kini diserah pada pembantu
 ===
 Ikan selayang
- ikan pari susun<br />Ikan pelata
- ikan aya<br />Sebagaimana yang disusun<br />Masa muda sebelum tua<br /><br />
-Himpunan Pantun Melayu Pak Zek
  ikan pari susun<br />Ikan pelata
  ikan aya<br />Sebagaimana yang disusun<br />Masa muda sebelum tua<br /><br />
 Himpunan Pantun Melayu Pak Zek
@@ -31392,9 +30951,6 @@ Di da!am niat dari dahulu
 Minta perhamba kepadamu tuan
 ===
 Ikan sepat mudik ke hulu
-<br />Lumba-lumba mudik sekawan
-<br />Di dalam hati niat dari dahulu
-<br />Minta perhamba padamu tuan.<br /><br />
 <br />Lumba-lumba mudik sekawan
 <br />Di dalam hati niat dari dahulu
 <br />Minta perhamba padamu tuan.<br /><br />
@@ -31705,9 +31261,6 @@ Ikan terubuk
  indik mengindik<br />Tampi menampi
 ===
 Ikan tetuka
- ikan aya<br />Ikan alu-alu
- ikan raya<br />Begitu juga dengan bahasa<br />Salah satu seni budaya<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan tilan
  ikan belida<br />Ikan ubi
@@ -31723,9 +31276,6 @@ Ikan timun
  ikan layaran<br />Ikan puput
  ikan betutu<br />Serangkap pantun boleh menjelaskan<br />Sesuatu maksud yang tertentu<br /><br />
 Himpunan Pantun Melayu Pak Zek
- ikan layaran<br />Ikan puput
- ikan betutu<br />Serangkap pantun boleh menjelaskan<br />Sesuatu maksud yang tertentu<br /><br />
-Himpunan Pantun Melayu Pak Zek
 ===
 Ikan timun
 ===
@@ -31735,9 +31285,6 @@ Ikan titir
 Himpunan Pantun Melayu Pak Zek
 ===
 Ikan todak beranak todak
-<br />Ikan tenggiri mati tertimba
-<br />Kabar tidak berita tidak
-<br />Kanda 'lah lupa kepada saya.<br /><br />
 <br />Ikan tenggiri mati tertimba
 <br />Kabar tidak berita tidak
 <br />Kanda 'lah lupa kepada saya.<br /><br />
@@ -31775,9 +31322,6 @@ Ikan todak menodak-nodak
 <br />Menodak sampai ke gunung sitoli.<br />Dipulangi tidak dicerai tidak
 <br />Hamba digantung tidak bertali.<br /><br />
 Berbalas Pantun Remaja
-<br />Menodak sampai ke gunung sitoli.<br />Dipulangi tidak dicerai tidak
-<br />Hamba digantung tidak bertali.<br /><br />
-Berbalas Pantun Remaja
 ===
 Ikan todak menodak-nodak
 ===
@@ -31787,9 +31331,6 @@ Bersandinglah Uda dengan Si Dara
 Bagai bulan dipagari bintang
 ===
 Ikan todak
- ikan tenggiri<br />Ikan lidah
- ikan kerisi<br />Jika tidak kita yang rugi<br />Hingga berbangga sesama sendiri<br /><br />
-Himpunan Pantun Melayu Pak Zek
  ikan tenggiri<br />Ikan lidah
  ikan kerisi<br />Jika tidak kita yang rugi<br />Hingga berbangga sesama sendiri<br /><br />
 Himpunan Pantun Melayu Pak Zek
@@ -33228,9 +32769,6 @@ Indah balai raja Belanda
 <br />Raja semayam disinggahsana;<br />Jikalau sungguh kata adinda
 <br />Bolehlah kekanda datang ke sana.<br /><br />
 Pantun Melayu
-<br />Raja semayam disinggahsana;<br />Jikalau sungguh kata adinda
-<br />Bolehlah kekanda datang ke sana.<br /><br />
-Pantun Melayu
 ===
 Indah balai raja Belanda
 ===
@@ -33718,9 +33256,6 @@ Inderagiri pasir yang lumat
 <br />Bagitu saya kasihkan tuan.<br /><br />
 ===
 Inderagiri pasirnya lumat
-<br />Kerang bercampur bersama lokan;<br />Sebagai Nabi kasihkan umat
-<br />Begitulah saya kasihkan tuan.<br /><br />
-Pantun Melayu
 ===
 Inderagiri pasirnya lumat
 Karang bercampur dengan lokan
@@ -33833,9 +33368,6 @@ Indu begaut nurun belanda
 <br />Salambar dibai kena sida nyambut pala.<br /><br />
 ===
 Indu bejako nanya ka rita
-<br />Nanya ka pengerai samoa bala.<br />Sida nyaut nadai belepa
-<br />Madah ka gerai nadai apa-apa.<br /><br />
-Pantun Sarawak
 ===
 Indu di rumah nimbal enggau setawak.
 Dulang dibai lalu dibatak
@@ -34000,9 +33532,6 @@ Pantun Melayu
 Umum
 ===
 Inggeris mengerat kuku
-<br />Dikerat dengan pisau raut
-<br />Perut betung tua-tuanya
-<br />Elok negeri keempat suku
 ===
 Inggeris mengerat kuku
 Dikerat dengan pisau raut
@@ -34336,9 +33865,6 @@ Is de buffel alleen
  dan loopt het vaak op onenigheid uit)<br /><br />
 ===
 Isa Romtie penulis muda
-<br />Anak Kokos banyak berbakat
-<br />Harus bersimpati sesama kita
-<br />Bersifat rakus tidaklah berkat.<br /><br />
 ===
 Isap rokok mengepul asap
 Dji Sam Soe dan Gudang Garam
@@ -34543,9 +34069,6 @@ Istana negeri di atas bukit
 <br />Turun-temurun di kenang juga.<br /><br />
 ===
 Istana Negeri di Bukit Bendera
-<br />Bukit Bendera di tengah kota
-<br />Wajah isteri sering tertera
-<br />Sering tertera terbayang di mata.<br /><br />
 ===
 Istana Ratu Mala Wangsa
 Tempat menaruh segala pakaian
@@ -34606,9 +34129,6 @@ Itam itam satampok manggis
 <br />Puteh kuning apa guna nya.<br /><br />
 ===
 Itam itam tampok nya mangis
-<br />Isi mari dalam dulang
-<br />Surat-an kita sudah habis
-<br />Gonggong burong bawak terbang.<br /><br />
 ===
 Itam-itam tampuak manggih
 Kamuniang gugua bungonyo
@@ -34678,9 +34198,6 @@ Itik belibis di lautan China
 <br />Sebagai jahitan sulaman China.<br /><br />
 ===
 Itik berenang di tengah sawah
-<br />Memakan akar batang padi
-<br />Menaya nama serta rumah
-<br />Apa maksud di dalam hati.<br /><br />
 ===
 Itik berenang menepi nepi
 Tiba ke tepi menyusur pantai
@@ -34753,9 +34270,6 @@ Itik serati itik manila
 <br />Konon pula bercerai kasih.<br /><br />
 ===
 Itik seratu itik manila
-<br />Engkau muda pulang berkuda
-<br />Bercerai main lagi menggila
-<br />Konon pula bercerai cinta.<br /><br />
 ===
 Itik tak sudu
 Ayam tak patuk
@@ -34964,9 +34478,6 @@ Iya sebenarnya orang Lahat
 Berbalas Pantun Remaja
 ===
 Iya solah
- sengaq mulena solah<br />Ndeqna mule kame siq lain<br />Mun sekolah pikirang sekolah<br />Endaq bae pikirang siq lain<br /><br />
-Pantun Sasak
-Agama
 ===
 Iyam-iyam pemagar lambu
 Lambu tumbuh meranjang-ranjang
@@ -35039,9 +34550,6 @@ Jadi kasia jo kiai Matuang
 <br />Asaleh samo di bana-kan.<br /><br />
 ===
 Jadi pakuih di Si Junjuang
-<br />Tiok kamih mam-bali kopi
-<br />Pantun nago ma-lingka gunuang
-<br />Dandam nan tidak ta tahan-i.<br /><br />
 ===
 Jadi pakuih Rangkiang Luluih
 <br />Malin Marajo rang gala-kan
@@ -35049,9 +34557,6 @@ Jadi pakuih Rangkiang Luluih
 <br />Kampung alaman rang tingga-kan.<br /><br />
 ===
 Jadi rajo di Sungai Kambuik
-<br />Rajo Putieh rang gala-kan
-<br />Untuang buruak jan di sabuik
-<br />Barang suatu rang sarah-kan.<br /><br />
 ===
 Jadi sudah mengambil baik
 Pada gununglah ia naik
@@ -35755,9 +35260,6 @@ Berbalas Pantun Remaja
 <br />Banyak gedung berbaris-baris.<br />Biar mati di ujung keris
 <br />Asal dapat si hitam manis.<br /><br />
 Berbalas Pantun Remaja
-<br />Banyak gedung berbaris-baris.<br />Biar mati di ujung keris
-<br />Asal dapat si hitam manis.<br /><br />
-Berbalas Pantun Remaja
 ===
 Jalan-jalan ke kota Paris
 ===
@@ -35832,9 +35334,6 @@ Jalindar A.R menggesek biola
 <br />Tidak terisi sebenarnya bahtera.<br /><br />
 ===
 Jalo kapeh karuntuang suto
-<br />Karateh sayok layang-layang
-<br />Tolan lapeh sayo-pun suko
-<br />Cari-kan untuang surang-surang.<br /><br />
 ===
 Jalu bitu bing
 Songsang tali arus
@@ -35925,9 +35424,6 @@ Jambak di-baliek jambu erang
 <br />Birieng ba-tamu jo kinantan. <br /><br />
 ===
 Jamban di hulu di pukol ribot
-<br />Bulumut turandam batang padi
-<br />Zaman dulu jangan di subot
-<br />Remok rudam di dalam ati.<br /><br />
 ===
 Jambangan di lepau aneka hiasan
 Warna terserlah indahnya panggung
@@ -35987,9 +35483,6 @@ Jambu air jambu Semarang
 <br />Ada jodoh tiada urung.<br /><br />
 ===
 Jambu apa salak
- nek aku melok entuk gak<br />Abang-abang gendera landa
- ana sing ijo kok milih sing putih<br />Bunjang maneh ora ngluyura
- sing duwe bojo ora tau mulih<br />
 ===
 Jambu ayer di-makan lotong
 Jatoh biji-nya di-hutam rimba
@@ -36022,9 +35515,6 @@ Jambu hijau dipatuk burung
 <br />Orang lain jangan peduli.<br /><br />
 ===
 Jambu ijau mari di jolok
-<br />Jatoh ka tanah habis merka
-<br />Berjumpa kaseh terlampon elok
-<br />Sebagi berjumpa pintu shorga.<br /><br />
 ===
 Jambu ijau mari di jolok
 Jatoh ka tanah habis mereka
@@ -36122,9 +35612,6 @@ Jamu beli dari Semarang
 <br />Hati di dalam bagai digaru.<br /><br />
 ===
 Jamu ini obat kuat
-<br />Rajang kunyit dibelah-belah
-<br />Pegang janji erat-erat
- <br />Ingkar janji dikutuk Allah.<br /><br />
 <br />Rajang kunyit dibelah-belah
 <br />Pegang janji erat-erat
  <br />Ingkar janji dikutuk Allah.<br /><br />
@@ -36323,9 +35810,6 @@ Jangan di tarek jangan di paksa
 <br />Tidak orang s'macham ku ini.<br /><br />
 ===
 Jangan di tebang gelanggang itu
-<br />Pucuknya ada berjurai-jurai
-<br />Jangan dikenang yang hilang itu
-<br />Sudah jauh di gonggong murai.<br /><br />
 ===
 Jangan di tentang pulau di Siam
 <br />Telur sebiji di celah batu
@@ -36333,9 +35817,6 @@ Jangan di tentang pulau di Siam
 <br />Ia bertelur beribu-ribu.<br /><br />
 ===
 Jangan di tenyeh gelemayar
-<br />Kalau malam bersinar-sinar
-<br />Air laut meloncat nampak penar
-<br />Ikan berlari terketar-ketar.<br /><br />
 ===
 Jangan diangkut antan ke seberang
 Telungkup penampi di lendan galah
@@ -36383,9 +35864,6 @@ Jangan dibuang kain bekas
 <br />Alangkah senang hati kami.<br /><br />
 ===
 Jangan dibuka pintu lukah
-<br />Jika dibuka ikan meluru;<br />Jangan suka mencari salah
-<br />Salah kita baiki dahulu.<br /><br />
-Pantun Melayu
 ===
 Jangan dibuka pintu lukah
 Ikan keli cepat lari
@@ -36413,9 +35891,6 @@ Jangan dicucut minum kilang
 <br />Dituntut jangan ditangisi.<br /><br />
 ===
 Jangan diharap burung terbang
-<br />Tinggi di awan cenderawasih.<br />Wahai adik maafkan abang
-<br />Karena abang terlalu kasih.<br /><br />
-Berbalas Pantun Remaja
 ===
 Jangan diharap jagung kerbang
 Entah berbuah entahkan tidak
@@ -36852,9 +36327,6 @@ Jangan lilit kepala naga
 Pantun Melayu
 ===
 Jangan lurut padi muda
-<br />Pecah batang
- kena tangan
-<br />Jangan diturut hati muda
 ===
 Jangan main judi
 Tak ada sapa kaya
@@ -37538,9 +37010,6 @@ Jan-lah padi di-gumpok-kan
 <br />Kok lupa antaro lalok.<br /><br />
 ===
 Jantan bertina ber-kawan kawan
-<br />Ayam s'lasay bulu nya sutra
-<br />Tuan laksana pungula awan
-<br />Chindra Wasay burong Day'wata.<br /><br />
 ===
 Jantan oghang ulu
 Betina oghang hiliaq
@@ -37616,9 +37085,6 @@ Jarak nan tumbuh di tepi serambi
 Pantun Melayu
 ===
 Jarak nan tumbuh tepi serambi
-<br />Pohon kerekot bunganya sama
-<br />Itulah perbuatan yang dibenci nabi
-<br />Petuah diikut segala ulama.<br /><br />
 ===
 Jarak tumbuh di tepi serambi 
 Pohon kerekut bunganya sama 
@@ -37767,9 +37233,6 @@ Jasni Matlani orang kreatif
 <br />Tidaklah muflis
 ===
 Jasni Yakub menghafaz mantera
-<br />Untuk diucapkan di Pantai Bundusan
-<br />Jika taksub akan si dara
-<br />Alamat tak makan sampai pengsan.<br /><br />
 ===
 Jati ditabur dengan selasih 
 Diitanam jarak sama tinggi 
@@ -37829,9 +37292,6 @@ Dalam lahir ada-lah bathin
 Dalam bathin berisi  pula
 ===
 Jatuah mumbang jatuah kalapo
-<br />Jatuah-lah mumbang niua tinggi
-<br />Tuan linjuang kami capo
-<br />Dimano bulieh samo tinggi.<br /><br />
 <br />Jatuah-lah mumbang niua tinggi
 <br />Tuan linjuang kami capo
 <br />Dimano bulieh samo tinggi.<br /><br />
@@ -38476,9 +37936,6 @@ Jelutong getahnya putih
 Pantun Melayu
 ===
 Jelutung kayu di rimba
-<br />Mati di timpa kayu kelat
-<br />Sudah untung kita berdua
-<br />Bagai ikan di dalam belat.<br /><br />
 ===
 Jelutung kayu di rimba
 Mati ditimpa kayu kelat
@@ -38783,9 +38240,6 @@ Jernih airnya sungai tenang
 <br />Mandian anak Bukit Tinggi.<br />Tuan kandung terdengar senang
 <br />Bawalah tumpang badan kami.<br /><br />
 Berbalas Pantun Remaja
-<br />Mandian anak Bukit Tinggi.<br />Tuan kandung terdengar senang
-<br />Bawalah tumpang badan kami.<br /><br />
-Berbalas Pantun Remaja
 ===
 Jernih airnya sungai tenang
 ===
@@ -39071,9 +38525,6 @@ Jika berkunjung ke Kampung Pengalat
 <br />Banyak bersabar dukanya sedikit.<br /><br />
 ===
 Jika berpindah ke Wisma Perkasa
-<br />Bukit Bendera dalam pandangan
-<br />Jika sudah bergelar dewasa
-<br />Sanak saudara dilupakan jangan.<br /><br />
 ===
 Jika dahulu ada musibah
 Ucapan duka cita sahabat dan kawan
@@ -39278,9 +38729,6 @@ Jika ke kota di Jalan Asmara
 <br />Jaga- jaga kesihatan diri.<br /><br />
 ===
 Jika ke Semporna singgah di gua
-<br />Gua Gumantong belok ke kiri
-<br />Bukan kerana ajaran yang tua
-<br />Tapi bergantung pada diri sendiri.<br /><br />
 ===
 Jika ku jalan sepanjang kali
 Sudah ku lihat pulau Melaka
@@ -39333,9 +38781,6 @@ Jika melawat ke Semporna
 <br />Ke kanan tidak ke kiri pun tidak.<br /><br />
 ===
 Jika mendapat si burung banda
-<br />Burung pipit jangan dilepaskan.<br />Kasih tuan genggam-genggam bara
-<br />Terasa panas dilepaskan.<br /><br />
-Berbalas Pantun Remaja
 ===
 Jika menyukat tidak pandai
 Ada penuh ada yang tidak
@@ -39478,9 +38923,6 @@ Jika roboh kota batu
 <br />Minta segerakan barang sedikit.<br /><br />
 ===
 Jika roboh kota Melaka
-<br />Papan di Jawa saya perikan
-<br />Jika sungguh bagai dikata
-<br />Badan dan nyawa saya berikan.<br /><br />
 <br />Papan di Jawa saya perikan
 <br />Jika sungguh bagai dikata
 <br />Badan dan nyawa saya berikan.<br /><br />
@@ -39628,9 +39070,6 @@ Jika terbang
 <br />Jika kering
 ===
 Jika terjumpa ular tedung
-<br />Carilah kayu
- buluh pemukul;<br />Berani buat beranilah tanggung
-<br />Tangan menjinjing bahu memikul.<br /><br />
 ===
 Jika tiada karena bulan 
 Masakan bintang timur tinggi 
@@ -39638,9 +39077,6 @@ Jika tiada karena tuan
 Masakan abang datang kemari
 ===
 Jika tiada kerana bulan
-<br />Masakan bintang timur tinggi
-<br />Jika tidak kerana tuan
-<br />Masakan kami datang ke mari.<br /><br />
 <br />Masakan bintang timur tinggi
 <br />Jika tidak kerana tuan
 <br />Masakan kami datang ke mari.<br /><br />
@@ -39843,9 +39279,6 @@ Jika tuan pergi ke Jempul
 Pantun Melayu
 ===
 Jika tuan pergi ke ladang
-<br />Usah lupa mengambil sayur
- <br />bawalah pulang hawa ujungnya.<br />Jika tuan benar-benar sayang
- <br /><br />Tumpangkan hamba di dalam hati
 ===
 Jika tuan pergi ke Pantai
 <br />Telur itik golek di lantai
@@ -39908,9 +39341,6 @@ Jikalau ada anak mejangan
 <br />Kalau suka tentu menjadi.<br /><br />
 ===
 Jikalau ada anak menjangan
-<br />Boleh ditambat di batang padi
-<br />Jikalau sepuluh melarang jangan
-<br />Kalau suka tentu menjadi.<br /><br />
 ===
 Jikalau ada daun miana
 <br />Tanam setangkai di tanah lama
@@ -39933,9 +39363,6 @@ Jikalau ada selasih muda
 Pantun Melayu
 ===
 Jikalau ada si kembang botan
-<br />Tumbuh sepohon dalam kota
-<br />Siang dan malam jadi sebulan
-<br />Adinda seorang hanya tercinta.<br /><br />
 ===
 Jikalau ada si kembang botan
 Tumbuh sepohon dalam kota
@@ -40048,9 +39475,6 @@ Jikalau 'ku lurut padiku ini
 <br />Jikalau 'ku turut hatiku ini
 ===
 Jikalau kulurut padiku ini
-<br />Belah cawan dengan kakinya
-<br />Jika turut hatiku ini
-<br />Badanku tuan apa jadinya.<br /><br />
 ===
 Jikalau kulurut padiku ini
 Belah cawan dengan kakinya
@@ -40158,9 +39582,6 @@ Jikalau tidak kerana bulan
 Pantun Melayu
 ===
 Jikalau tuan hendak ke Jambi
-<br />Ambil Che' Tabir jurubatunya
-<br />Jikalau tuan hendakkan kami
-<br />Bakarlah air ambil abunya.<br /><br />
 ===
 Jikalau tuan hendak ke Jambi
 Ambil Cik Tahir jurubatunya
@@ -40198,9 +39619,6 @@ Jikalau tuan mencari buah
 <br />Saya pun menjadi badan<br /><br />
 ===
 Jikalau tuan menchari bua
-<br />Saya pun menchari pandan
-<br />Jikalau Kasim menjadi nyawa
-<br />Saya pun menjadi badan.<br /><br />
 <br />Saya pun menchari pandan
 <br />Jikalau Kasim menjadi nyawa
 <br />Saya pun menjadi badan.<br /><br />
@@ -41193,9 +40611,6 @@ Jurok ramania di buyong kumbang
 <br />Mau la saya purhambakan diri.<br /><br />
 ===
 Juru tulih jo kiai Matuang
-<br />Ba rumah di Kampuang Jao
-<br />Baru ta kana bundo kanduang
-<br />Raso badan carai jo nyao.<br /><br />
 ===
 Juru tulih kantua Suliki
 <br />Jadi jasa dalam Supayang
@@ -41232,9 +40647,6 @@ Jurus air jangan meleleh
 <br />Yang mana terlintas semua di beli.<br /><br />
 ===
 Juru-tulih di Bukik tinggi
-<br />Bagindo Sinaro rang gala-kan
-<br />Untuang sa-pantun anak ibilih
-<br />Datang sasau mangko nyo makan.<br /><br />
 ===
 K.Y.Mustafa SKN Sabah
 <br />Sahabat lama luas pengalaman
@@ -42451,9 +41863,6 @@ Kain batek deri Palembang
 <br />Mari di gunting lantas k'paysak
 <br />Sipat nya sahya pipit terbang
 <br />Nanti kan musim padi yang masak.<br /><br />
-<br />Mari di gunting lantas k'paysak
-<br />Sipat nya sahya pipit terbang
-<br />Nanti kan musim padi yang masak.<br /><br />
 ===
 Kain batek deri Palembang
 ===
@@ -42508,9 +41917,6 @@ Kain batik ambil selendang
 <br />Sejak memakai baju kebaya.<br /><br />
 ===
 Kain batik baju batik
-<br />Batik datang dari Jawa
-<br />Adik cantik abang cantik
-<br />Bagai pinang belah dua.<br /><br />
 ===
 Kain batik baju batik
 Batik dari Jawa
@@ -42553,9 +41959,6 @@ Kain batik berbaju batik
 <br />Makan menyudu di longkang orang.<br /><br />
 ===
 Kain batik bersegi lima
-<br />Basah kuyup ditimpa embun.<br />Kasih tuan kami terima
-<br />Menjadi hutang beribu tahun.<br /><br />
-Berbalas Pantun Remaja
 ===
 Kain batik cindai yang halus 
 Kapur barus dari Auliya 
@@ -42783,9 +42186,6 @@ Kain campa selendang campa
 <br />Ambil ikat sampulkan kain
 <br />Adik lupa kekanda pun lupa
 <br />Adik teringat melingkar kota.<br /><br />
-<br />Ambil ikat sampulkan kain
-<br />Adik lupa kekanda pun lupa
-<br />Adik teringat melingkar kota.<br /><br />
 ===
 Kain campa selendang campa
 ===
@@ -42795,9 +42195,6 @@ Kain caua salendang caua
 <br />Allah ma-nyuruah lain tampek.<br /><br />
 ===
 Kain cela tepi bersuji
-<br />lalu sampaikan atas galah
-<br />Jika sudah di situ janji
-<br />Hajat pun lalu disampaikan Allah.<br /><br />
 ===
 Kain celari tepi bersuji
 Lalu disampai kepada galah 
@@ -43078,9 +42475,6 @@ Kain hitam bawa sembahyang
 <br />Sayang bagi si jantung hati.<br /><br />
 ===
 Kain hitam celup tarum
-<br />Pakaian orang dari ulu
-<br />Tuan umpama batik lasun
-<br />Makin basuh bertambah bau.<br /><br />
 ===
 Kain ini carik di tengah
 Mari dijahit budak hulu
@@ -43217,9 +42611,6 @@ Kain kasa dari Belanda
 ===
 Kain kasa dari Belanda
 Kain putih dari Serati
-<br />Pakaian anak raja Belanda
-<br />Bagaikan putus rasanya hati
-<br />Dari sebab perbuatan adinda.<br /><br />
 Sangatlah harap hati kakanda
 Bagailah putus rasanya hati
 ===
@@ -43419,9 +42810,6 @@ Kain merah panjang s'hasta
 <br />sahya tidak sesal menyesal.<br /><br />
 ===
 Kain pakaian perempuan
-<br />Telur dimakan dengan madu
-<br />Tidakkah adik hiba kasihan
-<br />Melihat abang menanggung rindu.<br /><br />
 ===
 Kain palekat si kain sari
 Kain salendang sulam di tepi
@@ -43434,9 +42822,6 @@ Kain Palembang kain Terengganu
 <br />Hati di dalam imbang-imbangan.<br /><br />
 ===
 Kain panjang di jemur basah
-<br />Ikan belanak di pintu kecil
-<br />Orang bujang terlalu susah
-<br />Ada anak masihlah kecil.<br /><br />
 ===
 Kain panjang dijemur basah
 Ikan belanak di pintu kecil
@@ -43464,9 +42849,6 @@ Kain pati tenunan pati
 <br />Kubelah hati kutunjukkan.<br /><br />
 ===
 Kain pelekat dalam peti
-<br />Burung kedidi menyusur pantai
-<br />Tuan terikat dalam hati
-<br />Jikalau mati bertindih bangkai.<br /><br />
 ===
 Kain pelekat di atas peti
 Anak kumbang teriap riap
@@ -43499,9 +42881,6 @@ Kain pelekat kain Chaul
 <br />Sama-sama kita sampaikan.<br /><br />
 ===
 Kain pelekat kepala dua
-<br />Mari di jahit benang mastuli
-<br />Sudah pakat kami berdua
-<br />Marah orang jangan peduli.<br /><br />
 ===
 Kain pelekat kepala dua
 Mari dijahit benang mastuli
@@ -43703,9 +43082,6 @@ Kain putih bersimpul puleh
 <br />Pakaian raja perempuan
 <br />Lain dicinta lain yang boleh
 <br />Sudahlah nasib badanku tuan.<br /><br />
-<br />Pakaian raja perempuan
-<br />Lain dicinta lain yang boleh
-<br />Sudahlah nasib badanku tuan.<br /><br />
 ===
 Kain putih bersimpul puleh
 ===
@@ -43772,9 +43148,6 @@ Kain putih panjang sahasta
 <br />Saya tidak jadi munyasal
 ===
 Kain putih panjang sembilan
-<br />Sepuluh dengan rambu-rambunya
-<br />Encik putih tidur di tilan
-<br />Titik peluh tinggal baunya.<br /><br />
 ===
 Kain putih panjang sembilan
 Sepuluh dengan rambu-rambunya
@@ -43940,9 +43313,6 @@ Kain seperti bunga derdap
 <br />Pohon mempelam di tepi huma;<br />Darah gemuruh jadi tak tetap
 <br />Tidur malam haram tak lena.<br /><br />
 Pantun Melayu
-<br />Pohon mempelam di tepi huma;<br />Darah gemuruh jadi tak tetap
-<br />Tidur malam haram tak lena.<br /><br />
-Pantun Melayu
 ===
 Kain seperti bunga derdap
 ===
@@ -44074,9 +43444,6 @@ Kain sutra ternun di Achay
 <br />Kalu ber-kasay apa rupa nya.<br /><br />
 ===
 Kain talupok negri kling
-<br />Pakayan anak datok pengulu
-<br />Ombak ber-tolak akar basabing
-<br />Nanti kan hujan deri ulu.<br /><br />
 ===
 Kain tanjung gandam berlari
 Tenunan mari anak Barunai
@@ -44559,17 +43926,8 @@ Kalau abang pergi ke Lapau
 <br />Jemputlah diri adik ini.<br /><br />
 ===
 Kalau abang pergi ke laut
-<br />Cari saya ketam betina;<br />Kalau tuan menjadi rambut
-<br />Saya menjadi si bunga China.<br /><br />
-Pantun Melayu
 ===
 Kalau abang pergi ke Lepau
-<br />Belikan hamba tikar pandan
-<br />Jangan lama abang di rantau
- <br />Maklum di rantau banyak godaan.<br /><br />
-<br />Belikan hamba tikar pandan
-<br />Jangan lama abang di rantau
- <br />Maklum di rantau banyak godaan.<br /><br />
 <br />Belikan hamba tikar pandan
 <br />Jangan lama abang di rantau
  <br />Maklum di rantau banyak godaan.<br /><br />
@@ -44692,9 +44050,6 @@ Kalau ada kaca di pintu
 <br />Katang-katang berisi rempah
 <br />Kalau ada kata begitu
 <br />Saya tatang di hujung lidah.<br /><br />
-<br />Katang-katang berisi rempah
-<br />Kalau ada kata begitu
-<br />Saya tatang di hujung lidah.<br /><br />
 ===
 Kalau ada kaca di pintu
 ===
@@ -44715,9 +44070,6 @@ Badan dan nyawa kami serahkan
 ===
 Kalau ada kaca di pintu
 Katang-katang berisi rempah
-<br />Rempah bercampur dengan ketumbar
-<br />Tuan kutatang di atas lidah
-<br />Kepada hati tidak tertambar.<br /><br />
 <br />Rempah bercampur dengan ketumbar
 <br />Tuan kutatang di atas lidah
 <br />Kepada hati tidak tertambar.<br /><br />
@@ -44845,9 +44197,6 @@ Kalau ada selasih Jambi
 <br />Kalau baik buat kan zaman.<br /><br />
 ===
 Kalau ada si bunga rampai
-<br />Bunga melati di atas kertas
-<br />Saya menunggu sudahlah sampai
-<br />Si jantung hati belum terlepas.<br /><br />
 ===
 Kalau ada si bunga rampai
 Bunga melati di atas kertas
@@ -44943,9 +44292,6 @@ Kalau adik ke Surabaya
 <br />Ambil pisau belahlah dada.<br /><br />
 ===
 Kalau adik memasak ketan
-<br />Saya memasak tenggulinya.<br />Kalau adik menjadi ikan
-<br />Saya jadikan siripnya.<br /><br />
-Berbalas Pantun Remaja
 ===
 Kalau adik menahan lukah
 Tahan jangan dibalik-balik
@@ -44958,9 +44304,6 @@ Kalau adik pakai kebaya
 Berbalas Pantun Remaja
 ===
 Kalau adik pandai menorang
-<br />Cubalah torang pinang  di parit
-<br />Kalau adik pandai berbilang
-<br />Cubalah bilang bintang di langit.<br /><br />
 ===
 Kalau adik sudah sarapan
 Jangan lupa sisa nasi ditungku
@@ -45124,9 +44467,6 @@ Kalau begini susahnya hati
 Melarat kesudahannya
 ===
 Kalau begini tarah papan
-<br />Ke barat juga 'kan condongnya
-<br />Kalau begini untung badan
-<br />Melarat juga kesudahannya.<br /><br />
 <br />Ke barat juga 'kan condongnya
 <br />Kalau begini untung badan
 <br />Melarat juga kesudahannya.<br /><br />
@@ -46095,9 +45435,6 @@ Kalau cik tuan berakit buluh
 Pantun Melayu
 ===
 Kalau cik tuan berakit kayu
-<br />Biar saya berakit buluh;<br />Jikalau tuan menanggung malu
-<br />Biarlah saya bersungguh-sungguh.<br /><br />
-Pantun Melayu
 ===
 Kalau cik tuan pergi ke laut
 <br />Saya hendak mandi dalam perahu;<br />Jikalau cik tuan menjadi rambut
@@ -46105,9 +45442,6 @@ Kalau cik tuan pergi ke laut
 Pantun Melayu
 ===
 Kalau cik tuan terpajak gadai
-<br />Hanyut rakit lagi di hulu;<br />Kalau cik tuan bijak pandai
-<br />Apa ubat penyakit rindu.<br /><br />
-Pantun Melayu
 ===
 Kalau cukup harta dikampung
 Pergi merantau berhati lapang
@@ -46150,9 +45484,6 @@ Kalau makan terlalu serakah
 Manakan ingat ke anak cucu
 ===
 Kalau dapat pilin berpilin
-<br />Kubelah betung ku kirimkan.<br />Kalau dapat kirim berkirim
-<br />Ku belah jantung ku kirimkan.<br /><br />
-Berbalas Pantun Remaja
 <br />Kubelah betung ku kirimkan.<br />Kalau dapat kirim berkirim
 <br />Ku belah jantung ku kirimkan.<br /><br />
 Berbalas Pantun Remaja
@@ -47773,9 +47104,6 @@ Kalau ku tahu peria pahit
 <br />Tidak ku gulai dengan kelapa.<br />Kalau ku tahu bercinta sakit
 <br />Tidak ku mulai dari semula.<br /><br />
 Berbalas Pantun Remaja
-<br />Tidak ku gulai dengan kelapa.<br />Kalau ku tahu bercinta sakit
-<br />Tidak ku mulai dari semula.<br /><br />
-Berbalas Pantun Remaja
 ===
 Kalau ku tahu peria pahit
 ===
@@ -48838,9 +48166,6 @@ Kalau nak gugoq
  gugoqlah nangka<br />Jangan menimpa si rantin paoh<br />Kalau nak tioq
  tidoqlah mata<br />Jangan mengenang oghang yang jaoh<br /><br />
 Serangkaian Pantun Kedah
- gugoqlah nangka<br />Jangan menimpa si rantin paoh<br />Kalau nak tioq
- tidoqlah mata<br />Jangan mengenang oghang yang jaoh<br /><br />
-Serangkaian Pantun Kedah
 ===
 Kalau nak gugoq
 ===
@@ -48878,14 +48203,8 @@ Kalau nak tahu dipukat rami
 Pantun Melayu
 ===
 Kalau 'nak tahu jentik kumbang
-<br />Diberi tali benang
-<br />Kalau 'nak tahu jinak abang
-<br />Di beri bantal lengan.<br /><br />
 ===
 Kalau nak ujan
- ujan sekali<br />Boleh saya nak tudong petak<br />Kalau nak bujang
- bujang sekali<br />Boleh saya nak masok mintak<br /><br />
-Serangkaian Pantun Kedah
  ujan sekali<br />Boleh saya nak tudong petak<br />Kalau nak bujang
  bujang sekali<br />Boleh saya nak masok mintak<br /><br />
 Serangkaian Pantun Kedah
@@ -48933,9 +48252,6 @@ Kalau 'ndak tahu di untung kami
 Bagai lantai dimakan bubuk
 ===
 Kalau 'ndak tahu di rumpun padi
-<br />Lihatlah rumput di pematang
-<br />Kalau 'ndak tahu di untung kami
-<br />Lihatlah laut petang-petang.<br /><br />
 <br />Lihatlah rumput di pematang
 <br />Kalau 'ndak tahu di untung kami
 <br />Lihatlah laut petang-petang.<br /><br />
@@ -49121,9 +48437,6 @@ Lebih oempama boenda kandoeng
 Djika pandai membawakanja
 ===
 Kalau pandai berkain panjang
-<br />Lebih daripada kain sarung
-<br />Jika pandai memakainya;<br />Kalau pandai berinduk semang
-<br /><br />Lebih umpama bonda kandung
 <br />Lebih daripada kain sarung
 <br />Jika pandai memakainya;<br />Kalau pandai berinduk semang
 <br /><br />Lebih umpama bonda kandung
@@ -49912,9 +49225,6 @@ N/A
 Nilai Kegotongroyongan dan Tenggang Rasa
 ===
 kalau sampan tidak berpengayuh
-<br />lambat laun tentulah larat<br />kalau berkawan tidak senonoh<br />lambat laun menjadi mudarat<br /><br />
-N/A
-Nilai Kegotongroyongan dan Tenggang Rasa
 ===
 kalau sampan tidak bertali
 tidak kan dapat mencampak sauh
@@ -51099,12 +50409,6 @@ Berbalas Pantun Remaja
 <br />Tidak bintang meninggi hari.<br />Kalau tidak karena tuan
 <br />Tidak badan jadi begini.<br /><br />
 Berbalas Pantun Remaja
-<br />Tidak bintang meninggi hari.<br />Kalau tidak karena tuan
-<br />Tidak badan jadi begini.<br /><br />
-Berbalas Pantun Remaja
-<br />Tidak bintang meninggi hari.<br />Kalau tidak karena tuan
-<br />Tidak badan jadi begini.<br /><br />
-Berbalas Pantun Remaja
 ===
 Kalau tidak karena bulan
 ===
@@ -51138,9 +50442,6 @@ Kalau tidak karena ibadat
 Hidup tenggelam mati menderita
 ===
 Kalau tidak kelapa puan
-<br />Tidak tuan kelapa Bali
-<br />Kalau tidak karena tuan
-<br />Tidak saya jadi begini.<br /><br />
 <br />Tidak tuan kelapa Bali
 <br />Kalau tidak karena tuan
 <br />Tidak saya jadi begini.<br /><br />
@@ -51448,9 +50749,6 @@ Kalau tuan mahu cari lokan
 <br />Ikan mahu tipu
 ===
 Kalau tuan makan jemuju
-<br />Ambilkan peti ubat batuk
-<br />Kasih tidak dua
- setuju
 ===
 Kalau tuan makan khenduri
 Buah tangan jangan-lah lupa
@@ -51663,9 +50961,6 @@ Kalau tuan mudik ke hulu
 <br />Carikan saya bunga kemboja
 <br />Kalau tuan mati dahulu
 <br />Nantikan saya di pintu syurga.<br /><br />
-<br />Carikan saya bunga kemboja
-<br />Kalau tuan mati dahulu
-<br />Nantikan saya di pintu syurga.<br /><br />
 ===
 Kalau tuan mudik ke hulu
 ===
@@ -51795,9 +51090,6 @@ Kalau tuan pergi ka Langgat
 <br />Saya menjadi ayer semilan.<br /><br />
 ===
 Kalau tuan pergi ka laot
-<br />Chari kan saya ketam bertina.<br />Kalau Manap menjadi rambut
-<br />Saya menjadi bunga China.<br /><br />
-Kabar Uchapan Baru
 ===
 Kalau tuan pergi ka laut
 <br />Chari kan saya ketam betina
@@ -51805,9 +51097,6 @@ Kalau tuan pergi ka laut
 <br />Saya menjadi bunga china.<br /><br />
 ===
 Kalau tuan pergi ka Tanjong
-<br />Kirim saya salai baju
-<br />Kalau Said menjadi burong
-<br />Saya menjadi ranting kayu.<br /><br />
 <br />Kirim saya salai baju
 <br />Kalau Said menjadi burong
 <br />Saya menjadi ranting kayu.<br /><br />
@@ -51845,9 +51134,6 @@ Kalau tuan menjadi burong
 Saya menjadi benang pengikat
 ===
 Kalau tuan pergi ke bendang
-<br />Jangan petik buah rumbia
-<br />Tuan laksana bulan yang terang
-<br />Cahaya luput serata dunia.<br /><br />
 <br />Jangan petik buah rumbia
 <br />Tuan laksana bulan yang terang
 <br />Cahaya luput serata dunia.<br /><br />
@@ -51922,9 +51208,6 @@ Simpan ringgit nanti berkarat
 Bawa berniaga cari untung
 ===
 Kalau tuan pergi ke Deli
-<br />Langsung saya pergi Palembang
-<br />Jaga kawan pegang kemudi
-<br />Saya 'nak layar lautan gelombang.<br /><br />
 <br />Langsung saya pergi Palembang
 <br />Jaga kawan pegang kemudi
 <br />Saya 'nak layar lautan gelombang.<br /><br />
@@ -52231,9 +51514,6 @@ Kalau tuan pergi ke Tanjung
 <br />Kirim saya sehelai baju
 <br />Kalau tuan menjadi burung
 <br />Saya menjadi ranting kayu.<br /><br />
-<br />Kirim saya sehelai baju
-<br />Kalau tuan menjadi burung
-<br />Saya menjadi ranting kayu.<br /><br />
 ===
 Kalau tuan pergi ke Tanjung
 ===
@@ -52283,9 +51563,6 @@ Jangan menurut resmi kiambang
 Pucuknya menghijau akar tak jejak
 ===
 Kalau tuan pergi Palembang
-<br />Langsung masuk ke dalam kota
-<br />Tuan jangan berhati bimbang
-<br />Adinda tiada berubah kata.<br /><br />
 <br />Langsung masuk ke dalam kota
 <br />Tuan jangan berhati bimbang
 <br />Adinda tiada berubah kata.<br /><br />
@@ -52353,9 +51630,6 @@ Kalau udang
  orang juga
 ===
 Kalau ya pergi Senanti
-<br />Menempuh hutan senjata parang
-<br />Kalau ya main berhenti
-<br />Kerat rotan patah arang.<br /><br />
 ===
 Kalau ya selasih dandi
 Cendawan tumbuh di atas pintu
@@ -52368,21 +51642,6 @@ Kalau ya kasihkan kami
 Carikan jarum gedang meriam
 ===
 Kalau ya selasih dani
-<br />Tanam petola di hujung laman
-<br />Kalau ya kasihkan kami
-<br />Berilah tuala 'nak buat zaman.<br /><br />
-<br />Tanam petola di hujung laman
-<br />Kalau ya kasihkan kami
-<br />Berilah tuala 'nak buat zaman.<br /><br />
-<br />Tanam petola di hujung laman
-<br />Kalau ya kasihkan kami
-<br />Berilah tuala 'nak buat zaman.<br /><br />
-<br />Tanam petola di hujung laman
-<br />Kalau ya kasihkan kami
-<br />Berilah tuala 'nak buat zaman.<br /><br />
-<br />Tanam petola di hujung laman
-<br />Kalau ya kasihkan kami
-<br />Berilah tuala 'nak buat zaman.<br /><br />
 <br />Tanam petola di hujung laman
 <br />Kalau ya kasihkan kami
 <br />Berilah tuala 'nak buat zaman.<br /><br />
@@ -53394,9 +52653,6 @@ Kalu tuan tombak renchana
 <br />Amek gantang sukat-kan pulot
 <br />Kalu tuan bijak-laksana;<br />Apa binatang tidak berprot<br /><br />Apa itu?........................Udang.<br />
 Panton Dondang Sayang &amp; Nyanyian Lain-lain
-<br />Amek gantang sukat-kan pulot
-<br />Kalu tuan bijak-laksana;<br />Apa binatang tidak berprot<br /><br />Apa itu?........................Udang.<br />
-Panton Dondang Sayang &amp; Nyanyian Lain-lain
 ===
 Kalu tuan tombak renchana
 ===
@@ -53589,9 +52845,6 @@ Kambing hutam mati terjerat
 <br />Untuk pengganti badan diri.<br /><br />
 ===
 Kambing hutan mati terjerat
-<br />Jangan dikurung dalam keranda
-<br />Hamba berpantun di dalam surat
-<br />Kasih sayang untuk adinda.<br /><br />
 ===
 Kambing menderu di bawah balai
 Kena jerat daun tebu
@@ -53758,9 +53011,6 @@ Kami ucapkan terima kasih
 <br />Atas undangan terhadap diri
 <br />Kami sengaja berjudi kasih
 <br />Untung-untung menjadi istri.<br /><br />
-<br />Atas undangan terhadap diri
-<br />Kami sengaja berjudi kasih
-<br />Untung-untung menjadi istri.<br /><br />
 ===
 Kami ucapkan terima kasih
 ===
@@ -53900,9 +53150,6 @@ Kampung itu masuk kawar
 <br />Kena tuba timbul tenggelam.<br /><br />
 ===
 Kampung Kadazan simpang ke Kunak
-<br />Jagung dan padi banyak berbuah
-<br />Terdengar azan ingatkan anak
-<br />Agar menjadi anak bertuah.<br /><br />
 ===
 Kampung Katub sebelah hulu
 Tempat orang petik kelapa
@@ -53925,9 +53172,6 @@ Kampung kelapa Abdulkarim
 <br />Tiada sanak tiada saudara.<br /><br />
 ===
 Kampung Kendayan di Ulu Sipitang
-<br />Arah ke Timur Kampung Malaman
-<br />Harus ku layan dia yang datang
-<br />Alangkah makmur hidup berkawan.<br /><br />
 ===
 Kampung Kiambang di Gancong Hilir
 Di sana banyak hidup jerejak
@@ -53940,9 +53184,6 @@ Kampung Kivatu jauh ke dalam
 <br />Tidak di tuntut rugilah tuan.<br /><br />
 ===
 Kampung Klias bergelar kota
-<br />Hendak ke Labuan singgah di Keruman
-<br />Tidak terbalas tidak terkata
-<br />Budimu tuan sepanjang zaman
 ===
 Kampung Kukut di waktu petang
 <br />Waktu kerja sepi dan murni
@@ -53995,12 +53236,6 @@ Agama
 Sungai Mat Sulang<br />Setentang dengan Pulau Melana<br />Jangan selalu berharapkan orang<br />Perbuatan demikian sangat hina<br /><br />
 Pantun Melayu
 Agama
-Sungai Mat Sulang<br />Setentang dengan Pulau Melana<br />Jangan selalu berharapkan orang<br />Perbuatan demikian sangat hina<br /><br />
-Pantun Melayu
-Agama
-Sungai Mat Sulang<br />Setentang dengan Pulau Melana<br />Jangan selalu berharapkan orang<br />Perbuatan demikian sangat hina<br /><br />
-Pantun Melayu
-Agama
 ===
 Kampung Mengkasar
 ===
@@ -54029,9 +53264,6 @@ Kampung Pekojan di pinggir kali
 <br />Melihat tuan ada berdamping.<br /><br />
 ===
 Kampung sebelah kampung dobi
-<br />Budak-budak bermain gunting.<br />Kasih ketuan tersembunyi
-<br />Sepantun duri dalam daging<br /><br />
-Berbalas Pantun Remaja
 ===
 Kampung Siki di Ulu Pilah
 Memang tempat bertanam padi
@@ -54044,9 +53276,6 @@ Kampung Silam di Lahad Datu
 <br />Orang di dalam tidak menjawab.<br /><br />
 ===
 Kampung Tanaki di kelilingi bukit
-<br />Banyaklah ilham si Ibu Dayang
-<br />Kita mendaki memanglah sakit
-<br />Bagai malam tak siang-siang.<br /><br />
 ===
 Kampung Tengah di Lenggeng Hilir
 Di sini padi ditanam jaya
@@ -54059,9 +53288,6 @@ Kampung Tibabar dihuni Dusun
 <br />Asalkan jadi orang terpilih.<br /><br />
 ===
 Kampung Tibabar jauh ke dalam
-<br />Pergi melawat Encik Darmin
-<br />Tidak sabar hati di dalam
-<br />Menunggu saat di atas pelamin.<br /><br />
 ===
 Kamumu di dalam parak
 Jatuah malayang sularonyo
@@ -54279,9 +53505,6 @@ Kanda dinda ada belaka
 <br />Tuan kujadikan mestika negeri.<br /><br />
 ===
 Kandang-kandang ragi Malako
-<br />Jawi-jawi padam baro-nyo
-<br />Tenggang nagari jan binaso
-<br />Janawi tajam ka-duo-nyo. <br /><br />
 ===
 Kandis berisi di dalam puan
 <br />Bawak orang deri sebrang
@@ -54456,9 +53679,6 @@ Kapal anjiman dari Eropah
 <br />Bukan-nya sahya tidak perchaya.<br /><br />
 ===
 Kapal Anjiman dari Eropah
-<br />Lalu singgah di Surabaya
-<br />Janganlah lekas hendak bersumpah
-<br />Bukannya saya tidak percaya.<br /><br />
 ===
 Kapal Anjiman dari Eropah
 Lalu singgah di Surabaya
@@ -55240,9 +54460,6 @@ Kapal blayer di tepi panday
 <br />Tinggal si nyonya hati tak senang.<br /><br />
 ===
 Kapal blayer jangan di baylot
-<br />Kalu baylot  trantok karang
-<br />Chakapan tuan jangan di belot
-<br />Itu bari batol si anak orang.<br /><br />
 ===
 Kapal blayer ka Tanjong Karang
 <br />Trus balyer sampay-ka Malaka
@@ -55250,9 +54467,6 @@ Kapal blayer ka Tanjong Karang
 <br />Krap kali menjadi chilaka.<br /><br />
 ===
 Kapal blayer k'Makasar
-<br />Singga pulak di Cheribon
-<br />Bukan kah gajah binatang yang besar
-<br />Tengah laotan di pukul aron.<br /><br />
 ===
 Kapal blayer pergi ka Delhi
 <br />Singga mari di hujong tanjong
@@ -55260,9 +54474,6 @@ Kapal blayer pergi ka Delhi
 <br />Mencharek jodoh dua s'huntong.<br /><br />
 ===
 Kapal blayer pergi ka Jambi
-<br />Singga blaboh hari Jumabat
-<br />Mintak dobwa tuan yang pergi
-<br />Di mana sampai bolay s'lamat.<br /><br />
 ===
 Kapal bonda bermuat tinta
 Kembang biara di atas tenda
@@ -55275,9 +54486,6 @@ Kapal bulayer kapasir panjang
 <br />Jangan di uba buchara kami.<br /><br />
 ===
 Kapal busar deri pulembang
-<br />Champak sauh putar kumudi
-<br />Suda miskin bangsa pun korang   <br />Mas perak jahu sekali.<br /><br />
-Ini Pantun Karang Karangan
 ===
 Kapal cheng ho baru berlabuh
 Sarat muatan dari melaka
@@ -55333,9 +54541,6 @@ Kapal datai di Nanga Lingga
 Pantun Sarawak
 ===
 Kapal datai di Nanga Tebas
- <br />Angin betiup pemadu deras. <br />Layar ditarit ikas pementas
- <br />Injin dipasang diasoh deras.<br /><br />
-Pantun Sarawak
 ===
 Kapal datang dari Kling
 Orang sampay pegri ka Johor
@@ -55373,9 +54578,6 @@ Kapal datang deri bali
 <br />Kalu miskin tubuang juga.<br /><br />
 ===
 Kapal datang deri subrang
-<br />Singga bulaboh kuala baik
-<br />Budi yang jahat di kunang orang.<br />Ini kan pulah budi yang baik.<br /><br />
-Ini Pantun Karang Karangan
 ===
 Kapal datang jumping berikat
 Caruknya timbul tenggelam
@@ -55613,9 +54815,6 @@ Kapal perang angkat teringket
  saya pipit
 ===
 Kapal perang kapal berakit
-<br />Hendak berlayar ke negeri China
-<br />Seekor lang seekor pipit
-<br />Hendak terbang bila'kan sama.<br /><br />
 ===
 Kapal perang kapal berakit
 Hendak belayar ke negeri China
@@ -56041,9 +55240,6 @@ Karang ta baluak di parau
 <br />Dagang ma-nangih dalam ati.<br /><br />
 ===
 Karang tertumbuk di perahu
-<br />Kulit manis di dalam padi
-<br />Larang makhluk yang akan tahu
-<br />Dagang menangis dalam hati<br /><br />
 ===
 Karangan bunga mari dihidu
 Dalam keramaian di Tapanuli
@@ -56288,9 +55484,6 @@ Kari Sutan rang Koto Gadang
 <br />Lukah pasuak karuntuang bubuik.<br /><br />
 ===
 Karieng si tangguak
- jo si-dukuang
-<br />Ka di-buang kapalo-nyo
-<br />Ka ba-cakak rang jo untuang
 ===
 Karih bahulu dangan perak 
 Bantuak kapalo ula nago
@@ -57715,9 +56908,6 @@ Kayu berlian dan selangan batu
 <br />Dalam tabah terkenang jua.<br /><br />
 ===
 Kayu besar bertambah gesing
-<br />Tempat mak murai berayun kaki;<br />Hati risau bertambah runsing
-<br />Tak ada tempat menaruh hati.<br /><br />
-Pantun Melayu
 ===
 Kayu besar kayu bergalang
 Kayu mati di balik tara
@@ -57828,9 +57018,6 @@ Kayu dibeli buat cerpu
 Pantun Melayu
 ===
 Kayu dibuat alas jambangan
-<br />Tanam halia tiada tumbuh
-<br />Dikata orang berpanjangan
-<br />Kalaukan sitti tiada sungguh.<br /><br />
 ===
 Kayu dibuat alas jambangan
 Tanam halia tiada tumbuh
@@ -57948,9 +57135,6 @@ Kayu jati di Lungmanis
 <br />Tidaklah pandai saya berkata.<br /><br />
 ===
 Kayu jati dibuat meja
-<br />Jati dibawa dari Rembang
-<br />Sakit sungguh menyinta kanda
-<br />Bagai bunga menunggu kembang.<br /><br />
 ===
 Kayu jati leq Semawang
 Kayuq bantel leq Kalimantan
@@ -57998,9 +57182,6 @@ Kayu kalek
  buatan pun sudah<br /><br />Akan mungkir jua
 ===
 Kayu kayan kring
-<br />Di pukol kambing mati
-<br />Kuping dengar bising;<br />Tapi menghibor hati.<br /><br />Apa itu?..............................Rebana.<br />
-Panton Dondang Sayang
 ===
 Kayu kelat madang di lurah
 Tanam kerakap di permatang
@@ -58129,9 +57310,6 @@ Kayu pantai di Koto Alam
 <br />Patah tumbuah ilang ba ganti.<br /><br />
 ===
 Kayu patah di rimba besar
-<br />Patah di titi Maalim Sidi
-<br />Sungguh gajah binatang besar
-<br />Sudah rezeki si ular lidi.<br /><br />
 ===
 Kayu pulai di Koto Alam
 Batangnyo sandi basandi
@@ -58271,9 +57449,6 @@ Kayu tersandar berapit dua
 <br />Dalam baitullah menghabiskan dosa.<br /><br />
 ===
 Kayu tertanam kayu belerang
-<br />Turus huma tiada kelulu;<br />Zaman ini orang sekarang
-<br />Zaman lama orang dahulu.<br /><br />
-Pantun Melayu
 ===
 Kayu tumbang jatuh ke jurang
 Banyak terkenan si bunga tulib
@@ -58407,9 +57582,6 @@ Ke balai membawa labu
 <br />Hamba menjerumat baju bertambal.<br /><br />
 ===
 Ke Balambangan anak Kimaragang
-<br />Senang-senangan pergi bermain
-<br />Janganlah  tangan tersalah pegang
-<br />Terpegang tangan si orang lain.<br /><br />
 ===
 Ke bandar Seremban kamu sampai
 Berhenti rehat di kedai makan
@@ -58632,9 +57804,6 @@ Ke Han Long banyak getahnya
 <br />Banyak perawan datang la behari.<br /><br />
 ===
 Ke hilir bertolak galah
-<br />Hendak ke pekan membeli tikar.<br />Kalau pantun ada yang salah
-<br />Tolong betulkan oleh yang pintar.<br /><br />
-Berbalas Pantun Remaja
 ===
 Ke hilir ke hulu kita berdua
 Ke dalam sekolah bersama jua
@@ -58809,9 +57978,6 @@ Ke ladang pergi ke gurun
 <br />Dagang terurai air mata.<br /><br />
 ===
 Ke Lahad Datu A.Karim Kadir
-<br />Sudah senja singgah ke Kundasang
-<br />Allah penentu segala takdir
-<br />Manusia hanya bijak merancang.<br /><br />
 ===
 Ke Lahad Datu dan Kampung Silam
 <br />Angin ribut di Tanjung Bangkuran
@@ -58834,9 +58000,6 @@ Ke laut membeli barang
 <br />Setitik air memadami.<br /><br />
 ===
 Ke laut membeli ganja
-<br />Ganja ada lautan api
-<br />Kalau hidup
- jadikan jua
 ===
 Ke laut menabur bijan
 <br />Ke darat menabur padi
@@ -58952,9 +58115,6 @@ Ke Padang sudah
 Pantun Melayu
 ===
 Ke pakan membeli rambai
-<br />Rambai dijual di tengah pakan
-<br />Berkasih sayang kalau tak sampai
-<br />Nyawa dan badan menanggungkan.<br /><br />
 ===
 Ke pantai mengutip lokan
 Lokan dikutip jual di kuala
@@ -58967,9 +58127,6 @@ Pusaka lama dipinggir jangan
 Kelak rugi bangsa sendiri
 ===
 Ke pasar membeli gelang
-<br />Gelang berhias dengan permata
-<br />Kanda berjalan berhati senang
-<br />Dinda berurai air mata.<br /><br />
 <br />Gelang berhias dengan permata
 <br />Kanda berjalan berhati senang
 <br />Dinda berurai air mata.<br /><br />
@@ -59040,9 +58197,6 @@ Ke pekan yang sekali ini
 <br />Entah kembali entah tidak.<br /><br />
 ===
 Ke Piapong ke Pulau Arang
-<br />Di pandang serempu jua
-<br />Sayang di kampung di larang orang
-<br />Sayang di padang bertemu jua.<br /><br />
 ===
 Ke Pulau Landak layari bersama
 Dengan handai Kuala Nerang
