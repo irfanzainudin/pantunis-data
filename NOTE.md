@@ -143,6 +143,11 @@ Index: 40
 - Ekorlembar Mata-merah / NA
 - Ekorlembar Belang-oren / Slender Threadtail / Orange-striped Threadtail
 - Ekorlembar Ujung-biru / Interrupted Threadtail
+- Ekorlembar Sabit / Crescent Threadtail / Pale Blue Threadtail
+- Ekorlembar Berkolar / Collared Threadtail
+- Ekorlembar Ladang / Laidlaw’s Threadtail
+- Belalang Ekorbelantan / Clubtail Dragonflies
+- Ekorbelantan Tepian Biasa / Common Flangetail / Ubiquitous Flangetail
 
 ### Malay names of berries
 
