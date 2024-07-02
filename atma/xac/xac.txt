@@ -18442,10 +18442,9 @@ Hendak mati pesankan aku
 Hendak berkubur kita berdua
 ===
 Endang adat samoa menoa
-Mansa kubu diberi basa. 
+Mansa kubu diberi basa
 Turun ka menira sama sereta
-Udah ngelebus ditarit sama.
-Pantun Sarawak
+Udah ngelebus ditarit sama (Pantun Sarawak)
 ===
 Endang padi-padiku juak
 Padi tak dapat dikebah lagi
@@ -24400,10 +24399,9 @@ Jalannya cinta sangat indah
 Maju pelahan biar selangkah
 ===
 Hari pan maia pukol lima
-Bala berumpak datai dia. 
+Bala berumpak datai dia 
 Pemaioh perau enda jena-jena
-Bediri ninjau rapas peda.
-Pantun Sarawak
+Bediri ninjau rapas peda (Pantun Sarawak)
 ===
 Hari panas bentanglah tikar
 Supaya dapat menjemur padi
@@ -33317,10 +33315,9 @@ Hilang di mana saya nak cari
 Tuan seorang gemala jiwa
 ===
 Ipa sida bala pan datai
-Bala meda bekau di rantu jalai. 
+Bala meda bekau di rantu jalai
 Belidar hala bejalai ngekai
-Senapang sangkoh sama dipegai.
-Pantun Sarawak
+Senapang sangkoh sama dipegai (Pantun Sarawak)
 ===
 Ipuah nan turun dari langik
 Bapantang katawaran biso
@@ -36513,10 +36510,9 @@ Adik membuang abang rela
 Sudah kebencian orang banyak
 ===
 Jani diengkah di pugu tanju
-Pandong dikajang enggau pua kumbu. 
+Pandong dikajang enggau pua kumbu
 Belator tuai sida ka indu
-Nyugu babi beminyak di tanju.
-Pantun Sarawak
+Nyugu babi beminyak di tanju (Pantun Sarawak)
 ===
 Janieh aienyo Sungai Tanang
 Minuman urang Bukik Tinggi
@@ -38832,12 +38828,6 @@ Jika tuan pergi ke Jempul
 Belikan saya tikar bantal
 Hati susah tulangku timbul ;
 Apa kehendak sudah makbul.
-===
-Jika tuan pergi ke ladang
-Usah lupa mengambil sayur
-bawalah pulang hawa ujungnya.
-Jika tuan benar-benar sayang
-Tumpangkan hamba di dalam hati
 ===
 Jika tuan pergi ke Pantai
 Telur itik golek di lantai
@@ -53177,10 +53167,9 @@ Akal tak adil sendiri bodoh
 Asal negri kenapa tinggal kan
 ===
 Kapal begaut nurun ka layar
-Ribut ngetu baka ke disakal. 
+Ribut ngetu baka ke disakal
 Gelumbang tedoh nadai besenggal
-Mensia mabok udah gerai bendar.
-Pantun Sarawak
+Mensia mabok udah gerai bendar (Pantun Sarawak)
 ===
 Kapal belarai dari Sandakan
 Dipukul angin si dengan ribut
@@ -53936,16 +53925,14 @@ Akan ikut tiada berani
 Takut dimarah ayah dan bonda
 ===
 Kapal datai di Nanga Lingga
-Lalu mahjong pemadu iya. 
+Lalu mahjong pemadu iya
 Gudom ke berita dulu ninga
-Lalu belanda madah ka bala.
-Pantun Sarawak
+Lalu belanda madah ka bala (Pantun Sarawak)
 ===
 Kapal datai di Nanga Tebas
-Angin betiup pemadu deras. 
+Angin betiup pemadu deras
 Layar ditarit ikas pementas
-Injin dipasang diasoh deras.
-Pantun Sarawak
+Injin dipasang diasoh deras (Pantun Sarawak)
 ===
 Kapal datang dari Kling
 Orang sampay pegri ka Johor
@@ -54193,10 +54180,9 @@ Kalau budi dikenang orang
 Mengapa dagang terbuang lalu
 ===
 Kapal ngetu sauh dilaboh
-Bediri sodadu bebagi tuboh. 
+Bediri sodadu bebagi tuboh
 Nepan ka sampan lalu bekayuh
-Angkat bala lalu ngeruboh.
-Pantun Sarawak
+Angkat bala lalu ngeruboh (Pantun Sarawak)
 ===
 Kapal pecah di Laut Miri
 Sarat bermuat barang tembaga
@@ -54699,9 +54685,7 @@ Di rumah paguno balun
 Karatau madang di ulu
 Babuah babungo balun
 Marantau bujang daulu
-Di rumah baguno balun
-Pantun Minangkabau
-&#039;
+Di rumah baguno balun (Pantun Minangkabau)
 ===
 Karatau usah disangko madang
 Kadang-kadang baluluah padi
@@ -55278,27 +55262,6 @@ Bila berpaling rendah budinya
 Mata melihat jangan menjeling
 Bila menjeling salah artiya
 ===
-Kata bersongsong jadi bantah
-Kata kemudian kata bercari
-Nan ditepati kata dahulu
-Petua alim nan sudah-sudah
-Lain di mulut lain di hati
-Hukumnya munafik kata guru
-===
-Kata bersongsong jadi bantah
-Kata kemudian kata bercari
-Nan ditepati kata dahulu
-Petua alim nan sudah-sudah
-Lain di mulut lain dihati
-Hukumnya munafik kata guru
-===
-Kata bersongsong jadi bantah
-Kata kemudian kata bercari
-Nan ditepati kata dahulu
-Petua alim nan sudah-sudah
-Lain dimulut lain dihati
-Hukumnya munafik kata guru
-===
 Kata cica di kamiri
 Ular naga nae pandang
 Kata ciong pipi kiri
@@ -55308,13 +55271,6 @@ Kata cicak di kamiri
 Ulang naga naik padang
 Kata cium pipi kiri
 Ulang aleng pipi kanan
-===
-Kata Cik Busu pandai membilang malam:
-Malam ini malam kese-se
-Parang dewangsa
-Hendak memarang gunung sebuah
-Kata Cik Busu pandai berkata
-Kata sepatah tiada berubah
 ===
 Kata diatur syair dikarang
 Madah indah para seniman
@@ -55833,22 +55789,6 @@ Salam taunjuak jo haromat
 Sia nan ado mangana akirat
 Tahulah inyo dunia mudarat
 ===
-Kato basonsong jadi bantah
-Kato kudian kato bacari
-Batapi kato nan dahulu
-Pitua alim nan sudah-sudah
-Lain dimuluik asiang di hati
-Hukum munapiak kato guru
-===
-Kato dibawo bamupakat
-Rundingan dirantang panjang
-Ka tangah sidang mujilih
-Di sinan putusan diparambiak
-Sambah manyambah dalam adat
-Tali batali undang-undang
-Tasabuik jo muluik manih
-Tapakai jo baso baiak
-===
 Kato guru kato pituah
 Dunsanak kato paringatan
 Kuncilah batin jan taruah
@@ -55888,13 +55828,6 @@ Kato manti kato baulang
 Kato alim kato hakikat
 Tagak di adat mengupalang
 Lipek pakaian jo mufakat
-===
-Kato nan patuik disahuti
-Sumbang basambuik gayuang
-Di dalam adat bapakai juo
-Kaduo pandai mamaliharo hati
-Hati manusia jan tasingguang
-Itu salalu nan dijago
 ===
 Kato nan tuo ka nan mudo
 Kato suami ka padusinyo
@@ -56539,24 +56472,20 @@ Tanam karakok di pamatang
 Kok iyo tuan pamurah
 Kirimlah rokok tigo batang
 ===
-Kayu kalek
- madang di lurah
+Kayu kalek madang di lurah
 Baukia batang tanggonyo
 Janji arek buatan sudah
 Ka mungkia pulo candonyo
-Kayu kelat
- medang di lurah 
+===
+Kayu kelat medang di lurah 
 Berukir batang tangganya
-Janji erat
- buatan pun sudah
+Janji erat buatan pun sudah
 Akan mungkir jua
 ===
 Kayu kayan kring
 Di pukol kambing mati
-Kuping dengar bising;
-Tapi menghibor hati.
-Apa itu?..............................Rebana.
-Panton Dondang Sayang
+Kuping dengar bising
+Tapi menghibor hati (Apa itu? Rebana.)
 ===
 Kayu kelat madang di lurah
 Tanam kerakap di permatang
