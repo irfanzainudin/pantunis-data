@@ -148,6 +148,11 @@ Index: 40
 - Ekorlembar Ladang / Laidlaw’s Threadtail
 - Belalang Ekorbelantan / Clubtail Dragonflies
 - Ekorbelantan Tepian Biasa / Common Flangetail / Ubiquitous Flangetail
+- Ekorbelantan Tepian Paya / NA
+- Ekorbelantan Rimau Jarang / NA
+- Ekorbelantan Rimau Siam / Abbott’s Tiger
+- Ekorbelantan Perak / NA
+- Ekorbelantan Naga Jalur-putih / White-banded Dragonhunter
 
 ### Malay names of berries
 
