@@ -2232,9 +2232,11 @@ Dareh bunyinyo aguang rajo
 Aguang nan ketek nan batuah
 Kok basuo sayo sapo-sapo
 Baso dahulu jan diubah
+===
 Keras bunyinya gong raja 
 Gong kecil yang bertuah
-Jika bersua
+Jika bersua sapalah saya
+Sikap dahulu jangan diubah
 ===
 Dareh ilia-nyo pado mudiek
 Aia ta-ganang di muaro
@@ -6374,21 +6376,15 @@ Elok diberi kepada petani
 Daripada kasih tiada sampai
 Elok kupergi membawa diri
 ===
-Daripada berakit
- baiklah bersampan
-Daripada bergalah
- baik berkemudi
+Daripada berakit baiklah bersampan
+Daripada bergalah baik berkemudi
 Mati ikan kerana umpan
-Mati saya kerana budi
-Puisi Melayu Lama: Pantun
+Mati saya kerana budi (Puisi Melayu Lama: Pantun)
 ===
 Daripada buah mengkudu
 Baik dikupas buah kuini
 Daripada hidup dimadu
-Baiklah putus semenjak kini. 
-===
-Daripada cempedak baiklah nangka
-Daripada tidak baiklah ada
+Baiklah putus semenjak kini
 ===
 Daripada cincin eloklah rantai
 Rantai dibuat penghias diri
@@ -13252,13 +13248,10 @@ Bersarang tupai dua sebaya
 Bulan ku-renong wajah-mu di-sana
 Hajat na' capai tiada upaya.
 ===
-Dipuji boleh
- dicaci jangan
+Dipuji boleh dicaci jangan
 Itu tandanya orang beriman
 Bekerjasama kasih berpanjangan
 Negara Malaysia Negara yang aman
-Puisi Melayu Lama: Pantun
-Malaysia
 ===
 Dipukul angin si dengan ribut
 Nakhoda serasa gila
@@ -17258,13 +17251,10 @@ Nilai harganya tidak setara
 Pemuda adalah harapan bangsa
 Pemudi pula tiang negara.
 ===
-Emas permata
- lalu ditanam
+Emas permata lalu ditanam
 Sudah ditanam ditimpa batu
 Tersirat dalam ayat ke enam
-Bukankah engkau dulu yatim piatu
-PANTUN MAULID / RIWAYAT NABI
-Agama
+Bukankah engkau dulu yatim piatu (PANTUN MAULID / RIWAYAT NABI) (Agama)
 ===
 Emas sebungkal kilau terserlah
 Cincin suasa gelang tembaga
@@ -18653,13 +18643,10 @@ Takkan kayu berbatang jerami
 Esa hilang kedua terbilang
 Takkan Melayu hilang di bumi
 ===
-Esa sirna
- dua ternama
+Esa sirna dua ternama
 Adat Melayu pusaka lama
 Di mana dipangku
-Di situ Melayu tetap bersatu
-PANTUN ADAT LANGKAT
-PANTUN ADAT LANGKAT
+Di situ Melayu tetap bersatu (PANTUN ADAT LANGKAT)
 ===
 Esa teluk kedua pantai
 Ketiga dengan jamban di ulu
@@ -18766,10 +18753,7 @@ Di dalam luhak tanah Minang
 Jikok ambalau maratak hulu
 Putiang tanggo mato tabuang
 ===
-Fanatik
- buta
- sinting
- dan gila
+Fanatik buta sinting dan gila
 Gelar apa pun bisa dibeli
 Hidup orang tiada harga
 Agama kita hanya di 'kulit'
@@ -21377,6 +21361,7 @@ Gunuang Padang bajanjang batu
 Salasiah badahan tidak
 Basilang karih di pintu
 Namun kasiah talarang tidak
+===
 Gunung Padang berjenjang batu 
 Selasih berdahan tidak
 Bersilang keris di pintu
@@ -21386,27 +21371,16 @@ Gunuang Padang bajanjang batu
 Sulasih badahan tidak
 Tariak padang pancuanglah aku
 Namun kasiah talarang tidak
+===
 Gunung Padang berjenjang batu
 Selasih berdahan tidak
-Tarik pedang
-===
-Gunuang Padang bajanjang batu
-Tidur tiada khabarkan diri
-Salasiah badaun tidak
-Di atas tilam dalam kelambu
-Ambiak padang pancuangkan aku
-Berbantal lengan muda bestari
-Ati kasiah tatahan tidak
-Habislah kasih di dalam kalbu
+Tarik pedang pancunglah aku
+Namun kasih terlarang tidak
 ===
 Gunuang Padang batanggo janjang
 Bari batanggo batu mandi
 Manapi-napi bada baliang
 Ma intai buah pauah janggi
-Gunung Padang bertangga jenjang
-Beri bertangga batu mandi
-Menepi-nepi badar baling
-Mengintai buah pauh janggi
 ===
 Gunuang Singgalang jo Marapi
 Sumarak Minang pulau Paco
@@ -25663,13 +25637,10 @@ Dulang berisi sagu mentah
 Hendak pulang ku beri pulang
 Tinggalkan saya pantun sepatah
 ===
-Hendak gugoq
- gugoqlah cempedak
+Hendak gugoq gugoqlah cempedak
 Jangan menimpa di rantin nangka
-Hendak tidoq
- tidoqlah anak
-Jangan menangeh ibu tak suka
-Serangkaian Pantun Kedah
+Hendak tidoq tidoqlah anak
+Jangan menangeh ibu tak suka (Serangkaian Pantun Kedah)
 ===
 Hendak gugor gugorlah nangka
 Jangan menimpa si-ranting pauh
@@ -26333,19 +26304,6 @@ Heroinya seniwati jelita Saadiah
 Bulan Februari meninggal dunia
 Mentadbir mengikut kehendak Sunnah
 Iblis dan Syaitan cukup curiga
-===
-Het gaat
- zegt de bovenarm
-Het gaat niet
- zegt de benedenarm
-Het gaat
- volgens zign zeggen
-Maar het gaat niet met zijn zeggen
-===
-Het rode bangunbangun-kruid
-Is smakelijk wanneer het is gezuurd
-Hetgeen reeds uitgemaakt werd door de radja
-Mag men niet nog weer gaan wijzigen
 ===
 Hewan apa di tengah padang
 Makan mangsa tiada duduk
@@ -28826,13 +28784,10 @@ Anak seluang bercampur puyu
 Bila tiba musim kemarau
 Daunnya kering bunganya layu
 ===
-Ikan belida
- ikan sengarat
-Ikan gegerut
- ikan kikik
+Ikan belida ikan sengarat
+Ikan gegerut ikan kikik
 Bila dah tumbuh bulu pahat
-Jangan berpagut adik beradik
-Himpunan Pantun Melayu Pak Zek
+Jangan berpagut adik beradik (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan belukang serupa mayong
 Tidak bersisik tapi berduri
@@ -28969,30 +28924,20 @@ Dibawa dara ke Kota Lukut
 Hari Guru Hari Mulia
 Kenapa pula nak boikot?
 ===
-Ikan cencaru
- ikan pelata
-Ikan aya
- ikan demuduk
+Ikan cencaru ikan pelata
+Ikan aya ikan demuduk
 Dengan beribu dan berbapa
-Yang kita panggil datuk
-Himpunan Pantun Melayu Pak Zek
+Yang kita panggil datuk (Himpunan Pantun Melayu Pak Zek)
 ===
-Ikan cini
- ikan tenggalan
-Ikan kepar
- ikan toman
+Ikan cini ikan tenggalan
+Ikan kepar ikan toman
 Perkara ini jika berterusan
-Tentulah sukar mendapat aman
-Himpunan Pantun Melayu Pak Zek
+Tentulah sukar mendapat aman (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan cucut mandi di laut
 Ombak-ombak tergoyang buntut
 Andheng-andheng di atas mulut
 Orang mana mesthi kepencut
-Ikan cucut mandi di laut
-Ombak-ombak tergoyang buntut
-Tahi lalat di atas mulut
-Orang mana tak kan tertarik
 ===
 Ikan daheng di bula juga
 Tali tersangkot papan kamudi
@@ -29119,13 +29064,10 @@ Ikan tenggiri dimasak pindang
 Usah dicaci menantu orang
 Anak sendiri belum dipinang
 ===
-Ikan duri
- ikan lalat
-Ikan mina
- ikan betutu
+Ikan duri ikan lalat
+Ikan mina ikan betutu
 Wajiblah dicari sebelum terlambat
-Dengan bertanya orang yang tahu
-Himpunan Pantun Melayu Pak Zek
+Dengan bertanya orang yang tahu (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan duyung di laut biru
 Ikan impian dalam kenangan
@@ -29192,18 +29134,10 @@ Berenang ria di batu karang
 Orang lama lemah ingatan
 Maafkan saya apa yang kurang
 ===
-Ikan gelama
- ikan tiram
-Ikan duri
- ikan lalat
+Ikan gelama ikan tiram
+Ikan duri ikan lalat
 Bagi yang beragama Islam
-Wajiblah cari sebelum terlambat
-Himpunan Pantun Melayu Pak Zek
-===
-Ikan gerami banyak anaknya
-Anak Cina beli penganan
-Cempaka putih kebun Serani
-Batang kelapa buah padinya
+Wajiblah cari sebelum terlambat (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan goreng tolong panaskan
 Sudah panas suguh hidangkan
@@ -29420,13 +29354,10 @@ Banyak di kuala boleh dipilih
 Alhamdulillah kalau depa dapat
 Syukuri pula kalau kita yang boleh
 ===
-Ikan kelesa
- ikan toman
-Ikan gelama
- ikan pari
+Ikan kelesa ikan toman
+Ikan gelama ikan pari
 Masa itu hidupnya aman
-Berkejar-kejar ke sana ke mari
-Himpunan Pantun Melayu Pak Zek
+Berkejar-kejar ke sana ke mari (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan keli banyak sengat
 Baru di-kais dari bubu
@@ -29568,34 +29499,25 @@ Masak rempah asam pedada
 Bulan terang jangan direnung
 Hanya menambah pilu di dada
 ===
-Ikan lalang
- ikan haruan
-Ikan gelama
- ikan tiram
+Ikan lalang ikan haruan
+Ikan gelama ikan tiram
 Perkara yang dituntuti Tuhan
-Bagi yang beragama Islam
-Himpunan Pantun Melayu Pak Zek
+Bagi yang beragama Islam (Himpunan Pantun Melayu Pak Zek)
 ===
-Ikan lelemah
- ikan tamban
-Ikan demuduk
- ikan kerisi
+Ikan lelemah ikan tamban
+Ikan demuduk ikan kerisi
 Mengais tanah mencari makan
-Penuh kemuluk baharu berhenti
-Himpunan Pantun Melayu Pak Zek
+Penuh kemuluk baharu berhenti (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan lembat ikan belukang
 Ikan di simpan di dalam raga
 Walau lambat tinggal belakang
 Lama-lama ku tiba juga
 ===
-Ikan lenga
- ikan gelama
-Ikan selayang
- ikan pari susun
+Ikan lenga ikan gelama
+Ikan selayang ikan pari susun
 Sebelum datang yang lagi lima
-Sebagaimana yang disusun
-Himpunan Pantun Melayu Pak Zek
+Sebagaimana yang disusun (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan mabuk di Kali Mati
 Ambil panah dengan bangkainya
@@ -29627,13 +29549,10 @@ Mari di-isi ka-dalam perahu
 Daging murah gigi dah tanggal
 Tuan sudah tua gadis pun tak mahu
 ===
-Ikan mina
- ikan betutu
-Ikan todak
- ikan tenggiri
+Ikan mina ikan betutu
+Ikan todak ikan tenggiri
 Dengan bertanya orang yang tahu
-Jika tidak kita yang rugi
-Himpunan Pantun Melayu Pak Zek
+Jika tidak kita yang rugi (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan orang nangkanya ku
 Diam-diam pintu laksamana
@@ -29750,13 +29669,10 @@ Bawa belayar ke arah hilir
 Terpaksa telaga mencari timba
 Kalau dah air tuah membanjir
 ===
-Ikan pelaga
- ikan keli
-Ikan lalang
- ikan haruan
+Ikan pelaga ikan keli
+Ikan lalang ikan haruan
 Serta juga muhrim dan wali
-Perkara yang dituntuti Tuhan
-Himpunan Pantun Melayu Pak Zek
+Perkara yang dituntuti Tuhan (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan pelata di atas para
 Bawa bertatang untuk di salai
@@ -29993,13 +29909,10 @@ Tamu datang penuh balai
 Masuk bakul angkat sendiri
 Mabuk dipuji hingga lalai
 ===
-Ikan sebelah
- ikan petanda
-Ikan raya
- ikan pelata
+Ikan sebelah ikan petanda
+Ikan raya ikan pelata
 Bagi faedah bangsa dan nusa
-Kerana Bahasa Identiti Bangsa
-Himpunan Pantun Melayu Pak Zek
+Kerana Bahasa Identiti Bangsa (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan selangat banyak bertulang
 Isinya lemak digemar orang
@@ -30016,13 +29929,10 @@ Ikan jengkuar ikan pepuyu
 Sawar menyawar belat membelat
 Tuar menuar bubu membubu
 ===
-Ikan selat
- ikan sumpit
-Ikan raya
- ikan mudin
+Ikan selat ikan sumpit
+Ikan raya ikan mudin
 Masa sihat sebelum sakit
-Masa kaya sebelum miskin
-Himpunan Pantun Melayu Pak Zek
+Masa kaya sebelum miskin (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan selayang disangka senangin
 Tenggiri batang di mata joran
@@ -30324,13 +30234,10 @@ Pais dibungkus daun pisang
 Rindukan anak bawa menangis
 Ibu sunyi di pondok usang
 ===
-Ikan tamban
- ikan gelama
-Ikan lenga
- ikan gelama
+Ikan tamban ikan gelama
+Ikan lenga ikan gelama
 Pergunakan kesempatan yang lima
-Sebelum datang yang lagi lima
-Himpunan Pantun Melayu Pak Zek
+Sebelum datang yang lagi lima (Himpunan Pantun Melayu Pak Zek)
 ===
 Ikan tapah ikan pari
 Masak lemak daun turi
@@ -32335,14 +32242,6 @@ Jambatan baya tu lumban lobu
 U bolus baya amatean
 Arani pangarsak ni na marosu 
 ===
-Indalu pengitean
-Jambatan baya tu Lumban Lobu
-U bolus baya amatean
-Arani pangarsak ni na ma rosu
-On mada por ni roa tu tu amu on da
-Mangkuling ko ta ru so ra be
-Alahle 
-===
 Indang indang padi di Daik
 Padi di tanam kebun China
 Kalu ter-kenang budi adek
@@ -33019,14 +32918,6 @@ Besumpah sampeq bermalik-malik
 Lamun ta berpisah nendaq pada nagis
 Sengak jemak ta bedait malik
 ===
-Is de buffel alleen
- dan loeit hij
-Is zijn metgezel gekomen dan stoot hij
-(een mens is op gezelschap gesteld
- maar heeft hij 
-gezel-schap
- dan loopt het vaak op onenigheid uit)
-===
 Isa Romtie penulis muda
 Anak Kokos banyak berbakat
 Harus bersimpati sesama kita
@@ -33520,13 +33411,10 @@ Sudah masuk keliling tanah
 Baik disini baik di sana
 Kapitan juga yang bijaksana
 ===
-Itulah amalan
- itulah ikutan
+Itulah amalan itulah ikutan
 Kalau kita berjiwa satu
 Sikap harmonis menjadi anutan
 Semua bangsa perlu bersatu
-Puisi Melayu Lama: Pantun
-Di Bawah Satu Bendera
 ===
 Itulah asa namo Minangkabau
 Mauruik kaba turun tamurun
@@ -33637,14 +33525,6 @@ Nan bermain  ke Labuh Simpang.
 Pilin telinga erat-erat
 Saya miskin 'kan ditumpang.
 ===
-Iya solah
- sengaq mulena solah
-Ndeqna mule kame siq lain
-Mun sekolah pikirang sekolah
-Endaq bae pikirang siq lain
-Pantun Sasak
-Agama
-===
 Iyam-iyam pemagar lambu
 Lambu tumbuh meranjang-ranjang
 Diam malai buah hatiku
@@ -33684,14 +33564,6 @@ Izinkan aku menyembah Tuhanku
 Ujar Rasulullah kepada Aisyah
 Tak terkira berdetak kalbu
 Air mataku leleh membasah
-===
-Jaba jaba laiakan timua
-Jangan dibari timbaruang
-Jago jago si anu tidua
-Jangan dibari lalok surang
-Jaba Jaba layarkan timur
-Jangan diberi timbaruang
-Ban gun
 ===
 Jabar-Ail asal katanya
 Bahasa Sueyani itu bermula
@@ -33953,13 +33825,10 @@ Jala-jala ayam
 Sapa rupa cantek
 Dia oghnag pandang
 ===
-Jalak kelabu
- jalak unang
+Jalak kelabu jalak unang
 Patah gading belalai tumbuh
 Pesan nenek dengan moyang
-Kinantan suci jangan dibunuh
-Puisi Melayu Tradisional
-Adat dan Etika
+Kinantan suci jangan dibunuh (Puisi Melayu Tradisional) (Adat dan Etika)
 ===
 Jalak lenting namanya nyanyi
 Dibawa dengan langgam Melayu
@@ -36096,13 +35965,10 @@ Senga' takut leq dengan jogang
 Te besual ndaraq untung na
 Kalah menang pada na doang
 ===
-Jangkleq nangke
- jangkleq poku
+Jangkleq nangke jangkleq poku
 Keduaqna tekeleq leq paon
 Lamun da poyu bilin oku
-Ndaq lupaq ngirim surat bilang aton
-Pantun Sasak
-Perpisahan
+Ndaq lupaq ngirim surat bilang aton (Pantun Sasak) (Perpisahan)
 ===
 Jangko adat balabeh bari
 Lah patuik bamain undang
@@ -36864,13 +36730,10 @@ Opdat je er niet eens een zoete djeruk-vrucht in krijgt
 Je moet niet steeds zo blijven verlangen
 Opdat ook je ziel niet nog eens ziek wordt
 ===
-Je zegt
- dat je geen spinnewiel hebt
+Je zegt dat je geen spinnewiel hebt
 Maar te zien komt daar immers de pin voor het garen
-Je zegt
- dat je niets voor haar voelt
-Maar haar volgen doet in 't rond slechts je blik
-Pantun Kaum Batak
+Je zegt dat je niets voor haar voelt
+Maar haar volgen doet in 't rond slechts je blik (Pantun Kaum Batak)
 ===
 Jeit kelambi bakalne jarang
 Dendeng lupaq tolo'ang gaya
@@ -37490,13 +37353,10 @@ Laguk endak teme kopresi
 Ngumbe Indonesia gene makmur
 Lamun pemimpinne buek korupsi
 ===
-Jibrail
- mikail malaekat mulia
+Jibrail mikail malaekat mulia
 Isyarat sifat Jalal dan Jamal
 Izrail-israfil rupa pasangannya
-I'tibar sifat Qohhar dan Kamal
-PANTUN SARABA AMPAT (Bermuatan Ma&#039;rifat kepada Allah)
-Pantun Saraba Ampat
+I'tibar sifat Qohhar dan Kamal (PANTUN SARABA AMPAT) (Bermuatan Ma'rifat kepada Allah)
 ===
 Jibril datang membawa wahyu
 Bertempat di tanah Arab
@@ -39515,13 +39375,10 @@ Ramai orang kita Melayu
 Orang dengki dilaknat Allah
 Mulutnya manis pandai merayu
 ===
-Juga emas
- perak
- dan gangsa
+Juga emas perak dan gangsa
 Bukan jaminan kegembiraan perasaan
 Demi kepentingan semua bangsa
 Kita memerlukan bahasa kebangsaan
-Puisi Melayu Lama: Pantun
 ===
 Juga terisi berlian dan intan
 Batu akik di cermin dara
@@ -39853,14 +39710,6 @@ Tanam mari di pokok jati
 Jikalau hilang tuan ka kaseh 
 Di mana saya menchari ganti 
 ===
-Ka Kurai jalan ka Baliak
-Manampuah jalan baliku
-Ka rumah rajo di Ruhum
-Baukia bamego-mego
-Ibarat pulai bapangkek naiak
-Manusia bapangkek turun
-Maninggakan adat jo pusako
-===
 Ka ladang membli terong
 Kachang ada chili tidak
 Niat hati nak tembak burong
@@ -39870,10 +39719,11 @@ Ka lambah mamarang aka
 Taparang di buku buluah
 Labah basarang kito baka
 Ula baguluang kito bunuah
+===
 Ke lembah memarang akar
 Terparang akan buku buluh
 Lebah bersarang kita bakar
-War bergulung kita bunuh
+War bergulung kita bunuh (modify?)
 ===
 Ka lambah pai mambidiak
 Kanailah anak undam-undaman
@@ -41624,14 +41474,6 @@ Kain putih dari Serati
 Sangatlah harap hati kekanda
 Bagaikan putus rasanya hati.
 ===
-Kain kasa dari Belanda
-Kain putih dari Serati
-Pakaian anak raja Belanda
-Bagaikan putus rasanya hati
-Dari sebab perbuatan adinda.
-Sangatlah harap hati kakanda
-Bagailah putus rasanya hati
-===
 Kain kasa dari Juda
 Amek olay orang Sebrang
 Ringgit chuma chandaran saja
@@ -42056,9 +41898,11 @@ Kain putiah barendo perak
 Baolah naiak ka parahu
 Tampuah aia jangan bariak
 Nak nakhodo jangan tahu
+===
 Kain putih berenda perak
 Bawalah naik ke perahu
-Tempuh air
+Tempuh air jangan beriak
+Agar nakhoda jangan tahu
 ===
 Kain putiah jangan disembunyikan
 Kain pelekat dikampuhkan
@@ -50327,9 +50171,6 @@ Kalau tuan pergi ke Palembang
 Anak Jawa membakar arang
 Pelayaran tuan tidak menimbang
 Karam berdua basah seorang
-If my lover goes to Palembang
-Javanese girls will burn charcoal
-In this voyage
 ===
 Kalau tuan pergi ke Pancur
 Kalau tak mandi cuci muka
@@ -56604,13 +56445,10 @@ Haluan menuju ke tangah samudera
 Ilmu dan budi sama sejajar
 Hilang satu rosak semua
 ===
-Ke Jambi sudah
- ke Sumba sudah
-Cari cendana ke padang jati
+Ke Jambi sudah ke Sumba sudah
+Cari cendana ke padang jatin (modified)
 Berjanji sudah bersumpah sudah
 Tapi cintanya pada yang lain
-PANTUN DALAM LAGU
-PANTUN PENGIRING LAGU
 ===
 Ke kampung hulu jalan ke kiri
 Hendak dipesan membeli tikar
