@@ -87,6 +87,7 @@ Cino barajuik kapalonyo
 Ulando pulang ka nagari
 Kok tak tasangkuik dianggono
 Bara nio tuan kami bali
+===
 Cina berajut kepalanya
 Belanda pulang ke negeri
 Jika tak tersangkut kerana harga
@@ -101,6 +102,7 @@ Cinto-cinto di dalam parak
 Inggiran balam panjang ikua
 Kalau tacinto bao galak
 Sabuik namonyo bao tidua
+===
 Cinta-cinta di dalam parak
 Tempat bertengger balam panjang ekor
 Kalau tercinta bawalah gelak 
@@ -110,6 +112,7 @@ Cipire mrambat kawat
 Godhong bendha kentir kali
 Gak mampir nek ketok liwat
 Wis lega rasane ati
+===
 Buah kecipir merambat-rambat
 Daun bendha hanyut di kali
 Biar tak singgah asalkan lewat
@@ -404,6 +407,7 @@ Cubadak duo satali
 Gandang nan duo salabuhan
 Siriah galak pinang manari
 Sadah marantak di kapuran
+===
 Cempedak dua setali
 Gendang dua selabuhan
 Sirih galak pinang menari
@@ -418,6 +422,7 @@ Cubadak tanam daulu
 Tanam dibaliak jawi jawi
 Kok taragak tahan daulu
 Mananti sabulan sapuluah ari
+===
 Cempedak tanam dahulu
 Tanam di balik jawi jawi
 Kalau rindu tahanlah dahulu
@@ -502,6 +507,7 @@ Cuit-cuit pandai
 Elalang jungkit-jungkit
 Ecuit dengan pandai
 Aagak dengan kuungkit-ungkit
+===
 Bercuit-cuit pandai
 Belalang jungkit jungkit
 Bercuit engkau pandai
@@ -581,10 +587,6 @@ Cut Nati rajo di Aceh
 Disangko anak rajo Judah
 Mukasuik ati alah lapeh
 Sangketo mato alun lah sudah
-Cut Nati raja di Aceh
-Disangka anak raja Judah
-Maksud hati sudah puas
-Sengketa mata belumlah sudah
 ===
 Dadahan cacah bergula
 Bakul-bakul beri bertali
@@ -723,19 +725,13 @@ Tetamu dijemput hilang ramah
 ===
 Dahan melampai ke belukar
 Ditanam oleh raja yang sakti
-Permata intan dari kompeni
-Hancur luluh rasanya hati
-Entah-entah dengan begini.
-Permata intan dari kompeni
-Hancur luluh rasanya hati
-Entah-entah dengan begini.
 Bunga dililit ular yang besar
 Sangatlah gundah di dalam hati
 ===
 Dahan melampaui ke belukar
 Ditanam oleh raja yang sakti
 Adikku duduk di tempat sukar
-Sangatlah gundah di dalam hati.
+Sangatlah gundah di dalam hati
 ===
 Dahan melempai ke belukar 
 Ditanam oleh raja yang sakti 
@@ -1028,15 +1024,6 @@ Kalau oghang tutoh
 Kita naek bengang
 ===
 Dalam kandungan ayahnya meninggal
-Burung pipit banyak di sawah
-Ibunya tegar menghadapi kenyataan
-Terbang berkawan merusak padi
-Karena kaumnya kabilah terkenal
-Orang gelandangan hidup berkawan
-Abdul Mutallib sungguh disegan
-Bakal penjahat atau pencuri
-===
-Dalam kandungan ayahnya meninggal
 Ibunya tegar menghadapi kenyataan
 Karena kaumnya kabilah terkenal
 Abdul Mutallib sungguh disegan
@@ -1145,10 +1132,6 @@ Dalam panggung kita pemain
 Menyanyi dan menari
 Pegang peranan orang lain
 Kita kenali diri sendiri
-On the stage we're the actors and actresses
-Singing dancing and performing the best
-Acting roles on the behalf of others
-We truly learn the skill ourselves
 ===
 Dalam pasar banyak jualan
 Ada buah ada sayuran
@@ -1204,10 +1187,6 @@ Dalam rumah anak beranak
 Luar rumah beradik kakak
 Ada susah pikul bersama
 Ada suka bagi merata
-At home they are children in family
-Outside they are brothers and sisters
-Share the burdens and carry them together
-Share happiness with everyone
 ===
 Dalam rumah hidup besama
 Dinding batas tiap ruangan
@@ -1358,6 +1337,7 @@ Dalimo di tangah sawah
 Antaro sasuak jo rimbo
 Lah tibo badan di rumah
 Tagah tidak barang dibawo
+===
 Delima di tengah sawah
 Antara kebun dengan rimba
 Telah sampai badan di rumah
@@ -2845,12 +2825,6 @@ Telan tak lepas mati tersangkut
 ===
 Dari bulang berjalan pantai
 Ikan dikupas dengan tangan
-Dipuput bayu seri medan
-Intan terlepas dari tangan
-Terlucut baju dari badan.
-Dipuput bayu seri medan
-Intan terlepas dari tangan
-Terlucut baju dari badan.
 Ambil bulang lalu dipakai
 Intan terlepas dari tangan
 ===
@@ -4008,10 +3982,6 @@ Dari Lalong masuak ka Kandih
 Lah sanjo masuak ka Nanggalo
 Baa lo mandeh ndak manangih
 Sadang bansaik tamu tibo
-Dari Lalong masuk ke Kandis
-Sudah senja masuk ke Nanggalo
-Bagaimana ibu tak kan menangis
-Sedang miskin tamu datang
 ===
 Dari Lamir pergi ke Balok
 Pergi singgah di Teluk Sisik
@@ -4047,6 +4017,7 @@ Dari Langkat ka Batu Baro
 Pulau Pandan sayo kirimkan
 Kok dapek budi jo baso
 Badan jo nyawo sayo barikan
+===
 Dari Langkat ke Batu Bara
 Pulau Pandan saya kirimkan
 Kalau dapat budi bahasa
@@ -4157,15 +4128,6 @@ Singgah mencandik di Pasir Purun
 Tulis menulis karang mengarang
 Syair menyair pantun memantun
 ===
-Dari Lolong masuak ka kandih
-Babao suto tarang bulan
-Oto mamotong tabiang tinggi
-Tacenggak masuak kota Medan
-Dari Lalong masuk ke Kandis
-Dibawa sutra terang bulan
-Mobil melewat Tebing Tinggi
-Tampak jelas kota Medan
-===
 Dari Lombok ke Sumbawa
 Bawa tembakau Sidikalang
 Untung kemana hendak kubawa
@@ -4200,15 +4162,6 @@ Dari Lutong berjalan ka Miri
 Singgih Piasau membeli lada
 Mencari untong akhirnya rugi
 Tuan perantau memang tak ada
-===
-Dari Mahek ka Limau Abuang
-Nak lalu ka Padang Gantiang
-Gulailah paek jo baliuang
-Ambiak parancah ulu ladiang
-Dari Mahek ke Limau Abuang
-Hendak lalu ke Padang Gantiang
-Gulailah pahat dengan beliung
-Ambil campurannya hulu lading
 ===
 Dari Makasar ke Bukit Mertajam
 Ke negeri Perlis membeli badik
@@ -4579,6 +4532,7 @@ Dari mano punai malayang
 Dari kayu turun ka padi
 Dari mano kasiah sayang
 Dari mato turun ka ati
+===
 Dari mana punai melayang
 Dari kayu turun ke padi
 Dari mana kasih sayang
@@ -5438,10 +5392,6 @@ Dari rumah naik sepeda
 Pulang kembali di waktu senja
 Mata awas siap waspada
 Jalan raya rawan bahaya
-Bikes riding off from home
-Returning back at twilight
-Watch out and take the full precaution
-Streets are sensible but full of danger
 ===
 Dari rumah pi ke kedai
 Makan nasik berpinggan-pinggan
@@ -5482,10 +5432,6 @@ Dari Salasa ka Rabaa
 Singgah ka pakan rang Pitalah
 Kabek arek bapantang tangga
 Antah kok simpai nan baralah
-Dari Selasa ke Rabaa
-Singgah ke pekan rang Pitalah
-Ikatan erat berpantang tanggal
-Entah kalau simpai yang beralah
 ===
 Dari Salemba ke Tanah Abang
 Singgah sebentar membeli madu
@@ -6046,6 +5992,7 @@ Dari taratak ka taratai
 Ka pakan mambali lado
 Mancaliak lamang jo kalamai
 Bagolek-golek pisang rajo
+===
 Dari teretak ke teratai
 Ke pekan membeli lada
 Melihat lemang dengan gelamai
@@ -6631,15 +6578,6 @@ Puan bernama Nara Taru
 Badan nin hampir akan merana 
 Di dalam dada bagai digaru
 ===
-Datang kulindan dari Cino
-Buatan jambak jambu urang
-Di Ruhun bapatamukan
-Lah sudah mangko dipakai
-Lorong kapado dang sadahnyo
-Sadahnyo langkitang gadang
-Babasuah jo pati santan
-Bakipeh jo ambai-ambai
-===
 Datang kumbang menghisap madu
 Dari pelbagai jenis bunga
 Mudah masyarakat bersatu padu
@@ -7024,19 +6962,6 @@ Datuk tiba berkalang
 Minyak dalam piring
 Bila datuk berjalan
 Banyak orang iring
-===
-Daturunkan padi di rangkiang
-Handak ditumbuak dipabareh
-Dijamua di laman data
-Ditumbuak buang kuliknyo
-Lalu ditampi pulo dahulu
-Di sinan bareh mangko manjadi
-Kalau maukua samo panjang
-Jikok manimbang samo barek
-Bajalan luruih bakato bana
-Malatakkan sasuatu di tampeknyo
-Itu nan cupak di panghulu
-Mamimpin kaum dalam nagari
 ===
 Dau oghang bini
 Dok sana-sini
@@ -7953,15 +7878,6 @@ Sayang engkodok di sawah padi
 Tuan tamisil buah ranum
 Semakin dijuluk semakin tinggi
 ===
-Daun siriah ka kusuak mandi
-Bapantang ratak jo retai
-Bagagang indak babuku
-Barantiang indak bacabang
-Basatu saikek nan bak lidi
-Kalau sarumpun nan bak sarai
-Jokok salubang nan bak tabu
-Misa satanan nan bak pisang
-===
 Daun sirih akar patawali
 Ubat penawar sakit gigi
 Jenuh dinasihat masih lali
@@ -8731,6 +8647,7 @@ Den indang bareh rang Tiku
 Den indang dipadaraikan
 Basilang karih di pintu
 Adiak nan tidak dicaraikan
+===
 Kuindang beras rang Tiku
 Kuindang langsung dideraikan
 Bersilang keris di pintu
@@ -8745,6 +8662,7 @@ Den tabang dadok baduri
 Rabahnyo ka rumpun kincuang
 Ari paneh alang babunyi
 Raso di pasa Sijunjuang
+===
 Saya tebang dedap berduri
 Rebahnya ke rumpun kincung
 Hari papas elang berbunyi
@@ -9410,15 +9328,6 @@ Ombak gelora tinggi menjulang
 Pemikiran latural era baru
 Bertindak mara bagi cemerlang
 ===
-Detik akhir hidup Nabi
-Masak nasi di atas tungku
-Semua sahabat merasa haru
-Nasi mentah kaynya basah
-Betapa tidak bersedih hati
-Kawin bocah masih luguh
-Karena Nabi segala penghulu
-Tidur melulu malas usaha
-===
 Dewa angkasa edar berperang 
 Dang Teja berladang padi
 Tidak kuasa berdendam seorang 
@@ -9578,6 +9487,7 @@ Di Ambon banyak anjalai
 Di Malako tumbuah ureknyo
 Di dunia kito bacarai
 Di akhirat mako basuo
+===
 Di Ambon banyak enjelai
 Di Melaka tumbuh uratnya
 Di dunia kita bercerai
@@ -10117,6 +10027,7 @@ Di kali-kali urek usa
 Takali urek pisang lidih
 Apo katenggang nago basa
 Lauik diampang ula lidih
+===
 Di gali-gali urat usa
 Tergali urat pisang lidi
 Apalah tenggang naga besar
@@ -10176,10 +10087,6 @@ Di kolam air tenang
 Berenang peri berambut ikal
 Jika ingin tenggelam
 Jangan mandi di air dangkal
-In the pond the water is still
-Fairies swim with curly hair
-If you're truly wish to sink
-Do not swim in shallow water
 ===
 Di kolam berenang itik
 Ayam jantan naik di dahan
@@ -10200,15 +10107,6 @@ Di kota Kudus terkenal soto
 Soto dimakan dengan kuahnya
 Gadis Minang
  Mojang Priangan
-===
-Di Koto Laweh Ampek Angkek
-Tumangguang Putiah niniak usali
-Nan basasap bajarami
-Nan tacelak tampak jauah
-Manolah undang nan ampek
-Undang luhak undang nagari
-Undang-undang dalam nagari
-Dan undang-undang nan duo puluah 
 ===
 Di kuala keruh di hulu tenang
 Senang berkayu pergi ke surau
@@ -10774,6 +10672,7 @@ Di rimbo banyak lulito
 Ambiak sabatang ka pamenan
 Pasan ajo sayo tarimo
 Insya-Allah sayo palakukan
+===
 Di rimba banyak lolita
 Ambil sebatang untuk mainan
 Pesan abang saya terima
@@ -11019,15 +10918,6 @@ Tempat tinggal Ony Latiffah
 Cintaku benar dan bukan melencong
 Kasihku tunggal tidak diupah.
 ===
-Di sikolah dandang balayia
-Di tangah lauik nan gadang
-Lauik sati baharulah
-Dekek pasisia tanah Tiku
-Sarato koto kaduonyo
-Layia nan tujuah lah takanak
-Panji marawa lah tapasang
-Dandang manuju tanah Makah
-===
 Di Simpang Enam kita bersua
 Muka berpandang kita tergamam
 Ayahku sudah beransur tua
@@ -11052,15 +10942,6 @@ Di sini bemban saya tugalkan
 Anak Keling dari Melaka
 Di sini dendam kanda tinggalkan
 Antara kening dengan mata
-===
-Di sini dendang belayar
-Di tengah laut yang luas
-Laut sakti berolak
-Dekat pesisir tanah tiku
-Serata kata keduanya
-Layar yang tujuh lah terkenak
-Panji marawa lah terpasang
-Dendang menuju tanah mekah
 ===
 Di sini khoja di sana khoja
 Sama-sama berjual kain
@@ -11126,6 +11007,7 @@ Di tabang nibuang panggali ubi
 Lupak-lupak di dalam puan
 Tabang buruang manggungguang kunci
 Kunci pambukak ati tuan
+===
 Tebang nibung penggali ubi
 Berlekuk-lekuk di dalam puan
 Terbang burung membawa kunci
@@ -11496,15 +11378,6 @@ Dia ultopmu?
 Dia hatamu?
 Dia nidokmu?
 ===
-Dia tersebar dan tersiar
-Tapi ia tidak terkenang di hatiku
-Dia tak tersiar
-Tetapi dialah yang mengisi relung-relung hatiku
-Ia lele ia larra
-Ia tandi ate u
-Ia tallarra
-Ia mo di ate u
-===
 Diadap oleh anak bendahara 
 la bernama Siti Maimunah 
 Dengan orang jangan ketara 
@@ -11749,10 +11622,6 @@ Dibahan tidak tabahan
 Balam nan tidak talambuangkan
 Ditahan tidak tatahan
 Malam nan tidak tatiduakan
-Dibelah tidak terbelah
-Balam tidak terlambungkan
-Ditahan tidak tertahan
-Malam nan tidak tertidurkan
 ===
 Dibakar cair itulah emas
 Seurat benang emas tak susut
@@ -11773,10 +11642,6 @@ Dibalah lauik dibandakan
 Di baruah pandan mangupayo
 Dibalah paruik mambanakan
 Tagah dek tuan tak picayo
-Dibelah laut dibendarkan
-Di baruh pandan sedang tumbuh
-Dibelah perut untuk membenarkan
-Tapi tuan tak percaya
 ===
 Dibalah-balah dpatigo
 Siruik pambalah rotan
@@ -12217,21 +12082,11 @@ Dibukak peti bagewang
 Sambilan anak tanggonyo
 Janganlah ati dipacewang
 Nantikan ari kutikonyo
+===
 Dibuka peti bergewang
 Sembilan anak tangganya
 Janganlah hati menjadi bimbang
 Nantikan saja hari ketikanya
-===
-Dibukak tambo nan dahulu
-Tambo sajarah alam Minang
-Tumangguang Putiah niniak nan turun
-Di Koto Laweh Pandai Sikek
-Dalam daerah VI Koto
-Hormatlah hambo ka panghulu
-Niniak jo mamak nan saundang
-Undang nan turun tamurun
-Pusako jawek bajawek
-Sampai sakarang kini nangko
 ===
 Dibungkus dengan kain paraca
 Mati dipanah oleh Hanuman
@@ -12242,6 +12097,7 @@ Dicabiak kain dibali
 Dielo tangah tiga eto
 Minta tabik kami banyanyi
 Paja ketek kurang pareso
+===
 Dicabik kain dibeli
 Dihela tengah tiga hasta
 Minta tabik kami bernyanyi
@@ -12256,6 +12112,7 @@ Dicancang rabuang ditumisi
 Anak gumilang kamarayok
 Di pandang gunuang ditangisi
 Nak tabang indak basayok
+===
 Di cincang rebung ditumisi
 Anak gemilang akan merayap
 Di pandang gunung ditangisi
@@ -12411,15 +12268,6 @@ Digali lalu ditimbuni
 Dikaji-kaji untung badan
 Dikaji lalu ditangisi.
 ===
-Digantiah urang baparuah
-Ditanun anak mudo-mudo
-Kain banamo kain biludu
-Saluak aka silang basilang
-Nan binguang disuruah-suruah
-Cadiak pandai bakeh baiyo
-Cadiak pandai bakeh baguru
-Nan kayo tampek batenggang
-===
 Digatok padi nyato lah masiak
 Lalu diangkuik ka dakek lasuang
 Lasuangnyo batu balariak
@@ -12499,15 +12347,6 @@ Dihitung banyak tidak terkira
 Apabila dijumlahkan jadi satu
 Melompat ia seperti kera
 Hanya tak pandai memanjat pintu
-===
-Diibaratkan bulan yang gelap gulita
-Yang tidak di bawah dan tidak pula di atas
-Begitulah juga
-Gelisahnya hatiku
-Rapang bulang tepu lotong
-Tandiong tandiaya
-Sitteng mi todiq
-Tarrarena nyawau
 ===
 Diikat kata tandanya suka
 Janji dikota kasih sejati
@@ -12593,10 +12432,6 @@ Dijunjung pada pengapit
 Kiranya anak pasangan
 Didukung pada orang sakit
 Kiranya orang kekenyangan
-Carried on the head are two separate bundles
-It seems to be the babies are twin
-Carried on the back of a sick man
-It seems he's been too full in his belly
 ===
 Dik ribut rebahlah padi
 Dik cupak Datuk Temenggung
@@ -12607,6 +12442,7 @@ Dikaik daun sapalapah
 Ditinggakan sapaduo
 Tujuah ratuih urang managah
 Sakandak kita baduo
+===
 Dikait daun sepelepah
 Ditinggalkan seperdua
 Tujuh ratus orang mencegah
@@ -12711,6 +12547,7 @@ Dikarek rotan dilabiahkan
 Dikarek lalu ka ureknyo
 Padiah rangkungan minum santan
 Ambiaklah racun kan ubeknyo
+===
 Dikerat rotan dilebihkan
 Dikerat sampai ke akarnya
 Pedih rengkung meminum santan
@@ -12805,6 +12642,7 @@ Dikukuik karak di kuali
 Lalu ka lauik diranangkan
 Usah disabuik duo kali
 Maramang bulu mandangakan
+===
 Dikikis kerak di kuali
 Lalu ke laut direnangkan
 Usah disebut dua kali
@@ -12881,10 +12719,9 @@ Barang yang murah dihina jangan
 Nampak buruk bertahan lama
 ===
 Dimakan orang dari medan
-Ikan berenang dalam tebat.
+Ikan berenang dalam tebat
 Jangan saya dipermainkan
 Jika ingin kirimlah surat
-
 ===
 Dimakan orang pagi petang
 Bijinya dicampak dalam perigi
@@ -13056,15 +12893,6 @@ Indahnya desa bulan purnama
 Apa peduli bahasa terbiar
 Pangkat dan harta lebih utama
 ===
-Dinihari melawat pesara
-Bawa merbah bersama nanas
-Nanas diletak tepi belanga
-Belanga China bersalut arang
-Benih ku cari disemai mesra
-Semaian bercambah menjelma tunas
-Kemudian subur indah berbunga
-Malangnya bunga digetu orang
-===
 Dinihari mengangkut air
 Air basuhan karangan laut
 Berhari-hari hujan membanjir
@@ -13159,6 +12987,7 @@ Dipandang pinang bagayuik
 Digigik mumbang badarai
 Dipandang gunuang Hang lupuik
 Alamat badan nak bacarai
+===
 Dipandang pinang bergayut
 Digigit mumbang berderai
 Dipandang gunung hilang luput
@@ -13193,6 +13022,7 @@ Dipatah tidak tapatah
 Dirangkuah baduo-duo
 Ditagah tidak tatagah
 Den suruh pailah juo
+===
 Dipatah tidak terpatah
 Direngkuh berdua-dua
 Dicegah tidak tercegah
@@ -13312,6 +13142,7 @@ Dirajah dirancang talang
 Daun limau den ruruki
 Kok santano bak alang tabang
 Ka langit ij au den turuti
+===
 Dirajah dirancang talang
 Daun limau aku luruhi
 Walau bagai elang terbang 
@@ -13401,6 +13232,7 @@ Dirueh-rueh batang jaguang
 Dirueh lalu ka ujuangnyo
 Puehlah ati mandeh kanduang
 Anak lah Hang jo lakunyo
+===
 Diruas-ruas batang jagung
 Diruas lalu ke ujungnya
 Puaslah hati ibu kandung
@@ -13505,6 +13337,7 @@ Disangko bulek buah nipah
 Kironyo bulek ampek sagi
 Di sayo tidak ka barubah
 Antah kok adiak duo ati
+===
 Disangka bulat buah nipah
 Rupanya bulat empat segi
 Pada saya tidakkan berubah
@@ -13649,32 +13482,11 @@ Ditabang batuang ka colok
 Bari batampan ka anamnyo
 Kok tak jadi buruang manyasok
 Mangguguah sajo di dahannyo
-Ditebang betung buat colok
-Dihias dengan ke-enamnya
-Kalau tak jadi burung menghisap
-Memukul-mukul saja di dahannya
 ===
 Ditabang batuang limo anam
 Sutan di Ruhum diraoknyo
 Tandonyo buruang ka j ahanam
 Bungo baracun disasoknyo
-===
-Ditabang tarok di jarami
-Linjuang tumbuah ateh dulang
-Tumbuah jirak di Pariaman
-Digungguang dibaok tabang
-Apa diarok pado kami
-Arok di ameh tak baruang
-Arok di rupo tak batampan
-Dagang tabuang kato urang
-Ditebang tarok di jerami
-Linjuang tumbuh di atas dulang
-Tumbuh jarak di Pariaman
-Digunggung dibawa terbang
-Apa diharapkan kepada kami
-Harap akan emas tak berwang
-Harap akan rupa tak bertampan
-Dagang terbuang kata orang
 ===
 Ditafsirkan oleh ulama sejati
 Seperti Ash-Shafie dan Al-Ghazali
@@ -13740,6 +13552,7 @@ Ditarah puntuang nan bakelok
 Madang di lurah rapuah badan
 Dikatokan untuang nan tak elok
 Pintak jo pinto basalahan
+===
 Ditarah puntung yang berkelok
 Medang di lurah rapuh badan
 Dikatakan untung yang tak elok
@@ -13754,17 +13567,6 @@ Di-tatah dengan chermin China
 Berkambi lagi bersengkuap
 Mengerjakan titah sa-hina dina
 Sa-isi negeri menjunjong sawab
-===
-Ditatah sarat bunga kondai
-Bertikam berhulu gading
-Terang bertirai sutra
-Bersulam bersuji manik
-Renda beri berturab
-Kebesaran basa nan empat balai
-Tuan pagi dipandang ganting
-Tuan indomo ada dimana
-Datuk Machudun di Simanik
-Bendara di Sungai Tarab
 ===
 Ditebang betung lima enam
 Sutan di Ruhum ditimpanya
@@ -13820,15 +13622,6 @@ Ditenun kain berukir
 Berjambul kelindan sutera
 Kiriman raja dari Bantan
 Benang emas buatan China
-===
-Ditenun kain berukir
-Berjambul kelindan sutera
-Kiriman raja dari Bantan
-Benang emas buatan Cina
-Minta kami segala yang hadir 
-Kepada jenang dan juara
-Baiklah kita sama makan
-Kerana hendak bersuka-suka
 ===
 Ditenun kain dengan kapas
 Bermacam-macam warna ragi
@@ -13899,6 +13692,7 @@ Dititih batang bingkuang
 Dipapek rang Pahambatan
 Maah bapitih tigo uang
 Dapeklah buah manggih utan
+===
 Dititi batang bengkuang
 Dipepat orang Pahambatan
 Berikan duit tiga uang
@@ -13908,6 +13702,7 @@ Dititih titian tigo
 Dititih badariak dariak
 Tiok malam rasian tibo
 Lai maraso bakeh adiak
+===
 Dititi titian tiga
 Diinjak berderik-derik
 Tiap malam mimpi tiba
@@ -14752,10 +14547,6 @@ Dua mata untuk memandang
 Jauh jarak tak terkira
 Tuhan tak berubah dengan sembahyang
 Manusia harus pasrah
-The two eyes looking far away
-Distance can truly be unmeasured
-God will not be changed by prayer
-Human being just have to be self-surrendered
 ===
 Dua merpati terbang pulang
 Jantan di kanan betina di kiri
@@ -15761,6 +15552,7 @@ Dunia badunia urang Singgalang
 Manembak buruang tabang tinggi
 Mangandakan dadiah unto jalang
 Balun ka dapek musim kini
+===
 Dunia berdunia orang Singgalang
 Menembak burung terbang tinggi
 Menginginkan dadih unta jalang
@@ -15771,46 +15563,11 @@ Caranya dengan mengamalkan ilmu
 Dunia diraih apa yang di karuniakan
 Akhirat di isi ibadah tak jemu-jemu
 ===
-Dunia janganlah dulu tenggelam
-Dan janganlah dulu kiamat
-Sebelum terbayar
-Jasa-jasa baikmu
-Dunia da pao tallang
-Lino da o keamaq
-Bayarang pai
-Paqmaiq mapiammu
-===
-Dunia persegi empat
-Dan empat juga sudutnya
-Sungguh sayang aku sendiri hina
-Di tengah-tengahnya
-Appeq i sulapaq lino
-Appe tomi siqunna
-Sisaqu tuna
-Di lalang-ditangngana
-===
-Dunia persegi empat
-Empat juga sudutnya
-Anda sendirilah yang patut
-Berada di tengah-tengahnya
-Appeq i sulapaq lino
-Appeq tomi siqunna
-Sisammu maka
-Di lalang ditangngana
-===
-Dunia sudah serba salah
-Aku sudah tak mau menempatinya lagi
-Karena tidak ku kenal
-Jasa-jasa baikmu
-Lino lao sala tomi
-Moka maq maq oro i
-Iqda u issang
-Paq maiq mapiammu
-===
 Duo kali den ka Batipuah
 Dapek pirangko duo-duo
 Duo kali den kanai kicuah
 Den etong balabo juo
+===
 Dua kali saya ke Batipuh
 Dapat perangko dua-dua
 Dua kali saya dikecoh
@@ -16125,6 +15882,7 @@ Elok badeta kasumbo
 Saeto panjang jumbainyo
 Elok kito samo kito
 Jo urang banyak tikainyo
+===
 Elok berdestar kesumba
 Sehasta panjang jumbainya
 Elok kita sama kita
@@ -16154,10 +15912,11 @@ Elok barumah tapi tabiang
 Payokumbuah rampak juo
 Elok barumah buluah nan sumbiang
 Rusuah bak cando galak juo
+===
 Elok berumah di tepi tebing
 Payakumbuh rampak jua
 Elok berumah buluh yang sumbing
-Meskipun rusuh
+Meskipun rusuh bagai gelak jua
 ===
 Elok belat dapatlah ikan
 Dapat dijual penambah belanja
@@ -16333,10 +16092,6 @@ Elok jalannya kota tua
 Kiri kanan berbatang sepat
 Elok berbini orang tua
 Perut kenyang pengajar dapat
-A nice road enters the old city
-Left and right covered with 'tree-crown'
-It's great to marry an old lady
-Full stomach always and a teacher to learn
 ===
 Elok jalannya kota tua
 Kiri kanan berbatang sepat
@@ -16552,6 +16307,7 @@ Elok lenggangnyo ruku-ruku
 Malampai-lampai ka durian
 Elok lenggangnyo nan daulu
 Lamah sumampai nan kudian
+===
 Elok lenggangnya ruku-ruku
 Menjulai julai ke durian
 Elok lenggangnya yang dahulu
@@ -16971,6 +16727,7 @@ Elok-elok mamancuang talang
 Jan tapancuang talang mudo
 Elok-elok tagak sumbayang
 Jan tabaco rantak kudo
+===
 Hati-hati memancung talang
 Jangan terpancung talang muda
 Elok-elok tegak sembahyang
@@ -17031,26 +16788,15 @@ Samantaro padi alun masak
 Nan kurang nambek dibuang
 Sabalun dapek ganti nan rancak
 ===
-Eloklah bapadi saganggam
-Asa leh jo sanang hati
-Dari bapadi salumbuang
-Tapi jo susah hati
-Rancak hiduik leh sanang diam
-Kurang makan dapek dicari
-Daripado kayo padi balumbuang
-Tapi seso patang jo pagi
-===
 Eloklah baputiah tulang
 Daripado baputiah mato
 Bia mati hati leh sanang
 Pado malu datang manimpo
 ===
-eloklah buah kayu meranti
-dahannya lebat jejak ke tanah
-eloklah tuah Melayu jati
-berkorban ingat kepada Allah
-
-Ikhlas dan Rela Berkorban
+Eloklah buah kayu meranti
+Dahannya lebat jejak ke tanah
+Eloklah tuah Melayu jati
+Berkorban ingat kepada Allah (Ikhlas dan Rela Berkorban)
 ===
 Eloklah eloknak mrendang cendawan
 Basah sedikit rendam sekali
@@ -17226,10 +16972,6 @@ Emas murni boleh diuji
 Dibakar dipanas api
 Sumpah setia pada janji
 Apa pun akan terjadi
-Pure gold should surely be tested
-Burning blue on a bright fire
-Promises based on oath allegiance
-Whatever is going to occur
 ===
 Emas murni karat terukur
 Bersinar bagus cahaya menebar
@@ -17580,28 +17322,6 @@ Empat sekawan burung merpati
 Panah menancap di dalam sarang
 Penat saja hamba menanti
 Bunga mekar disunting orang.
-===
-Empat simpang Kampung Kalawi
-Jambatan panjang ke Lumbuak
-Kalau ke atas ke Kampung lalang
-Berkelok jalan ke Anduriang
-Kalau lurus masuk pergi ke Alai
-Dari Alai terus ke Gunung
-Ke Lapai jalan Ulak Karang
-Berdesir-desir bunyi ombak
-Memukat anak orang di Puruih
-Dapat ikan si balanak
-Campur jo lauk pandan-pandan
-Kalau balik nasib kini
-Hati risau papaham tertumbuk
-Menangis bunda nak sam seorang
-Senget siapa akan membilai
-Membuang pandang ke bunda kandung
-Kain sehelai kering di pinggang
-Nyata berninik mamak tidak
-Gurun habis taruko hangus
-Luluh cair permatang lunak
-Sawang ada tempat bergantung
 ===
 Empat terombok pituk
 Jari solas angka temauk sino
@@ -18872,6 +18592,7 @@ Gadang jambatan kadai gadang
 Tampek mangaia basi-basi
 Sabab kami lambek datang
 Datang rasian dalam mimpi
+===
 Besar jambatan kedai gedang
 Tempat mengail besi-besi
 Sebab kami lam bat datang
@@ -18881,6 +18602,7 @@ Gadang jambatan Sidempuan
 Nampak sarumpun kayu aro
 Gadang makasuik pado taulan
 Taulan tak namuah apo ka dayo
+===
 Besar jembatan Sidempuan
 Tampak serumpun kayu ara
 Besar maksud kepada taulan
@@ -18900,6 +18622,7 @@ Gadang taluak mambang cumangko
 Padi baluruik sampai siang
 Ati dikutuak mato calako
 Takana juo di nan Hang
+===
 Besar teluk mambang semangka
 Padi diluruh sampai siang
 Had dikutuk mata celaka
@@ -18919,6 +18642,7 @@ Gadanglah aia Batang Masang
 Anyuiklah gagang siriah utan
 Upeklah kami gadang-gadang 
 Indak tabaleh guno tolan
+===
 Besarlah air Batang Masang
 Hanyutlah gagang sirih hutan
 Umpatlah kami terang-terang 
@@ -18928,6 +18652,7 @@ Gadanglah aia lauik Sumpu
 Anyuiklah udang jo kakinyo
 Ya Allah ya Tuhanku
 Bacarailah urang jo lakinyo
+===
 Besarlah air laut Sumpu
 Hanyutlah udang serta kakinya
 Ya Allah ya Tuhanku
@@ -18937,6 +18662,7 @@ Gadanglah aia si Antokan
 Anyuik parian buluah apo
 Salamo ajo bajalan
 Sayo maurai aia mato
+===
 Besarlah air si Antokan 
 Hanyut perian buluh apo
 Selama abang berjalan
@@ -19076,6 +18802,7 @@ Gaduang di baliak limau puruik
 Tampak nan dari Sungai Landai
 Ka mano kanduang ka manuruik
 Nyatolah kami dagang sangsai
+===
 Gedung di balik limau purut
 Tampak dari Sungai Landai
 Ke mana kandung akan turut
@@ -19610,10 +19337,6 @@ Ganjang jojat ni hoda
 Sai tahutuk do oloan
 Manang behape balge ni hata
 Sai uhum pansohotan
-Panjang talu kekang kuda
-Selalu tapal yang dituruti
-Biar bagaimana punn besarnya kata
-Selalu hukumlah penyelesaiannya
 ===
 Ganjaran menulis sungguh berharga
 Surat penerimaan pun sudah menggembira 
@@ -19624,6 +19347,7 @@ Ganjo ditanam rang subarang
 Gulinggang dalam padi Jambi
 Manjo di ati adiak surang
 Tidak manenggang ati kami
+===
 Ganja ditanam orang seberang
 Gelinggang dalam padi Jambi
 Manja di hati adik seorang
@@ -19769,13 +19493,10 @@ Badan digosok sabut kelapa
 Bebas bukan hilang pedoman
 Bena tak bena janji dilupa
 ===
-Gauli
- ya gauli
-Gauli
- ya gaulkan
+Gauli ya gauli
+Gauli ya gaulkan
 Adik main goli
 Abangnya payungkan
-
 ===
 Gayong aiq nyosok aren 
 Beli bakak leq Amaq Sahmu
@@ -19851,6 +19572,7 @@ Gedhang raja dibacok ancleng
 Pupuse ngge buntel tempe
 Ora adang bojone nggantheng
 Disawang nggak krasa luwe
+===
 Pisang raja ditebang ancleng
 Daun mudanya untuk bungkus tempe
 Tidak marah asal suaminya ganteng
@@ -20442,10 +20164,9 @@ Gila abangku gila
 Di gila gadis seberang.
 ===
 Gila sipasin gila
-Digila sibuah manggis.
+Digila sibuah manggis
 Gila si Malin gila
 Digila si hitam manis
-
 ===
 Gila-gila pergi ke Rembang
 Sampai di sana menukar wang
@@ -20781,6 +20502,7 @@ Gudang mansiu di Birugo
 Tampak nan dari Pasa Gadang
 Ati nan samak-samak ibo
 Badan bacarai samo gadang
+===
 Gudang mensiu di Biruga
 Tampaklah dari Pasa Gadang
 Hati sedang rusuh dan hiba 
@@ -20795,6 +20517,7 @@ Guguahlah gandang ramo-ramo
 Urang baradok ateh papan
 Sayo ini tagak batanyo
 Siriah di mano ditibokan
+===
 Pukullah gendang rama-rama
 Urang bermain adok di atas papan
 Saya ini ingin bertanya
@@ -21104,6 +20827,7 @@ Gulai pariyo paik-paik
 Apo dibuek parancahnyo
 Taulan tamasyahua sampai ka langik
 Mano sadikik paedahnyo
+===
 Gulai peria pahit pahit
 Apa dibuat perencahnya
 Taulan termasyhur sampai ke langit
@@ -21168,6 +20892,7 @@ Gulang-gulang nak rang Piaman
 Maota sambia ka lambah
 Buruang banamo ganggo aman
 Makan jarek ba ulam gatah
+===
 Gulang-gulang nak rang Piaman
 Bersembang sambil ke lembah
 Burung bernama ganggo aman
@@ -21252,15 +20977,6 @@ Gunakan parang buluh diukur
 Buat galah pergi ke desa
 Ada yang curang tidak bersyukur
 Dilaknat Allah sepanjang masa
-===
-Gundahku di kedalaman laut
-Terhimpit rapat batu karang
-Hanya mereka yang ingin hina
-Yang akan turun menyalaminya
-Surau diong di limbong
-Naottong batu rapeq
-To meloq tuna
-Naung i naloloq i
 ===
 Guni padi penuh berisi
 Esok lusa hendak digalas
@@ -21857,15 +21573,6 @@ Batik diikat dengan benang
 Terbang semangat penghulu itik
 Melihat ayam berlumba berenang
 ===
-Guruah gamuruah dalam kabuik
-Daga badaga dalam bulan
-Tampuruang bari batali
-Lah nuri mangkok rang sangkakkan
-Ka bapisuruah denai takuik
-Ka bakato kamaluan
-Mukasuik lah lamo dalam ati
-Kinilah barn rang banakan
-===
 Guruh berbunyi di dalam awan
 Anak merbuk di atas canggung
 Bukan kurus kerana tak makan
@@ -21895,15 +21602,6 @@ Guruh berpetas hujan nak turun
 Sinar mentari warna pelangi
 Pijat ditindas lalu dicium
 Kerana nak cari pijat yang wangi
-===
-Guruh gemuruh dalam kabut
-Degar berdegar dalam bulan
-Tempurung berilah tali
-Lah nuri baru disangkarkan
-Mau menyuruh orang saya takut
-Mau mengatakan saya malu
-Maksud lah lama dalam hati 
-Kinilah baru kesampaian
 ===
 Guruh gerah bunyi nobat
 Pandan berjemur di seberang
@@ -22049,10 +21747,6 @@ Habis hujan banyak cendawan
 Tumbuh dekat cirit binatang
 Hati susah ada berkahnya
 Asal anda kenal sembahyang
-End of rain the mushrooms sprout
-Growing near the animal waste
-Sadness has its own blessing
-As long as you know how to pray
 ===
 Habis hujan banyak cendawan
 Tumbuh dekat cirit binatang
@@ -22729,13 +22423,10 @@ Mati dibunuh tidak berkubur
 Hujan lebat tempayan retak
 Muatan penuh kapal bocor
 ===
-Hang Jebat
- Hang Kasturi
+Hang Jebat Hang Kasturi
 Budak-budak Raja Melaka
 Jika hendak jangan dicuri
 Mari kita bertentang mata
-
-Jawi Books
 ===
 Hang Tuah bertemu Lekir
 Tegap sasa di tengah laman
@@ -22891,15 +22582,6 @@ Hanuman meminta bunuh
 Meminta babat si dangan kain
 Jikalau tuan beriman sungguh
 Saya tidak pada yang lain
-===
-Hanya ranting-ranting keinginan Anda
-Yang Anda tujukan kepadaku
-Keinginan Anda yang sebenarnya
-Ditujukan kepada orang lain
-Taqe-taqena saramu
-Mu papolo di au
-Batang tonganna
-Mupadi tau laeng
 ===
 Hanya saya pergi ke pekan
 Tuan tidak ikut sekali
@@ -23295,6 +22977,7 @@ Hapur di tangan do ahu
 Napuran di hallungan
 Na ingot di padan do ahu
 Ingot di paruhuman
+===
 Kapur di tanganlah aku
 Sirih dipikulan
 Yang ingat di padanlah aku
@@ -23329,15 +23012,6 @@ Harap ke mulut besar cakap
 Kerja suatu tak boleh cekap
 Kayuh perahu bagai tertiarap
 Semua kehendak makan serap.
-===
-Harapanku yang sesungguhnya
-Yang selalu ku nantikan
-Andalah orang yang mencarikan
-Keselamatan bersama di dunia ini
-Rannuqu imakkerannu
-Rannu laeng duapaq
-Na muitaing
-Asalamakan di lino
 ===
 Harap-harap di hujung jalan
 Ada rimbun tempat berteduh
@@ -23387,9 +23061,7 @@ Hilang peluang cek tendang
 Harapkan si Untung menggamit
 Kain di badan didedahkan
 Mendengarkan guruh di langit
-Air di tempayan dicurahkan.
-
-Pantun Peribahasa&#039;
+Air di tempayan dicurahkan (Pantun Peribahasa)
 ===
 Harapkan si untung menggamit
 Kain di badan didedahkan
@@ -23716,7 +23388,7 @@ Amek gala jolok rumenia
 Sunggu ada wang bribu
 Kalu tak budi apa guna nya.
 ===
-Hari ini hari Raba"a
+Hari ini hari Raba'a
 Hari ini hari Khamis
 Turun Nabi Isa menghantarkan doa
 Di sana umat habis menangis
@@ -24011,28 +23683,10 @@ Pasang lilin jalan ke taman
 Sopan santun budaya kita                
 Jadi kebanggaan zaman berzaman
 ===
-Hari malam pasang palito
-Harimau tidur di rimba jati
-Gali kasiak timbun ka ngarai
-Di bawah pohon kayu-kayuan
-Sadikik urang nan bak kito
-Adinda juga di mata hati
-Sadang kasiah kito bacarai
-Rasa berulit dalam peraduan
-===
 Hari malam pasang pelita
 Datang ribut tutupkan tingkap
 Macam murai leka bercerita
 Tak sedar bayan pandai bercakap
-===
-Hari malam pasanglah pelita
-Di bawah pohon kayu-kayuan
-Gali kersik timbun ke ngarai
-Tidur tiada khabarkan diri
-Sedikit orang seperti kita
-Rasa berulit dalam peraduan
-Sedang kasih kita bercerai
-Berbantal lengan muda bestari
 ===
 Hari malam singga ka puloh
 Dudok brenti di tepi makam
@@ -24248,6 +23902,7 @@ Hari paneh mananam bayam
 Tanam di baruah limau antu
 Apo katenggang burung bayan
 Sangkak diuni murai batu
+===
 Hari papas menanam bayam
 Tanam di baruh limau hantu
 Apalah tenggang burung bayan
@@ -24504,19 +24159,6 @@ Berani jamin berani bawak
 Di dalam surat mengata sungguh
 ===
 Hari senin tanggal dua belas
-Buka buka halaman depan 
-Pada bulan Rabiul awal
-Tulisan penuh dengan coretan
-Di tahun gajah hawanya panas
-Pikir pacar masih gregetan
-Kadir kebumi seorang terkenal
-Baru kenalan sudah menghilang
-Open the book to the front page
-The writing's full of scratches
-Thinking of her has a painful memory
-About to date
-===
-Hari senin tanggal dua belas
 Pada bulan Rabiul awal
 Di tahun gajah hawanya panas
 Hadir kebumi seorang terkenal
@@ -24665,15 +24307,6 @@ Harijas-groente van Panobasan
 Wordt geplukt door een meisje met een schepnet
 Overdag geen gelegenheid om jet e spreken
 En 's avonds niets anders dan naar je verlangen
-===
-Harimau akar sedang membaham
-Di tepi kolah pinggiran jurang
-Tempat menjala anak nakhoda
-Sambil bermain gelak ketawa
-Orang besar berselisih faham
-Lepas berbalah terus berperang
-Rosak segala harta benda
-Rakyat marhaen terkorban jiwa
 ===
 Harimau belang harimau kumbang
 Mari disumpit panglima Kemboja
@@ -24974,15 +24607,6 @@ Hasil lakonan Bintang Filem
 Dari filem Hang Tuah
 Saidina Umar memang alim
 Darinya wujud Takwim Hijrah
-===
-Hasrat cintaku pada buih gelombang
-Terhempas ke kampung Adik
-Pantang aku kembali
-Sebelum hasrat cintaku tercapai
-Surau di buraq lembong
-Tisambaq di kappungmu
-Iqdaq tuali
-Muaq iqdaq dottong
 ===
 Hassan jo Husin anak Ali
 Mati berperang sabilullah
@@ -25474,13 +25098,10 @@ Malau diikat menjadi tangkal
 Tidak terduga laut yang dalam
 Kalau penyukat hanya sa-jengkal
 ===
-Hendak berpalu
- palulah kita
+Hendak berpalu palulah kita
 Palu jangan beri layu
-Hendak bergurau
- berguraulah kita
+Hendak bergurau berguraulah kita
 Gurau jangan memberi malu
-
 ===
 Hendak berpatah ke Jalan Merteri
 Mencari parang di pasar tamu
@@ -26012,26 +25633,20 @@ Sudah bergalah lagi bertali;
 Keesa dapat kedua hilang
 Ayuh Allah apakan jadi.
 ===
-Hendak mendaki
- dakilah tambang
+Hendak mendaki dakilah tambang
 Jangan dilabuh ditengah pekan
-Hendak memaki
- makilah abang
+Hendak memaki makilah abang
 Jangan dituduh yang bukan-bukan
-
 ===
 Hendak menebang pokok cempedak
 Asah parang di tepi tangga
 Disuruh menjahit lintang kedak
 Dipinang orang kahwin juga!
 ===
-Hendak menebang
- tebanglah buluh
+Hendak menebang tebanglah buluh
 Jangan lupa mengerat sembilu
 Hendak terbang terbanglah jauh
-Janganlah nasihat ibu
-
-Petalangan
+Janganlah lupa nasihat ibu (modified)
 ===
 Hendak mengail ikan tebakang
 Kail diumpan dengan belalang
@@ -26078,13 +25693,10 @@ Dijaja pula di Pekan Beruas
 Biarlah buaya senak perut
 Asalkan hatinya menjadi puas
 ===
-Hendak menjala
- jala tersangkut
+Hendak menjala jala tersangkut
 Jala yang baru ditebar juga
 Hendak berjumpa hatiku takut
-Hati yang rindu ditahan juga
-
-Rindu
+Hati yang rindu ditahan juga (Rindu)
 ===
 Hendak menjamu raja berangkat
 Dari Belawan pergi ka-Langkat
@@ -26280,15 +25892,6 @@ Henuman menjadi kerak
 Aor di tanjong menjadi naga
 Cerik rasa tinggalku kelak
 Tidor bekandong si aek mata
-===
-heran di kite ike ierah
-djep pepiretn we munos umah
-oja kati karit nge muserempah 
-beweh si emah bersoh mutjampur 
-wo sudere enti kase salah 
-keredjani nume manuk mutuah 
-ku senuen meradi mungunah 
-anti osah singah tjom temabur
 ===
 Heran sungguh zaman sekarang
 Anak sudak tak kenal ibu
@@ -26549,10 +26152,6 @@ Hilang dadu kerana dadih
 Dadih bercampur dengan nila
 Hilang malu kerana kasih
 Rindu hati bercampur gila
-The dice was lost in the curds
-Curds mixed with indigo
-Shyness was lost because of love
-Now passionate longing is mixed with madness
 ===
 Hilang dadu kerana dadih
 Dadih bercampur dengan nila
@@ -26633,6 +26232,7 @@ Hilialah urang Ampek Koto
 Singgah ka balai bali rotan
 Eloklah urang nan paduto
 Tidak ka jatuh manggih utan
+===
 Hilirlah orang Ampek Koto
 Singgah ke balai beli rotan
 Eloklah orang yang pendusta
@@ -27053,15 +26653,6 @@ Berebut badik sambil bertengkar
 Terbungkuk-bungkuk abang menyembah
 Patutkah adik bermain kasar
 ===
-Hisap candu menyesak dada
-Sampai tersedak berair mata
-Jatuh berlinang membasahi pipi
-Tidaklah seri bawa berjalan
-Hati rindu ubatnya tiada
-Sakit tidak nampak di mata
-Siang terkenang malam termimpi
-Wajahnya menari dalam khayalan
-===
 Hisap rokok burong helang
 Sambil menghisap sambil makan
 Kalau dah nyamok mengajar helang
@@ -27172,11 +26763,6 @@ Asyik termenung bila terbayang
 Dari kenalan lahirlah sayang
 Kupupuk kubelai malam dan siang
 ===
-Hitam-hitam pucuk kawa
-Sungguh hitam dipandang lawa.
-
-Dua Kerat&#039;
-===
 Hitam-hitam si buah manggis
 Sunggoh hitam manis rasanya
 Hitam-hitam ku pandang manis
@@ -27251,20 +26837,6 @@ Hiyu di Pulau Inderagiri
 Punggur pinang rumah Tuk Alu;
 Mati bulur dia sendiri
 Tiada keniang memakan sagu.
-===
-Hodong do pahu
-Holi-holi sanghalia
-Hodo ahu
-Hita na marsada ina
-Pelepah adalah pakis
-Tulang-tulang satu ruas
-Kalau adalah aku
-Kita yang seibu
-===
-Hoe-oe bara ka hoe-oe
-Indo anda ra bade waoe
-Wara kananoemoe
-Die wekkie nahoe
 ===
 Hoi adik hoi abang
 Jangan bangun tengah hari
@@ -27705,10 +27277,6 @@ Hujan ribut belayar ke pulau
 Kelekatu di timba ruang
 Selagi hidup kita bergurau
 Sudah mati tinggal seorang
-In a storm of rain sail to the island
-Baling flying ants from the well
-So long as we live let's flirt awhile
-Should I die you'd be all alone
 ===
 Hujan ribut belayar ke pulau
 Kelekatu ditimba ruang
@@ -28239,6 +27807,7 @@ Ia joring huroboh
 Joring ma hubingkarbon
 Ia sonin hubotoh
 Sonin ma huluarhon
+===
 Jika jering kutebang
 Jering juga kukebaskan
 Jika itu yang kurasakan
@@ -28289,24 +27858,10 @@ Gerak-geriknya ditiup angin
 Tidak mudah menjadi pemimpin
 Dikoreksi rakyat yang miskin
 ===
-Ibarat sepohon kayu
-Untuk kita bersama
-Tetapi aku
-Ibarat cabang yang paling di bawah
-Mesadi ponnana ayu
-Disiola-olai
-Iyau todiq
-Taqe tondo naunna
-===
 Ibarat tanaman sudah berpagar
 Ibarat perahu sudah berpancang
 Jangan tuan menaruh gusar
 Kita terima tiada berpantang
-===
-Ibin'ibin'ibin
-Ibin...oban'oban
-Oban..oban..oban
-Au tu hamuan dongan
 ===
 Iblis besar dalam perigi
 Makan di Tanjong hutan pidada
@@ -28508,15 +28063,6 @@ Muntembolak kudung kakenan
 Tao-tao jagad diri
 Laun salaq sejarian
 ===
-Ijo-ijo inone mengkil
-Menyang Malang mipila kopi
-Duwe bojo ngentekne pikir
-Luwung bujang nuruti ati
-Warna hijau warna mengkil
-Pergi ke Malang petiklah kopi
-Punya istri tak habis pikir
-Lebih baik membujang senanglah hati
-===
 Ijok-ijok tali perahu
 Tali bemban mengikat rakit
 Besok-besok baru tahu
@@ -28683,11 +28229,9 @@ Ayuhai anak ingat pesanan
 Kalau jatuh cepatlah bangun
 ===
 Ikan belanak di dalam belat
-patah galah dilanda pukat
-beban beranak teramat berat
-salah-salah hidup melarat
-
-Ungkapan tentang kehidupan
+Patah galah dilanda pukat
+Beban beranak teramat berat
+Salah-salah hidup melarat
 ===
 Ikan belanak di dalam pukat
 Banyak bercampur dengan sotong
@@ -30245,15 +29789,6 @@ Ada hati nak jadi menteri
 Jaga dulu anak isteri
 ===
 Ikan teluk parang-parang
-Anak gajah disangka babi
-Memburu musim tengkujuh
-Dapat buruan dibelah-belah
-Bukan makhluk sebarang-barang
-Cucu Adam sepaian nabi
-Turun dari langit ketujuh
-Jadi khalifah kepada Allah
-===
-Ikan teluk parang-parang
 Anak gajah disangka lelabi
 Berburu musim pengkujuh
 Dapat buruan dibelah-belah
@@ -30262,15 +29797,6 @@ Ikan teluk parang-parang
 Anak gajah disangka lelabi
 Berburu musim tengkujuh
 Dapat buruan dibelah-belah
-===
-Ikan teluk parang-parang
-Anak ketam disangka lelabi
-Berburu musim tengkujuh
-Dapat buruan dibelah-belah
-Bukan makhluk sebarang-barang
-Cucu Adam sepaian nabi
-Turun dari langit ketujuh
-Jadi khalifah kepada Allah
 ===
 Ikan temenung di pukat Turki
 Ikan merah di pukat Yunani
@@ -30686,6 +30212,7 @@ Ikek barikek paruah anggang
 Mamakan buah pauah janggi
 Malaikat mambawo tabang
 Mangko badan sampai ka mari
+===
 Rat berikat paruh enggang
 Memakan buah pauh janggi
 Malaikat membawa terbang
@@ -31010,6 +30537,7 @@ Incang-incangan kotolo
 Kotolo dang morarat
 Atiku raos gilo
 Monengar kato surat
+===
 Incang-incang ketolo
 Ketolo sedang merambat
 Hatiku rasa gila
@@ -32209,6 +31737,7 @@ Indak ka dapek dirangguangkan
 Bao ka Pulau Bilang-bilang
 Indak ka dapek dimanuangkan
 Bao bagurau naknyo hilang
+===
 Tidak akan dap at diranggungkan
 Bawa ke Pulau Bilang-bilang
 Tidak akan bisa dimenungkan
@@ -32218,6 +31747,7 @@ Indak kaladi nan tak kampuah
 Asa digulai-gulai juo
 Indak gadih nan tak amuah
 Asa dijujai jujai juo
+===
 Tidak ada keladi yang tak lunak
 Asalkan digulai-gulai jua
 Tiada gadis yang tak hendak
@@ -32232,6 +31762,7 @@ Indaklah talang nan di lindok
 Antah kok talang rang Kinali
 Tidaklah tabang nan tak inggok
 Kok inggok dapek dek kami
+===
 Bukannya talang di tempat lindap
 Entahlah jika talang orang Kinali
 Tak ada trbang yang tak hinggap
@@ -32722,15 +32253,6 @@ Menyurat di dalam tidak mengerti
 Ada sebatang pohon angsoka
 Tumbuh di mercu gunung yang tinggi
 ===
-Inilah seorang siswa
-Buku tulis kesukaannya
-Ingin dibaca
-Ingin pula ditulisi
-Indi tia passikola
-Buku tulis sarana
-Meloq di baca
-Meloq di panulissi
-===
 Initiate apa menampal beju 
 Supaya dapat dipakai lagi 
 Untup apa mengamalkan ilmu 
@@ -32880,28 +32402,6 @@ Ireng-ireng gorengan kopi
 Babat damen neng tengah sawah
 Rendheng-rendheng ja njaluk rabi
 Ngentenana nek panen genjah
-Goreng kopi berwarna hitam
-Memangkas jerami di tengah sawah
-Musim hujan jangan minta kawin
-Tunggu musim panennya tiba
-===
-Ireng-ireng jumputane
-Tak-jumputi neng ngisor kluwih
-Kadhung seneng ndang turutama
-Tak-tututi gak galem mulih
-Barang hitam cobalah ambil
-Kuambil di bawah pohon kluwih
-Terlanjur cinta lekas turuti
-Kau ku kejar tak mau kembali
-===
-Ireng-ireng lorek lorek
-Ampyang ketan dirubung semut
-Yen kepareng kawula ndherek
-Pejah gesang kula nggih tumut
-Warna hitam berbelang-belang
-Ampyang ketan diekerubuti semut
-Jika diperkenankan saya ikut
-Hidup mati saya pun turut
 ===
 Ireng-ireng lorek-lorek
 Amyang ketan dirubung semut
@@ -33012,10 +32512,6 @@ Isi kelapa dimakan urap
 Daun kemangi dengan ketumbar
 Kemerdekaan berarti tanggung jawab
 Orang berusaha untuk menghidar
-Not a person can really guess
-When an unlucky day appears on end
-To enter the gate of hell
-The target must really be going to plan
 ===
 Isi kendi airnya manis
 Cuci tangan lah air tawar
@@ -33226,6 +32722,7 @@ Itiak sagadang anak ayam
 Manganteh-nganteh di lambuangnyo
 Kaciak sagadang biji bayam
 Bumi jo langit dikanduangnyo
+===
 Itik sebesar anak ayam
 Bergerak-gerak di lambungnya
 Kecil seperti bi bayam
@@ -33510,15 +33007,6 @@ Iwak lele mati kethuthuk
 Sandhatane pring iratan
 Ngawe-awe sing kalung adhuk
 Entenana dalan prapatan
-===
-Iwak lelw mati kethuthuk
-Thutukana nganggo welasane
-Uwis suwe kok arang kepethuk
-Pethuk pisan karo tilasane
-Ikan lele mati terpukul
-Pukullah dengan tangkai bambu
-Telah lama tak berjumpa
-Sekali jumpa dengan jandanya
 ===
 Iya sebenarnya orang Lahat
 Nan bermain  ke Labuh Simpang.
@@ -34479,6 +33967,7 @@ Jambu aia di balakang rumah
 Sugi-sugi tangah alaman
 Tidak baraia di tangah rumah
 Parigi ado di alaman
+===
 Jambu air di belakang rumah
 Sugi-sugi tengah halaman
 Tiada air di tengah rumah
@@ -34708,6 +34197,7 @@ Jangan bak itu tarah papan
 Gulinggang dalam padi Jambi
 Jangan bak itu kato tuan
 Tidak manenggang ati kami
+===
 Jangan begitu belahnya papan
 Gelinggang dalam padi Jambi
 Jangan begitu kata tuan
@@ -35282,6 +34772,7 @@ Jangan ka kabun-kabun juo
 Dalu-dalu ditabang urang
 Jangan bapantun-pantun juo
 Lah malu-malu kito jo urang
+===
 Jangan ke kebun-kebun jua
 Dalu-dalu ditebang orang
 Jangan berpantun pantun jua
@@ -35301,6 +34792,7 @@ Jangan kudai ngulai keladi
 Batang kedungung seperau
 Jangan kudai mulai ke ati
 Diwo beruntung belum tau
+===
 Jangan dulu mengulai keladi
 Batang kedondong seperahu
 Jangan dahulu mulai dari hati
@@ -35535,6 +35027,7 @@ Jangan sariak rusuahkan singka
 Singka lai den pataduahkan
 Usah adiak rusuah ka tingga
 Kok tingga lai den pataruahkan
+===
 Jangan sariak rusuh akan sengkal
 Sengkal telah saya teduhkan
 Usah adik rusuh ditinggal
@@ -36039,27 +35532,6 @@ Januari bulan pertama
 Buka pintu tahun Masehi
 Nabi nabi ajar agama
 Manusia harus patuhi
-January is the first month
-Opens the gate of the year of Christ
-Prophets tought the teaching of religion
-People just have to listen and obey
-===
-Janyo bulan-bulan nan tarang
-Janyo hari-hari nan tarang
-Tarantang kawek dalam aia
-Tarantang-rantang di tapian
-Janyo tolan-tolan nan sayang
-Janyo kami-kami nan sayang
-Ambiak naraco kito timbang
-Nak samo manangguang paratian
-Kata bulan bulan yang terang
-Kata hari hari yang terang
-Terentang kawat dalam air
-Terentang-rentang ke tepian
-Kata tolan tolan yang sayang
-Kata kami kami yang sayang
-Ambil neraca kita timbang
-Supaya sama menanggung perhatian
 ===
 Jaoq-jaoq ojok rantauan
 Kepeng te pete jari perombok
@@ -36395,15 +35867,6 @@ Jatuh ke tanah kayu kuranji
 Disambar helang pula bangkainya
 Kakanda tiada mengubah janji
 Demi dewata dengan benarnya
-===
-Jatuh ketumbar menimpa dahan
-Kembang cempaka di tepi halaman
-Turun ke lembah menanam kandis
-Cuaca redup singgah di paya
-Jika sabar menerima dugaan
-Itulah tanda orang beriman
-Tidak mudah digoda iblis
-Akhirnya hidup ke puncak jaya
 ===
 Jatuh melarah jambu dipungut
 Beri tepung kuih dibalas
@@ -36869,19 +36332,6 @@ Jelo Ahad sjok balen batur
 Gaek PR sampiq bebece
 Lamun te mele pede makmur
 Rajin-rajin pede memete
-===
-Jelo bajelo aka cino
-Jelo bajelo ka halaman
-Salindik duo talinyo
-Tasuruak kami nan punyo
-Sakarang lapeh di tangan
-Ka tangan pulo painyo
-Terjela jela akar cina
-Jela terjela ke halaman
-Serindit dua talinya
-Yang tersembunyi kami yang punya
-Sekarang lepas dari tangan
-Ke tangan juga bakal kembalinya
 ===
 Jelo Jum'at jelo Selese
 Lalo berjumata ajok Muhammadiyah
@@ -37558,15 +37008,6 @@ Sia-sia dibawa berlayar
 Jika kampung tidak beradat
 Kemana-mana nama tercemar
 ===
-Jika dia datang nanti
-Si buah hati yang dinanti
-Dengan dialah kelak
-Engkau kan memadu kasih
-Pole topa iqo mai
-Ande cinna matammu
-Anna ia mo
-Na muala si rua
-===
 Jika digantang tiga gantang
 Akan disukat tiga sukat
 Jika direntang akan panjang
@@ -37677,13 +37118,10 @@ Makan berkuah berpati santan
 Jika hendak tahu di hati saya
 Bagai pengarak angin selatan
 ===
-Jika hujan
- hujanlah sungguh
+Jika hujan hujanlah sungguh
 Agar jelas berpayung lilin
-Jika enggan
- engganlah sungguh
+Jika enggan engganlah sungguh
 Nak tentu mencari yang lain
-
 ===
 Jika ikan tak mau bertelur
 Manakan orang dapat memukat
@@ -37760,13 +37198,10 @@ Mandi segayung sama tempayan
 Jika mati sama mati
 Mati selarung sama sekapan
 ===
-Jika mandi
- mandilah kini
+Jika mandi mandilah kini
 Mandi bertimba mangkuk Jawa
-Jika mati
- matilah kini
+Jika mati matilah kini
 Gila berhati mabuk saja
-
 ===
 Jika masak pinang setandan
 Mari disimpan di dalam kereta
@@ -38162,10 +37597,6 @@ Jika tuan hendak ke Jambi
 Ambil Cik tahir juru batunya
 Jika tuan hendakkan kami
 Bakar air ambil abunya
-If you wish to go to Jambi
-Bring Sir Tahir to be chief
-If you wish to marry me 
-Burn the water and pick up the ashes
 ===
 Jika tuan jalan ke hulu
 Petikkan saya kembang kemboja
@@ -38852,15 +38283,6 @@ Berkawan dengan jin islam
 Didalam akir sama barela 
 Kasay kan tuan siang malam
 ===
-Jinak jinak burung merpati
-Terbang lari enggan ditangkap
-Putri Minang parasnya cantik
-Jangan sembarang kalau melamar
-The pigeon bird is pretty tame
-It files away when one is near
-Good looking girl of Minangkabau
-Do not rush when wanting to marry her
-===
 Jinak kucing pandai bermanja
 Anjing disayang menurut kata
 Pujuk memancing cantik dipuja
@@ -38881,19 +38303,6 @@ Bakubua di tanah lapang
 Apo diarok pado kami
 Ameh tidak
 ===
-Jindaral Mikilih mati di Bali
-Bakubua di tanah lapang
-Tampak nan dari rumah bola
-Manangih buruang renowali
-Maliek buruang pandai tabang
-Duduak tamanuang balam tungga
-Jendral Michael mati di Bali
-Berkubur di tanah lapang
-Tampak dari rumah bola
-Menangis burung rajawali 
-Melihat burung pandai terbang
-Duduk termenung balam tunggal
-===
 Jinjit jalan di rumput
 Telapak kaki terasa mulus
 Kekayaan asin seperti laut
@@ -38908,15 +38317,6 @@ Jintan itam di dalam belukaq
 Daun pekan di kedai Cina
 Kerbau itam ke kerbau balaq
 Kerbau jantan ke kerbau betina?
-===
-Jiwa Anda dahulu
-Lebih manis daripada gula
-Tetapi sekarang
-Lebih pahit daripada peria
-Paqmaiq mu daq dioloq
-Mammis i anna golla
-Apaq diteqe
-Peria tatteng mi
 ===
 Jiwa mereka tidak kebendaan
 Bermotifkan dakwah kerana Allah
@@ -39028,15 +38428,6 @@ Dibaham-baham jo bicaro
 Kaduo 'gadang sarato binguang'
 Indak tahu di mulia hino
 ===
-Jokok balayia pakai padoman
-Bajalan elok batujuan
-Supayo hati indaknyo ragu
-Ragu mambaok pado takuik
-Salam dihilia dimudiakkan
-Sambah di kiri dikanankan
-Ganti pambasoi halek jamu
-Pandapati alua dangan patuik
-===
 Jokok banyak bakato-kato
 Di sinan jalan masuaknyo duto
 Jokok balabiah-labiahan suko
@@ -39051,6 +38442,7 @@ Jokok barambuih barat dayo
 Barambuih turun jo bungonyo
 Kok ingin bungo bindaro
 Indak urang sagan dek durinyo
+===
 Kalau berhembus barat daya
 Berhembus turun dengan bunganya
 Kalau ingin bunga bidara
@@ -39355,10 +38747,6 @@ Jual terung pembeli benang
 Benang bola dari Jawa
 Bekas tarung lagi terkenang
 Apapun hubungan nyawa
-Eggplants are sold to buy some threads
-A ball of wool from the Javanese
-Memory's lost after a fight
-Everything also would be at stake
 ===
 Jual terung pembeli benang
 Benang jadi penjahit kain
@@ -39474,6 +38862,7 @@ Juntaian tanun rang Padang
 Rawo-rawo karapek juo
 Baintaian buruang jo alang
 Lamo-lamo kadapek juo
+===
 Berjuntaian tenun orang Padang
 Rawa-rawa merapat jua
 Berintaian burung dengan elang
@@ -39563,6 +38952,7 @@ Jurumudi Malim Encik Ameh
 Dayuang nan duo patimpokan
 Nuri di dalam sangkak ameh
 Janji jo tiuang pacintokan
+===
 Jurumudi Maim Encik Emas
 Dayung yang dua ditimpakan
 Nuri di dalam sangkar emas
@@ -39572,6 +38962,7 @@ Jurumudi Malin Cik Ameh
 Galah nan duo patimpokan
 Nuri di dalam sangkak ameh
 Dagang di lua pacintokan
+===
 Jurumudi Malin Cik Emas
 Galah yang dua saling timpakan
 Nuri di dalam sangkar emas
@@ -39641,6 +39032,7 @@ Ka dulang padinyo lai
 Dibawo urang Tujuah Koto
 Ka pulang kaminyo lai
 Mananti bulan di muko
+===
 Padi akan masuk ke dulang 
 Dibawa orang Tujuah Koto
 Kami akan segera pulang 
@@ -39660,6 +39052,7 @@ Ka Guguak marantang tali
 Lapeh ka pulau Bukik Gombak
 Nan buruak buanglah kami
 Cari nan elok lawan galak
+===
 Ke Guguk merentang tali
 Sampai ke pulau Bukit Gombak 
 Yang buruk buanglah kami
@@ -39744,6 +39137,7 @@ Ka lubuak jalan ka Nata
 Ka ilia Kualo Sokam
 Adat taluak timbunan kapa
 Adat tuo manahan ragam
+===
 Ke lubuk jalan ke Natal
 Ke hilir Kuala Sokam
 Adat teluk timbunan kapal
@@ -39753,6 +39147,7 @@ Ka Makah jalan ka Sariak
 Ka Sariak ka Sungai Pua
 Nan mano bungo kami ambiak
 Batangnyo dipaluik ula
+===
 Ke Mekah jalan ke Sariak
 Ke Sariak ke Sungai Pua
 Bunga yang mana kami petik
@@ -39857,6 +39252,7 @@ Ka pulau kito ka pulau
 Ka pulau manjariang udang
 Adaik iduik bagurau-gurau
 Kok mati tabariang surang
+===
 Ke pulau kita ke pulau
 Ke pulau menjaring udang
 Adat hidup bergurau-gurau
@@ -39866,6 +39262,7 @@ Ka pulau kito ka pulau
 Ka pulau manjariang udang
 Bagurau kito bagurau
 Bagurau mangana untuang
+===
 Ke pulau kita ke pulau
 Ke pulau menjaring udang
 Bergurau kita bergurau
@@ -39945,24 +39342,11 @@ Ka subarang batuduang pinggan
 Panuah barisi layu-layu
 Kasiah taulan tainggan-ingan
 Kato kami tadoroang lalu
-Ke seberang bertudung pinggan
-Penuh berisi layu-layu
-Kasih taulan berhingga-hingga
-Ucapan kami terdorong lalu
 ===
 Ka suok jalan ka Supinang
 Ka kida jalan ka Muaro
 Jo suok jawek kasieh sayang
 Jo kida apuih aie mato 
-===
-Ka suok jalan ka surau
-Ka kida jalan ka pakan
-Iyu bali balanak bali
-Ikan panjang bali dahulu
-Rang Minang kalau marantau
-Kampuang nan indak balupokan
-Ibu cari dunsanak cari
-Induak samang cari dahulu
 ===
 Ka suyuak bilah rang lantai-kan
 Ambiek-lah rotan ka pa-ngarang
@@ -40258,10 +39642,6 @@ Kaca kabur jendela rumah
 Dindingnya berwarna suram
 Jangan tekebur menuduh orang
 Kalau fakta bukan jaminan
-Dry rice on a wide mat
-Hang the meat on a fire place
-Sly person twists his tongue in talking
-The court will finally decide his fate
 ===
 Kacamata tebal lensanya
 Pandang ke padang jauh berkabut
@@ -40326,9 +39706,7 @@ Tuan juga belaku mati
 Kacang kedelai dari Periaman
 Langsat dibawa ke Brastagi
 Harapkan apa bunga di taman?
-Kuntum belum mengembang lagi!
-
-Orang Meminang&#039;
+Kuntum belum mengembang lagi! (Orang Meminang)
 ===
 Kacang kuda si kacang parang
 Aer manis di dalam cawan
@@ -40359,10 +39737,11 @@ Kacang paringek tapi aia
 Lah mati mangko babuah 
 Ingek-ingek pelang balayia 
 Lauik sati rantau batuah
+===
 Kacang paringek di tepi air
 Kalau mati baru berbuah
 Ingat-ingatlah pelang berlayar
-Lautan sakti
+Lautan sakti rantau bertuah
 ===
 Kacang sepat tumbuh serumpun
 Tanam ubi di tepi paya
@@ -40459,15 +39838,6 @@ Manahani berang jo bangih
 Urang pamberang kurang bapikia
 Napasu dikandalikan setan ibilih
 ===
-Kaduo undang-undang dalam nagari
-Salah cancang mambari pampeh 
-salah bunuah mambari diat
-Salah makan mamuntahkan
-Sasek suruik talangkah kumbali
-Mahukum barang nan jaleh
-Salah ka Tuhan mintak tobat
-Tiok kasalahan bapatutan
-===
 Kaen serasa lipat baginie
 Kaen kaen basa djemoer die talie
 Apa rasa idoep begienie
@@ -40527,6 +39897,7 @@ Kaik kalawi tinggi-tinggi
 Jatuah ka tanah pacah balah
 Kalau kan lai kini-kini
 Nyawo di dalam tangan Allah
+===
 Juluk kelawi tinggi-tinggi
 Jatuh ke tanah pecah dan belah
 Kalau mau kini-kini
@@ -40536,10 +39907,6 @@ Kaik-bakaik rotan sago
 Di baliak batang pauah janggi
 Menurut adat nan biaso
 Barila juo ka banyanyi
-Kait-berkait rotan saga
-Di balik batang pauh janggi
-Menurut adat yang lasim
-Minta permisi juga akan bernyanyi
 ===
 Kail diumpan dengan belalang
 Belalang rusa ditangkap petang
@@ -40560,17 +39927,6 @@ Kail sejengkal mengail di jeram
 Pasang taut di pinggir lurah
 Bermotosikal berlumba haram
 Kalau tak maut cedera parah
-===
-Kain ameh deta kasumbo
-Sarawa guntiang rang Batawi
-Jaitan Sutan Kampuang Marak
-Dijaik sadang tangah ari
-Ilia pasia kampuangnyo lato
-Singgah ka rumah jurumudi
-Batang ameh rantiang aso-aso
-Buahnyo intan dangan pudi
-Pucuak diuni buruang merak
-Urek dilingka nago sakti
 ===
 Kain antelas dari utara
 Pakaian anak raja Belanda
@@ -40898,10 +40254,9 @@ Apa ertinya kasih dan sayang
 Kalaulah adik berjanji palsu
 ===
 Kain batik selendang batik
-Mari sabar ke atas pentas;
+Mari sabar ke atas pentas
 Adik cantik abang pun cantik
 Bagai dakwat dengan kertas
-
 ===
 Kain batik selendang batik
 Mari sebar ke atas pentas
@@ -41369,11 +40724,6 @@ Main ini main penyudah
 Jikalau mati menyesal jangan
 ===
 Kain ini kain sutera
-[Untitled]
-
-Love&#039;s Selffishness&#039;
-===
-Kain ini kain sutera
 Kalau mandi di-basoh jangan
 Main ini kita berdua
 Kalau mati menyesal jangan
@@ -41447,17 +40797,6 @@ Kain kalang hisis di tabuk
 Matahari masuk memanah
 Kapal berlinggang kelasi mabuk
 Pedoman mana akan teranah
-===
-Kain Kaliang namo kainnyo
-Dalamak Makah namo dalamak
-Bajambua suto bapiliah
-Sajangka pucuak rabuangnyo
-Tasungkuik di jamba makan
-Lorong kapado dang gambianyo
-Buatan puti Sarilamak
-Sapipia jatuah ka siriah
-Mambayang sampai ka muko
-Lamaknyo tingga di rakuangan 
 ===
 Kain kasa berwarna merah
 Buat baju orang di timur
@@ -42109,28 +41448,6 @@ Putus sehelai atas kasur
 Diulas dengan empu tangan
 Dibungkus dengan kain kasap
 ===
-Kain selendang tenunan Kampar
-Putus sehelai atas kasur
-Diulas dengan empunya tangan
-Dibungkus dengan kain kasap
-Diikat dengan benang sutera
-Hidangan sudah terhantar
-Pahar dan cerek sudah teratur
-Bawa air basuhlah tangan
-Tambuhkan nasi akan disantap
-Kami si pangkalan bersama-sama
-===
-Kain selendang tenunan Kampar
-Putus sehelai atas kasur
-Diulas dengan sapu tangan
-Dibungkus dengan kain kasap
-Diikat dengan benang sutera
-Hidangan sudah terhantar
-Pahar dan cerek sudah teratur
-Jawat air basuhlah tangan
-Tambahkan nasi akan santap
-Kami sepangkalan bersama-sama 
-===
 Kain selerang kain pelekat
 Payung terkembang tengah hari
 Sungguhlah abang pandai memikat
@@ -42285,6 +41602,7 @@ Kain suto labah mangirok
 Dibawo urang mudiak Padang
 Tampak ajo darah samirok
 Badan bak raso bayang-bayang
+===
 Kain sutera lebah mengirap
 Dibawa orang mudik Padang
 Tampak abang darah semarak
@@ -42689,6 +42007,7 @@ Kalalawa di Pulau Rimbang
 Anak ruso mati tadabiah
 Kok gawa tolong ditimbang
 Kok salah ampun nan labiah
+===
 Kelelawar di Pulau Rimbang
 Anak rusa mati disembelih
 Kalau ragu tolong ditimbang 
@@ -42931,12 +42250,6 @@ Badan dan nyawa kami serahkan
 ===
 Kalau ada kaca di pintu
 Katang-katang berisi rempah
-Rempah bercampur dengan ketumbar
-Tuan kutatang di atas lidah
-Kepada hati tidak tertambar.
-Rempah bercampur dengan ketumbar
-Tuan kutatang di atas lidah
-Kepada hati tidak tertambar.
 Kalau ada kata begitu
 Saya tatang di hujung lidah
 ===
@@ -43011,11 +42324,9 @@ Kalau rupa boleh di-ubah
 Tabi'at pun demikian juga
 ===
 Kalau ada padi seberang
-Tukarlah dengan padi di desa;
-Kalau kita tetamu orang;
-Biarlah pandai berbudi bahasa.
-
-Budi&#039;
+Tukarlah dengan padi di desa
+Kalau kita tetamu orang
+Biarlah pandai berbudi bahasa (Budi)
 ===
 Kalau ada pandan belipat
 Tolong tuan belikan dia
@@ -43637,22 +42948,20 @@ Supaya badan tidak terjatuh
 Kalau berkawan elokkan tingkah 
 Supaya kawan tak jadi musuh
 ===
-kalau berjalan jangan mendungak
-bila mendungak pasti terjatuh
-kalau berkawan jangan membengak
-bila membengak pasti bergaduh
+Kalau berjalan jangan mendungak
+Bila mendungak pasti terjatuh
+Kalau berkawan jangan membengak
+Bila membengak pasti bergaduh
 ===
-kalau berjalan jangan mengeluh
-bila mengeluh bertambahlah penat
-kalau berkawan jangan bergaduh
-bila bergaduh binasalah ummat
-
-Nilai Kegotongroyongan dan Tenggang Rasa
+Kalau berjalan jangan mengeluh
+Bila mengeluh bertambahlah penat
+Kalau berkawan jangan bergaduh
+Bila bergaduh binasalah ummat (Nilai Kegotongroyongan dan Tenggang Rasa)
 ===
-kalau berjalan jangan menghentak
-bila menghentak kaki terpuruk
-kalau berkawan jangan membentak
-bila membentak jadi beramuk
+Kalau berjalan jangan menghentak
+Bila menghentak kaki terpuruk
+Kalau berkawan jangan membentak
+Bila membentak jadi beramuk
 ===
 Kalau berjalan langgar melanggar 
 Rusaklah kaki badan binasa
@@ -44069,12 +43378,10 @@ Singgah ke Jambi membeli bunga
 Kalau dah tahu dagang menumpang
 Ikutlah resmi ayam betina
 ===
-kalau bersampan elokkan kemudi
-supaya dapat sampai keseberangan
-kalau berkawan elokkan budi
-supaya badan disukai orang
-
-Nilai Kegotongroyongan dan Tenggang Rasa
+Kalau bersampan elokkan kemudi
+Supaya dapat sampai keseberangan
+Kalau berkawan elokkan budi
+Supaya badan disukai orang (Nilai Kegotongroyongan dan Tenggang Rasa)
 ===
 Kalau bersampan tak ada bekal
 Di tengah laut terang kebulur
@@ -44410,15 +43717,6 @@ Kalau dikau nak pergi meramu
 Carilah kayu nan lurus lurus
 Kalau dikau nak menuntut ilmu
 Carilah ilmu yang halus-halus
-===
-Kalau diletak untuk diapakan
-Duri berpagar dengan nibung
-Nibung berpagar nilam pula
-Sama dilemparkan dalam padi
-Kalau rindu mau diapakan
-Negeri berpagar gunung
-Gunung berpagar rimba pula
-Sama ditanggungkan dalam hati
 ===
 Kalau dilurut padi di Daik
 Pancang di pulau lurus palas
@@ -45714,6 +45012,7 @@ Kalau keladi sudah ditanam
 Jangan lagi meminta talas
 Kalau sudi sudah ditanam
 Jangan sekali memintak balas
+===
 Kalau memakan keladi muyang
 Jangan lupa pada bungkalnya
 Kalau termakan budi orang
@@ -47359,22 +46658,20 @@ Dapat dimakan anak dan bini
 kalau pandai menjaga ibadat
 Selamatlah badan hidup dan mati
 ===
-kalau pandai menumbuk padi
-tentulah tidak ada antahnya
-kalau pandai mengambil hati
-tentu tak ada kawan yang marah
-
-Nilai Kegotongroyongan dan Tenggang Rasa
+Kalau pandai menumbuk padi
+Tentulah tidak ada antahnya
+Kalau pandai mengambil hati
+Tentu tak ada kawan yang marah (Nilai Kegotongroyongan dan Tenggang Rasa)
 ===
 Kalau pandai merendang cendawan
 Rendang dimakan terasa nikmat
 Kalau pandai menenggang kawan
 Orang senang nak hidup selamat
 ===
-kalau pandai merentang pukat
-seratlah sampan berisi ikan
-kalau pandai menenggang sahabat
-alamat badan dikasihi teman
+Kalau pandai merentang pukat
+Seratlah sampan berisi ikan
+Kalau pandai menenggang sahabat
+Alamat badan dikasihi teman
 ===
 Kalau pandai nak merendang cendawan
 Rendang dimakan terasa nikmat
@@ -47785,6 +47082,7 @@ Kalau roboh kota Melaka
 Sayang selasih di dalam puan
 Kalau sungguh bagai dikata
 Rasa nak mati dipangku tuan
+===
 Kalau roboh kota Melaka
 Papan di Jawa saya dirikan
 Kalau sungguh bagai dikata
@@ -47915,19 +47213,15 @@ Pegang kemudi kuat-kuat
 Kalau iman sudah penuh
 Pantang sekali berbuat jahat
 ===
-kalau sampan tak berkemudi
-di tengah laut tentulah pecah
-kalau berkawan tidak berbudi
-disanalah kusut membawa belah
-
-Nilai Kegotongroyongan dan Tenggang Rasa
+Kalau sampan tak berkemudi
+Di tengah laut tentulah pecah
+Kalau berkawan tidak berbudi
+Disanalah kusut membawa belah (Nilai Kegotongroyongan dan Tenggang Rasa)
 ===
 kalau sampan tidak berpengayuh
 lambat laun tentulah larat
 kalau berkawan tidak senonoh
-lambat laun menjadi mudarat
-
-Nilai Kegotongroyongan dan Tenggang Rasa
+lambat laun menjadi mudarat (Nilai Kegotongroyongan dan Tenggang Rasa)
 ===
 kalau sampan tidak bertali
 tidak kan dapat mencampak sauh
@@ -49488,6 +48782,7 @@ Kalau tuan manjadi tuduang
 Ambo manjadi langan baju
 Kalau tuan manjadi buruang
 Ambo manjadi dahan kayu
+===
 Kalau tuan menjadi tudung
 Hamba menjadi lengan baju
 Kalau tuan menjadi burung
@@ -49887,10 +49182,6 @@ Kalau tuan pergi ke bendang
 Jangan petik buah rumbia
 Tuan laksan bulan yang terang
 Cahaya liput serata dunia
-If you should go down to the fields
-Don't pict the sago fruit
-My love is like the glowing moon
-Whose light floods the world
 ===
 Kalau tuan pergi ke bendang
 Jangan petik buah rumbia
@@ -50201,15 +49492,6 @@ Kalau tuan pergi ke pekan
 Belikan saya si buah pala
 Apakah dia wahai tuan
 Makan di kepala berak pun di kepala?
-===
-Kalau tuan pergi ke Tanjung 
-Bawalah kain barang sekayu 
-Untuk baju anak yang kecil 
-Sudah lama tak ada ganti
-Aku merasa tidak beruntung 
-Selalu kautolak bertemu 
-Padahal tidaklah musykil
-Asal kauampuni dosaku keji
 ===
 Kalau tuan pergi ke Tanjung
 Kirim saya sehelai baju
@@ -50750,6 +50032,7 @@ Kalik- kalik di langan baju
 Alang rumik malenggangkannyo
 Takilik iman dek rang lalu
 Rumik adiak mailangkannyo
+===
 Kelik-kelik di lengan baju
 Alangkah rumit melenggangkannya
 Terkilir iman dek orang lalu
@@ -51475,15 +50758,6 @@ Kambang nan bungo tigo kaki
 Bungo kambang tangah lautan
 Pucuak di lingka nago sati
 ===
-Kambanglah bungo ribu-ribu
-Lari ke gunung Bilanta Puri
-Talatak di ateh papan
-Gunung di negeri sebelah timur
-Tidak kuaso manangguang rindu
-Selam kakanda diluar negeri
-Kirimkan racun ka dimakan
-Sungguh suka dendam bercampur
-===
 Kambeng branak di pohon dadap
 Lalu di pohon kayu jati
 Kurus di chinta sakit di adap 
@@ -51608,10 +50882,6 @@ Kami mandapek batu bulek
 Di baliak lurah pandakian
 Amuah sayo disungkua surek
 Nak tak barubah paratian
-Kami mendapat batu bulat
-Di balik lurah pendakian
-Saya bersedia disumpah Al-Quran
-Agar tak berubah perhatian
 ===
 Kami mo'ili sonso'I hinsip
 Sonso 'nonsake 'mian sangga'at
@@ -51622,6 +50892,7 @@ Kami nak manabang jirak
 Rabah ka Gunuang Marapi
 Di sayo sabana kaandak
 Dari muluik sampai ka ati
+===
 Kami ingin menebang jarak
 Rebah ke Gunung Merapi
 Sebenar-benarnya saya hendak
@@ -51656,6 +50927,7 @@ Kami tidak pandai malapun
 Malapun di bawah rigo-rigo
 Kami tidak pandai bapantun
 Dapek sabuah hilang pulo
+===
 Kami tidak pandai melapun
 Melapun di bawah riga-riga
 Kami tidak pandai berpantun
@@ -51940,7 +51212,6 @@ Kampung sebelah kampung dobi
 Budak-budak bermain gunting.
 Kasih ketuan tersembunyi
 Sepantun duri dalam daging
-
 ===
 Kampung Siki di Ulu Pilah
 Memang tempat bertanam padi
@@ -51991,6 +51262,7 @@ Kamuniang di ampang tabek
 Di pungkang jo paniang-paniang
 Putiah kuniang gigi bapapek
 Bulu mato panungkek kaniang
+===
 Kemuning di empang tebat
 Dilempar dengan pening-pening
 Putih kuning gigi dipepat
@@ -52130,6 +51402,7 @@ Kancang ribuik angin padi
 Indak pandan bajelo jelo
 Bia diimpik sajo nak mati
 Pado iduik di tangguang seso
+===
 Kencang bertiup angin padi
 Bukan pandan berjela-jela
 Biar dihimpit saja supaya mati
@@ -52731,22 +52004,9 @@ Kalau ada nasib yang baik
 Di mana jatuh tidak terbuang
 ===
 Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Kapal belayar ke Pulau Pinang
-Singgah berlabuh di hujung Tanjung
-Singgah berlabuh di hujung Tanjung
-Singgah berlabuh di hujung Tanjung
-===
-Kapal belayar ke Pulau Pinang
 Singgah berlabuh di hujung tanjung
 Bagaimana hatiku senang
-Sangkarnya satu
+Sangkarnya satu dua burung
 ===
 Kapal belayar lautan Inggeris
 Sarat memuat si limau manis
@@ -53637,6 +52897,7 @@ Kapeh gajobang anak rang Bawan
 Tagok barenggong baroci
 Payah barulang anyo tuan
 Larangan di kami kini
+===
 Kapas gejobang anakorang Bawan
 Tegap sebab bergenggong beroci
 Payah berulang sajalah tuan
@@ -53716,15 +52977,6 @@ Kappa' kappa' ngayuhkan tongkang
 Daun midding be inggit inggit
 Kappa' kappa' hidup membujang
 Tali selawwar habir di gigit
-===
-Kappa Lalito dari hulu
-Panjangnyo tigo puluah dapo
-Nangkodoh duduak di haluan
-Balayia sarek jo muatan
-Ampunlah hambo di panghulu
-Pitunggua sarato jo juaro
-Sagalo nan hadia di karapatan
-Mak jo sambahlah dimuliakan
 ===
 Kappa si Ali ka Bangkalih
 Kapa si Tungga tak kibawan
@@ -53816,23 +53068,6 @@ Setandan delapan buah
 Tangkapkan kami elang laut
 Bunga menyembah baru berbuah
 ===
-Karambia dusun malapari
-Cawan barisi tanah liek
-Rumah gadang tidak bapaek
-Patuiklah condong ka balakang
-Tuan badusun banagari
-Kamilah nyato urang dagang
-Kato daulu balun tuan jawek
-Apo gunonyo kito babincang
-Kerambil dusun kena malapari
-Cawan berisi tanah liat
-Rumah gadang tidak berpahat
-Pantaslah condong ke belakang
-Tuan berdusun bernagari
-Kami telah nyata orang dagang
-Kata yang dahulu belum tuan jawab
-Apa gunanya kita berbincang
-===
 Karambia dusun mangatari
 Pucuak malepai gudang Cino
 Tuan badusun banagari
@@ -53842,6 +53077,7 @@ Karambia ijau karambia tinggi
 Ka ubek urang kasibaran
 Maimbau mandeh di nan tinggi
 Lai kok raso kadangaran
+===
 Kerambil hijau kerambil tinggi
 Untuk ubat orang kesibaran 
 Mengimbau ibu dari tempat nan tinggi 
@@ -53921,6 +53157,7 @@ Karatau di dalam rimbo
 Nyo gatia anak rang di Ampang
 Satu tibo amak batanyo
 'Bato lali mek kau pulang?
+===
 Karatau di dalam rimba
 Dipetik anak orang Ampang
 Baru sampai ibu bertanya:
@@ -54189,6 +53426,7 @@ Karok-karok kalapo puan
 Tak puan kalapo bali
 Ambo arok pado tuan
 Tak tuan siapo lai
+===
 Karap-karap kelapa puan
 Tak puan kelapa Bali
 Saya harap kepada tuan
@@ -54238,6 +53476,7 @@ Kasa banamo Silampuri
 Cindai diambiak ka basahan
 Adaik barajo bagumpani
 Elok pidato disambahkan
+===
 Kain kasa bernama Silampuri
 Cindai diambil buat basahan
 Adat beraja berkompeni
@@ -54257,15 +53496,6 @@ Kasa jerman kain di bli
 Meniaga serta masok ka jawa 
 Kisar di kanan senget di kiri 
 Sala rasa tentu kechiwa 
-===
-Kasah ambun kasah biludu
-Bantanti bajaik tapi
-Baturap jo banang sirah
-Alah tahampai di sandaran
-Mintak ampun hambo ka panghulu
-Nan salirik duduak di tapi
-Nan saedaran adok ka tangah
-Mak jo sambahlah dimuliakan
 ===
 Kasakti dewa kasakti
 Diam di gunong dudok bertapa 
@@ -54391,6 +53621,7 @@ Kasumbo di tangah utan
 Di ambiak pangabek atok
 Salamo awak ajo tinggakan
 Sakalok tidak namuah lalok
+===
 Kesumba di tengah hutan
 Di ambil untuk mengikat atap
 Selama saya abang tinggalkan
@@ -54891,23 +54122,11 @@ Tempurong berisi kan paku
 Petang petang matahari terlindong 
 Hai burong terbang kan aku 
 ===
-Katari bukan sarantiang
-Palapah rang Koto Tuo
-Baanyo padi marunduakkan
-Nagari bukan barampiang
-Indak surang urang tuo
-Baa nyo kami manunjuakkan
-Ketari bukan seranting
-Pelepah orang Koto Tuo
-Bagaimana padi kan merundukkan
-Nagari bukannya berdamping
-Tak seorang orang tua
-Bagaimana pun kami menunjukkan
-===
 Katari daun katari
 Baju joa lah kito tungkuih
 Lah rewak dalam nagari
 Malu jo alah kito pupuih
+===
 Ketari daun ketari
 Baju dengan apa dibungkus
 Lah ribut orang dalam nagari
@@ -55362,10 +54581,6 @@ Kayu ara dua selubang
 Buah delima tiada jadi
 Anak dara dua sekupang
 Janda lima segantang padi
-Ficus trees grow two in one hole
-The pomegranate does not fruit
-Virgins are two for ten cents
-Widows five to one measure of rice
 ===
 Kayu ara pulau bergosong
 Dang Bela memadat lamat
@@ -55391,6 +54606,7 @@ Kayu Aro bapaga bukik
 Bukit bapaga bilang-bilang
 Sansaro bukan sadikik
 Sajak ketek lalu ka gadang
+===
 Kayu Aro berpagar bukit
 Bukit berpagar bilang-bilang
 Sengsara bukan sedikit
@@ -55915,6 +55131,7 @@ Kayu ranggah di Pulau Jantan
 Tampak nan dari Kurai Taji
 Cincin ameh parmato intan
 Bari mamakai jari kami
+===
 Kayu ranggah di Pulau Jantan
 Tampak dari Kurai Taji
 Cincin emas permata intan
@@ -56650,13 +55867,10 @@ Laksamana dudok atas pelamin
 Pandang sudah bertemu belom
 Sebagai bunga dalam chermin
 ===
-Ke Padang sudah
- ke Muar belum
+Ke Padang sudah ke Muar belum
 Liuk bermain tumbuk berangin
-Dipandang sudah
- berkata belum
+Dipandang sudah berkata belum
 Bagai peta di dalam cermin
-
 ===
 Ke pakan membeli rambai
 Rambai dijual di tengah pakan
