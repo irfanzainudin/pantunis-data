@@ -26013,7 +26013,7 @@ Tanjong Pinang telok kepayang
 Hidup sengsara tahan dahulu
 Esok ditimbang kaya dan senang
 ===
-Hidup harian "boleh" menipu
+Hidup harian 'boleh' menipu
 Habis hujan banyak cendawan 
 Tumbuh dekat cirit binatang 
 Hati susah ada berkahnya 
@@ -33812,11 +33812,6 @@ Jalan-jalan terus berkelah
 Terang tanah rumput diparas
 Syarat amalan diterima Allah
 Mengikut Sunnah serta ikhlas
-===
-Jalan-jalan
-Melancong
-Makan angin.
-<p><a href="/collections/show/4">Peribahasa Melayu</a></p>
 ===
 Jalinan hubungan karena cinta
 Sungguh mulia mahal harganya
@@ -44283,21 +44278,6 @@ Carilah kayu berbuah lebat
 Kalaulah hendak menuntut ilmu
 Carilah ilmu yang bermanfaat
 ===
-kalau hendak tahu besi berani
-Yang wangi kita bendangkan
-yang harum kita semaikan
-sesuadah ditempa dikerat-kerat
-kalau hendak tahu hati berani
-yang jernih nan kita minum
-yang perisa nan kita makan
-tegak membela syarak dan adat
-yang sesuai nan kita pakai
-yang sepadan nan kita jadikan
-yang pahit dijadikan obat
-yang kelat dijadikan pemanis
-yang masam dijadikan penyedap
-yang masin dijadikan pelemak
-===
 Kalau hendak tahu dipukat rami 
 Bagai teratai condong ke lubuk 
 Kalau hendak tahu di fuad kami 
@@ -48931,7 +48911,7 @@ Ibu bapa jangan lupakan!
 Kalau tuan menunggang keldai
 Carilah padang berumput jarang
 Kalau tuan orang yang pandai
-Apa binatangnya disebut "orang"?
+Apa binatangnya disebut 'orang'?
 ===
 Kalau tuan meragi kain
 Biar nipis pada jarang;
@@ -49897,21 +49877,6 @@ Kalaulah mau berjaja kain
 Bila merugi pantang meradang
 Kalaulah mau bekerja rajin
 Kemana pergi disayangi orang
-===
-Kalaulah patah kayu jati
-Tolong rundukkan asam jawa
-Dari rumput terus ke padi
-Rasakan panjang belah empat
-Sedahan ambil buat pagaran
-Enggeran burung ketitiran
-Permainan anak pasar gedang
-Kalau malang susun nyanyi
-Tolong alih kepada yang benar
-Dari mulut taruh ke hati
-Kerana hamba kan digenggam erat
-Namun setitik balikkan
-Kalau sebingkah digunungkan
-Ganti pengajaran di masa mendatang
 ===
 Kalaulah pergi ke pekan Nyalas
 Masuk ke balai membeli gelang
@@ -53192,30 +53157,6 @@ Karatau usah disangko madang
 Kadang-kadang baluluah padi
 Marantau usah disangko sanang
 Kadang-kadang barusuah hati
-===
-Karateh mari rang surek
-Di surek di tapi tangan
-Salang itu batindiah pulo
-Parupuak kulik jarami 
-Jarami tumbuah di ladang 
-Kalam tasisik ka kanso
-Minangkabau rajo di darek
-Itu katumbuak jodoh tolan
-Salang itu bapiliah pulo
-Kunun bak untuang badan kami
-Panyapu kaki indak sadang
-Di taruah apo kagunonyo
-Kertas maxi orang surat
-Disuratkan di tepi tangan
-Setelah itu ditindih pula
-Perupuk kulit jerami
-Jerami tumbuh di ladan
-Minangkabau raja di darat 
-Itulah akan jodoh tolan
-Sudah begitu dipilih pula
-Konon bak untung badan kami
-Penyapu kaki tidaklah cukup
-Di taruh apa kan gunanya
 ===
 Karateh turab aia ameh
 Ula garang rono limbayuang
