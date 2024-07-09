@@ -233,3 +233,8 @@ Index: 40
 - Pantun #102433
 - Pantun #112213
 - Pantun #120267
+
+## Pantun teka-teki that has answers
+
+- [Search for this pattern] (Itulah Lalat)
+- There's another pantun that I cannot remember its pattern so I cannot search for it, but I remember it is a teka-teki and has an answer
