@@ -153,6 +153,11 @@ Index: 40
 - Ekorbelantan Rimau Siam / Abbott’s Tiger
 - Ekorbelantan Perak / NA
 - Ekorbelantan Naga Jalur-putih / White-banded Dragonhunter
+- Ekorbelantan Burma Johor / NA
+- Ekorbelantan Burma Siam / NA
+- Ekorbelantan Burma Kalimantan / NA
+- Ekorbelantan Burma Sarawak / NA
+- Ekorbelantan Asia  Tujuh / NA
 
 ### Malay names of berries
 
