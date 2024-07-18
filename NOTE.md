@@ -158,6 +158,11 @@ Index: 40
 - Ekorbelantan Burma Kalimantan / NA
 - Ekorbelantan Burma Sarawak / NA
 - Ekorbelantan Asia  Tujuh / NA
+- Ekorbelantan Kinabalu / Ris’ Clubtail
+- Ekorbelantan Tioman / Tioman’s Clubtail
+- Ekorbelantan Duri Besar / Malayan Spineleg
+- Ekorbelantan Duri Kecil / NA
+- Ekorbelantan Cekak Kelantan / Malayan Grappletail
 
 ### Malay names of berries
 
