@@ -163,6 +163,11 @@ Index: 40
 - Ekorbelantan Duri Besar / Malayan Spineleg
 - Ekorbelantan Duri Kecil / NA
 - Ekorbelantan Cekak Kelantan / Malayan Grappletail
+- Ekorbelantan Gunting Kecil / Tiny Sheartail / Pigmy Scissortail
+- Ekorbelantan Kecil / Least Clubtail
+- Ekorbelantan Cabang Palembang / Forktail
+- Ekorbelantan Cabang Perak / NA
+- Ekorbelantan Cabang Batang / Sticktail
 
 ### Malay names of berries
 
