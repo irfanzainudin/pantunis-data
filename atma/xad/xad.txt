@@ -6435,6 +6435,9 @@ Gerik begerapak aiq mata
 Sengaq bedait kanca dengan toaq
 ===
 Kuchik kuchik nama tulaga
+Jumpa paret burulang mandi
+Sungguh kuchik mas baharga
+Budi yang baik paya di chari
 ===
 Kuching kurus mandi dipapan
 Papan bernama kayu jati
@@ -6507,8 +6510,14 @@ Bukan kurus yang kurang makan
 Kurus mengingat si jantung hati
 ===
 Kucing kurus mandi dipapan
+Mati di papan si kayu jati
+Badan kurus bukan tak makan
+Kurus memikir si jantung hati
 ===
 Kucing kurus menggaru papan
+Papan digaru kayu mati
+Kurus badan kerana tak makan
+Kurus kerana menahan hati
 ===
 Kucing kurus meniup api
 Api nan tidak mau menyala
@@ -6536,6 +6545,9 @@ Kereta banyak jalan pun sesak
 Kubawa berhibur dengan menyanyi
 ===
 Kuda belang menyeberang
+Basahlah kaki dengan pelananya
+Hati gila mabuk seorang
+Tuanlah sebab karenanya
 ===
 Kuda belang tangkas berlari
 Lari pantas di medan perang
@@ -6578,6 +6590,9 @@ Sama bangsa tak sama blang
 Brapa di ajar turot-nya tidak
 ===
 Kuda berlari terengah-engah
+Larinya kencang seperti angin
+Sedikit saja hamba lengah
+Abang mengerling gadis yang lain
 ===
 Kuda berlompat di batu belah
 Singga mengiris bunga rampay
@@ -6600,6 +6615,9 @@ Muda bangsawan belanya abang
 Main tu jangan diunduri
 ===
 Kuda di awan turun ke padang
+Talinya jangan dikenduri
+Muda bangsawan belanja abang
+Main itu jangan diunduri
 ===
 Kuda di dalam lebuh
 Air diharung hingga ke pinggang
@@ -6617,6 +6635,9 @@ Baju terlucut dari badan
 Bulang tercampak dari kepala
 ===
 Kuda dipacu di seri medan
+Terbang elang dari kuala
+Baju terlucut dari badan
+Bulang tercampak dari kepala
 ===
 Kuda dipacu di Seri Medan
 Terbang helang dari kuala
@@ -6624,6 +6645,9 @@ Baju terlucut daripada badan
 Bulang tercampak dari kepala
 ===
 Kuda dipacu di tengah medan
+Panah permainan Batara Indera
+Di situlah tempat menyenangkan badan
+Supaya jangan mendapat cedera
 ===
 Kuda dipacu di tengah medan
 Panah permainan Batara Indera
@@ -6661,6 +6685,9 @@ Nona genit rambutnya hitam
 Serong ke sana serong ke sini
 ===
 Kuda hitam pelana kain
+Bunga seganda dalam dulang
+Niatku tidak pada yang lain
+Hanya kepada tuan seorang
 ===
 Kuda hitam pelana kain
 Bunga seganda di dalam dulang
@@ -6693,6 +6720,9 @@ Rumah papan berbumbung panjang
 Diguna orang sekali sahaja (Keranda)
 ===
 Kuda jantan kencang larinya
+Mati terinjak pohon selasih
+Wahai badan apa jadinya
+Hampir bercerai dengan kekasih
 ===
 Kuda jungkit-jungkit
 Masuk kawan lembu
@@ -6710,6 +6740,9 @@ Pohon yang kechik tidak bercharang
 Burong yang mana hendak berhenti
 ===
 Kuda kelabu menyeberang
+Terendam kaki pelananya
+Hati gila mabuk seorang
+Tuanglah sebab kerananya
 ===
 Kuda kenaikan Sang Rajuna
 Sudah dipuja sekalian dewata
@@ -6740,16 +6773,6 @@ Kuda lengkok kuda permata
 Mari kutambat tiada bertali
 Sama lebur sama binasa
 Pasal aku lepas tiada sekali
-===
-Kuda liar berkeliling kota
-===
-Kuda liar tidur lena
-Ditambat kuat di perdu kayu
-Tempat berkawal askar Peringgi
-Memang begitu adat dunia
-
-Bunga kembang pasti layu
-Gugur ke bumi tidak harum lagi
 ===
 Kuda linkur kuda birasa
 Mayang di mana saya impaskan
@@ -6802,13 +6825,19 @@ Sa-tarom mata sampay berlalu
 Sa-taun hati rosak binasa
 ===
 Kuda putih hitam kukunya
-Akan kuda Sultan Iskandar 
-Adinda hitam banyak cumbunya 
+Akan kuda Sultan Iskandar
+Adinda hitam banyak cumbunya
 Tidak boleh berkata benar
 ===
-Kuda putih
+Kuda putih hitam kukunya
+Akan kuda Sultan Iskandar
+Adinda hitam banyak cumbunya
+Tidak boleh berkata benar
 ===
 Kuda sabaya kuda pelana
+Di pacu ke air deras
+Pantun saya pantun mana
+Kalau tak tahu jangan di balas
 ===
 Kuda sakit jatoh di logam
 Kena pana pata kaki nya
@@ -6831,6 +6860,9 @@ Muda sekarang ke kelab malam
 Orang tua bertopang dagu
 ===
 Kuda semberani dari Sumbawa
+Membawa tombak trisula
+Di dalam sanggul selalu ku bawa
+Meski putih rambut di kepala
 ===
 Kuda sultan raja sakti
 ===
@@ -37384,17 +37416,24 @@ Selagi cita-cita tidak tercapai
 Biar mati di rantau orang
 ===
 Orang Jawa menanam kencur
+Tanam dengan akar-akarnya
+Cinta kasih boleh luntur
+Hati sayang selamanya
 ===
 Orang Jawa menebang Jati
+Kuda semberani dari Sumbawa
+Kanda ibarat jimat yang sakti
+Di dalam sanggul selalu ku bawa
 ===
 Orang Jawa menebas kebun
+Belalang di padang habis melompat
+Tuan umpama akar seruntun
+Sungguh pahit menjadikan ubat
 ===
 Orang Jawa menjual chepu
 Chepu berisi bunga rampai
 Besar hawa pada nafsu
 Langit tinggi mahu di chapai
-===
-Orang Jawa menjual dupa
 ===
 Orang Jawa naik ka Haji
 Naik ka haji pakai juba
@@ -37422,6 +37461,9 @@ Orang tua berbini muda
 Bagai rasa menang menyabung
 ===
 Orang Jawa pergi ke Belanda
+Membeli ikan dengan rebung
+Orang tua berbini muda
+Bagai rasa menang menyabung
 ===
 Orang Jawa pergi ke huma
 Memetik manggis bawa pulang
@@ -37434,12 +37476,24 @@ Bukannya mudah membuang nyawa
 Nyawa tidak dapat dihubung
 ===
 Orang Jawa pulang ke Jawa
+Pisang abu dalam kebun
+Saya umpama burung tempua
+Di pohon buluh tempat berayun
 ===
 Orang Jawa pulang ke Jawa
+Membuat kici bertiang sambung
+Kalau tuan tidak percaya
+Esok akan sama kita tanggung
 ===
 Orang Jawa pulang ke Jawa
+Membawa tiang bersambung
+Badan terletak putuslah nyawa
+Nyawa tidak dapat di hubung
 ===
 Orang Jawa pulang ke Jawa
+Membawa kici bertiang sambung
+Bukannya mudah membuang nyawa
+Nyawa tidak dapat dihubung
 ===
 Orang Jawa pulang ke Jawa
 Membawa kici bertiang sambung
@@ -37447,6 +37501,9 @@ Bukannya mudah membuang nyawa
 Nyawa tidak dapat dihubung
 ===
 Orang Jawa si pandai keris
+Keris di beli orang Padang
+Hati dan jantung bagai diiris
+Melihat adik disunting orang
 ===
 Orang Jawa tinggal di godong
 Dia sambayang adek bradek
@@ -37459,8 +37516,14 @@ Sapu tangan tanda kasih
 Harap sudi tuan terima
 ===
 Orang Jepara pandai ukir
+Mengukir kayu dengan akarnya
+Beri dahulu saya berpikir
+Agar kasih bersama-sama
 ===
 Orang Jepara pandai ukir
+Jati dibawa dengan pedati
+Beri dahulu saya berpikir
+Agar tidak menyesal nanti
 ===
 Orang Judah pergi ke Gangsa
 Menjual mangkuk bersama cawan
@@ -37498,6 +37561,9 @@ Apa kala abang nin takut
 Jikalau tidak tentu kuadang
 ===
 Orang karam terampung-ampung
+Hanyut ke beting dalam londang
+Pakai kain belah betong
+Di pukul angin terbuka lapang
 ===
 Orang karam terapung-apung
 Hanyut ke beting dalam londang
