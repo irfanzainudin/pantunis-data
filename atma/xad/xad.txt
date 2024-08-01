@@ -19004,6 +19004,9 @@ Malam inj kita betemu
 Malam esok kita sembeleh
 ===
 Malam ini malam sabtu
+Orang sembahyang lima waktu
+Tuanya badan kalau mengaku
+Lumpur di pijak menjadi batu
 ===
 Malam ini malam Sabtu
 Esok hari malam Ahad
@@ -19046,6 +19049,9 @@ Malam ini kita berjaya
 Malam esok kita menentu
 ===
 Malam ini malam selikor
+Malam orang mati beranak
+Laksana burung seekor
+Lepas tangan tuannya banyak
 ===
 Malam ini malam Senayan
 Malam esok malam Selasa
@@ -19163,8 +19169,14 @@ Malam ini kita bertemu
 Malam esok kita berpisah
 ===
 Malam Kemis bakar setanggi
+Perawan menjahit sapu tangan
+Hamba disanjung begitu tinggi
+Apa maksud abang gerangan
 ===
 Malam Kemis bakar setanggi
+Orang memetik tali rebab
+Jangan angkat terkaku tinggi
+Nanti adik terjerabah (TODO)
 ===
 Malam larut pasanglah tanglung
 Supaya mudah orang berjaga
@@ -19212,11 +19224,14 @@ Jangan kerana sebutir pasir
 Kita bertelagah sebesar gunung
 ===
 Malam semalam memancing ruan
+Dapat nyiur putus tandan
+Malam semalam mimpikan tuan
+Serasa tidur di bantal lengan
 ===
 Malam senak mudik ke limbung
 Singgah mari rumah mak encik
 Menawar senak dengan kembung
-Lantas turun ke kaki
+Lantas turun ke kaki (TODO)
 ===
 Malam sunyi di taman kayangan
 Angin menderu nyanyian buana
@@ -19266,8 +19281,14 @@ Kampungan dengan cucunya Radja
 Dari semualah sekalian
 ===
 Malan Jum'at petang Kemis
+Orang menuba ikan gelang
+Tengah malam hujan gerimis
+Hamba tidur bergelung seorang
 ===
 Malan Jum'at petang Kemis
+Orang menuba ikan gelang
+Tengah malam hujan gerimis
+Dinda menunggu abang pulang
 ===
 Malang berperahu sabut
 Tuah beratap genting
@@ -19290,8 +19311,14 @@ Tidak orang seperti aku
 Menanggung dendam seumur hidup
 ===
 Malang orang disangka batu
+Tanjung Bemban tempatnya redup
+Tidak orang seperti aku
+Menanggung dendam seumur hidup
 ===
 Malang orang disangka batu
+Tanjung Bemban tampaknya redup
+Tidaklah orang serupa aku
+Menaruh dendam seumur hidup
 ===
 Malang orang disangka batu
 Tanjung Bemban tampaknya redup
@@ -19313,22 +19340,15 @@ Lubang digali ombak tibo
 Malang untuangnyo banang salai
 Sadang paguno putuih pulo
 ===
-Malangkah di pangka karih
-Bamain di ujuang padang
-Basilek di kato-kato
-Jokok bajalan di nan luruih
-
-Bahukum adia manimbang
-Di nan bana kalau bakato
-===
 Malangnya gula hilang manis
 Untungnya peria hilang pahit
 Nafas dihela menahan tangis
 Robek jiwa tak dapat dijahit
 ===
 Malanguah jawi balang-puntuang
-===
-Ma-languah jawi balang-puntuang
+Malanguah mainbau kawan
+Manangih manyada untuang
+Untuang nan tinggi dari awan (Pantun Minangkabau)
 ===
 Malanguah jawi nak rang Kubuang
 Malanguah maimbau kawan
@@ -19336,17 +19356,18 @@ Manangih manggaruang-garuang
 Untuang nan tinggi dari awan
 ===
 Ma-languah jawi urang Kubuang
+Ma-languah ma-imbau kawan
+Ma-nangih ma-nyada untuang
+Untuang-lah tinggi dari awan
 ===
 Malanguah jawi urang Kubuang
 Malanguah maimbau kawan
 Manangih manyadari untuang
 Untuang nan tinggi dari awan
-
-
+===
 Melenguh sapi orang Kubuang
 Melenguh menghimbau kawan
 Menangis menyedari untung
-
 Untung yang tinggi dari awan
 ===
 Malap kendil sumbunya kecil
@@ -19457,24 +19478,26 @@ Malim Sidi makan dicembul
 Limau nipis limau lelang
 Gajah mati tulang berkumpul
 Harimau mati tinggalkan belang
-
-
-Pilot Sidi eats from his basket
-Common limes and citrons
-An elephant dies
 ===
 Malin Deman manjalo todak
 Naiak batang turun parahu
 Pandai padoman kami lai tidak
 Angin bakisa kami tau
-
-
+===
 Malin Deman menjala todak
-Naik batang
+Naik batang turun ke perahu
+Pandai akan pedoman kami tidak
+Tapi angin berkisar kami tahu
 ===
 Malin Marajo rang gala-kan
+Dapek gaji dari Gumpani
+Kampuang alaman rang tingga-kan
+Sabab dek tuluih dalam ati
 ===
 Maling-maling di tepi belukar
+Gelugur di tebing tinggi
+Di banding tidak bertukar
+Di ukur sama tinggi
 ===
 Malirama di atas bukit
 Kapur tohor berjumpung-jumpung
@@ -19507,19 +19530,23 @@ Macam kaampek banamo 'pangaliah'
 Jalan nan luruih suko maanjak
 ===
 Malu suda budak nakal
+Brapa panday ada bodoh nya
+Barang retak kalu di tampal
+Sedang di simpay boochor juga
 ===
 Malukut bras satu gantang
+Tinggal sechupak bawa blayer
+Apa Takot dagang burhutang
+Dalam seprihal bolay di bayar
 ===
 Mamacah ombak ateh karang
 Tamban babaua jo gurito
 Apa kaandaknyo jan dilarang
 Badannyo juo nan ka seso
-
-
+===
 Memecah ombak di atas karang
 Tamban berbaur dengan gurita
 Apa kehendaknya jangan dilarang
-
 Badannya jua yang akan seksa
 ===
 Mamacak aia di tuduang
