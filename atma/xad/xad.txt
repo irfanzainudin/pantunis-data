@@ -23046,22 +23046,14 @@ Jika bercakap tidak berhingga
 Akhirnya badan dijengkali orang
 ===
 Masukkan minyak ke dalam balang
+Balang terletak dekat puan
+Di dalam cinta tidaklah hilang
+Rasa adinda atas pangkuan
 ===
 Masukkan padi kedalam goni
 Ikat rapi jarum bersulam
-Kalau sudah punya anak
-===
-Masukkanlah aku ke dalam torak adik
-Kemudian tariklah aku pelan-pelan
-Ibarat selembar benang sutera
-Sayangilah aku akan terputus
-
-
-Annaq tama di toraq mu
-Lauiaq manya-manya
-Parrapang saqbe
-
-Asayangiaq rambuq
+Kalau sudah punya anak bini
+Janganlah suka lagi keluar malam
 ===
 Masuklah pada sebuah pengakuan
 Dialah Raja hari kemudian
@@ -23069,7 +23061,7 @@ Bagaimana qalbu mampu menahan
 Rasa takut yang tak terucapkan
 ===
 Masyhur Berandan hasilkan minyak
-Hasil utama di daerah Bangka
+Hasil utama di daerah Bangka (TODO)
 Lautnya dangkal ikan pun banyak
 Pukat kulabuh mengapa tak dapat 
 ===
@@ -23108,11 +23100,6 @@ Laba bersarang bertali tali
 Maskota tuan siapa nak raba 
 Jiwa ku ilang biar skali 
 ===
-mata guru
-roa sisean
-on mada pola na tolu
-paias muse parabitonmu
-===
 Mata mata berpedang besi
 Bermain tandak dengan kawannya
 Kata kata tidak berisi
@@ -23123,7 +23110,7 @@ Ikan kerisi sedap disalai
 Ditegur sedikit janganlah marah
 Tanda ingat pada yang lalai
 ===
-Mata molek kening pun lenting
+Mata molek kening pun lentik (modified)
 Cukup kengkap dengan bedanya
 Mentua baik menantu cantik
 Seperti telap dengan tudungnya
@@ -23132,9 +23119,6 @@ Mata pandang amat amati
 Rasa perut kekenyangan
 Orang hidup hormati
 Orang mati kebenaran
-===
-Mata pandang tangan menulis
-Buta kuping
 ===
 Mata parang banyak baja
 Parang itu cukop tajam
@@ -23172,15 +23156,13 @@ Burong berkicau di pagi hari
 Merayukan hati dagang sa-orang
 ===
 Matahari selamba tinggi
-===
-Matahari senja di barat
-Sinar merah belum tenggelam
-Kurang kerjaan pengantin muda
-Belum malam sudah menghilang
+Tambat kerbau Tanjung Teduh
+Lama sudah kami mencari
+Dapat sanggul kumbang bertindeh (TODO)
 ===
 Matahari siang bersinar
 Angin tiup semakin reda
-Untuk kenal dunia
+Untuk kenal dunia luar (modified)
 Bangunkan suatu dari tiada
 ===
 Matahari tenggelam magrib pun tiba
@@ -23272,6 +23254,9 @@ Tubuh putih rambutnya panjang
 Anak orang apakan daya
 ===
 Mati dililit ribu-ribu
+Laksamana tukang tutuhnya
+Carilah akal dengannya tipu
+Bagaimana akan membunuhnya
 ===
 Mati dililit si ribu-ribu
 Laksamana tukang tutuhnya
@@ -23284,6 +23269,9 @@ Di hati abang tidak ternilai
 Sebuah negeri bukan harganya
 ===
 Mati dipanah dewa mempelai
+Pohon kenari tangga rumahnya
+Di hati abang tidak ternilai
+Sebuah negeri bukan harganya
 ===
 Mati dipanah dewa sakti 
 Cendawan hancur berperai 
@@ -23296,6 +23284,9 @@ Jika tidak setangkai hati
 Mana dapat pada yang lain
 ===
 Mati dipanah Indera Sakti
+Perepat sampaian kain
+Jika tidak si tangkai hati
+Mana dapat pada yang lain
 ===
 Mati dipanah Maharaja Sakti
 Perepat sampaian kain
@@ -23317,12 +23308,15 @@ Dari Siantan ke Japara
 Maka selaku senandan ini
 Segenap hutan abang mengembara
 ===
-Mati ditembak oleh Belanda 
-Penaburnya Iari ke tengah padang 
-Duduk terkenang akan adinda 
+Mati ditembak oleh Belanda
+Penaburnya lari ke tengah padang
+Duduk terkenang akan adinda
 Tidak terhibur olehnya abang
 ===
 Mati ditembak oleh Belanda
+Penabur terserak tengah padang
+Duduk terkenang akan adinda
+Nyawa ditubuh rasa melayang
 ===
 Mati ditembak oleh Belanda
 Penaburnya lari ke tengah padang
@@ -23355,6 +23349,9 @@ Cari lawan dalam selisih
 Jadi korban kawan sendiri
 ===
 Mati munsoh ukai chechamang
+Laban peluru leka senapang
+Penoh darong bangkai melintang
+Darah anyut nengah tebiang (Pantun Sarawak)
 ===
 Mati semut kerana gula
 Air ditadah hujan pun reda
@@ -23387,8 +23384,14 @@ Laki bisu binipun bisu
 Mulut diam tangan merayap
 ===
 Mati terjerat anak kijang
+Dijerat oleh Datuk Sempati
+Melihat orang berambut panjang
+Teringat pula sijantung hati
 ===
 Mati tersambar seekor merpati
+Lantai balai berbelah-belah
+Laksana kambing menggulai hati
+Sudah di dengar perintah Allah
 ===
 Mati tukang mati kelasi
 Tinggal nakhoda seorang diri
@@ -23436,8 +23439,9 @@ Tidak orang sabagi saya
 Dudok ramay mengerang sorang
 ===
 Maulah kami hendak melapun
-===
-Maulah kami hendak melapun
+Lapun dibawa 'rang menjaja
+Jangan marah kami berpantun
+Budak kecil biasa manja
 ===
 Maulah kami hendak melapun
 Lapun di bawah limau lungga
@@ -23455,6 +23459,9 @@ Maiq angen side bilin tiang
 Mangan nginem ndeqna keruan
 ===
 Mayang di dalam kumbu
+Raga tersirat dari laka
+Pak Sayang berbalik masuk kubu
+Raja Siak datang ke Melaka
 ===
 Mayang di mana saya empaskan
 Buat beraksa kayu api
