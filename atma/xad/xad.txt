@@ -17664,6 +17664,9 @@ Tidak encik siapa lagi
 Tidak menaruh kekasih asing
 ===
 Makan diracik tepi perigi
+Berjamu budak menaruh gasing
+Tidak encik siapa lagi?
+Tidak menaruh kekasih asing
 ===
 Makan diracik tepi perigi
 Menjamu budak menarah gasing
@@ -17841,6 +17844,9 @@ Jangan dipikat burung dihutan
 Lepas ditangan terbang jauh
 ===
 Makan nasi dengan Che'Dollah
+Rambut sehelai di belah-belah
+Ajaib aku subbanu'llah
+Tebuan meminang anak lelabah
 ===
 Makan nasi dengan ketupat
 Kakek tua duduk bertapa
@@ -17993,6 +17999,9 @@ Hidup berhutang rumah dilelong
 Mulanya kaya bertukar papa
 ===
 Makan paoh brulam paoh
+Baru rasa nyilu gigi nya
+Tuan jaoh sahya pun jaoh
+Baru rasa rindu hati nya
 ===
 Makan paoh ulam paoh
 Baru terasa gigi nilu
@@ -18025,6 +18034,9 @@ Hati tenang ilmu nan luas
 Bintang di langit tidak terbilang
 ===
 Makan pisang ambo lai namuah
+Anta kok puan makan nasi
+Ilang jo nyao ambo lai namuah
+Antah kok tuan anggak mati
 ===
 Makan pisang kulitnya kuning
 Pisang masak dari Betawi
@@ -18082,8 +18094,14 @@ Sudah dapat gading batuah
 Tandok tidak berguna lagi
 ===
 Makan selasih berulang-ulang
+Unggas bernama burung sahian
+Mohonkan kasih dengannya sayang
+Belas serta dengan kasihan
 ===
 Makan semangka berulam manggis
+Dimakan dalam perahu
+Di luar gelak di dalam tangis
+Allahu rabbi yang akan tahu
 ===
 Makan sepat tidak bertulang 
 Tetak akar ikatkan peti
@@ -18091,6 +18109,9 @@ Tujuh makrifat sudah dipandang
 Tidak bertukar di dalam hati
 ===
 Makan sepat tidak bertulang
+Tetak akar ikatkan peti
+Tujuh makrifat sudah dipandang
+Tidak bertukar di dalam hati
 ===
 Makan serie gambier tjikoe
 Blon mera tengok di katja
@@ -18158,6 +18179,9 @@ Tinggal kaseh tinggal junjongan
 Pegiku tidak kembali lagik
 ===
 Makan siriah sarato jo pinang
+Di-uduik rokok jo timbakau
+Ka lalu badan kok ilang
+Ka suruik badan lah talampau
 ===
 Makan sirih berkati-kati
 Hingga habis seraga pinang
@@ -18165,6 +18189,9 @@ Alangkah sedih rasanya hati
 Mengenang nasib dagang menumpang
 ===
 Makan sirih berpinang tidak
+Pinang ada dari Melaka
+Makan sirih kenyang tidak
+Tegah de'budi dengan bahasa
 ===
 Makan sirih berpinang tidak
 Pinang ada dari Malaka
@@ -18218,7 +18245,8 @@ Itulah malang datang dahulu
 ===
 Makan sirih berpinang tidak
 Sirih ada di Bukit Piatu
-Pandang kiri
+Pandang kiri kanan tidak
+Sampai saya dagang piatu
 ===
 Makan sirih berulam cekur
 Rasanya pedas terlebih kapur
@@ -18226,13 +18254,16 @@ Tangga tak rata bumbung tak bocor
 Orang tak ajak usah campur
 ===
 Makan sirih carik-bercarik
+Makan pinang sepah di ludah
+Kalau asal bangsa tak baik
+Di julang tinggi menjadi rendah
 ===
 Makan sirih dalam perahu
 Diiris petai jadikan ulam
 Hati sedih siapa tahu
 Tangis berderai jatuh ke dalam
 ===
-Makan sirih gambir Jikau
+Makan sirih gambir Jikau (TODO)
 Belum merah tengok di kaca
 Selamat tinggal Norma jiwaku
 Besok pagi jauh di mata
@@ -18248,6 +18279,9 @@ Hitam kening celak dipalit
 Hitamnya hati tidak terjangkau
 ===
 Makan sirih makan termakan
+Urat kapis di tengah jalan
+Kasih laksana main pakau
+Pandai melapis dalam sembilan
 ===
 Makan sirih memetik pinang 
 Kacang kecambah di dalam perahu 
