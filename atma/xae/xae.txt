@@ -26109,6 +26109,9 @@ Seboleh berkejam mataku tidur
 Sungai Pua
 ===
 Sungai Raya negeri Asahan
+Merbau berbunyi di kayu ara
+Habis rakyat dibinasakan
+Kerbau dicuri muntahkan darah
 ===
 Sungai Raya Tanjung Jati
 ===
@@ -37618,6 +37621,9 @@ Hati bimbang tidak terkira
 Menantikan abang Iambat datang
 ===
 Terbang kumbang dari udara
+Merpati meniti batang
+Hati bimbang tidak terkira
+Menantikan kekanda lambat datang
 ===
 Terbang kumbang dari udara
 Merpati meniti batang
@@ -37629,6 +37635,9 @@ Terbang kumbang jantan betina
 Terbang kumbang masuk ke taman
 ===
 Terbang kumbang meniti udara
+Burung merpati meniti batang
+Hati bimbang tidak terkira
+Nanti abang lambat datang
 ===
 Terbang laju helang sebaya
 Singgah makan di pinggir hutan
@@ -37658,14 +37667,6 @@ Terbang lurus si burung sanuk
 Berhenti lelah di pokok sena
 Jangan boros kerana seronok
 Anak sekolah nak kerobek di mana?
-===
-Terbang melambung jauh ke udara
-Hinggap merbah atas jerami
-Jerami diikat jaraknya dekat
-Jiran sekampung penaka saudara
-
-Kekal muhibah silaturahmi
-Sama muafakat membawa berkat
 ===
 Terbang melayang burung belatuk
 Terbangnya tinggi sampei ke awan
@@ -37822,6 +37823,11 @@ Terbang merpati silih berganti
 Terbang sekata hinggapnya merata
 Hati ke Hati mohon berhenti
 Tersilap kata maaf dipinta
+===
+Terbang merpati terbang sekawan
+Terbang hinggap di parkir kereta
+Berdamai di hati didikan ilmuwan
+Jujur bersikap jangan berdusta
 ===
 Terbang nuri dari seberang 
 Mati dipanah dewa mempelai 
