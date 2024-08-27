@@ -248,6 +248,8 @@ Index: 40
 - Pantun #102433
 - Pantun #112213
 - Pantun #120267
+- Pantun #131024
+- Pantun #129727
 
 ## Pantun teka-teki that has answers
 
