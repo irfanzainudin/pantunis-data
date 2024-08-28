@@ -7670,8 +7670,6 @@ Ayer sireh meleleh ke-dagu
 Orang tua nyanyok hendak bertunang
 Disorak orang tidak bermalu
 ===
-Kunyah-kunyah pepak pinang
-===
 Kunyit cekur ayam seekor
 Giling lumat kelap sebelah
 Senang bersyukur gawat bersyukur
@@ -7693,6 +7691,9 @@ Kalauku tahu ia tak baik
 Tidakku surung dari mulanya
 ===
 Kunyit tamu bunga cempaka
+Ikan petala dalam perahu
+Bukan tak tahu orang tak suka
+Sindiran orang saya pun tahu
 ===
 Kupa kelapa dapat kucupnya
 Batok keras bisa dibelah
@@ -7730,13 +7731,19 @@ Rambut Nabi kelihatan ikal
 Matanya bersinar alisnya tebal
 ===
 Kupas pinang dikupas
+Kalau dikupas ambil bulunya
+Kalau bertunang jangan dilepas
+Jikalau lepas menjadi malunya
 ===
 Kupas pinang dikupas
 Kalau dikupas ambil bulunya
 Kalau bertunang jangan dilepas
 Kalau dilepas menjadi malunya
 ===
-Kupatah
+Kupatah tidak terpatah
+Kutiti berlari-lari
+Kutegah tidak tertegah
+Kuberikan sekehendak hati (Pantun Minangkabau pada akhir abad ke-19) (Van Ophuijsen)
 ===
 Kupu kupu di atas charang 
 Brenti satu bermakan bunga 
@@ -7764,8 +7771,14 @@ Hati di dalam menaruh bimbang
 Dari dahulu sampai sekarang
 ===
 Kupu-kupu terbang melintang
+Terbang di laut di ujung karang
+Hati di dalam menaruh bimbang
+Dari dahulu sampai sekarang
 ===
 Kupu-kupu terbang melintang
+Hinggap menghisap bunga layu
+Hati di dalam menaruh bimbang
+Melihat ikan memanjat kayu
 ===
 Kupu-kupu terbang melintang
 Hinggap mengisap bunga layu
@@ -7798,6 +7811,9 @@ Bangga gue bukannya brengsek
 Mental pemimpinnya perlu digembleng
 ===
 Kupulo mungali ubi
+Bua rungas dalam dulang
+Supulo kali munabor budi
+Mas juga di pandang orang
 ===
 Kura kura nampak bernang
 Entah sapuloh entah sablas
@@ -7825,6 +7841,9 @@ Kalu sutra berchampor menang
 Bolay di lasak siang dan malam
 ===
 Kurai Taji balai Senayan
+Orang tua berjual lada
+Cepat kaki ringan tangan
+Lamun selera lepas juga
 ===
 Kurai taji balai Senayan
 Orang tua berjual lada
@@ -8074,29 +8093,29 @@ Oghang sombong tak boleh kira
 Walau dia duit tak dak
 ===
 Kutip-kutip pucuk beluntas
+Mari taruk atas para
+Terbit tunas jangan gentas
+Pohonnya kelak beroleh cedera
 ===
 Kutip-kutip pucuk janggus
+Mari kutip atas batas
+Encik' laksana telur kemungkus
+Kalau di ram tidak menetas
 ===
 Kutu rambut kutu kepala
 Wajah buruk ditutup bedak
 Biarkan lampu menyala
 Harus selalu ditambah minyak
 ===
-Kutu! Kutu!dimana tuma?
+Kutu! Kutu! Dimana tuma?
 Tuma ada di kain jarang
+Adik bongsu! Dimana bunga?
+Bunga ada lagi di karang
 ===
-kuwih  ni nami salak kurupen 
-gelah bang kuanomen pit matjame
-nge salah djanji nge salah suen
-oja ken pengalaman si gerene bene
-===
-Kyoto kota seribu jinja
-Tujuan orang berwisata
-Menonton matsuri sepanjang hari
-Hidup sejahtera di dunia 
-
-Tanpa engkau tidak bermakna seperti 
-Terbuang ke lorong sunyi
+Kuwih  ni nami salak kurupen 
+Gelah bang kuanomen pit matjame
+Nge salah djanji nge salah suen
+Oja ken pengalaman si gerene bene
 ===
 la bernama Siti Maimunah 
 Pangkat anak kepada baginda 
@@ -8112,12 +8131,10 @@ La lamo nido ke sawah
 Batang padi dililit kangkung
 La lamo nido berjumpa sudah
 Putus hati pengarang jantung
-
-
+===
 Sudah lama tidak ke sawah
 Batang padi dililit kangkung
 Lama tidak berjumpa
-
 Putus hati pengarang jantung
 ===
 La mengombang si bungo inai
@@ -8156,18 +8173,14 @@ Chobak di banding langsat Palembang
 Rupa pon manis rasa pon lain.
 ===
 Laban China udah tebalan
+Diakal Dayak di samoa macham
+Ko jako meli utai ditaban
+Dibai lari ngagai pengkalan (Pantun Sarawak)
 ===
 Labek ujan di Taluak Kasai
 Mamutiah kasiak di Pulau Karang
 Bari balimau nak bakasai
 Mak tamimpi dalam rasian
-
-
-Lebat hujan di Teluk Kasai
-Memutih pasir di Pulau Karang
-Beri berlimau supaya berkasai
-
-Agar bermimpi dalam rasian
 ===
 Labi labi di rimba gala
 Puan di letak di atas tilam
@@ -8207,7 +8220,7 @@ Laknat menanti badan terbuang
 Labu manis dimasak pengat
 Akan pangan anak menantu
 Gimana hati takkan hangat
-Budinya berudang di sebalik batu.
+Budinya berudang di sebalik batu
 ===
 Labu manis ditengah padang
 Dibuat pengat rasa perisa
@@ -8294,18 +8307,14 @@ Mencari salah terlalu senang
 Membaikinya sukar sekali
 ===
 Lacuan kain selendang
+Pandan dijemur di ujung pagar
+Kawan bermain sama gedang
+Badan tidur bergulung tikar
 ===
 Lada china sukat mombong
-===
-Lada dan santan dalam gulai
-Beri tambahan daun salam
-Sayur buat pemakan nasi
-Selama badan kita bercerai
-
-Nasi dimakan rasa sekam
-Air diminum rasa duri
-===
-Lada dengan apa 'kan digiling
+Bungkus mari kurtas chumpa
+Hina la saya bangsa talindong
+Sudi la tuan di buat hamba
 ===
 Lada di mana sahaya kisarkan 
 Api-api sahaya rendangkan 
@@ -8313,6 +8322,9 @@ Pada siapa sahaya sesalkan
 Di dalam hati sahaya dendamkan
 ===
 Lada di mana saya samaikan
+Awak berladang di Pariaman
+Kepada siapa saya adukan
+Dalam hati saya dendamkan
 ===
 Lada di-angkat oleh Banggali
 Di-masok kereta di-bawa ka-ladang
@@ -8320,6 +8332,9 @@ Buat jahat jangan sekali
 Walau kita hina di-pandang
 ===
 Lada dicotok burung kedidi
+Anak pelanduk dalam perigi
+Tanda kerjanya tak menjadi
+Duduklah dengan berhati dengki
 ===
 Lada dicotok burung kedidi
 Anak pelanduk dalam perigi
@@ -8327,6 +8342,9 @@ Tanda kerjanya tidak menjadi
 Duduklah dengan berhati dengki
 ===
 Lada dimana saya kisarkan
+Api-api saya rendangkan
+Kepada siapa saya katakan
+Dalam hati saya dendamkan
 ===
 Lada dipatuk burung kedidi 
 Anak pelanduk di dalam perigi 
@@ -8344,6 +8362,9 @@ Balik ajaib di hati sahaya
 Adakah matahari hendak ditentang
 ===
 Lada pahit di tepi paya
+Burung nuri meniti batang
+Balik ajaib di hati saya
+Adakan matahari hendak ditentang?
 ===
 Lada pidir dari Sarawak
 Mari di bawa ke Tanjung Jati
@@ -8356,6 +8377,9 @@ Janda saya janda bertuah
 Sedang sayang bertambah baharu
 ===
 Lada saya lada perbuah
+Tanaman anak Sungai Baru
+Janda saya janda bertuah
+Sedang sayang tambah baru
 ===
 Lada secawan bunga berembang
 Taruk dipetik bertimbun-timbun
@@ -8368,6 +8392,9 @@ Pada siapa disesalkan
 Tuan juga empunya pekerti
 ===
 Lada sulah masak dilurut
+Daun birah sudahlah luruh
+Sabda rasul hendak turut
+Hukum syarak sudah menyuruh
 ===
 Lada sulah masak dilurut
 Daun telang di dalam dulang 
@@ -8400,6 +8427,9 @@ Pipi gebu berlesung pipit
 Ini membawa badan merana
 ===
 Ladang tidak rusa di paya
+Lang mungisep kayu di hulu
+Dagang tidak sarupa saya
+Kunang kan nasib tabuang lalu
 ===
 Ladang ubi tana nya baru 
 Bertumbu serta pokok rumenia 
@@ -8462,6 +8492,9 @@ Lagi dahulu sahaya yang punya
 Sakarang ini ada gantinya
 ===
 Lagi dahulu cermin Cina
+Sekarang kini patah kakinya
+Lagi dahulu saya yang punya
+Sekarang kini ada gantinya
 ===
 Lagi dahulu cermin cina
 Sekarang ini patah kakinya
@@ -8474,6 +8507,9 @@ Lagi dahulu kami dipujuk
 Sudah sekarang kami dibuang
 ===
 Lagi di belah lagi di ungkai
+Kononlah pula torak bertorang
+Di tangan Allah lagi di ungkai
+Kononlah pula di tangan orang
 ===
 Lagi di rumpon lagi di bebat 
 Branak rusa sebla ibu 
@@ -8481,6 +8517,9 @@ Lagi di ampon lagi di buat
 Kenapa tidak di ajar dulu 
 ===
 Lagi di rurot lagi di rubat
+Branak rusa sebula ibu
+Lagi di ampon lagi di buat
+Tidak dungar pungajar ibu
 ===
 Lagi dibelah lagi diungkai
 Kononlah pula torak bertorak
@@ -8498,6 +8537,9 @@ Suda nasib badan tu malang
 Siray naik junjong pun pata
 ===
 Lagi jawa kamadu kara
+Trata sukolam tunga nya umu
+Mari engsun butamba nyawa
+Kasih sayang handak batumu
 ===
 Lagi ka Pilah pergi di Bentong
 Jalan nya churam banyak slaykor nya
@@ -8510,6 +8552,9 @@ Ibarat bachang dengan kwini
 Rupa nya sama rasa lain 
 ===
 Lagi klang pergi kulangat
+Masok kahutan munchari jati
+Jangan di hulang tulampon sangat
+Asah kan ingat di dalam hati
 ===
 Lagi Klang pergi patani
 Singga petek bunga brangan
@@ -8526,9 +8571,10 @@ Naik ke balai terhinggut-hinggut
 Sahaja Pak lebai buta perut
 Haram halal bubuh di mulut
 ===
-Lagi lebai
-===
 Lagi lingi ka gunong laydang
+Kasa di buli tulipat juga
+Brapa tinggi burong turbang
+Masa kutika di tangkap juga
 ===
 Lagi Macasar pergi Brunei
 Sarat prau muat rottan
@@ -8610,12 +8656,13 @@ Sambil berlagu bertepuk tangan
 Penyanyi baru menempa nama
 Penyanyi lama dilupa jangan
 ===
-Lagu baru
+Lagu baru lagu lama
+Sambil berlagu bertepuk tangan
+Penyanyi baru menempa nama
+Penyanyi lama dilupa jangan
 ===
 Lagu berjudul Dari Hati ke Hati
-===
-Lagu berjudul Dari Hati ke Hati
-Dendangan  oleh dua sejoli
+Dendangan oleh dua sejoli
 Noliah Ahmad mengundur diri
 Rosni Yusof sebagai pengganti
 ===
@@ -8635,6 +8682,9 @@ Layar dikembang kemudi dipaut
 Kalau tak laju binasa badan
 ===
 Lagu lama lagu berzaman
+Sirih pinang di dalam puan
+Berbagai rama telah dihidangkan
+Semoga terhibur hatimu tuan
 ===
 lagu lama lagu berzaman
 Sirih pinang di dalam puan
@@ -8689,61 +8739,34 @@ Paganang sawah di gunuang
 Ka payuang panji ateh dunia
 Hujan jo paneh bakeh balinduang
 ===
-Lah buliah kami talinyo
-Talang dipapek nak rang Aceh
-Dibao nak rang ka Padang
-Lai lalu ka Banuampu
-
-Lah buliah kami gantinyo
-Kampia batulih banang ameh
-Arago sasuku riya Padang
-Labiah saaluih nan daulu
-
-
-Telah dapat kami talinya
-Talang dipepat nak rang Aceh
-Dibawa anak orang ke Padang
-
-Lewat melalui Banuampu
-Lah dapat kami penggantinya
-Kantung bertulis benang emas
-Harganya sesuku riyal Padang
-
-Lebih halus dari yang dahulu
-===
-Lah iko lamo si Kilang
-===
-Lah ilia urang Bukik-tinggi
-===
 'Lah jauh urat melata
-===
-Lah kambang bungo ilalang
-Tumbuah di parak nak rang Ranah
-Kambang sarumpun jo sidingin
-Sacakak jo ruku-ruku
-
-Mandeh sapantun alang-alang
-Sajak mamnubuang dari tanah
-Mabuak dipusiang-pusiang angin
-Seso diputa dek limbubu
+Padi tidak menjadi lalang
+Sungguh jauh adik di mata
+Namun di hati tidak 'kan hilang
 ===
 'Lah kembang bunga kenari
+'Lah layu bunga cempaka
+Hilang ke mana 'kan ku cari
+Adik berpulang ke alam baka
 ===
 Lah lama kembang bunga pandan
-Kembangnya lama
+Kembangnya lama hampir diluruti
+Lah lama datangnya nyawa badan
+Datangnya hampir dituruti
 ===
 'Lah lama tidak ke rimba
+Pandan berbuahlah tu kini
+'Lah lama tak bersua
+Badan berubahlah tu kini
 ===
 Lah lamo indak ka rimbo
 Pandan babuah lah ko kini
 Lah lamo indak basuo
 Badan barubah lah ko kini
-
-
+===
 Telah lama tidak ke rimba
 Pandan berbuahkah kini
 Telah lama tidak bersua
-
 Badan berubahkah kini
 ===
 Lah lamo kambang bungo pandan
@@ -8752,18 +8775,39 @@ Lah lamo datang nyawa badan
 Datang nan cameh baturuti
 ===
 'Lah makan nasi 'rang kapau
+Dimakan orang dari medan
+Terngiang adik menghimbau
+Terbit semangat dalam badan
 ===
 'Lah masak buah dikeduduk
+Jatuh sebiji ke dalam paya
+Orang malas dapat dipujuk
+Orang enggan apakah daya
 ===
 'Lah masak buah sikeduduk
+Masak sebiji di atas talam
+Hati marah dapat dibujuk
+Hati iba remuk di dalam
 ===
 'Lah masak kelapa puan
+Untuk penggulai ikan peda
+Bila teringat wajahmu tuan
+Rasa hilang iman di dada
 ===
 'Lah masak nasi 'ang kapau
+Cempedak dimasak rendang
+Terngiang dinda mengimbau
+Semangat dibadan rasa melayang
 ===
 'Lah masak nasi 'rang Kapau
+Gulai limpa dan rendang hati
+Sungguh banyak gadis di rantau
+Engkau di kampung pautan hati
 ===
 'Lah masak nasi 'rang kapau
+Dimakan dengan gulai tunjang
+Kasih hamba sangat terlampau
+Sampai menyusup ke dalam tulang
 ===
 Lah masak padi orang Gunung
 Setangkai digunggung elang
@@ -8785,14 +8829,6 @@ Setangkai digunggung elang
 Berapa lama kanal tergantung
 Kalau jatuh dapat dek orang
 ===
-Lah masak padi rang Singkarak
-Masaknyo batangkai-tangkai
-Satangkai jarang ado nan mudo
-Kabek sabalik buhua sentak
-
-Jaranglah urang nan maungkai
-Tibo nan punyo rarak sajo
-===
 Lah masak rukam manis
 Tak boleh muda lagi
 Lah bengkak mata menangis 
@@ -8804,294 +8840,251 @@ Lah bangkak mato manangih
 Tak buliah basuo lai
 ===
 'Lah mekar bunga selasih
+Jatuh berderai sibunga laga
+Kalau dikenang masa berkasih
+Jatuh ke dalam air mata
 ===
 Lah pasuak parian tuo
 Aia di dalam baserakan
 Hati busuak hati cilako
 Aib urang suko mambukakkan
 ===
-Lah pueh kami maanji
-Banang satuka jadi duo
-Duo manjadi ampek baleh
-Lah pueh kami mananti
-
-Baluka lah jadi rimbo
-Rimbo lah jadi padang andeh
-
-Sudah puas kami maanji
-
-Benang setukal jadi dua
-Dua menjadi empat belas
-Sudah puas kami menanti
-Belukar telah menjadi rimba
-
-Rimba telah menjadi pandang lepas
-===
 Lah rareh bungo limau kapeh
 Duo jo bungo limau paga
 Badatuih hati den malapeh
 Badabok darah nan tingga
 ===
-Lah runtuah tabiang rang Kurai
-Lah tampak junjuang lakunya
-Tagah baambek di daun tabu
-Lah rusuah paja nan sangsai
-
-Lah tampak tulang dadonya
-Tagah taambek di baju
-
-Telah runtuh tebing rang Kurai
-
-Telah tampak junjung lakunya
-Untunglah terhalang daun tebu
-Ah rusuh hati rang nan sangsai
-Telah tampak tulang dadanya
-
-Untung terhalang dek baju
-===
 Lah runtuah tanah babingkah
 Di timpo kasiak badarai
 Adiak tingga jan manyumpah
 Allah Taala nan mancarai
-
-
+===
 Telah runtuh tanah berbingkah
 Di timpa pasir berderai
 Adik tinggal jangan menyumpah
-
 Allah Taala yang membuat cerai
-===
-Lah sampik Pariangan nagari asa
-Pindah mancari ka tampek diam
-Tiok rombongan ado kapalo
-Nan tuo Luhak Tananh Data 
-
-Kaduobanamo Luhak Agam
-Katigo Luhak Limo Pululuah Kato
 ===
 Lah tabang layang layang
 Barulah makan tangah sawah
 Ari patang lela lah pulang
 Mandeh jo tangih ateh rumah
-
-
+===
 Sudah terbang burung layang layang
 Berulang makan ke tengah sawah
 Hari sore lela pulang
-
 Ibu menangis di atas rumah
 ===
-Lah.	Aku betutur niyaq beragam
+Lah. Aku betutur niyaq beragam
 Iyang mak menjunya nyaun
 Anak dinakan nyaun ni intam
 Pekoro ea dik dong no tilaun
 ===
-Lah.	Assalamualaikum unjukan ku lagi
+Lah. Assalamualaikum unjukan ku lagi
 Taq dik ku sukup no lanji
 Alus basaq nu nyaun banding ni
 Lekat minggo ka kau kinasi
 ===
-Lah.	Buaq wani mediyam kudik
+Lah. Buaq wani mediyam kudik
 Niingkoton koq tali rami
 Amun kala manuk ku ea dik
 Muleq engkampung pearaman kami
 ===
-Lah.	Delah dendo luman siganding
+Lah. Delah dendo luman siganding
 Tengaq bangi sampai sensaung
 Banga dinakan ningkoq keliling
 Saksiq ti doq manuk bisaung
 ===
-Lah.	Ding gelama ding kedidiq
+Lah. Ding gelama ding kedidiq
 Pedagang jomo ni atur-atur
 Luaq minggo ka boi teko nu dik
 Sukup pandai betutur-tutur
 ===
-Lah.	Jemah aji ai teko no pan
+Lah. Jemah aji ai teko no pan
 Pesingga taq judah meli makanan
 Berai atai gelaba derakan
 Un ka lagi banga dinakan
 ===
-Lah.	Jogo teruaq leq iting rukam
+Lah. Jogo teruaq leq iting rukam
 Iko bana mediyam rami
 Majelis ngijin kekuri no kam
 Bayaq ni no mekale jo kami
 ===
-Lah.	Jualiq lemiyang sukup no bani
+Lah. Jualiq lemiyang sukup no bani
 Nambar memanuk mediyam gua
 Oron ku pan sukup ina ni
 Dandan perantau pemua-mua
 ===
-Lah.	Kajang siti kajang lipatan
+Lah. Kajang siti kajang lipatan
 Kajang ku tu mediyam enges
 Dagang nu siti bengen ketempatan
 Dagang ku tu dagang boi bebes
 ===
-Lah.	Kuri-kurian dagang piatu
+Lah. Kuri-kurian dagang piatu
 Pitu kekuri diyam jembangan
 Daripada mimon ea ali no sab tu
 Lautan kepitu bimbang-bimbangan
 ===
-Lah.	Lamak kiti entanjung karang
+Lah. Lamak kiti entanjung karang
 Mo berangan bekati-kati
 Niyaq kebuatan oron ni tarang
 Lautan kempat nangkau atai
 ===
-Lah.	Langit lagaq iko pekoro
+Lah. Langit lagaq iko pekoro
 Amun binanding niyaq no pan patut
 Tiyo batu ni niyaq no tekiro
 Tapi ngelimpasan pitu dilut
 ===
-Lah.	Lautan keduwo binaraq leq sanu
+Lah. Lautan keduwo binaraq leq sanu
 Tungan nelayan gorot bekunjung
 Amun ea lagi tilau nu
 Buweq ni darag koq bekat jantung
 ===
-Lah.	Lemiyang beleq bengen rembayung
+Lah. Lemiyang beleq bengen rembayung
 Ai pekepa taq sampang malau
 Piyan engkau intan ni junjung
 Buli no ka aku tu tilau
 ===
-Lah.	Mangan buas sampai merarat
+Lah. Mangan buas sampai merarat
 Tegegaq atai enggontor jantung
 Dembilaq timur ka dembilaq barat
 Minggo tungan minggo ka rurung
 ===
-Lah.	Mangan tebu dong mangan lodo
+Lah. Mangan tebu dong mangan lodo
 Ea no makanan banga anak kinaq
 Wahai dinakan yang alap dendo
 Pulau intan tiyo ka niyaq
 ===
-Lah.	Mekale semboon niyaq ku lupo
+Lah. Mekale semboon niyaq ku lupo
 Rinsaq soro peranak bedekian
 Tilau ku doq emas tinompo
 Ai abis no ka tabik tabian
 ===
-Lah.	Meli selasi luman engkadai
+Lah. Meli selasi luman engkadai
 Akan bino taq lat yunan
 Terimo kasi no yang alap atai
 Iyan oron kampung alaman
 ===
-Lah.	Memanuk eling jataq lensana
+Lah. Memanuk eling jataq lensana
 Melayu enggang taq sama sungang
 Wahai kawan bijak laksana
 Kekuri no kau dong kam bimbang
 ===
-Lah.	Messi payi niyaq pandai ngari
+Lah. Messi payi niyaq pandai ngari
 Kuleq dikauq ea pan asi
 Dandan enggai koq metenaq diri
 Mungkin dandan noq kinasi
 ===
-Lah.	Mo inti mo pan rambutan
+Lah. Mo inti mo pan rambutan
 Luaq taq pahang puq mentakap
 Sila siti silalah intan
 Dagang yang ina sediyo ngejawap
 ===
-Lah.	Mopoq badu diyam beledik
+Lah. Mopoq badu diyam beledik
 Mo sabun banga dengkati
 Bana sigoq eling nu ea dik
 Pitu kam dinakan kekuri kiti
 ===
-Lah.	Mopoq badu diyam beledik
+Lah. Mopoq badu diyam beledik
 Supaya lingau dong jo lambat
 Amun pan bana baraq nu dik
 Alap saksiq ti sampai ni tamat
 ===
-Lah.	Naanan pedi betiru koq dilau
+Lah. Naanan pedi betiru koq dilau
 Pesingga aku merumaq sanu
 Balik-balik aku tu tilau
 Un ka lagi iyang mak nu
 ===
-Lah.	Nangkau atai lautan kempat
+Lah. Nangkau atai lautan kempat
 Tungan nelayan ngendoq empalam
 Amun niyaq salaq pendapat
 Lautan kelimo rindu samalam
 ===
-Lah.	Ngembang mekar sesumping melur
+Lah. Ngembang mekar sesumping melur
 Teruaq panas layu pelele
 Bintang pengaraq koq bintang timur
 Kekuri no kam kami mekale
 ===
-Lah.	Ngetek-ngetek banga biduk kinaq
+Lah. Ngetek-ngetek banga biduk kinaq
 Ngudik enderio waktu sesubu
 Amun niyaq lupo dagang yang ina
 Buweq ni biru mengusik kalbu
 ===
-Lah.	Nginum kupiq mediyam sawan
+Lah. Nginum kupiq mediyam sawan
 Taguan ku doq gula-gula batu
 Bana-bana eling nu kawan
 Susa memiya jomo begitu
 ===
-Lah.	Nginum kupiq taq kadai nyonya
+Lah. Nginum kupiq taq kadai nyonya
 Sambil ngendaq orop empantai
 Pad-pad elum menjunya
 Pitu no kam mesanang atai
 ===
-Lah.	Nompo suang ai pan dembuan
+Lah. Nompo suang ai pan dembuan
 Susa nompo mun niyaq siganti
 Mimang pendikar mimang andalan
 Nepak kam tangan reramai kiti
 ===
-Lah.	Puq kiti ensedi pantai
+Lah. Puq kiti ensedi pantai
 Tiyo bana taq pantai nani
 Sebelum sambung ku lagu rangkai
 Piyan pikiran nu siti jerani
 ===
-Lah.	Puyut gipun alap ro ni
+Lah. Puyut gipun alap ro ni
 Puyan jomo diyam jembangan
 Niat kami yang sebana ni
 Niman pantun dikauq endangan
 ===
-Lah.	Rindak-rindak olos ni jarang
+Lah. Rindak-rindak olos ni jarang
 Pekayan balu ngebit pianu
 Teturan dik ku sukup no tarang
 Patut no pan alap atai nu
 ===
-Lah.	Sambil kekuri taq telaq buan
+Lah. Sambil kekuri taq telaq buan
 Bintang telaq baraq ku batu
 Dik ku sasat entengaq lan
 Piyan uleq nu boi teko pitu
 ===
-Lah.	Sayang-sayang buaq rambutan
+Lah. Sayang-sayang buaq rambutan
 Dong sinundaq dong ginuyang
 Amun dik ku niyaq kebuatan
 Siyan oron dik ku sayang
 ===
-Lah.	Sepu empat pernomo buan ni
+Lah. Sepu empat pernomo buan ni
 Iko jomo merumaq apan
 Gunda atai ebok-ebok oron ni
 Guyaq ni oyo mokoq susa pan
 ===
-Lah.	Siti jerani oron masuhur
+Lah. Siti jerani oron masuhur
 Siyan maraq nyaun banding ni
 Sempakak mekar tomoq ni subur
 Un no ka jomo ampun ni.
 ===
-Lah.	Suang abai ungus ni lumat
+Lah. Suang abai ungus ni lumat
 Ni ogo leq jomo bani niyaq bani
 Betaq lat ea taq moto barat
 Dandam birahi ea no oron ni
 ===
-Lah.	Sumping kemboja enjataq mijaq
+Lah. Sumping kemboja enjataq mijaq
 Buat periasan moto ti puas
 Teko ku tu dik niyaq boi sinajaq
 Boi bo beriu sukup no daras
 ===
-Lah.	Sumping ni ngembang bedagang rugi
+Lah. Sumping ni ngembang bedagang rugi
 Niyaq bege tantu niyaq laku
 Dong kau ngenduleq entedo lagi
 Un pekoro akan tilau ku
 ===
-Lah.	Sumping selasi tomoq diyam liyang
+Lah. Sumping selasi tomoq diyam liyang
 Layu sumping ni teruaq elau
 Amun bege eling nu sayang
 Maku ijin aku tu tilau
 ===
-Lah.	Telaq buan bintang ni oyo
+Lah. Telaq buan bintang ni oyo
 Lemiyang memanuk oron ni enggang
 Andalan dilut pendikar derio
 Ai no sitemu diyam gelanggang
 ===
-Lah.	Wahai siti yang alap budi
+Lah. Wahai siti yang alap budi
 Berai atai ku kau jo ni intam
 Lautan keenam kenangan abadi
 Mokoq kusut mediyam dom
@@ -9101,24 +9094,20 @@ Nan jan tumbuah hino jo malu
 Habisi agak di mulonyo
 Musiah jo bandiang mak jan lalu
 ===
-Lahir di Makkah negeri Baitullah
-Ikan pindang di atas talam
-Bapaknya Abdullah ibunya Aminah
-Bungkusannya di daun pisang
-Menyusukan ia Halimatu sa'diyah
-Belum dipinang baru dipandang
-Di gelar al amin sangat amanah
-
-Sudah berdua di atas ranjang
-===
 Lai babaua dalam padi
 Bak apo tidak dilampaikan
 Lai bakaua dalam ati
 Bak apo tidak disampaikan
 ===
 Lai di-timbo nan bak udang
+Tidak karuntuang dalam rimbo
+Lai di cinto nan bak urang
+Tidak ka untuang apo dayo
 ===
 Lai di-timbo nan bak udang
+Tidak karuntuang ba-a juo
+Lai di-cinto nan bak urang
+Tidak ka-untuang ba-a juo
 ===
 Lai ditimbo nan bak udang
 Biluluah juo nan katimbo
@@ -9126,6 +9115,9 @@ Lai di cubo nan bak urang
 Nan buruak juo nan ta suo
 ===
 Lai-koh siko Sutan Nau
+Si-rauik di-ateh kasau
+Lai-koh siko balam nan mau
+Kami ba-mukasuik nak man-cakau (Pantun Minangkabau)
 ===
 Lain balang lain isinya
 Isi tumpah semua terbuang
@@ -9141,14 +9133,6 @@ Lain cerindak lain ditudung
 Sayang  rambutan tidak berbuah    
 Lain kehendak lain di lansung
 Memang badan ku tidak bertuah
-===
-Lain dulang lain kakinya
-===
-Lain dulang lain kakinya
-Lain orang lain hatinya.
-===
-Lain dulang lain kakinya
-Lain orang lain hatinya
 ===
 Lain hulu lain parang
 Orang bekerja naik ke bukit
@@ -9268,6 +9252,9 @@ Libas melibas projek dikebas
 Cuai lalai kerja terabai
 ===
 Laju laju perahu laju
+Blayar manuju kasurubaya
+Biarla lupa kain dan baju
+Jangan la lupa kepada saya
 ===
 Laju laju perahu laju
 Laju sampai tengah samudra
@@ -9314,9 +9301,15 @@ Bunga selan di da!am gantang
 Laksana cembul dengan tutupnya 
 Seupama bulan dipagar bintang
 ===
-Laju
+Laju laju perahu laju
+Laju sampai ke Labuan
+Baju sampai lupakan baju
+Baru kulupa kepada tuan
 ===
-Laju
+Laju laju perahu laju
+Laju-nya sampai ka-Surabaya
+Lupa kain lupa baju
+Tetapi jangan lupakan saya (Pantun Melayu Lama)
 ===
 Laju
 ===
