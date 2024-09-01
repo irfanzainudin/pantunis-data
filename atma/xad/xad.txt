@@ -9311,9 +9311,15 @@ Laju-nya sampai ka-Surabaya
 Lupa kain lupa baju
 Tetapi jangan lupakan saya (Pantun Melayu Lama)
 ===
-Laju
+Laju laju perahu laju
+Lajunya sampai ke Surabaya
+Lupa kain lupa baju
+Tetapi jangan lupakan saya
 ===
-Laju..laju
+Laju..laju perahu laju
+Laju sampai ke Surabaya
+Biar lupa kain dan baju
+Jangan tuan lupakan saya
 ===
 Laju-laju kapalku laju
 Laju menuju ke Surabaya
@@ -9416,6 +9422,9 @@ Berjasa Tun Sri Lanang
 'Sejarah Melayu' beliau karangkan
 ===
 Laksamana berbaju besi
+Masuk ke hutan memotong rotan
+Tuan laksana lembu kasi
+Galak sahaja tiada melawan
 ===
 Laksamana berbaju besi
 Masuk ke dalam melanda-landa
@@ -9438,8 +9447,9 @@ Di mana abang tidakkan gundah
 Memandang bunga baru dipuja
 ===
 Laksamana berempat di atas pentas
-===
-Laksamana berempat di atas pentas
+Cukup berlima dengan gurunya
+Bagaikan dawat dengan kertas
+Sudah berjumpa dengan jodohnya
 ===
 Laksamana berempat di atas pentas
 Cukup berlima dengan gurunya
@@ -9457,8 +9467,14 @@ Di sanalah ternpat kami bergantung
 Kepada yang lain jangan disebut
 ===
 Laksamana bermain patung
+Patung main bertali rambut
+Di sanalah tempat kami bergantung
+Pada yang lain jangan disebut
 ===
 Laksamana bermain raga
+Mengerat tersenyum sekati harga
+Tuan laksana bunga cempaka
+Makin'ku bertambah dahaga
 ===
 Laksamana di atas peti
 Menggubah bunga di dalam dulang
@@ -9491,6 +9507,9 @@ Tuju malam mayat terlantar
 Menanti kain bekas tuboh.
 ===
 Laksamana mangulong bunang
+Tanam ubi tupi paya
+Bagie mana saya tak kunang
+Budi nya banyak kupada saya
 ===
 Laksamana mati di-bunoh
 Mati di-tikam tombak mentri
@@ -9498,6 +9517,9 @@ Ku tatang tuan minyak penoh
 Tatang tidak bertempat lagi
 ===
 Laksamana mati dibunuh
+Mati dibunuh Datu Menteri
+Cinta hamba mati membunuh
+Rindukan adik setiap hari
 ===
 Laksamana mati dibunuh
 Dibungkus dengan kain paraca
@@ -9508,9 +9530,6 @@ Laksamana mati dibunuh
 Mati ditikam Datuk Menteri
 Laksamana kutatang minyak yang penuh
 Tidak sangka tumpah lagi
-
-
-The admiral dies
 ===
 Laksamana mati dibunuh
 Mati ditikam tombak menteri
@@ -9538,6 +9557,9 @@ Saya laksana untung tebu
 Habis manis hampas dibuang
 ===
 Laksamana memikat elang
+Elang dipanah Seri Rama
+Tuan laksana kain di pinggang
+Hancur luluh bersama-sama
 ===
 Laksamana memikat helang
 Helang dipanah Seri Rama
@@ -9550,6 +9572,9 @@ Sama-sama menaruh hati
 Apalah sudah dengan demikian
 ===
 Laksamana menebang lada
+Disukat dengan gantangan Yaman
+Bagaimana hati tidak akan gila
+Menentang kuntum seri kayangan
 ===
 Laksamana menetak dandi
 Limau kapas di tengah huma
@@ -9592,6 +9617,9 @@ Laksananya buah pedendang
 Luarnya merah dalamnya pahit
 ===
 Laksamana mudik ke Bentan
+Limau abong dari Mekah
+Saya laksana si kenantan
+Letakkan sabung serukan tuah
 ===
 Laksamana mudik ke Bentan
 Limau abung dari Makkah
@@ -9599,18 +9627,14 @@ Saya laksana si kenantan
 Letakkan sabung serukan tuah
 ===
 Laksamana mudik ke hulu
+Singgah mengentas buah delima
+Untung saya bagai untung sagu
+Laparlah perut baru berguna
 ===
 Laksamana mudik ke hulu
 Singgah memetik buah delima
 Untung saya umpama sagu
 Laparlah perut baharu berguna
-
-
-The admiral rows up river
-He pauses to pluck a pomegranate fruit
-My fate is that of the sago
-
-Only needed when hunger calls
 ===
 Laksamana mudik ke hulu
 Singgah mengentas buah delima
@@ -9628,6 +9652,9 @@ Jikalau kena si putar leman
 Tiada lagi ingatkan pulang
 ===
 Laksamana pergi berperang
+Dibantu oleh maharaja dewa
+Janglah kena perdaya orang
+Nama pun tidak boleh kecewa
 ===
 Laksamana pergi berperang
 Dibantu oleh Maharaja Dewa
@@ -9640,6 +9667,9 @@ Janganlah kena perdaya orang
 Nama pun tidak boleh kecewa
 ===
 Laksamana pergi ke Ligor
+Patah duyung bagai di gunting
+Tuan laksana bunga melor
+Puas di cium baru di sunting
 ===
 Laksamana pergi ke Semantan
 Singgah menuju kualanya
@@ -9647,10 +9677,19 @@ Adinda laksana cincin intan
 Kakanda mabuk akan cahayanya
 ===
 Laksamana pergi memikat
+Dapat seekor anak balam
+Sungguh kecil sampan pukat
+Berani belayar lautan yang dalam
 ===
 Laksamana pergi memikat
+Dapat seekor burung 'chok tanah
+Tuan laksana sampan pukat
+Mana boleh layar ke tengah
 ===
 Laksamana pergi mendekut
+Dapat seekor punai gading
+Adakah singa memakan rumput?
+Adakah lembu memakan daging
 ===
 Laksamana pergi mendekut
 Dapat sa ekor punai gading
@@ -9668,6 +9707,9 @@ Adakah singa memakan rumput
 Adakah lembu memakan daging?
 ===
 Laksamana pergi Semantan
+Singgah di teluk kualanya
+Tuan laksana cincin intan
+Kakanda mabuk akan cahayanya
 ===
 Laksamana raja panglima
 Diserang tembak lepas panah
@@ -9685,6 +9727,9 @@ Onggas tidak kemana-mana
 Diam di taman indra mambang
 ===
 Laksamana tukang tutuhnya
+Sandar 'menyandar di batang pinang
+Bagaimana akan membunuhnya?
+Tembak dengan peluru bertunang
 ===
 Laksamana tukang tutuhnya
 Sandar-menyandar di batang pinang
@@ -9742,6 +9787,9 @@ Hati rindu tambah mendalam
 Ayer ditelan terasa duri
 ===
 Laksana ganja menumpang
+Pakai anak Raja Melayu
+Jangan lama dinegeri orang
+Bencana banyak si daun kayu
 ===
 Laksana kida jela widuri
 Santun jentayu basa marahnya
@@ -9749,6 +9797,9 @@ Mencerna minda hala dicari
 Pantun Melayu dan sejarahnya
 ===
 Laksana pergi ka-Acheh
+Anak Jawa jadi utusan
+Tu'an laksana bunga selaseh
+Bau-nya tidak berputusan
 ===
 Laksana pohon laksana akar
 Ditipu angin tidak berkisar
@@ -9841,6 +9892,9 @@ Direntang runding akan panjang
 Elok dipintal supaya singkat
 ===
 Lalang tertanam dipintu kota
+Teluk Lipat airnya biru
+Tuan tidak kenangkan saya
+Tuan dapat kasih baru
 ===
 Lalat buta terbang tinggi
 Diamuk badai kepala pening
@@ -10654,6 +10708,9 @@ Duduklah abang berharap-harapan
 Airmata cucur berlinang
 ===
 Lalu berjalan ke desa Tuban
+Bersua orang memalu canang
+Duduklah saya harap-harapan
+Air mata jatuh berlinang
 ===
 Lalu berjalan ke desa Tuban
 Berjumpa orang memalu canang
@@ -10681,6 +10738,9 @@ Kalu di tanya berkechik hati
 Pakian kenchang bukan kapalang 
 ===
 Lalu diaman pergi kajuda
+Tumpayan ampat isi brangan
+Kalau tak iman di dalam dada
+Bila kan dapat bayan budiman
 ===
 Lalu diambil oleh dewa-dewa
 Digelar Cekel Waning Pati
@@ -10814,15 +10874,11 @@ Lalu lintas ada aturan
 Dalam kota dan pedalaman
 Awas awas jangan bangunkan
 'Polisi tidur' banyak di jalan
-
-
-Traffic rules and regulations
-Inside thr city and in the country
-Beware and do not dare to waken
-
-'Sleeping police' are on the ground
 ===
 Lalu membli trubok padi
+Mari di chelop dengan remnia
+Orang hidop lawan-nya mati
+Wang ringget priasan dunia
 ===
 Lalu menderu berterbangan
 Di pohon ciri hinggap berhenti
@@ -10855,6 +10911,9 @@ Bukannya sahaya tidak percaya
 Didengar telinga dipandang mata
 ===
 Lalu singgah minta kapas
+Daun capa jatuh melayang
+Tuan dimata haram tak lepas
+Tiada lupa malam dan siang
 ===
 Lalu singgah minta kapas
 Daun capa jatuh melayang
@@ -10920,8 +10979,14 @@ Dapat sehasta hendak sedepa
 Si tamak tak pernah puas
 ===
 Lama suda gopong di rajok
+Angkot di junjong sampie sapuloh
+Saya saumpama apong buranyot
+Untong tusangkot dia hujong pulo
 ===
 Lama sudah gopong di rajut
+Angkut di junjung sampai sepuluh
+Saya umpama ampong berhanyut
+Untung tersangkut di hujung buluh
 ===
 Lama sudah merendam baju
 Panas terik baru dijemur
@@ -10959,20 +11024,44 @@ Lama sudah saya menanti
 Hilang bulan berganti tahun
 ===
 Lama sudah tidak ke Kudat
+Singgah sebentar di Pekan Sikuati
+Lama sudah tidak bersurat
+Rasa berdebar di dalm hati
 ===
 Lama sudah tidak ke Kudat
+Dari Marudu ke Sikuati
+Lama sudah tidak bersurat
+Terasa rindu di dalam hati
 ===
 Lama sudah tidak ke Kudat
+Dari Marudu ke Sikuati
+Lama sudah tidak bersurat
+Rasa rindu di dalam hati
 ===
 Lama sudah tidak ke ladang
+Tinggi rumput dari hilalang
+Lama sudah tidak ku pandang
+Siang dan malam terbayang-bayang
 ===
 Lama sudah tidak ke ladang
+Tinggi rumput dari hilalang
+Lama sudah tidak ku pandang
+Hati di dalam rasa berguncang
 ===
 Lama sudah tidak ke ladang
+Selasih di tengah halaman
+Lama sudah tidak ku pandang
+Sekali pandang jadi kenangan
 ===
 Lama sudah tidak ke ladang
+Padi sudah di lilit kangkong
+Selama tuan tidak di pandang
+Putus hati pengarang jantung
 ===
 Lama sudah tidak ke ladang
+Ke ladang naik pedati
+Lama sudah tidak ku pandang
+Sekali pandang meracun hati
 ===
 Lama sudah tidak ke ladang
 Padi sudah dililit kangkung
@@ -10980,6 +11069,9 @@ Selama tuan tidak kupandang
 Putus hati pengarang jantung
 ===
 Lama sudah tidak ke muara
+Kuning padi di jalan Tambunan
+Hati gundah tambah gelora
+Entah jadi entahkan kempunan
 ===
 Lama tahun sudah ku cinta
 Nona manis dan kecil molek
@@ -10987,6 +11079,9 @@ Rasa-rasalah mahu minta
 Menjadi isteri jikalau boleh
 ===
 Lamah lambuik batang limbayuang
+Pigago ba-daun tidak
+Lamah lambuik lenggang adiek kanduang
+Pikir-an sayo ma-nahan tidak (Pantun Minangkabau)
 ===
 Lamak lauak dikunyah-kunyah
 Bakato sapatah dipikiri
@@ -11014,10 +11109,14 @@ Lamak udah endak bepandang
 Hati beramok bedengan jantong
 ===
 Lamalah sudah mencari kandis
+Kudapat akhirnya di Jalan Gaya
+Aku tak endah cantiknya gadis
+Jika budinya tidak mulia
 ===
 Lama-nya lebah di-pohon meranti
 Madu-nya jatoh terlalu manis
-Utama jiwa
+Utama jiwa buahkan hati
+Beradu-lah tuan! Jangan menangis
 ===
 Lamaq-lamaq ojoq bale Adam
 Lalo bekedeq taeq montor
@@ -11048,11 +11147,6 @@ Lamo hiduik banyak dirasai
 Babagai macam tanggungan badan
 Bangih jo berang usah dipakai
 Nak dapek kito paiyokan
-===
-Lampa oeloe ra madjo wantjoe
-Na deende rankoe
-Kananoe samba
-Ampa ia na rangga
 ===
 Lampak-lampak andang bat
 Selaloq moye dengan pinaq lansah
@@ -11115,7 +11209,9 @@ Uah taoq jari susah
 Laguq ie doang teperebutan
 ===
 Lampaq-lampaq ojok Jeroawaru
-Beli empak
+Beli empak empak mujaer
+Piran bae Negara gen maju
+Lamun pejabat pemerintah jadi koruptor
 ===
 Lampaq-lampaq ojok Kabupaten Lombok Barat
 Mentelah semendaq leq toko deket pertigaan
@@ -11485,6 +11581,9 @@ Remaklah kakanda rebah di medan
 Hati yang kasih kuturut juga
 ===
 Lancang baginda baru didandan
+Bunga selasih kulurut juga
+Remuk kekanda rebah di medan
+Hati yang kasih kuturut juga
 ===
 Lancang baginda baru didandan
 Bunga selasih kulurut juga
@@ -11507,8 +11606,14 @@ Jika nahkoda kuranglah faham
 Alamat perahu akan tenggelam
 ===
 Lancang kuning berlayar malam
+Penuh muatan talang seligi
+Cinta hamba bertambah dalam
+Rindu tak dapat ditahan lagi
 ===
 Lancang kuning berlayar malam
+Muatan sarat kain batik
+Cinta hamba tambah mendalam
+Ingin bersanding dengan mu adik
 ===
 Lancang kuning berlayar malam
 Arus deras karangnya tajam
@@ -11536,6 +11641,9 @@ Putih kuning mari diriba
 Jauh malam mata mengantuk
 ===
 Lancang kuning kuala Manda
+Patah kokot di ujung teluk
+Putih kuning mari diriba
+Jauh malam mata mengantuk
 ===
 Lancang kuning Kuala Manda
 Patah kerukut di ujung teluk
@@ -11564,9 +11672,13 @@ Akhirnya nahas karam tenggelam
 ===
 Lancang pilan dari selatan
 Angin bertiup dari utara
-Hilang pulau
+Hilang pulau lenyap daratan
+Namun laut berombak jua
 ===
 Lanchang kuning bulayar pulang
+Pata tiang di baylok kan
+Kurus kuring tinggal tulang
+Dundum apa tuan turot kan
 ===
 Lanchang puan lachang sengara
 Sarat muat berkodi kain
@@ -11599,6 +11711,9 @@ Api neraka terlalu galak
 Segala umat cari Nabinya
 ===
 Landak meniti di atas dahan
+Kucing berdiang di dekat tungku
+Niat berdua dengan tuan
+Sejak di dalam rahim ibu
 ===
 Landit ni na mandurung
 Jolo sitanggis podom-podom
@@ -11611,6 +11726,9 @@ Alang sakitnya berbapa tiri
 Awak menangis disangkanya gelak
 ===
 Lang malam matanya dua
+Pisau wali lukis sebendul
+Siang malam dinda tak lupa
+Lupa kecuali masa tidur
 ===
 Lang melayang terbalek-balek
 Lang menuju ke Kampong Pinang
@@ -11672,20 +11790,15 @@ Chari makan di atas bukit
 Alang alang kalu berkawan
 Dudok seorang hati tak sakit
 ===
-Lang
+Lang lang mudik
+Lang mudik sambar ayam
+Di mana kampung adik
+Balik sana reban ayam
 ===
 Langan leq taman kota muter-muter
 Laguq lueq langanta tama
 Ndeq araq artina tap inter
 Lamunta lupaq leq ajaran agama
-===
-Langgam mupakat lah saukua
-Kato bapadu nan lah tagok
-Buruak jo baiak lah bacarai
-Adapun timbangan nan batua
-
-Manuruik taraju nan bagatok
-Diukua jo bungka nan piawai
 ===
 Langgam nan tujuah dikaji pulo
 Dalam kalarasan Koto Piliang
@@ -11733,6 +11846,9 @@ Hadir tuan secantik bunga
 Menambah seri majlis kami
 ===
 Langit berkelikir
+Bumi bertemberang
+Salah-salah fikir
+Jadi teman orang
 ===
 Langit berkelikir
 Bumi bertemberang
@@ -11794,14 +11910,6 @@ Angin bertiup menyejuk kalbu
 Kalau 'ndak tahu di untungku
 Ibarat kaca terhempas ke batu
 ===
-Langit cerah bertukar malap
-Hujan lebat ribut pun deras
-Ambil khemah bukalah kajang
-Otak terang bertukar gelap
-
-Hati lembut menjadi keras
-Hilang pedoman dosa berpanjangan
-===
 Langit cerah cuaca terang
 Kota bersinar terang benderang
 Ombak memukul ka batu karang
@@ -11837,18 +11945,10 @@ Ribut kencang hujan gerimis
 Berat sungguh menanggung rindu
 Hati terkenang terus menangis
 ===
-Langit mendung hari pun redup
-Angin bertiup dari bukit
-Terasa sayu bagai dilayat
-Kasih ibu bapa semasa hidup
-
-Carikan ubat ketika sakit
-Sampai ajal diurus mayat
-===
 Langit mendung matahari suram
 Bergema azan suara bilal
 Kalau ingin hidup tentram
-Makan
+Makan minumlah rezeki yang halal
 ===
 Langit mendung ribut melanda
 Pokok betik dipanah petir
@@ -11859,14 +11959,6 @@ Langit mendung tertutup awan
 Hujan pun turun di atas huma
 Alangkah menarik rupa cik puan
 Mau di rayu anak dah lima
-===
-Langit merah lembayung senja
-Pelancong balik ke rumah tumpangan
-Nelayan pula pulang berjaja
-Manis bibir memuji-memuja
-
-Hati karam di lautan sanjungan
-Dapat sudah tempat bermanja
 ===
 Langit pagi memutih suci
 Dipenuhi kepulan awan berbunga
@@ -11923,9 +12015,6 @@ Kedudukan penerbitan UKM dipasaran
 Perlu diindeks untuk menjadi rujukan 
 Bagi akademi ini satu keutamaan
 ===
-Langkah kanan langkah kiri
-Ada usaha kerja menjadi
-===
 Langkah pertama menghela nafas
 Setelah diambil medan terbuka luas
 Peluang yang ada tidak terbatas
@@ -11945,9 +12034,6 @@ langkah tekedir gere kusangka
 ige teki djem ari silep 1ale 
 dapat nengon aku gerene ara 
 rupen kusinggh mata nge i majie
-===
-langkahku rugi gerene tertjari
-djanji nge kin kanji rasa nge ken basa
 ===
 Langkawi pulau bersejarah
 Makam Mahsuri menyimpan kisah
@@ -11969,22 +12055,20 @@ Seri kaya dimakan manis
 Belum puas rasa di hati
 Nona seorang dipandang manis
 ===
-Langkueh pandan-lulita
-===
 Langsat dibawa ke Brastagi
 Singgah sebentar di pasar minggu
 Kuntum belum mengembang lagi?
-Kumbang boleh sabar menunggu'.
+Kumbang boleh sabar menunggu'
 ===
 Langsat dibawa ke Brastagi
 Singgah semalam di Pasaribu
 Kuntum belum mengembang lagi
-Kumbang sanggup sabar menunggu.
+Kumbang sanggup sabar menunggu
 ===
 Langsia datang di tepi kolam
 Jumpa dengan penunggu ayer
 Rusia terbentang hati di dalam
-Chinta kan tuan suda terlahir.
+Chinta kan tuan suda terlahir
 ===
 Langsia datang di tepi kolam
 Jumpa dengan penunggu ayer
@@ -12002,8 +12086,14 @@ Charik kayu biar yang baik
 Bagimana arang bergitu lah abu
 ===
 Langudi kubun chek daik
+Tatak di buat sangkotan baju
+Chari kayu biar yang baik
+Bagi mana arang bagitu abu
 ===
 Langudi paik timba ruang
+Jatoh di rimba hutan dangsek
+Budi baik tidak tabuang
+Mas merah usol nya chantek
 ===
 Langudi pait di tepi pagar
 Rambutan di tepi perigi
@@ -12041,8 +12131,14 @@ Apa lagi lihat ke atas
 Rumput di bawah inda berguna
 ===
 Lanjut biji panjang lampai
+Main anak raja di Judah
+Di dalam hajat niat tak sampai
+Hancur dunia dendam tak sudah
 ===
 Lantai balai berbelah-belah
+Buat dinding raja beradu
+Sudah didengar perintah Allah
+Anak dibuat seperti madu
 ===
 Lantai Bali dibelah-belah
 Buat dinding Raja Mandu
@@ -12154,36 +12250,25 @@ Lapeh nan dari Karang Pauah
 Andak manjalang Pasa Baru
 Anak bajalan makin jauah
 Mandeh di rumah Allah nan tahu
-
-
+===
 Lewat dari Karang Pauah
 Hampir menjelang Pasar Baru
 Anak berjalan makin jauh
-
 Ibu di rumah Allah yang tahu
 ===
 Lapeh nan dari Pulau Pandan
 Andak manjalang Gosong Limo
 Sanggua nan rencong lipek pandan
 Lawan deta saluak batimbo
-
-
-Lepas nan dari Pulau Pandan
-Hendak menjelang Gosong Limo
-Sanggul nan miring lipat pandan
-
-Lawannya destar saluk bertimbal
 ===
 Lapehan kudo nak nyo lia
 Lapeh ka padang lando karo
 Sungguah di lapeh dipadia
 Inyo kuikek jan bicaro
-
-
+===
 Lepaskan kuda supaya liar
 Lepaskan ke padang dilanda kera
 Sungguh di lepas dibiar
-
 Dia diikat dengan bicara
 ===
 Lapeh-kan kudo ka rawang
@@ -28844,15 +28929,6 @@ Mertegane dicampur susu
 Kolang kaling kangge pacitan
 Kok tegane ninggal awakku
 Apa ra eling jaman kawitan
-
-
-Mentega dicampur susu
-Kolang kaling untuk kudapan
-Kenapa tega tinggalkan aku
-
-Apa tak ingat waktu dahulu
-===
-Merunggai di dalam buluh
 ===
 Merunggai di dalam buluh
 Serahi berisi air mawar
@@ -28875,6 +28951,9 @@ Sangat sakit di hati kami
 Olehnya tidak berkata benar
 ===
 Meski banyak kapal berlabuh
+Sebuah saja kapal besi
+Meski badan berpisah jauh
+Adik ku semat di dalam hati
 ===
 Meski berbeda puak dan suku
 Tuhan menyeru saling mengenal
@@ -45787,6 +45866,9 @@ Kehendak Allah siapa tahu
 Tidak boleh abang katakan
 ===
 Patah galah di atas bukit
+Pohon rotan di padang lasih
+Tidaklah boleh salah sedikit
+Di mana tuan katakan kasih?
 ===
 Patah galah di atas bukit
 Pohon delima di padang selasih 
@@ -53773,6 +53855,9 @@ Menunggu silap hendak dicanang
 Sifat jauhari bukan begitu
 ===
 Pohon dedap tumbuh di bukit
+Landak meniti di atas dahan
+Harap saya bukan sedikit
+Hidup serumah dengan tuan
 ===
 Pohon delima berdahan rendang
 Bunga cempaka bawa seraga
@@ -53830,6 +53915,9 @@ Alangkah lama beta bercinta
 Akan tuanku laki isteri
 ===
 Pohon di kebun habis berbuah
+Disambut masak buah rumbiga
+Mohonkan ampun dosa yang sudah
+Hendak masuk dalam syurga
 ===
 Pohon dilam celahnya genting
 Ambil sarung dimakan ngengat
@@ -53872,6 +53960,9 @@ Bagaimana tikus tidak tertawa
 Melihat kucing menari inang
 ===
 Pohon gelugur pohon sena
+Hanyut rakit burung merbah
+Tahu juga tempat selama
+Takut adik tidur berubah
 ===
 Pohon halia pohon kuini
 Pohon papaya tepi kota
@@ -53929,19 +54020,9 @@ Buahnya lembut berjajaran
 Kita sambut penuh syukuran
 ===
 Pohon jaramay di atas batu
-===
-Pohon jati dihujung tanjung
-Singgah hinggap punai sekawan
-Mencari makan dicelah dahan
-Mengebas kepak bulu melayang
-
-Terbang ke sarang menjelang malam
-Sedarlah diri badan terapung
-Menampung hidup di perantauan
-Tenaga dan nyawa bekal kekuatan
-
-Berpaut resah rindu terbayang
-Ke kampung halaman tak pernah padam
+Anak murpati mungangkot sarang
+Tengok saya dagang piatu
+Jangan di buat sebarang barang
 ===
 Pohon jati tanda sempadan
 Daunnya gugur pohon pun tumbang
@@ -54004,6 +54085,9 @@ Kenapakah mereka membolot harta
 Sedangkan kita juga warisnya
 ===
 Pohon kelapa sepanjang jalan
+Dari Kudat ke Matunggong
+Tidak ku lupa negeri kalian
+Sepanjang hayat ku agong-agong
 ===
 Pohon kelapa sudah menahun
 Pohon nangka mulai berdahan
@@ -54081,8 +54165,14 @@ Kami patuhi rukun dan syarat
 Asal terkabul hasrat bersama
 ===
 Pohon kerekot bunga sama
+Buahnya boleh dibuat colok
+Petua diikut segala ulama
+Jangan dibawa berolok-olok
 ===
 Pohon kerekot bunganya sama
+Buahnya boleh dibuat colok
+Petuah diikut segala ulama
+Jangan dibawa berolok-olok
 ===
 Pohon kerekut bunganya sama 
 Buahnya boleh dibuat colok 
@@ -54258,6 +54348,9 @@ Salahkah lelaki menjadi buaya
 Kalau wanita menjadi bangkai
 ===
 Pohon meranti pelampung pukat
+Buluh perindu tidak berdahan
+Buah hati mari dekat
+Abang rindu tidak tertahan
 ===
 Pohon meranti tidak berduri
 Ditebang orang beramai-ramai
@@ -54338,6 +54431,9 @@ Agama bukan hanya percaya
 Berbuat baik pada sesama
 ===
 Pohon palas pohon kemumu
+Jangan diikat dengan tali
+Dibuang mau matipun mau
+Asal adik dapat kembali
 ===
 Pohon palma batang berduri
 Ditanam mari tepi senduduk
@@ -54375,10 +54471,19 @@ Hantu raya apa dihairan
 Telur kemuruk juga disebat
 ===
 Pohon pauh berbuah pauh
+Tumbuh sebatang di kaki gunung
+Abang jauh adik pun jauh
+Kalau rindu sama tanggung
 ===
 Pohon pauh berbuah pauh
+Tumbuh sebatang di kaki gunung
+Abang jauh adik pun jauh
+Kalau rindu sama bermenung
 ===
 Pohon pauh berbuah pauh
+Jatuh sebiji menimpa dahan
+Abang jauh adik pun jauh
+Kalau rindu sama ditahan
 ===
 Pohon pauh di atas permatang
 Tetak di tengah papan kemudi
@@ -54436,6 +54541,9 @@ Cantik diri kerana budi
 Budi dikenang zaman berzaman
 ===
 Pohon pinang tidak melata
+Dari Kivatu sampai Segama
+Tuan menang berpeluru senjata
+Belum tentu berkekalan lama (Kumpulan Pantun Sabah)
 ===
 Pohon pinang tumbuh di paya
 Akar menjalar ke pohon kapas
@@ -54446,45 +54554,26 @@ Pohon pisang tumbuh di taman
 Pisang masak dimakan elang
 Cari istri jangan sembarang
 Kalau mau masih perawan
-
-
-Banana plant grows in the yard
-The fruits are eaten by the eagle bird
-Be careful about searching for the other half
-
-It's extremely hard to find a virgin
-===
-Pohon pudak tumbuh di ladang
-Dekat telaga orang berhuma
-Tempat berlumba anak berudu
-Wajah tidak dapat di pandang
-
-Berita juga tidak menjelma
-Merana hamba menanggung rindu
-===
-Pohon pudak tumbuh di padang
-Dekat telaga orang berhuma
-Tempat berlumba anak berudu
-Wajah tidak dapat di pandang
-
-Berita juga tidak menjelma
-Merana hamba menanggung rindu
-===
-Pohon pupur pohon delima
-Tumbuhnya rapat antara batang
-Di seberang sana bertanah lembut
-Sirih dikapur tanda terima
-
-Hajat beradat kami menatang
-Ini bermakna gayung bersambut
 ===
 Pohon rambai berbuah rambai
+Mari makan bersama-sama
+Kuning langsat tinggi semampai
+Bolehkah abang jalan bersama
 ===
 Pohon rambai berbuah rambai
+Masak sebiji di dalam peti
+Sudah cantik tinggi semampai
+Bila dipandang menawan hati
 ===
 Pohon rambai berbuah rambai
+Tumbuh sebatang di tegalan
+Kuning langsat tinggi semampai
+Bolehkah saya berkenalan
 ===
 Pohon rambai berbuah rambai
+Tunbuh sebatang di pinggir sawah
+Kuning langsat tinggi semampai
+Bolehkah tau di mana rumah
 ===
 Pohon rambay di tepi hutan
 Bua nya bergantong bertali tali
@@ -54522,6 +54611,9 @@ Mengenal manikam adalah jauhari
 Jangan dibiar menjadi sekam
 ===
 Pohon rotan di padang lasih
+Sebuah pelang dari Melaka
+Di mana tuan katakan kasih
+Rupanya sayang bermuka-muka
 ===
 Pohon rotan di padang selasih
 Sebuah pelang dari Melaka
@@ -54554,6 +54646,9 @@ Serahkan jiwa serta raga
 Berjasa berbakti serela hati
 ===
 Pohon selasih dari Bali
+Buah berangan di atas peti
+Pohonkan kasih ke bawah duli
+Jangan kekanda bernanti-nanti
 ===
 Pohon selasih dari Bali
 Buah berangan di atas peti 
