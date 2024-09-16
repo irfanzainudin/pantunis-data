@@ -13090,8 +13090,14 @@ Siapa kata ku tak sayang
 Sebot nama menarek napas.
 ===
 Layang-layang terbang melayang
+Membuat sarang di Gua Madai
+Jika sayang katakan sayang
+Jangan seorang memandai-mandai
 ===
 Layang-layang terbang melayang
+Jatuh ke laut di sambar jerung
+Siapa kata saya tak sayang?
+Kalau bunga rasa 'nak kendong?
 ===
 Layang-layang terbang melayang
 Burung merak di dahan tinggi
@@ -13159,18 +13165,14 @@ Kasih di sayang tunangan orang
 Hamba terpaksa mengiggit jari
 ===
 Layar bias turun ke hilir
+Tiada tercanggah air deras
+Tiada mengerti kias sindir
+Tiada rut rasa maras
 ===
 Layar biasa turun ke hilir
 Tiada tercanggah air deras
 Tiada mengerti kias sindir
 Tiada rut rasa marah
-
-
-Our course is turne down river
-The stream's so swift I cannot punt
-I don't understand your cynical hint
-
-But I can't contain my feeling of anger
 ===
 Layar di pasang saoh terlintang    
 Nanti kan surut mengalay barat 
@@ -13218,6 +13220,9 @@ Pada nabi sahaya pohonkan
 Sebarang maksud sahaya diturutkan
 ===
 Layar topang saya balikkan
+Ditarik agung diselawatkan
+Pada nabi saya pohonkan
+Sebarang maksud saya turutkan
 ===
 Layar topang saya balikkan
 Ditarik agung diselawatkan
@@ -13315,6 +13320,9 @@ Hendak bergantung kepada tuan
 Jikalau tentu biar disambut
 ===
 Lebah bergantung di haluan
+Sauhnya batu bertali sabut
+Hendak bergantung kepada tuan
+Jikalau tentu biar disambut
 ===
 Lebah bersarang di atas peran
 Membeli madu usah menawar
@@ -13385,8 +13393,14 @@ Kepala putih menjunjung uban
 Memburu pangkat hingga bersara
 ===
 Lebai pakai topi ketayap
+Harap di fakir orang percaya
+Ingatan tak tetap akal periap
+Seribu di doa menjadi sia-sia
 ===
 Lebai rambai di tepi padi
+Lagi julai lagi di tutuh
+Kalau tak boleh kehendak hati
+Rambut sehelai belah tujuh
 ===
 Lebam kaki digigit pacat
 Hutan diredah mencari arah
@@ -13409,12 +13423,24 @@ Hidup ada penderitaan
 Atau tiada sama sekali
 ===
 Lebat buahnya getah para
+Jatuh sebiji dimakan landak
+Jangan abang sembarang bicara
+Harap dipikir masak-masak
 ===
 Lebat buahnya kelapa bali
+Berbuah setandan lebat
+Membuat saya tak sadar diri
+Bagaikan karam di darat
 ===
 Lebat buahnya pohon durian
+Di situ orang mati bertikam
+Tuan sepantun cincin berlian
+Berikat emas bertatah menikam
 ===
 Lebat buahnya pohon pala
+Ambil barang tenunlah kain
+Tidak ku kira dari semula
+Hamba didua dengan yang lain
 ===
 Lebat cendawan di kayu meranti
 Kembang merata di pagi hari
@@ -13442,8 +13468,14 @@ Berapa jauh jaraknya badan
 Hati yang kasih tidak berubah
 ===
 Lebat hujan di Gunung Dempu
+Tempias sampai ke tengah laman
+Hendak mati di ujung kuku
+Hendak berkubur di tapak tangan
 ===
 Lebat hujan di Ulu Berang
+Gugur limau Tengku Derahim
+Hati mana saya tak geram
+Menengok susu menolak kain
 ===
 Lebat langsat peraih pun tiba
 Kuning emas tanda bermutu
@@ -13506,6 +13538,9 @@ Hairan sekali hati saya
 Burung terbang disambar ikan
 ===
 Lebat sungguh padi dipaya
+Kayu tumbang tepi pangkalan
+Heran sekali hati saya
+Burung terbang di sambar ikan
 ===
 Lebat sungguh padi sahaya 
 Kayu tumbang tepi pangkalan 
@@ -13518,6 +13553,9 @@ Amatlah senang dihati kami
 hajat sampai niat terkabul
 ===
 Lebat-lebat bunga delima
+Sunting raja naik ke Legor
+Hendak ditimbang biar bersama
+Sudah salah sangkut bertabur
 ===
 Lebat-lebat bunga delima
 Sunting raja naik ke Ligor
@@ -13555,6 +13593,9 @@ Tuan membarat di pohon rendang
 Hujan dan panas tumpang berteduh
 ===
 Legum-legum bedil di pantai
+Orang menembak pedenanya
+Yang mana 'nak abang pakai
+Orang rembang kesumanya
 ===
 Lek sedin bangkel arak kadal
 Lek reban arak pepait
@@ -13591,7 +13632,10 @@ Ndad berari jangkanta rebaq
 Ndaq pada girang nilik dengan
 Sengaq ita ndeq na tentu kenaq
 ===
-Lekaq bale batur
+Lekaq bale batur tunas gedang
+Taeq lolo tangkong bedak
+Kelem ahad lalo midang
+Idap ate girang timaq semendak
 ===
 Lekaq-kekaq selenteng langan
 Keleq eiq atas kompor
@@ -13599,7 +13643,9 @@ Lueq ite pede saleng lawan
 Sengep ite demen denger propokator
 ===
 Lekaq-lekaq aneng kebon talo
-Leq kebon talo
+Leq kebon talo tebait paoq
+Lamun ite wah pada bejaoq lalo
+Inget jamaq tebait mampoq (Pantun Sasak)
 ===
 Lekaq-lekaq aning Bekasi
 Aning Bekasi di bulan Maret
@@ -13910,15 +13956,11 @@ Lelene mati dithutuk
 Gawa mrene tak-sujenane
 Yen rene ra nate pethuk
 Ndang mrene tak-entenane
-
-
-Ikan lele mati dipukul
-Bawa kemari akan kutusuk
-Jika kemari tidak pernah bertemu
-
-Segera datang kau ku tunggu
 ===
 Lelong suasa di Jalan Gaya
+Rasa terbetik hendak berhenti
+Bunga di desa banyak durinya
+Jika memetik berhati-hati
 ===
 Lemah gemalai dayang menari
 Menghibur raja dan ratu
@@ -13994,6 +14036,9 @@ Buang Mak buang saudara
 Kerna kaseh saya turut kan
 ===
 Lemak manis chondong kajkeling
+Sudah ku keeling ka jawa pula
+Hitam manis dudok menjeling
+Sudah menjeling tetawa pula
 ===
 Lemak pulut intinya daging
 Manis dadih si gula tebu
@@ -14031,6 +14076,9 @@ Emak ayah datang meminang
 Dapat sudah si buah hati
 ===
 Lemaknya nasi bergulai udang
+Lemak berbau santan kelapa
+Remak kumati berputih tulang
+Tidak kumahu berputih mata
 ===
 Lemaq laloq mbeli bubur
 Sendeq man lekaq lalo ngarat
@@ -14103,8 +14151,14 @@ Lamun de berintak ndeq te bepisah
 Berarti ide ingkarin Tuhan siq lebih kuasa
 ===
 Lemau manis chondong ka keling
+Sudah ka keeling ka jiwa pula
+Hitam manis du lok menjeling
+Sudah menjeling tertawa pula
 ===
 Lemau prot batang berduri
+Amek daon-nya mengulam ketupat
+Jangan-lah tuan kasana-kemari
+Mari-lah jiwa disini-nya tempat
 ===
 Lemau prot batang berduri
 Champor stanggi iris daon-nya
@@ -14117,8 +14171,14 @@ Kalau kekanda sa-ekor burong
 Kanda terbang dapatkan dinda
 ===
 Lembah Danum tempat kunjungan
+Bersama dengan Pulau Sipadan
+Banyak senyum menjadi sanjungan
+Senyum jangan tidak sepontan
 ===
 Lembah ini lembah paduka
+Di Tempasok bantungan merdeka
+Hari ini kita bersuka
+Entah esok kita berduka (Kumpulan Pantun Sabah)
 ===
 Lembah kampong di tepi kuala
 Kuala kecik tak banyak ikan
@@ -14134,8 +14194,6 @@ Lembayung senja di Kampus Bangi
 Suasana indah begitu terpesona
 Hati terkenang budi mewangi
 Tetap dibawa ke mana-mana
-===
-Lembing atas tangga
 ===
 Lembing atas tangga
 Perisai atas busut
@@ -14178,6 +14236,9 @@ Hutang jangan dihutang jangan
 Rakan baik menjadi seteru
 ===
 Lembu baru kereta baru
+Baru sekali masuk Melaka
+Adik baru saya pun baru
+Baru ini berkenal biasa
 ===
 Lembu baru kereta baru
 Baru sekali masuk Melaka
@@ -14215,6 +14276,9 @@ Melihat tuan tidak berinduk
 Seperti anak ayam kehilangan ibu
 ===
 Lembu hitam sedang diperah
+Diperah anak Encik Kassim
+Gigi tanggal daginglah murah
+Awak tua gadislah musim
 ===
 Lembu hitam sedang diperah
 Diperah anak Encik Kasim
@@ -14273,6 +14337,8 @@ Badan seperti si batang pisang
 ===
 Lembu siapa tambat di pagar?
 Lembu raja putus tali
+Guru mana tuan belajar?
+Boleh mengadap sekali lagi.
 ===
 Lembu siapa tambat di pantai
 Rumpot maneh di hutan gelam
@@ -14385,6 +14451,9 @@ Mulot manis kapada saya
 Hati kasay pada yang lain
 ===
 Lemo manis dalam paya
+Jual mari di kaday kain
+Mulot manis kapada sahya
+Chinta pulak pada yang lain
 ===
 Lemo manis deri sourabaya 
 Di potong orang dalam prau 
@@ -14447,8 +14516,14 @@ Angin ribot dapat di tangkal
 Hati kasay apa obat nya.
 ===
 Lemoh mati ber bangsa bangsa
+Masak s'bijik kulit nya merah
+Jangan Tuan pilay bangsa
+Smua sama dara nya merah
 ===
 Lemoh prot lebat di tangkal
+Sayang s'lasay kembang urat-nya
+Hujan ribot dapat di tangkal
+Hati kasay apa obat nya
 ===
 Lempaq-lampaq joq Sulawesi
 Dendeq lupaq beli kerengne
@@ -14466,6 +14541,9 @@ Ketika jauh dikau merindu
 Kini berjumpa tunjuklah mesra
 ===
 Lemparkan barang sampai ke mari
+Kami sambut bersukacita
+Gemparlah orang senegeri
+Melihat beruk pegang senjata
 ===
 Lemparkan barang sampai ke mari
 Kami sambut bersukacita
@@ -14476,14 +14554,6 @@ Lencana tombak lencana
 Buluh betung dibelah-belah
 Bukan saya bijak rancana
 Langit tergantung kerna Allah
-===
-Lengah nan usah dipakaikan
-Lai galagak kincuang digulai
-Baun nan harun hamba dikacok
-Sambilan sipat kabancian
-
-Suko manembak bapantang kanai
-Kareh latuihnyo tak barasok
 ===
 Lengan beciq belajar main tinju
 Ageqna mauq milu perlombaan
@@ -14500,10 +14570,10 @@ Kangkung di tepi telaga
 Balik dari menyambung 
 Makan nasi dengan kelapa
 ===
-Lenggang ala lenggang kangkung
-Lenggang
-===
 Lenggang dudok lenggang papan
+Lenggang surta dangan talinya
+Taksumang dudok taksunang makan
+Dudok turingat dalam hati nya
 ===
 Lenggang jelita lenggok teruna
 Datang seiring menyusun jari
@@ -14516,12 +14586,24 @@ Nasib tidak beruntung
 Punya kekasih direbut orang
 ===
 Lenggang Mak Inang lenggang
+Tuan petri pergi di taman
+Lenggang Mak Inang lenggang
+Lenggang tangan kiri jeling di kanan
 ===
 Lenggang Mak Inang lenggang
+Nona manis turun ka taman
+Lenggang Mak Inang lenggang
+Kenyet mata kiri pandang mata kanan
 ===
-Lenggang
+Lenggang lenggang kangkung
+Kangkung tumbuh di tepi paya
+Kalau memang nasib nak untung
+Dapatlah bini cik janda kaya
 ===
-Lenggang
+Lenggang lenggang kangkung
+Kangkung tumbuh di tepi rawa
+Kalau nasib tidak untung
+Dapatlah laki abang apek tua
 ===
 Lenggang-lenggang kangkong
 Kangkong di tepi telaga
@@ -14535,7 +14617,7 @@ Punya kekasih suka tertawa
 ===
 Lenggang-lenggang kangkung
 Kangkung di tepi sawah
-Balik dari menyambung 
+Balik dari menyambung
 Makan nasi saja
 ===
 Lenggang-lenggang kangkung
@@ -14569,6 +14651,9 @@ Kalau sudi boleh disantap
 Kalau tidak barang gunanya
 ===
 Lenggundi tumbuh di paya
+Burung dewata terbang ke seberang
+Tuan tak sudi apakan daya
+Biarlah saya bercinta seorang
 ===
 Lenggundi tumbuh di paya
 Burung dewata terbang ke seberang
@@ -14576,6 +14661,9 @@ Tuan tak sudi apakan daya
 Biarlah saya bercinta seorang
 ===
 Lenggundi tumbuh serangkap
+Cempedak kembang bunganya
+Kalau sudi boleh disantap
+Kalau tidak barang gunanya
 ===
 Lengkang lengkong sungei brendam
 Tempat menjemor chinkay pala
@@ -14591,26 +14679,6 @@ Lengkang pager tengkong kesait
 Tengkong ndeq lepas lelah berangen
 Uwah setaun ndeq tebedait
 Nengke tebedait ngelepas kangen
-===
-Lengkang-lengkung apa dipaku
-Paku jatuh patah dua
-Menjadi riuh orang di darat
-Anak Cik Itam jatuh jalar
-
-Bumi kandungan nenek moyangku
-Kerana lalai rosak binasa
-Kebudayaan Timur dinodai barat
-Bahasa ibunda hina terbiar
-===
-Lengkang-lengkung apa dipaku
-Paku jatuh patah dua
-Menjadi riuh orang di darat
-Anak Cik Itam jatuh jalar
-
-Bumi kandungan nenek moyangku
-Kerana lalai rosak rosak binasa
-Kebudayaan Timur dinodai Barat
-Bahasa Ibunda hina terbiar
 ===
 Lengkaplah perjalanan hidup manusia
 Dari dunia hingga akhirat 
@@ -14632,10 +14700,10 @@ Masak dengan putik jagung
 Hantu musang mata rabun
 Datang ayam patuk punggung
 ===
-Lengkuas di tepi padang
-Tekak puas badan menyandang
-===
 Lengkuas tumbuh dalam padi
+Rama-rama di dalam puan
+Tidaklah puas dalam hati
+Jika tak sama denganmu tuan
 ===
 Lentam lentum meriam ber-bunyi
 Besar prang di negri China
@@ -14673,6 +14741,9 @@ Badan tersenja di tanah darat
 Rasa hati kembali pulang
 ===
 Lepas berburu kita memanjat
+Mencari rambai sampai Merotai
+Jika memburu darjat dan pangkat
+Janganlah sampai iman tergadai (Kumpulan Pantun Sabah)
 ===
 Lepas berjamu terus ke sawah
 Padi di bendang baru ditugal
@@ -14680,6 +14751,9 @@ Ada ilmu tidak berdakwah
 Bagai pedang tidak memenggal
 ===
 Lepas burung bertali benang
+Jambu air batangnya tinggi
+Tiada urung saya berenang
+Asal boleh mendapat lagi
 ===
 Lepas ditebang baru ditarik
 Pohon tua ranting pun patah
@@ -14777,6 +14851,9 @@ Minyak dikoyak meluncur laju
 Aksi bongkak tak sedar diri
 ===
 Lepas nan Labuh Tegak
+Hendak menjelang Labuh Sati
+Dari jauh tuan'lah gelak
+Senang bertemu si jantung hati
 ===
 Lepas senja buat kenduri
 Semua tetamu pulang segera
@@ -14794,6 +14871,9 @@ Berjuang menegakkan hukum syariat
 Dibenci manusia berjiwa syaitan
 ===
 Lepaskan kumbang 'nak terbang
+Kumbang kudung bawa tali
+Lepaskan abang' nak pulang
+Ada untung balik ke mari
 ===
 Lepat pisang lepat ubi
 Bawa bekal mcnuai padi
@@ -14814,11 +14894,6 @@ Leq Bali lueq tari kecak
 Lekaq-lekaq tipaq pesisi
 Adeng-adeng taeq becak
 Sengaq lueq dengan korupsi
-===
-Leq bangket lueq kedit
-Pinaq bale rebu
-Lamun side mele bedait
-Lamun side mele bedait
 ===
 Leq bangket lueq tembrenene
 Lueq tembrenene leq kayuq siq lebon
@@ -15004,6 +15079,9 @@ Bukan bodoh Cuma bingal
 Hampas diperas dapat pati
 ===
 Letuk-letak paruh enggang
+Jatuh betilam kulit pari
+Duduk tengah tuan sembahyang
+Antara sujud cintalah kami
 ===
 Letup-letup bunyi seberang
 Orang memanggang tulang rusa
@@ -15011,6 +15089,9 @@ Lungguk longak orang sembahyang
 Orang memuji Tuhan kita
 ===
 Li holok bunyi-nyo pupuik-pupuik
+Urang pulang dari sawah
+Ati nan samak-samak kusuik
+Mintak tolong kapado Allah (Pantun Minangkabau)
 ===
 Liang kubur sudah digali
 Cuma menunggu jenazah diusung
@@ -15038,6 +15119,9 @@ Dapat kuselam isi hati
 Dari wajah yang tersirat
 ===
 Licin jalannya di kota Padang
+Mobil berjalan perlahan-lahan
+Ku kirin dendam ke dinda sayang
+Adakah sampai padamu tuan
 ===
 Licin ligat seperti belut
 Belut berlada sedapnya ikan
@@ -15048,9 +15132,6 @@ Licin papan lantai beralas
 Dinding kukuh pintu diselak
 Tutur bersopan cakap beralas
 Tidak angkuh orang berakhlak
-===
-Lidah tidak bertulang
-Tak tahu jangan temberang!
 ===
 Ligat gasing baik ditarah
 Batang meranti kulit berkematu
@@ -15102,18 +15183,6 @@ Asai kelok angin melentang
 Dudok di pintu mengupaih pinang
 Muka bujoq sanggui lentang
 ===
-Lili ma diginjang
-Hodong ma di toru
-Riris ma jolma di ginjang
-Torop ma pinahan di toru
-
-
-Lidilah di atas
-Pelepalah di bahawah
-Banyaklah orang di atas
-
-Banyaklah ternak di atas
-===
 Lilin kecil terangnya samar
 Bersinar dalam ruang gereja
 Iman baru mulai berakar
@@ -15130,6 +15199,9 @@ Buruk tiada lagi berganti
 Meskipun sampai ke mana-mana
 ===
 Lima belas dayung ke Jambi
+Bunga nanas di dalam kebun
+Tidakkah belas memandang kami
+Siang berpanas malam berembun
 ===
 Lima belas dayung ke Jambi
 Bunga nanas di dalam kebun
@@ -15140,13 +15212,6 @@ Lima belas dayung petani
 Pisang emas masak di kebun
 Tuan tak belas memandang kami
 Siang berpanas malam berembun
-===
-Lima belas hari bulan rejangnya mayang
-Mayang mengurai malam Khamis
-Seludang jatuh di tengah laman
-Buangkanlah perangai iblis
-
-Dunia 'ni akhirnya zaman
 ===
 Lima belas rajangnya ikan
 Ikan bermain di tepi Segara
@@ -15167,18 +15232,6 @@ Lima enam tujuh delapan
 Rajin belajar cepat maju
 Bila dapat maju ke depan
 Terima kasih banyak
-===
-Lima hari bulan rejangnya simpai
-Simpai karak simpai rotan
-buat menyimpai kepala toman
-Jangan diikut kehendak syaitan
-
-Hendaklah patuh kata-kata firman
-===
-Lima hari bulan rejangnya simpai
-Simpai karak simpai rotan
-Jangan diikut kehendak setan
-Hendaklah patuh kata firman
 ===
 Lima jari batang berduri
 Masak pula buat manisan
@@ -15236,6 +15289,9 @@ Biji delima mula ditanam
 Peria pahit menjadi tumbuh
 ===
 Limau bentan di tepi tingkap
+Budak-budak melempar burung
+Harimau di hutan lagi kutangkap
+Kononlah pula cicak mengkarung
 ===
 Limau Bentan di tepi tingkap
 Budak-budak melempar burung
@@ -15258,6 +15314,9 @@ Bukan semua merosakkan pukat
 Ada juga membawa berkat
 ===
 Limau di seberang dahulunya
+Tumbuh di bukit dekat belimbing
+Harimau garang dahulunya
+Sebab sedikit jadi kambing
 ===
 Limau di seberang dahulunya
 Tumbuh di bukit dekat belimbing
@@ -47765,6 +47824,9 @@ Sebarang azab kekanda tanggung
 Hendak bergantung kepada tuan
 ===
 Penjajap pagar tenggalung
+Lebah bergantung di haluan
+Sebarang azab kekanda tanggung
+Hendak bergantung kepada tuan
 ===
 Penjara besar besi Kursani
 Perbuatan Maharaja Jaya Dewata
