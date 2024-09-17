@@ -15339,6 +15339,9 @@ Risau hati kerana ditinggal
 Hendak menangis malu rasanya
 ===
 Limau kerbau masak merkah
+Buah sirih dalam raga
+Panggil tok lebai hendak nikah
+Ambil pula wali raja
 ===
 Limau lelang bergugus-gugus
 Taruh mari dalam dulang
@@ -15351,10 +15354,14 @@ Aku pakai ilmu dunia akherat
 Membela tubuhku ini
 ===
 Limau lungga di tengah sawah
+Sajak di mana diletakkan
+Sejak sejengkal dari tanah
+Diarak untung dan bagian
 ===
 Limau mandarin dua sesimpai
 Hongbau bersihkan cendera hati
 Diiringi ucapan 'gong-xi-fa-cai'
+Semoga 'arnab' murahkan rezeki
 ===
 Limau mandarin dua tersimpai
 Hongbau berisikan cendera hati
@@ -15489,8 +15496,6 @@ Itam manis orang nya besar
 Setra pula ber budi baik
 ===
 Limau manis condong ke Keling
-===
-Limau manis condong ke Keling
 Sudah ke Keling ke Jawa pula
 Hitam manis duduk menjeling
 Sudah menjeling tertawa pula
@@ -15516,6 +15521,9 @@ Hitam manis bangun dahulu
 Kapurkan sirih abang nak pulang
 ===
 Limau manis dari ulu
+Di buat lengkongan dulang
+Hitam manis bangun dahulu
+Kapurkan sirih abang 'nak pulang
 ===
 Limau manis di kampung Tiku
 Dibawa anak orang Sigalangan
@@ -15528,6 +15536,9 @@ Apa ditangis di dalam kubur
 Dalam dunia tidak belajar
 ===
 Limau manis dimakan manis
+Manis sekali rasa isinya
+Dilihat manis dipandang manis
+Manis sekali hati budinya
 ===
 Limau manis dimakan manis
 Manis sekali kulit bijinya
@@ -15674,6 +15685,9 @@ Tiba dilembah ditumbuk duri
 Pinang menghadap
 ===
 Limau prot untok blahan
+Ambil mengkudu di-atas bukit
+Prot lapar bolay di-tahan
+Hati rindu menjadi penyakit
 ===
 Limau puruik jatuah ka lambah
 Tibo di lambah tumbuah duri
@@ -15731,6 +15745,9 @@ Kalau menjemput dengan manis
 Orang pun datang dengan tertawa
 ===
 Limau purut delima muda
+Rambutan Acheh apa bijinya?
+Kalau turut hati yang muda
+Rumah tangga apa jadinya?
 ===
 Limau purut delima muda
 Rambutan Acheh apa bijinya?
@@ -15814,9 +15831,13 @@ Jari sepuluh menjunjung duli
 ===
 Limau purut jatuh ke lembah
 Tiba ke lembah tumbuh duri
-Pinang menghadap
+Pinang menghadap sirih menyembah
+Jari sepuluh menjunjung duli
 ===
 Limau purut lebat di pangkal
+Selasih bertemu di uratnya
+Hujan ribut boleh ditangkal
+Hati kasih apa ubatnya
 ===
 Limau purut lebat di pangkal
 Batang selasih condong uratnya
@@ -15849,6 +15870,9 @@ Angin ribut dapat ditangkal
 Hati kasih apakah ubatnya?
 ===
 Limau purut lebat ke pangkal
+Sayang selasih condong uratnya
+Angin ribut dapat ditangkal
+Hati kasih apa ubatnya?
 ===
 Limau purut lebat ke pangkal
 Batang selasih condong uratnya
@@ -15926,10 +15950,19 @@ Hujan ribut boleh disangkal
 Rindu dihati apa obatnya
 ===
 Limau purut tanam di lembah
+Ditanam dekat pecah kuali
+Kalau sujud dakwat menyembah
+Kertas datang menjunjung duli
 ===
 Limau purut tanam di lembah
+Cupu tangking berisi kain
+Kalam sujud dakwat menyembah
+Haram tidak khabar yang lain
 ===
 Limau purut tengah halaman
+Uratnya minta ditapisi
+Sembah sujud dagang dewanan
+Badan meminta dikasihi
 ===
 Limau purut tengah halaman
 Uratnya minta ditapisi
@@ -15955,8 +15988,6 @@ Limau purut tumbuh di lembah
 Mari disunting dengan bunganya
 Gong sujud gambang menyembah
 Kelenang bercahaya menjunjung dulinya
-===
-Limau purut untuk belahan
 ===
 Limau purut untuk belahan
 Ambil mengkudu di atas bukit
@@ -16037,6 +16068,9 @@ Bagi abang sungguhlah nyata
 Bagi kami lindungi sedikit
 ===
 Limuik jan pinang-sari
+Ba-diri dakek kualo-nyo
+Ba-runuik indak ba-cari
+Danga-kar sajo barito-nyo (Pantun Minangkabau)
 ===
 Lindungilah hamba dalam bergaul
 Agar tidak budi tesasul
@@ -16069,6 +16103,9 @@ Kena buang kami reda
 Sudah kebencian si orang banyak
 ===
 Linta banyak di sawa padi
+Tanam kalapa jarang jarang
+Manarok chinta di dalam ati
+Tidak siapa tuan sorang
 ===
 Linta di padi di sambar lang
 Jatoh di laut balek kembali
@@ -16101,6 +16138,9 @@ Baik buang perangai yang jahil
 Umur di dunia terlalu singkat
 ===
 Lipat baik-baik jangan peronyok
+Simpan dengan kain batik
+Badan gemuk bagai beronok
+Akal sebagai makan nasi licik
 ===
 Lipat berbucu si daun tapai
 Hendak diisi beras sekal
@@ -16128,6 +16168,9 @@ Tempat main boleh dipilih
 Tempat jatuh siapa tahu
 ===
 Lipat kain lipat baju
+Lipat surat di dalam puan
+Sekat ayer manjadi batu
+Baru sahya lupa kan tuan
 ===
 Lipat kain lipat baju
 Lipat kertas dalam puan
@@ -16140,18 +16183,24 @@ Sukat ayer menjadi batu
 Baru lupa budi mu-tuan
 ===
 Lipat kain lipatlah baju
+Mari 'ku lipat di dalam puan
+Sukat air menjadi batu
+Baru saya lupakan tuan
 ===
 Lipat kain simpan di puti
+Selasih di rumpun surie
+Chari obat makan tak mati
+Sepaya kasih jangan bucharie
 ===
-Lipat kain
+Lipat kain lipat-lah baju
+Mari 'ku lipat di-dalam puan
+Sukat ayer menjadi batu
+Baharu saya Iupakan tuan
 ===
 Lirik lagu mengikut nada
 Nada asli sayup bergema
 Bermain catur penggerak minda
 Catur hidup digerak sama
-===
-Lit lit ta
-Terbalek biji mata
 ===
 Liuk cabang pauh
 Jarang-jarang jari
@@ -16344,6 +16393,9 @@ Cepat-cepat kakak
 Lari dari sini
 ===
 Long Pasia jauh di selatan
+Hendak berkereta berhati-hati
+Bukalah rahsia dalam lipatan
+Adat bercinta sampai ke mati (Kumpulan Pantun Sabah)
 ===
 Longkang terselet kayu nya arang
 Tekak aus boleh di rasa
@@ -16371,18 +16423,19 @@ Rajin-rajin te pede nabung
 Agek bau te kadu leq hari toaqte
 ===
 Lori balak dari Telupid
+Sarat muatan berbatu-batu
+Tidak ku tolak walaupun sempit
+Dalam ingatan tetap bersatu (Kumpulan Pantun Sabah)
 ===
 Lori berjalan di atas kawat
+Semen dibawa dengan lori
+Sejak peninggal tuan kandung nasi dimakan rasa obat
+Air diminum rasa duri
 ===
 Lorong kapado dang aianyo
 Aia barasiah bukan kapalang
 Aia nan tabik dari matonyo
 Bamato aia mangko taganang
-===
-Lorong kapado sipangkalan
-Kandali alek nan dipaciknyo
-Urang asa turun tamurun
-Lagi jauhari bijaksano
 ===
 Lotjeng berboenji poekeol delapan
 Mendjelang tengah sembilan
@@ -16393,12 +16446,6 @@ Lotong blari ditepi hutan
 Di chapay pata ranting kayu 
 Mengitong hari dengan bulan 
 Sampay kutika bolay tau 
-===
-Lotong kekah kemput jarinya
-Kembong segah kentut jadinya
-===
-Lotong kekah kemput jarinya
-Kembung segah kentut jadinya
 ===
 Lotong siamang mendru dru 
 Di atas batang ber-kriow kriow     
@@ -16426,6 +16473,9 @@ Suda elok lagi di pilay
 Suda berkenan di dalam hati
 ===
 Luar pintu ada peseban
+Sama tengah di atur meja
+Hatiku rindu tidak tertahan
+Tak ada tempat hendak bermanja
 ===
 Luas bendang berpetak-petak
 Pergi menyadap nira nipah
@@ -16496,37 +16546,21 @@ Lubuak Bagaluang tabiang runtuah
 Tapian anak urang Jambak
 Bak mano badan indak ka rusuah
 Di caliak kawan indak tampak
-
-
+===
 Lubuak Bagaluang tebing runtuh
 Tepian anak orang Jambak
 Bagaimana badan tidakkan rusuh
-
 Dilihat kawan tidak nampak
 ===
 Lubuak Bagaluang Tabiang Tinggi
 Tantang tapian nak rang Jambak
 Duduak tamanuang lah to kini
-Kasiah tadanga jo bakinjak 
-
-
-Lubuak Bagaluang Tabiang Tinggi
-Dekat tepian nak rang Jambak
-Duduk termenung malah kini
-
-Kasih terdengar telah pergi
+Kasiah tadanga jo bakinjak
 ===
 Lubuak Baguluang Tabiang Tinggi
 Tantang tapian nak rang Jambak
 Duduak tamanuang lah to kini
 Risau bakencak jo tadangak
-
-
-Lubuak Bagaluang dan Tebing Tinggi
-Dekat tepian anak orang Jambak
-Duduk termenung malah kini
-
-Lama berjalan dan sakit-sakitan
 ===
 Lubuak Basuang tabiangnyo tinggi
 Ikan dijalo tajilapak
@@ -16539,7 +16573,9 @@ Partamo barnamo 'alua'
 Rajo badiri sandirinyo
 ===
 Lubuak nan tigo pulo disabuik
-Lubuak Sikarah
+Lubuak Sikarah Lubuak Sipunai
+Lubuak Simawang nan panutuik
+Cancang nan tigo sagaragai (Pantun Minangkabau) (Kalarasan Bodi Caniago) (N.M. Rangkoto) (Pantun Adat Minangkabau. Departemen Pendidikan dan Kebudayaan. Jakarta: Proyek Penerbitan Buku Sastra Indonesia dan Daerah) (Tahun 1982)
 ===
 Lubuak nan Tigo Tanjuang nan Tigo
 Banamo 'Pardamaian Bodi Camingo'
@@ -16550,12 +16586,10 @@ Lubuak Tumangguang kayu jati
 Kapa balayia dari Judah
 Duduak tamanuang kanai ati
 Manaruah dandam balun sudah
-
-
+===
 Lubuk Temenggung kayu jati
 Kapal berlayar dari Judah
 Duduk termenung jatuh hati
-
 Menaruh dendam belum sudah
 ===
 Lubuk Bagalung
@@ -24066,10 +24100,19 @@ Gadeh sumti gadeh sakti
 Itu semua kuasa Tuhan
 ===
 Melati namanya kemabang
+Budak-budak main kelereng
+Sebab hati menjadi bimbang
+Dalam angguk tuan menggeleng
 ===
 Melati namanya kembang
+Untuk pelengkap kembang setaman
+Di mana hati tak 'kan bimbang
+Sedang kasih tuan berjalan
 ===
 Melati namanya kembang
+Simpan di dalam sapu tangan
+Sebab hati menjadi bimbang
+Takut tuan berpindah tangan
 ===
 Melayang jin grahana bulan 
 Akan jumpa lima sudara 
@@ -24082,6 +24125,9 @@ Siapa lagi hendak direnung
 Di mana tempat bercermin mata
 ===
 Melayang sampai ke kaki gunung
+Gunung pertapaan si Raja Buta
+Siapa lagi adinda renung
+Kekanda jauh dari mata
 ===
 Melayang sampai ke kaki gunung
 Gunung pertapaan Maharaja Bota
@@ -24126,7 +24172,7 @@ Hidup bermakna sebelum mati
 Melebur besi di dalam relau
 Besi tongkol menjadi serdak
 Ingin hati sampai ke pulau
-Sampan ada
+Sampan ada pengayuh tidak
 ===
 Melengku ngaken buaq beduri
 Buaq beduri siq manis rasane
@@ -24134,6 +24180,9 @@ Lueq-lueq be dengan siq korupsi
 Ageq selekena lueq otang negere sine
 ===
 Melenguh jawi orang Kubung
+Melenguh memanggil kawan
+Menangis menyandar untung
+Untunglah tinggi dari awan
 ===
 Melenguh lembu di gunung
 Melenguh sampai ke balai
@@ -24141,6 +24190,9 @@ Maksud hati memeluk gunung
 Apa daya tangan tak sampai
 ===
 Melenguh lembuh di gunung
+Melenguh sampai ke balai
+Maksud hati memeluk gunung
+Apa daya tangan tak sampai
 ===
 Melenguh sapi nak rang Kubuang
 Melenguh menghimbau kawan
@@ -24158,6 +24210,9 @@ Putus tali boleh disambung
 Kalut hati apa obatnya
 ===
 Meletus bedil si Malin
+Malin menembak burung hantu
+Seratus ada yang lain
+Manalah sama adik yang satu
 ===
 Meliar jelatik si burung merak
 Songket tenunan jadi hiasan
@@ -24215,10 +24270,19 @@ Anak buah taat di suruh
 Mengapa diri berlain tingkah
 ===
 Melimpas pergi ke Sungai Kimanis
+Hantar titipan di Kampung Mengasih
+Apakah lagi yang lebih manis?
+Hanya ucapan terima kasih
 ===
 Melintas sapi di Sapagaya
+Orang berkereta pergi Sandakan
+Rasaku sepi tidak terdaya
+Tiada berita orang ku tinggalkan
 ===
 Melintas sapi hendak ke pantai
+Kampung Benoni arah ke darat
+Terasa sepi bagai tersadai
+Sudahlah sunyi hidup melarat
 ===
 Melompat bendul terjun ke tanah
 Sampai di tanah musuh menanti
@@ -24241,6 +24305,9 @@ Tidakkah takut tinggal seorang
 Siapa lagi hendak direnung
 ===
 Melukut tinggal sekam melayang
+Buah terserak dimakan terkukur
+Janganlah takut tinggal seorang
+Arwahku tinggal kawanmu tidur
 ===
 Mem serani balik negeri 
 Balik dia gak seorang 
@@ -31315,8 +31382,6 @@ Naidung akan si bidadari
 Meski jauh Mekah Madinah
 Hati kasih jangan unduri
 ===
-Naiek bendi kureta loyang
-===
 Naik bas orangnya padat
 Bas menuju ke Balik Pulau
 Zaman ini sudah teradat
@@ -31415,8 +31480,14 @@ Tahan racik burung tak masuk
 Burung biasa makan di tangan
 ===
 Naik bukit conggang cungget
+Cari kayu membuat lesung
+Kena tembop perut buncit
+Lama-lama menjadi busung
 ===
 Naik bukit gunong panjang
+Ber-jumpa rumpot s'panjang rambot
+Kenang kan budi baik nya orang
+Hati prot bagi di lurot
 ===
 Naik bukit membeli lada
 Lada sebiji dibelah tujuh
@@ -31424,10 +31495,14 @@ Apa sakitnya berbini janda
 Anak tiri boleh disuruh
 ===
 Naik bukit membeli mangkuk
+Mangkuk berisi buah berangan
+Tahan racik burung tak masuk
+Burung biasa makan di tangan
 ===
 Naik bukit membeli mangkuk
 Mangkuk berisi buah berangan
-Tahan racik
+Tahan racik burung tak masuk
+Burung biasa makan di tangan
 ===
 Naik bukit silang gamilang 
 Endak pergi ka priaman 
@@ -31475,16 +31550,9 @@ Satu mengerut sisanya empat
 Apa itu cobalah terka
 ===
 Naik endul jangan di ayun
-===
-Naik goenoeng rimba Keliboet
-Kerimba berkajoe djati
-Kajoe gedang banjak berboeah
-Bertjampoer dengan kajoe kamat
-
-Takoet gentar hamba menjeboet
-Penghoeloe banjak jang sakti
-Toeankoe banjak jang bertoeah
-'Alim 'oelama banjak keramat
+Takut putus tali penghubung
+Lembu dogol jangan di balun
+Kalau di tanduk jatuh terjerongkung
 ===
 Naik gunung jalan berbatu
 Angin bertiup tiada tentu
@@ -31495,28 +31563,6 @@ Naik gunung pakai selimut
 Cari kayu banyak buah
 Gegap gentar hendak menyebut
 Tuan banyak yang bertuah
-===
-Naik gunung rimba Kelibut
-===
-Naik gunung rimba kelibut
-Ke rimba berkayu jati
-Kayu gedang banyak berbuah
-Bercampur dengan kayu kamat
-
-Gegap gentar hamba menyebut
-Penghulu banyak yang sakti
-Tuanku banyak yang bertuah
-Alim ulama banyak yang keramat
-===
-Naik gunung rimba Kelibut
-Ke rimba berkayu jati
-Kayu gendang banyak berbuah
-Bercampur dengan kayu kamat
-
-Gagap gentar hamba menyebut
-Penghulu banyak yang sakti
-Tuanku banyak yang bertuah
-Alim ulamak banyak keramat
 ===
 Naik haji pergi ke Makkah
 Sampai di Makkah naik unta
@@ -31553,15 +31599,15 @@ Muat mari bijik slaseh
 Kerna tuan pandai berbudi 
 Hati ku suka menjadi kaseh 
 ===
-Naik kapal pergi di Medan 
+Naik kapal pergi di Medan
 Lalu berlayar tana Semarang
 Hilang akal hilang pikiran
-Kalu blajar sebarang-barang.
+Kalu blajar sebarang-barang
 ===
-Naik kapal pergi di Medan 
+Naik kapal pergi di Medan
 Lalu berlayar tana Semarang
 Hilang akal hilang pikiran
-Kalu blajar sebarang-barang.
+Kalu blajar sebarang-barang
 ===
 Naik kapal terbang
 Tidor atas bantal
@@ -31574,6 +31620,9 @@ Di dalam hati sudah tertanggung
 Serta ada kias dan makna
 ===
 Naik ke bukit bakar arang
+Habis arang kais diberoga
+Sakit hati kata di orang
+Sehari sepagi ambil juga
 ===
 Naik ke bukit beli lada
 Lada sebiji dibelah tujuh
@@ -31581,6 +31630,9 @@ Apa sakit berbini janda
 Anak tiri boleh suruh
 ===
 Naik ke bukit bermain angin
+Pandan berbuah akan permata
+Sakit sungguh bercerai main
+Makan berkuah air mata
 ===
 Naik ke bukit bermain angin
 Pandan berbuah akan permata
@@ -31588,6 +31640,9 @@ Sakit sungguh bercerai main
 Makan berkuah air mata
 ===
 Naik ke bukit memain angin
+Makan buah serba rasa
+Sakit saya meninggal main
+Makan berkuah si air mata
 ===
 Naik ke bukit memasang dupa
 Letak di bawah pokok redup
@@ -31605,6 +31660,9 @@ Tahan racik burung tak masuk
 Burung biasa makan di tangan
 ===
 Naik ke bukit membeli lada
+Lada sebiji di belah tujuh
+Apa sakit berbini janda?
+Anak tiri boleh di suruh
 ===
 Naik ke bukit membeli lada
 Lada sebiji dibelah tujuh
@@ -31627,6 +31685,9 @@ Jahat dan balk mana-mana pandai
 Kepada tuan mintak perguna
 ===
 Naik ke darat berlayar sampan
+Puan berisi bunga angsana
+Jahat dan baik bak kata tuan
+Asal di tuan ada berguna
 ===
 Naik ke darat ke Paya Padang
 Bunga kenidai bunga kenanga
@@ -41364,12 +41425,10 @@ Padi jo banto punyo buah
 Pandan timbarau malantaikan
 Ati jo mato punyo ulah
 Badan nan cilako marasaian
-
-
+===
 Padi dan banto punya buah
 Pandan teberau melantaikan
 Hati dan mata punya olah
-
 Badan nan celaka merasakan
 ===
 Padi keriseh condong di baruh
