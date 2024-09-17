@@ -764,6 +764,9 @@ Tuan tidak kupandang mata
 Belaskan apa dagang yang hina
 ===
 Puan terletak di atas rantaka
+Orang berpadi di tanah liat
+Isteri pun tiada dapat terkata
+Mayatnya pun tiada dapat dilihat
 ===
 Puan terletak di atas rentaka
 Orang berpadi di tanah liat
@@ -771,6 +774,9 @@ Isteri pun tiada dapat berkata
 Mayatnya pun tiada dapat dilihat
 ===
 Puan terletak tidak berkaki
+Terbang elang dari Jawa
+Tidak tuan siapa lagi
+Tempat abang membuang nyawa
 ===
 Puan terletak tidak berkaki
 Terbang helang dari Jawa 
@@ -18601,6 +18607,9 @@ Seperti orang terbang semangat
 Seluar sampak panjang di tongkah
 ===
 Seluar sutera beli di kedai
+Pakaian anak raja Melayu
+Saya laksana mawa di julai
+Menantikan embun di daun kayu
 ===
 Seluk berseluk daunnya terap
 Terap diampai menjadi benang
@@ -21577,13 +21586,6 @@ Sibolga jolong basuo
 Sumua dikali urang rantai
 Jangan manyasa adiak isuak
 Mukasuik sangajo balun sampai
-
-
-Sibolga baru bersua
-Sumur digali orang rantai
-Jangan menyesal adik besok
-
-Maksud disengaja belum sampai
 ===
 Sibolga jolong bersusuk
 ===
@@ -21603,6 +21605,9 @@ Jadi pengibur di dalarn hati
 Serasa tuan bersama-sama
 ===
 Sibur-sibur di dalam padi
+Paksi unggas di tengah huma
+Jadi penghibur dalam hati
+Serasa tuan bersama-sama
 ===
 Sibur-sibur di pohon jati
 Ikan sepat melompat rakit 
