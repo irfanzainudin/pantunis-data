@@ -34252,10 +34252,19 @@ Tidur sepicing mimpikan tuan
 Kononnya tuan datang bergurau
 ===
 Nyiur gading dua tandan
+Setandan baru berisi
+Harumnya bagai bunga pandan
+Lekat di tangan di tangisi
 ===
 Nyiur gading mayang berjurai
+Kait buah buatkan inti
+Hancur daging tulang berkecai
+Kasih tak ubah sampai ke mati
 ===
 Nyiur gading puncak mahligai
+Ketupat berisi inti
+Hancur gading tulang berkirai
+Sebelum dapat tidak berhenti
 ===
 Nyiur gading puncak mahligai
 Sayang ketupat berisi inti
@@ -34268,24 +34277,14 @@ Hancur daging tulang bekecai
 Belum dapat belum berhenti
 ===
 Nyiur gading tebing Pak Amat
-===
-Nyiur gading tinggi menjulang
-Masak ketupat berisi inti
-Buah delima di dalam cawan
-Hancur badan berisi tulang
-
-Belum dapat belum berhenti
-Hendak bersama denganmu tuan 
-===
-Nyiur gading tinggi menjulang
-Masak ketupat berisi inti
-Buah delima di dalam cawan
-Hancur daging berkecai tulang
-
-Belum dapat belum berhenti
-Hendak bersama denganmu tuan
+Nampak sedikit pasir sawah
+Hancur daging tulangku lumat
+Baru lupa pesanan Hang Tuah
 ===
 Nyiur gubal tanaman tak teguh
+Pancung lekir sama berdiri
+Orang lebai iman tak teguh
+Orang jahil apa tah lagi
 ===
 Nyiur manis baru gugur
 Dibawa nyonya ke luar pagar
@@ -34303,8 +34302,14 @@ Abang pergi melangkah laut
 Adik di rumah membilang bulan
 ===
 Nyiur manis ditebing laut
+Masak sebiji membilang tandan
+Abang pergi melangkah laut
+Adik di rumah membilang bulan
 ===
 Nyiur manis lebat setandan
+Masak di bawah mayang mengurai
+Laksana buah duduk tersimpan
+Isi di dalam di tebuk tupai
 ===
 Nyiur manis lebat setandan
 Masak di bawah mayang mengurai
@@ -34312,6 +34317,9 @@ Laksana buah duduk tersimpan
 Isi di dalam dikerbuk tupai
 ===
 Nyiur manis nyiur tunggal
+Pagar buluh tidak berpaku
+Cium tinggal peluk tinggal
+Jangan tangis pemergian daku
 ===
 Nyiur manis siamang bulan
 Kepala tumbuh di batu
@@ -34324,6 +34332,9 @@ Biar menangis dalam buaian
 Jangan menangis di dalam kubur
 ===
 Nyiur manis tepi pangkalan
+Tempat merak bersarang tujuh
+Hitam manis turun berjalan
+Bagai kilat bintang sepuluh
 ===
 Nyiur muda dibuat pengat
 Mari dimakan bulan puasa
@@ -34346,6 +34357,9 @@ Orang muda jangan mengebat
 Kalau ngebat ditinggal tunang
 ===
 Nyiur tinggi di Pulau Laut
+Mari digoncang jatuh buahnya
+Tuan berbini saya pun takut
+Jikalau bujang apa salahnya
 ===
 Nyiur tinggi di tengah halaman
 Disangka tidak berbuah lagi
@@ -34353,6 +34367,9 @@ Sudah berjanji berjabat tangan
 Disangka tidak berubah lagi
 ===
 Nyiur tinggi tengah halaman
+Disangka tidak berbuah lagi
+Sudah berjanji berjawat tangan
+Disangka tidak berubah lagi
 ===
 Nyiur tinggi tengah halaman
 Disangka tidak berbuah lagi
@@ -34389,15 +34406,6 @@ Mari diguncang jatuh buahnya
 Tuanku berbini sahaya pun takut 
 Jikalau bujang apa salahnya
 ===
-o beden singe ranas 
-pulihmi temas entine karu
-===
-o bintang si atas ko kin saksi 
-tjahajamu bengi kuseni mutumpu
-===
-o kuju keras si kuse kuini 
-turun kemi nama ku bumi silaju
-===
 Oarang Silau membawa salak
 Salak ditaruh dalam kereta
 Riuh bangau tergelak-gelak
@@ -34422,18 +34430,6 @@ Obat tidur terasa sabun
 Sekali coba terasa hanyir
 Urat kendur matapun rabun
 Berbini muda kerja membazir
-===
-Obuk do jambulan
-Na nidandan bahen samara
-Pasu-pasu ni hula-hula
-Pitu sundut soada mara
-
-
-Rambut adalah rambut
-Yang di dandan buat sanggul
-Berkat dari hula-hula
-
-Tujuh keturunan tanpa bahaya
 ===
 Odok-odok di Pulau Kuraman
 Persinggahan burung berhenti
@@ -34568,7 +34564,7 @@ Amerika serah diri
 Oii Pak Yaya
 Pak Timun ada lagi
 Datang Amerika
-Serang Jepun
+Serang Jepun Jepun lari
 ===
 Ojok Ampenan beli doro daun
 Mantelah seberak eleq Pengadangan
@@ -34666,7 +34662,9 @@ Negarante sine Negara demakrasi
 Ndeqne pejabat doang epen kuasa
 ===
 Ojok peken beli impan
-Impan empak
+Impan empak empak layah
+Antih tiang lalo bekelampan
+Bekelampan pete nafkah (Pantun Sasak)
 ===
 Ojok peken beli kacamata
 Ojok bangket bau kedit
@@ -34788,11 +34786,6 @@ Soeleng atap lagie berboea
 Belon la poeas tiedoer die pangkoe
 Apa tjilaka kieta berdoea
 ===
-Ole menungtung laksamana
-Raja Riwana sepulu kapal
-Jikalau ta bole apa berguna
-Janganla pangtung barang yang sala
-===
 Ole padoepan die atas kona
 Baik saya rimbang daoeloe
 Kaloe tieda saroepa nona
@@ -34807,13 +34800,6 @@ Ole sataoon la doea tau' oon
 Alap alap boea kamierie
 Ibaraad angien tieoopkan dau' oon
 Darie jau'e boeang kamarie
-===
-Ole sinuan boyu ni dainang
-Marbalik ma ho le tu siamun
-Markosing ko tu siambirang
-Maroma na pogos on di tonga parik on
-
-Anak ni na so dong markolong ni roa on 
 ===
 Ole soelasie dari oetoesan
 Orang bergandoeng dalam serambie
@@ -35021,6 +35007,9 @@ Natuvu ane ledo nosabaya
 Lenje nagaya leria gunana
 ===
 Olok-olok burung di laut
+Ogak-ogak burung di bukit
+Rupa elok bagai diraut
+Akan penawar hati yang sakit
 ===
 Olok-olok burung di laut
 Ogah-ogah burung di bukit
@@ -35066,13 +35055,6 @@ Omah gendheng saponana
 Mbokmenawa ana corone
 Abot entheng lakonana
 Mbokmenawa ana jondhone
-
-
-Rumah genting harap disapu
-Barangkali ada kecoanya
-Berat ringan lakukan saja
-
-Barangkali ada jodohnya
 ===
 Ombak baralun manuju pantai
 Riak marayok manuju tapi
@@ -35204,37 +35186,6 @@ Mandi jangan berkubang tanah
 Omulah kito poi mengaji
 Mengaji jangan membuat fitona
 ===
-On ma golap ni ari baya
-I balikkon tangan pe so tarida
-Taru nai tuntunkon ma ro tu son
-Taru so ra be amu mangalusi sa be tile
-
-Ale anggi i bege ho dehe ningku
-Alahle 
-===
-Ondeh-ondeh udang
-Lembu patah tanduk
-Cik Mek kena godam
-Cik Awang kena tumbuk
-===
-One two three
-Satu dua tiga
-Mana tuan pergi
-Pergi simpang tiga
-
-Apa tuan cari?
-Cari bini muda!
-===
-Onek-onek udang
-Lembu patah tanduk
-Cek Mek kena godam
-Cek Wang kena tumbuk
-===
-Onek-onek udang
-Lembu patah tanduk
-Cik Mek kena godam
-Cik Wang kena tumbuk
-===
 Ong padang berjanjang batu
 Kaseh berdahan tidak
 Ambik pedang panchong diriku
@@ -35266,13 +35217,19 @@ Jangan kusut intanku malai
 Alah hukum daripada janji
 ===
 Orak tikar kelambu dahulu
+Ajak tidur jangan lupa
+Kalau tergempar berhenti dulu
+Bila senang buat pula
 ===
 Orang  berakit  di-tepi laut
 Berbekal berangan dengan kelapa
 Asam di-bukit ikan di-laut
 Bila-kah gerangan akan berjumpa?
 ===
-Orang  Jawa membuat batik
+Orang Jawa membuat batik
+Membuat renda dara dan biku
+Mari tuan marilah encik
+Mari putih kekanda pangku
 ===
 Orang Aceh bermain layang
 Kalo layang mana ekornya
@@ -35320,6 +35277,9 @@ Antara kasih dengan budi
 Budi juga dikenang orang
 ===
 Orang Aceh pulang ke Aceh
+Sampan berlabuh di waktu pagi
+Hati yang kasih bertambah kasih
+Kasih yang tidak berbelah bagi
 ===
 Orang Aceh pulang ke Aceh
 Ikan kurau kata senangin
@@ -35367,6 +35327,9 @@ Tuan kasih bertambah sayang
 Kalo sayang apa buktinya
 ===
 Orang Acheh bersampan payang
+Singgah berhenti di Gunung Jerai
+Berapa kasih kata tak sayang
+Cari jalan hendak bercerai
 ===
 Orang Acheh membajak tanah
 Hendak menanam kacang dan peria
@@ -35404,10 +35367,19 @@ Jikalau dapat kasay setuju
 Sabagi paku lekat di-papan
 ===
 Orang Acheh pulang ke Acheh
+Ikan kurau kata senangin
+Bukan mudah bercerai kasih
+Laksana wau menanti angin
 ===
 Orang Acheh pulang ke Acheh
+Mengail kurau dapat senangin
+Bukan mudah kita berkasih
+Laksana wau melawan angin
 ===
 Orang Acheh pulang ke Acheh
+Nisan lebah dalam perahu
+Tidur sebantal bilang kasih
+Hati berubah siapa tahu?
 ===
 Orang Ambon datang Jakarta
 Heran heran lihat jembatan
@@ -35415,6 +35387,9 @@ Kemajuan harus dipandang
 Akarnya juga dari impian
 ===
 Orang Ambon memetik pala
+Orang melayu menanag kacang
+Melihat adik pakai kebaya
+Iman di dada rasa berguncang
 ===
 Orang anjong layang layang
 Anjong sampay paytak siray
@@ -35512,28 +35487,19 @@ Ikan kering selalu ketawa
 Sebab semut memikul gunong
 ===
 Orang Awa pergi ke kota
+Singgah berhenti di tepi jalan
+Sungguh tuan bawa senjata
+Berkilat sahaja haram tak makan
 ===
 Orang Awa pergi ke Tanjung
-===
-Orang Bagdad bawa teraju
-===
-Orang Baghdad bawa teraju
-Orang Mekah membawa telur
-Telur dimakan bulan puasa
-Rumah gadang berisi batu
-
-Jika adapt bersendi alur
-Alur itu kan ganti raja
-===
-Orang Baghdad bawa teraju
-Orang Mekah membawa telur
-Telur dimakan bulan puasa
-Rumah gadang berisi batu
-
-Jika adat bersendi alur
-Alur itu kan ganti raja
+Singgah beli beras Pegu
+Tuan laksana cempedak mambung
+Pulur saja jual tak laku
 ===
 Orang Bajau singgah di jeti
+Membeli papaya bersama ubi
+Terasa risau di dalam hati
+Manusia terpedaya oleh TV (Kumpulan Pantun Sabah)
 ===
 Orang bali berjemur padi
 Tempatlah jemur tangkai bidara
@@ -35551,6 +35517,9 @@ Ayah kandung pulanglah lekas
 Anakanda rindu bukan kepalang
 ===
 Orang Bandung memintal kapas
+Anak Cina berkancing tulang
+Ayah kandung pulanglah lekas
+Anakanda rindu bukan kepalang
 ===
 Orang Bandung memintal kapas
 Anak Cina berkancing tulang
@@ -35563,6 +35532,9 @@ Tercium wangi bunga rampai
 Semarak lagi pengantin baru
 ===
 Orang bangka jual martabak
+Layang-layang jadi berjambul
+Barulah senang ibu dan bapak
+Lihat anak berijab kabul
 ===
 Orang bangsawan ka-rumah khenduri
 Pergi berkuda amat-lah hebat
@@ -35570,8 +35542,14 @@ Sejak tuan dua beristeri
 Ka-rumah yang muda kerap sangat!
 ===
 Orang Bantan membuat sawah
+Dipagar dengan pandan berduri
+Tuan kapitan sangat bertuah
+Seekor pelanduk menyerahkan diri
 ===
 Orang Bantan pergi sembahyang
+Sembahyang tentang pohon jati
+Mas dan intan tidak kusayang
+Sayangkan hanya si jantung hati
 ===
 Orang barat orang Mangkaboh
 Pasang luka di Tanjong jati
@@ -35604,6 +35582,9 @@ Baru berjumpa wajah adinda
 Merosak hati meroboh iman
 ===
 Orang Batak bermain pedang
+Burung terkukur terbang ke kebun
+Saya umpama katak di padang
+Penat berketor hujan tak turun
 ===
 Orang batak bermain pedang
 Pedang berasal turun temurun
@@ -35626,6 +35607,9 @@ Ninggalkan sembahyang amat berani
 Seperti badan tiada kan mati
 ===
 Orang Bayang pergi mengaji
+Ke Cubadak jalan ke Panti
+Meninggalkan sembahyang jadi berani
+Seperti badan tak akan mati
 ===
 Orang bebal suka merengus
 Apa dicakap tidak berfaedah
@@ -35683,12 +35667,24 @@ Tidaklah kanda berdua cinta
 Durjanya tuan di hati tertulis
 ===
 Orang Belanda makan pesta
+Meja teratur tengah majlis
+Tidaklah 'kanda berdua cinta
+Durja tuan di hati tertulis
 ===
 Orang belanda meminum anggor
+Payong jepon diromah nyonya
+Sebab tuan biasa menegor
+Sematang sudah ada yang punya
 ===
 Orang Belanda meminum anggur
+Payung Jepang di rumah nyonya
+Sudah adinda biasa menegur
+Sementang sudah ada yang punya
 ===
 Orang belayar balik-berbalik
+Lalu berlabuh tempat yang tenang
+Abang yang pergi hati tak baik
+Adik yang tinggal hati tak senang
 ===
 Orang belayar balik-berbalik
 Lalu berlabuh tempat yang tenang
@@ -35700,27 +35696,10 @@ Patah kemudi sepanjang pantai
 Tuan Iaksana cindai yang halus 
 Alah membeli menang dipakai
 ===
-Orang belayar dalam perahu
-Haluan menuju ke Batu Bara
-Sarat bermuat kain kapas
-Kapas dibawa dari barat
-
-Kasih tuan hamba 'lah tahu
-Bagai orang menggenggam bara
-Rasa hangat tidak dilepas
-Begitu benar kias ibarat
-===
-Orang belayar dalam perahu
-Haluan menuju ke Batu Bara
-Sarat bermuat kain kapas
-Kapas dibawa dari Barat
-
-Kasih tuan hambalah tahu
-Bagai orang menggenggam bara
-Rasa hangat hendak dilepas
-Begitu benar kias ibarat
-===
 Orang belayar dengan layar
+Orang berjudi dirembat karat
+Hutang emas boleh dibayar
+Hutang budi sampai akhirat
 ===
 Orang belayar di Lautan Ambon
 Patah tiang timpa kemudi
@@ -35728,6 +35707,9 @@ Putus benang boleh disambung
 Patah arang sudah sekali
 ===
 Orang belayar ke Langkawi
+Tinggi petak pada kurung
+Kalau lama tuan pergi
+Buah masak dimakan burung
 ===
 Orang belayar ke Langkawi
 Tinggi petak pada kurung
@@ -35745,6 +35727,9 @@ Sunggu pechaya pada yang baik
 Tuan sorang di dalam hati
 ===
 Orang belayar laut dadu
+Patah dayung ganti kemudi
+Masuk abang tidur beradu
+Tikar kerawang bantal bersuji
 ===
 Orang belayar lautan Ambon
 Patah tiang dengan kemudi
@@ -35752,18 +35737,14 @@ Putus benang boleh di-sambong
 Patah arang sudah sa-kali
 ===
 Orang belayar lautan ambung
+Patah tiang timpa kemudi
+Putus benang boleh di sambung
+Patah arang sudah sekali
 ===
 Orang belayar lautan ambung
 Patah tiang timpa kemudi
 Putus benang boleh disambung
 Patah arang sudah sekali
-
-
-Men sail on a surging ocean
-The mast falls broken on the helm
-A snapped thread may be rejoined
-
-Broken charcoal never
 ===
 Orang belayar tanah Selangor
 Kepada apa hari Selasa
@@ -35771,6 +35752,9 @@ Mengadap makan batil yang makmur
 Antara belum rosak binasa
 ===
 Orang belian Tanjung Beliku
+Menebar jala sepanjang pantai
+Janji tuan tidak begitu
+Kembang mala sama dipakai
 ===
 Orang belian Tanjung Beliku
 Menebar jala sepanjang pantai
@@ -35808,6 +35792,9 @@ Tuan nasib sangat bertuah
 Pelanduk datang menyerah diri
 ===
 Orang Bentan pergi ke Lingga
+Singgah beli ubi kemili
+Tuan intan lagi guliga
+Susah di banding payah di cari
 ===
 Orang ber damak dengan sumpit-tan
 Pulang di ruma buat kanduri
@@ -36005,6 +35992,9 @@ Bercintakan buah tangisan burung
 Seumur hidup bilakan dapat
 ===
 Orang berbangsi di rumah buruk
+Anak tiung melompat-lompat
+Cintakan buah tangisan beruk
+Seumur hidup bilakan dapat
 ===
 Orang berbasikal berlumba-lumba
 Akan menuju padang kiduman
@@ -36037,6 +36027,9 @@ Sebab jejaka berambut tempurung
 Kerana perempuan menjunjung raga
 ===
 Orang berbuai laju-laju
+Hendak sampai ke seberang
+Buangkan saya tertentu-tentu
+Bagai mayang dengan seludang
 ===
 Orang berbuai laju-laju
 Hendak sampai ke seberang
@@ -36053,15 +36046,15 @@ Hinggap tekukur di atas dahan
 Orang memberi kita merasa
 Ucapkan syukur kepada tuhan
 ===
-Orang berbudi kita berbahasa
-Orang memberi kita merasa.
-===
 Orang berburu di Hutan Perca
 dapat rusa berbelang putih
 Orang memberi kita merasa
 Ucapan budi terima kasih
 ===
 Orang berburu di hutan Serting
+Mati rusa di Kampung Jawa
+Laksana duri di dalam daging
+Bila tersentuh terasa jua
 ===
 Orang berburu di hutan Serting
 Rusa mati di Kampung Jawa
@@ -36069,6 +36062,9 @@ Laksana duri di dalam daging
 Bila tersentuh terasa jua
 ===
 Orang berburu ke Tanjung Hitam
+Dapat pelanduk besar kambing
+Adik putih berbaju hitam
+Bagai tanduk bersendi gading
 ===
 Orang berchakap dengan adek nya
 Dengar kan bunyi ayam berkokok
@@ -36091,10 +36087,19 @@ Alang kah alus mata kikir
 Disitu lah terkilap terkena juga 
 ===
 Orang berdagang tengah pekan
+Ke pekan orang sungai tenang
+Ada satu saya pohonkan
+Sutera jangan dicampur benang
 ===
 Orang berdagang tengah pekan
+Buah kuini banyak bersepah
+Sutera jangan dicampur benang
+Hendaklah juga kanda bersumpah
 ===
 Orang berdagang tengah pekan
+Berdagang mangga dengan nenas
+Ada satu saya pintakan
+Loyang jangan dicampur emas
 ===
 Orang berdayoeng dalam peraoe
 Boenga soelasie di atas gere'
@@ -36157,6 +36162,9 @@ Mintak-kan doa mudah-mudahhan
 Boleh jeriki datang selalu
 ===
 Orang bergalah di air Bindu
+Ikan piat di dalam lukah
+Kalau jangok semacam itu
+Saya lihat hendak muntah
 ===
 Orang bergendang di pintu kota
 Memuja adat paduka baginda
@@ -36184,6 +36192,9 @@ Orang pemalu langkahnya singkat
 Mencari ilmu meraba-raba
 ===
 Orang berhenti tepi surau
+Lihat padi campur jerami
+Tujuh tahun musim kemarau
+Barulah sedar rumput di bumi
 ===
 Orang berhinai berhitam kuku
 Mandi di-jirus ayer mawar
@@ -36241,6 +36252,9 @@ Mantapkan hati apapun hal
 Sehinga tenang seluruh jiwa
 ===
 Orang berinai berhitam kuku
+Mandi di jurus air mawar
+Tuan seorang biji mataku
+Racun diminum jadi penawar
 ===
 Orang berinai berhitam kuku
 Mandi dijirus air penawar
@@ -36333,6 +36347,9 @@ Jiakalu piara burong merpati
 Lepas-kan pergi dia pulang-petang
 ===
 Orang berjalan k'dalam kota
+Membli minyak bunga antalas
+Siang malam terkata-kata
+Budi-nya orang blom ter-balas
 ===
 Orang berjalan ke Bandar Sari
 Tengok kerbau mati ter tambat
@@ -36355,6 +36372,9 @@ Apalah sudah nasibku ini
 Habis bulan berganti tahun
 ===
 Orang berjalan lompak gagak
+Tahu langkah terangkat-rangkat
+Berjumpa bisu dengan pekak
+Tak dengar tak herti hati rosak
 ===
 Orang berjalan lompat gagak
 Tahu melangkah terangkak-rangkak
@@ -36412,6 +36432,9 @@ Apa dosa kekanda sa-orang
 Menanggong budi sa-umor hidop
 ===
 Orang berjamu di anjung selera
+Sambil berjamu melihat laut
+Sekali bertemu hilanglah lara
+Banyak bertemu sudah melalut
 ===
 Orang berjamu meja beralas
 Tamu istimewa jiran sebelah
@@ -36514,10 +36537,19 @@ Kepada Allah dipohon restu
 Agar semua dapat rahmat
 ===
 Orang berkelah di Tanjung Aru
+Pantai landai berbatu karang
+Jangan berhelah membuatku rindu
+Memandai-mandai di depan orang
 ===
-Orang berkelah diTanjung Aru
+Orang berkelah di Tanjung Aru
+Tampak merah airnya surut
+Sudahlah kalah dan haru biru
+Diperintah dikerah jadi pak turut
 ===
 Orang berkelah singgah di Gadong
+Singgah juga ke Pekan Papar
+Hanya Allah tempat berlindung
+Dalam berusaha pasrah dan sabar
 ===
 Orang berkereta tuan bersampan
 Mudik ke hulu sebelum fajar
@@ -36530,6 +36562,9 @@ Jika kota seragam ini
 Kupandang matiku kutempat buang
 ===
 Orang ber-kota di kota Mandong
+Batang padi ter-gaga jugak
+Sunggu jaoh masa ter-lindong
+Dalam hati tringat jugak
 ===
 Orang berkota dijalan Patani
 Kerundang lada aku tempat buang
@@ -36552,6 +36587,9 @@ Tuntot elmu banyak banyak
 Buat mendinding api neraka
 ===
 Orang berkubu batang cenderai
+Atur susun berculang-caling
+Pecah batu di sepak murai
+Ditendang gajah mati terbongkeng
 ===
 Orang berkubu batang cenderai
 Atur susun berculang-caling
@@ -36564,6 +36602,9 @@ Orang muda apa bicara
 Permainan Tuan sudah kudapat
 ===
 Orang berkuda ke Bernang
+Dipacunya ke Semantan
+Hidupkan kera dan siamang
+Akan pemanjat manggis di hutan
 ===
 Orang berkumpul berdesakan
 Berlomba naik kapal penyembrangan
@@ -36626,6 +36667,9 @@ Abang seperti buah yang busuk
 Manakan ada orang menjamah
 ===
 Orang berlayar bertali kelat
+Beserta dengan tali bahu
+Luka di tangan dapat di lihat
+Luka di hati siapa tahu?
 ===
 Orang berlayar bertali kelat
 Berserta dengan tali bahu
@@ -36658,6 +36702,9 @@ Saya menchari kain songket
 Songket di tenun tepinya chinday
 ===
 Orang bermain di Lubuk Bulang
+Apa umpannya kulit duku
+Bermain dengan kekasih orang
+Nyawa bergantung di ujung kuku
 ===
 Orang berniat di tanjong bruas 
 Nasik kunyit ber-ayam panggang 
@@ -36675,6 +36722,9 @@ Sunggu reba pokok di tebang
 Akar nya mejulang di dalam nya
 ===
 Orang berpadi di tanah liat
+Di Mekah banyak buah pedada
+Mayat tiada dapat dilihat
+Seperti merekah rasanya dada
 ===
 Orang berpadi di tanah liat
 Di Mekah banyak buah pedada
@@ -36732,6 +36782,9 @@ Ramai meminta sedikit memberi
 Anak yatim tertunggu-tunggu
 ===
 Orang berpindah di hujung kota
+Ke Pulau Gaya kampung seberang
+Puas sudah mengumpul harta
+Nilai budaya dipandang orang (Kumpulan Pantun Sabah)
 ===
 Orang berprang di tengah padang
 Ada berkris ada bertombak
@@ -36889,6 +36942,9 @@ orang budiman hidupnya ingat
 ingatkan hidup masa kan datang
 ===
 Orang Bisaya ke Pulau Daat
+Ke Pulau Gaya kampung seberang
+Puas sudah mengumpul harta
+Nilai budaya dipandang orang (Kumpulan Pantun Sabah)
 ===
 Orang bladang tanam padi 
 Tanam selasay di jumbagkan
@@ -36921,17 +36977,29 @@ Putus benang dapat di sambong
 Patah arang putus sekali.
 ===
 Orang blayer di pantay panjang
+Pungut sengkaran di pasir putay
+Mintak Tuan umor biar panjang
+S'barang niat bolay sampay
 ===
 Orang blayer di pantay panjang
+Pungot sengkaran di pasir putay
+Mintak Tuan umor biar panjang
+S'barang niat bolay sampay
 ===
 Orang blayer kabatu bara
+Tiop angin timba ruang
+Tingal adek tinggal saudara
+Saya di jingit layer bangkuang
 ===
 Orang Bogor pergi ke Serang
+Meminum telur dengan jamu
+Di dalam hati adik seorang
+Kapankah kita dapat bertemu
 ===
 Orang Boyan dudok menyangkol
 Nampak dari utan darat
 Bras sa-koyan bolay di pikol
-Budi sedikit rasa nya brat.
+Budi sedikit rasa nya brat
 ===
 Orang Boyan dudok menyangkol
 Nampak dari utan darat
@@ -36954,6 +37022,9 @@ Beras sekoyan boleh dipikul
 Budi sedikit terlalu berat
 ===
 Orang brinie buritam kuku
+Mandi munjurus ayer mawar
+Tuan sorang biji mata ku
+Rachoon di minom jadi punawar
 ===
 Orang bruas bersampan kotak
 Menjual kabat berguni-guni
@@ -37036,6 +37107,9 @@ Gelisah memanjang hatinya sunyi
 Sunyi ditinggal hidup bermadu
 ===
 Orang bukit memetik lada
+Tanam pisang tegayur lentur
+Berasa menitik air mata
+Dalam perut bagai di layur
 ===
 Orang bukit pergi menjupet
 Dapat sekor burong terkukor
@@ -37043,12 +37117,24 @@ Chantek sekali bintang terbit
 Sebagi songkit kuntum bertabor
 ===
 Orang bukota di hutan mundong
+Batang padi tajaga juga
+Sungguh jahu mata tulindong
+Dalam hati turingat juga
 ===
 Orang bulayar laut jalubu
+Putus tali sampan tunda nya
+Niat hati handak butamu
+Adek di kawal aya bonda nya
 ===
 Orang bulayer sulatan daya
+Tinggi paytak deri ruang
+Apa di harap kapada saya
+Mas tidak budi pun kurang
 ===
 Orang Bungus berbaju rantai
+Singgah di Rejang Bangkahulu
+Patut benar badan merasai
+Banyak mata bagai mengkudu
 ===
 Orang Burger bersorak-sorak
 Sekarang kamilah akan pulang
@@ -37126,6 +37212,9 @@ Baik baik kita berbudi
 Jangan sampai di buang orang 
 ===
 Orang China menjual kladi
+Kladi datang dari Semarang
+Baik baik membawak hati
+Jangan s'paya di benchi orang
 ===
 Orang China menjual kunyit
 Bawak menjual di dalam pasar
@@ -37143,6 +37232,9 @@ Lautan yang dalam dapat diukor
 Hati manusia tidak yang tahu
 ===
 Orang Cina berjual kayu
+Orang Keling berjual kain
+Bagaimana bunga tak layu?
+Embun menitik ke tempat lain
 ===
 Orang Cina berjual kayu
 Orang Keling berjual kain
@@ -37150,6 +37242,9 @@ Bagaimana bunga tak layu
 Embun menitik ke tempat lain
 ===
 Orang Cina bermain wayang
+Atas panggung cerita perang
+Kalau dikira saya tak sayang
+Saya berani sumpah sekarang
 ===
 Orang Cina bermain wayang
 Atas panggung cerita perang
@@ -37172,6 +37267,9 @@ Apa kena bungaku layu
 Bunga ditunggu salah ditanam
 ===
 Orang cina membeli kain
+Kain dibeli dari Persi
+Kalau dinda cari yang lain
+Hamba siap membunuh diri
 ===
 Orang cina menghisap madat
 Madat ditaruh di dalam cembul
@@ -37184,8 +37282,14 @@ Hidup manusia dikandung adat
 Adat rumah dilingkung bendul
 ===
 Orang Cina mengisap madat
+Di tegalan tanam selasih
+Tidak berani melanggar adat
+Kalau hanya untuk berkasih
 ===
 Orang Cina mengisap madat
+Madat diisap dengan pipa
+Tidak berani melawan adat
+Adat serta agamanya
 ===
 Orang Cina menjual daging
 Daging dijual berpikul-pikul
@@ -37357,7 +37461,10 @@ Dapat udang dipanggang saja
 Orang baik hatinya mulia
 Diingat orang sepanjang masa
 ===
-Orang Daik pulang  ke Daik
+Orang Daik pulang ke Daik
+Anak angsa terenang-renang
+Buat baik tak boleh baik
+Saya bangsa tidak mengenang
 ===
 Orang Daik pulang ka Daik
 Puchok paoh bunga di pekan
@@ -37400,8 +37507,14 @@ Jikalau buat hati baik
 Barangkali boleh berjumpa senang
 ===
 Orang daik purgi kapanchor
+Buat bukal bras katupat
+Budih baik jangan di tabor
+Buat rosak jalan mak-ripat
 ===
 Orang dapur membasuh kuali
+Perahu papan membuat tamu
+Bangun tidur ingat kembali
+Masa pabila maka bertemu
 ===
 Orang dapur membasuh kuali
 Perahu panjang memuat tamu
@@ -37479,6 +37592,9 @@ Pak'akal saja malu dikenang
 Sia tuan melihat rupa
 ===
 Orang dengu tak dapat dibuat
+Ajar yang baik menjadi jahat
+Perahu tembus lupa kelpat
+Air masuk baru gelurat
 ===
 Orang desa menanam tebu
 Tebu ditanam di tepi sawah
@@ -37566,6 +37682,9 @@ Mak Inang Kayangan namanya lagu
 Buat hiburan hati yang sunyi
 ===
 Orang di sawah menyabit padi
+Padi di sawah dimakan unggas
+Sungguh berat berhutang budi
+Hingga mati tidak 'kan lunas
 ===
 Orang di Tanjong tanam delima
 Dia berbuah jarang jarang
@@ -37618,27 +37737,14 @@ Sudah terhantar di liang lahat
 Imam khatib kembali pulang
 ===
 Orang dusun menjual jagung
+Gunung Mas di jalan depan
+Walau tersusun intan bergunung
+Belumlah lemas jiwaku simpan (Kumpulan Pantun Sabah)
 ===
 Orang dusun mudik ke tanjung
 Menjual atap tepi sekolah
 Acara tersusun sampai ke hujung
 Majlis bersantap sudi-sudikanlah
-===
-Orang dusun turun ke sawah
-Karung diisi penuh sarat
-Limau kedangsa bawa ke desa
-Hina pohon tidak berbuah
-
-Hina besi kerana karat
-Hina bangsa abaikan bahasa
-===
-Orang dusun turun ke sawah
-Membawa karung isinya sarat
-Dijinjing mari bawa ke desa
-Hina pohon tidak berbuah
-
-Hina besi kerana karat
-Hina bangsa abaikan bahasa
 ===
 Orang Dyak main sumpetan
 Sumpet mari di tengga hari
@@ -37651,6 +37757,9 @@ Apa difikir di dalam hati
 Asalkan hilang rasa terkilan
 ===
 Orang Gadut main pedati
+Bunga melati tumbuh di karang
+Dari hidup baiklah mati
+Tempat hati diambil orang
 ===
 Orang Gadut main pedati
 Bunga melati tumbuh di karang
@@ -37687,8 +37796,6 @@ Buah kurma berlambak-lambak
 Pekerjaan guru bukanlah mudah   
 Bagai kerja menolak ombak
 ===
-Orang haji dari Jeddah
-===
 Orang haji dari Judah
 Buah kurma berlambak-lambak
 Pekerjaan guru bukanlah mudah
@@ -37700,15 +37807,9 @@ Kalu yakin-kan barang suatu
 Kuasa Allah krap berjumpa
 ===
 Orang haji memasang lukah
-===
-Orang haji memasang lukah
 Pasang di beting ikan tak kena
 Sungguh kecil cili Melaka
 Pedihnya sampai cuping telinga
-
-
-The haji sets his fish trap
-Set on the sandbank
 ===
 Orang haji pulang ke haji
 Tangkal Sulaiman di kepalanya
@@ -37766,6 +37867,9 @@ Kawan lama menjadi nostalgia
 Beramah mesra ketika bertemu
 ===
 Orang hutan bergenditkan akar
+Berkampungkan dalong bertiraukan banir
+Jikalau segan mengorak lengkar
+Tepung di bancuh menjadi hanyir
 ===
 Orang Iban behari besar 
 Rakyat mereka bersuka hati 
@@ -37808,6 +37912,9 @@ Jika burung terbangku pulang
 Kerana bercerai sudahlah lama
 ===
 Orang jala kepala kuala
+Dapat seekor ikan pelata
+Tuan seorang buntat gemala
+Kekanda 'nak buat cermin mata
 ===
 Orang jalan beradek lima
 Mati satu tinggal ampat
@@ -37820,6 +37927,9 @@ Norma seorang di pandang manis
 Ibarat gambar baru di tulis
 ===
 Orang Jambi ke Seberang
+Menjual lada dengan cuka
+Lautan api lagi ku renang
+Kononlah pula selat Melaka
 ===
 Orang jatuh di timba ruang
 Timpa dengan batang buluh
@@ -38115,16 +38225,6 @@ Orang ke tasik awak ke teluk
 Nak mencari bunga angsana
 Kurang tak baik lebih tak elok
 Yang bagus ialah sederhana
-===
-Orang Kedah bertopi jerami
-Senjata di tangan lembing berbesi
-Jalan berapat untuk berburu
-Singgah berangin menelan majun
-
-Selesai sudah pantun kami
-Hasil sumbangan dari MAYC
-Yang dibuat secara terburu
-Petang kelmarin berbidan terjun
 ===
 Orang Kedah membawa padi
 Padi mahsuri belum berubah
@@ -41703,6 +41803,9 @@ Mata berkabut jiwa terkurung
 Lautan duka tidak terselam
 ===
 Pagi hari angin beralay
+Di tiop padam api plita
+Jangan s'lalu mengaku bolay
+Ada kali tak turot kata
 ===
 Pagi hari awam berlari
 Lari sampay tanah seberang
@@ -41730,6 +41833,9 @@ Kalu panday berbungah tajok
 Bahru di puji si bidadari
 ===
 Pagi hari bala betiki
+Pekayan bebunoh sikap dibai
+Bisi tinggal dudi di ai
+Nurun sampai ka perau diri
 ===
 Pagi hari berkereta besar
 Hendak ka-taman bunga kemuning
@@ -41892,6 +41998,9 @@ Patah kaki jalan bertongkat
 Habis kayu tangga dibelah!
 ===
 Pagi hari Raja bekejang
+Tampong Tuan Residin Simanggang
+Pemaioh perau baka ke dikalang
+Sendat ai enda belapang (Pantun Sarawak)
 ===
 Pagi hari tanam selasih
 Pergi ke teluk menarah papan
@@ -41909,19 +42018,14 @@ Majlis berseri indah sekali
 Terima ksih tidak terhingga
 ===
 Pagi hari turun mencangkul
+Mencangkul sawah dekat perigi
+Sispkan hamba di dalam sanggul
+Agar terbawa kemana pergi
 ===
 Pagi membilang raga
 Petang raga dijaja
 Air penghilang dahaga
 Taubat menghapus dosa
-===
-Pagi membuat takir
-Sore nakir
-Takir dibuat dari daun plasa
-Pagi berpikir
-
-Sore berpikir
-Yang dipikir tidak merasa
 ===
 Pagi memetik buah nanas
 Petangnya pergi berjaja
@@ -41938,28 +42042,20 @@ Cerah petang mengail ikan
 Berkecai tulang dari daging
 Kau kusayang kau kunantikan
 ===
-Pagi nyaman turun bermandi
-Sambil menjala sungai di desa
-Juga meremis di batu batan
-Andai berteman sma berbudi
-
-Penerima pula elok berbahasa
-Alangkah manis erti persahabatan
-===
 Pagi pagi awan berlari
 Bintang sebijik membla bukit
 Kalu dapat gambar di hati
 Dunia di pandang tingal sedikit
 ===
 Pagi pagi awan bulari
+Bintang sabiji dapat mambula bukit
+Kalau dapat gambar di hati
+Dunia di pandang tinggal sudikit
 ===
 Pagi pagi berjalan kaki
 Sekali waktu bawa berenang
-Tandanya iri
-===
-Pagi pagi berjalan kaki
-Sekali waktu bawa berenang
-Tandanya iri
+Tandanya iri hasad dan dengki
+Tak suka melihat orang yang senang
 ===
 Pagi pagi Chek Soleh mati
 Petang petang balek kehulu
@@ -41977,8 +42073,14 @@ Kalau adik orangnya jujur
 Berapa harga dolar dalam rupiah
 ===
 Pagi pagi masak kanji
+Makan dhulu melapekkan perut
+Chakap-an kosong tiada berisi
+Menjadi dusta berchampor karut
 ===
 Pagi pagi masak kanji
+Makan dulu melapek kan prot
+Chakapan kosong takda berisi
+Menjadi dusta ber-champor karot
 ===
 Pagi pagi memasak bubur
 Takut masam ditambah gula
@@ -42035,15 +42137,6 @@ Cempaka biru di dalam puan
 Pagi petang duduk termenung
 Hati rindu kepada tuan
 ===
-Pagi petang siang malam
-Hati terang senang faham
-===
-Pagi petang siang malam
-Hati terang senang faham
-===
-Pagi petang siang malam
-Hati terang senang faham
-===
 Pagi raya makan ketupat
 Ketupat nasi dikerat-kerat 
 Kita bertanding mencuba bakat
@@ -42060,6 +42153,9 @@ Paginya senang petang sengsara
 Salah ramalan saham terjebak
 ===
 Pagi-pagi awan berlari
+Bintang sebiji membelah bukit
+Kalau dapat gambar di hati
+Dunia dipandang tinggal sedikit
 ===
 Pagi-pagi awan berlari
 Bintang sa-biji membelah bukit
@@ -42102,6 +42198,9 @@ Banyak penchuri perkara penchuri
 Penchuri hati tidak di-hukum
 ===
 Pagi-pagi ke Pusat Mengasih
+Tempay budak dijaga orang
+Kemana lagi ku tumpahkan kasih
+Jika tidak tuan seorang (Kumpulan Pantun Sabah)
 ===
 Pagi-pagi ke tepi pantai
 Pandang ke laot tengak cuaca
@@ -42174,6 +42273,9 @@ Kanda pergi jangan-lah badan
 Adek ta' sanggup menanggong rindu!
 ===
 Pagi-pagi menuai padi
+Untuk mengelak panas mentari
+Tuan di sana saya di sini
+Sebagai penghibur pengganti diri
 ===
 Pagi-pagi menyiang gelama
 Gelama ada di-dalam lokah
@@ -42186,6 +42288,9 @@ Hati sendiri juga yang sakit
 Pikiran yang baik menjadi hilang
 ===
 Pagi-pagi parang diasah
+Takah gambang sekali uji
+Jangan tuan berhati susah
+Ada temuan mesti jadi
 ===
 Pagi-pagi pergi ke ladang
 Hendak menyemai benih padi
@@ -42245,7 +42350,7 @@ Paham mati mangunyah bangkai
 Paham arih banyak balawan
 Paham mati mangunyah bangkai
 Tungku nan tigo sajarangan
-Iyolah cadiak
+Iyolah cadiak tahu pandai
 ===
 Paham caia parangai gaduak
 Namonyo anak mudo tangguang
@@ -42282,7 +42387,10 @@ Melepas impian serta khayalan
 Dulu status jejaka dan dara
 Kini berdua memadu ikatan
 ===
-Pahar
+Pahar cerek sudah teratur
+Cawan mangkuk sudah terhidang
+Penganan mulia sudah terletak
+Samalah duduk kita makan
 ===
 Pahat bukan sebanrang pahat
 Pahat datang dari Deli
@@ -42300,6 +42408,9 @@ Patah kaki boleh dibebat
 Patah hati lara terbuang
 ===
 Pahit jangan cepat diludahkan
+Manis jangan ditambah lagi
+Meski jauh abang berjalan
+Karena kasih abang kembali
 ===
 Pahit pahit daun jambu
 Lebih pahit daun randu
@@ -42317,61 +42428,29 @@ Kalau banjir melanda negeri
 Apa akal apalah bicara?
 ===
 Pahlawan muda menikam lembu
+Ditikam dengan keris sepukal
+Dalam akhirat kita bertemu
+Di situ negeri tempat yang kekal
 ===
 Pahlawan sebaya tadah perisai
 Memanjat kota berhati syukur
 Pilihan raya sudah selesai
 Rakyat jelata mesti akur
 ===
-Pai bapikek anak balam
-Sehari bulan rajangnya kuda
-Bapikek sampai ka talago
-Kuda kuning pelana kain
-Dapeklah anak katitiran Jambi
-Selama bertaulan dengan adinda
-Ambo tasintak tangah malam
-
-Kakanda tidak mencari lain
-
-Bak raso jo adiak juo
-Dipaluak banta ditangisi
-===
-Pai ka ladang mambawok tabak
-Tanah dipangkua tanami ubi
-Ubi ditanam duo-duo
-Samo gadang lawan jo galak
-
-Galak dek tando suko hati
-Galak pagalutan itu namonyo
-===
 Pai ka Solok babilalang
 Tibo di Solok ilia mudiak
 Tangan nan suok takapalang
 Tangan nan kida panyalisiak
-
-
+===
 Pergi ke Solok menangkap belalang
 Tiba di Solok hilir mudik
 Tangan kanan terkepalang
-
 Tangan kiri menyelisik
 ===
 Pai mandi ka Banda Gadang
 Batimbo carano kanso
 Jangan baguluik bagolosang
 Bagolak golai naknyo lamo
-
-
-Pergi mandi ke Banda Gadang
-Bertimba cerana kangsa
-Jangan bergelut tergesa-gesa
-
-Bermain-main dulu agar lama
-===
-Paiesa toela moe aoe da doelakoe
-Paiesa ambalie moe aoe da ambalieka
-Haonda la handa
-Weentjoe deie lamontja
 ===
 Pais pelata buat hidangan
 Bersayur kundur berulam peria
@@ -42396,7 +42475,7 @@ Bangun pagi pakat tengok
 Pak Abu membina titi
 Dibina atas tanah Mawardi
 Ayah dan ibu si jantung hati
-Kasihnya mulia
+Kasihnya mulia kekal abadi
 ===
 Pak cakok genggam gamit
 Pak sawal hamba raja
@@ -42489,9 +42568,14 @@ Kerap dok mencuri
 Ketua kampong tangkap
 ===
 Pakai anak Raja Melayu
+Terbang kumbang meniti udara
+Bencana banyak si daun kayu
+Hati bimbang tidak terkira
 ===
 Pakai apron pergi ke dapur
-Masak santank
+Masak santank lauk dan kangkung
+Angkat pedang boleh bertempur
+Musyawarah kembali rukun
 ===
 Pakai baju benang suasa
 Baju baru benang sutra
@@ -42544,10 +42628,19 @@ Baik lucu atau tak lucu
 Ada ibarat diteladani
 ===
 Pakai kain compang-camping
+Berlembat nampak untang-anting
+Teritip sudah menjadi beting
+Buntal kembung mati terkering
 ===
 Pakai kain di pulun-pulun
+Kalau singkat tampak betis
+Sedikit kerja banyak berantun
+Laksana budak baru bertatih
 ===
 Pakai kain jangan pencong
+Atur susun sebelah serong
+Sudah terkena mabuk kecubong
+Naik berpenar mata mambong
 ===
 Pakai kebaya anak perawan
 Pagi-pagi hidang juadah
@@ -42654,14 +42747,15 @@ Dipakai pergi berlumba perahu
 Bagaikan putus hati kakanda
 Melainkan Allah juga yang tahu
 ===
-Pakaian anak raja Belanda
-===
 Pakaian anak raja Melayu 
 Terbang kumbang dari udara 
 Bencana banyak mendaun kayu 
 Hati bimbang tidak terkira
 ===
 Pakaian anak raja Melayu
+Terbang kumbang dari udara
+Bencana banyak mendaun kayu
+Hati bimbang tidak terkira
 ===
 Pakaian anak raja Melayu
 Terbang kumbang dari udara
@@ -42674,6 +42768,9 @@ Bencana banyak di daun kayu
 Hati bimbang tidak terkira
 ===
 Pakaian anak Raja Yaman
+Buah kerining dalam guni
+Merosak hati merebahkan iman
+Tengoklah abang selaku ini
 ===
 Pakaian anak ratu di Bali
 Namanya Raden Jaya Perbata
@@ -42736,6 +42833,9 @@ Sipat parampuan lambuik jo lunak
 Kalau dubalang gagah tanamo
 ===
 Pakaikan kain baju kebaya
+Baik sangkutkan di atas pintu
+Ibarat buaya dalam muara
+Hendak diikut belumlah tentu
 ===
 Pakaikan kain baju kebaya
 Baik kusangkutkan di atas pintu
@@ -42782,8 +42882,10 @@ Pagi hari menanam padi
 Budi tidak minta balas
 Asa ingat di dalam hati
 ===
-Pakay baju menukar seluar 
+Pakay baju menukar seluar
 Pagi hari menanam padi
+Sahya sempama orang di luar
+Bahru sa-kali menabor budi
 ===
 Pakay baju menukar sluar
 Pagi hari menanam padi
@@ -42830,20 +42932,15 @@ Daun budi di pantaih kapoq
 Rupa parauh saya tak bilang
 Baek budi hatinya hancoq
 ===
-Pak-pak budak
-Berasa dia muda
-Oghang benci tengok
-Dok kacau anak dara
-===
-Pak-pong kayu jati
-Di luar tepung di dalam inti
-===
 Pak-pong Pak Mustafa
 Encik Dolah di rumahnya
 Diadun tepung dengan kelapa
 Gula jawa di tengahnya
 ===
 Paksi sekawan dari Manila
+Galah ditetak akan landasan
+Meskipun tuan tidak rela
+Demi Allah tidak kulepaskan
 ===
 Paksi unggas di tengah huma 
 Bunga melati di dalam puan 
@@ -42851,6 +42948,9 @@ Serasa tuan bersama-sama
 Hendak mati di dalam pangkuan
 ===
 Paksi unggas di tengah huma
+Bunga melati dalam puan
+Serasa tuan bersama-sama
+Hendak mati dalam pangkuan
 ===
 Paksi unggas terbang merendah 
 Terbang lalu ke padang saujana 
@@ -42893,12 +42993,10 @@ Paku kawek denai pilinkan
 Babungo pandan baduri
 Sungguah surek denai kirimkan
 Kaganti nyawa badan diri
-
-
+===
 Paku kawat saya pilinkan
 Berbunga pandan berduri
 Sungguhpun surat saya kirimkan
-
 Sebagai ganti badan diri
 ===
 Paku pakis di celah perdu
@@ -53691,7 +53789,8 @@ Mata pelukis terkelip kecundang
 ===
 Pohon buah charang nya empat
 Lahi lahi bua nya lebat
-Bua di petek
+Bua di petek petek tak dapat
+Malu saya memandang sahabat (Koleksi Pantun Nyonya Lee Siok Tian Neo/nona pisang raja) (Pantun Nyonya Lee Siok Tian Neo/nona pisang raja) (Lee Siok Tian Neo & Tan Geok Koon) (Koleksi Pantun Nyonya Lee Siok Tian Neo)
 ===
 Pohon buluh di hujung laman
 Cabut serumpun dibuat para
@@ -53699,6 +53798,9 @@ Wang boleh membeli makanan
 Tapi tak mampu membeli selera
 ===
 Pohon candu pohon celaka
+Orang Cina mengisap madat
+Minangkabau tanah pusaka
+Hamba tak berani melawan adat
 ===
 Pohon cemara di atas gunung
 Angin silir antara daun
