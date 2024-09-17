@@ -29,14 +29,12 @@
 - lengar
 - rembia
 
-## Dragonflies
+### Dragonflies
 
 - Taken from https://x.com/climateaidil/status/1775093353648177488?s=20
 - More complete source: https://rosliomarphotography.com/odonata-checklist-of-peninsular-malaysia/
 
-### Malay names of dragonflies
-
-Index: 40
+#### Malay names of dragonflies
 
 - Gadis Desa / Malayan Grisette
 - Pepatung-jarum Sayaplebar / Broadwinged Damselflies
@@ -169,13 +167,13 @@ Index: 40
 - Ekorbelantan Cabang Perak / NA
 - Ekorbelantan Cabang Batang / Sticktail
 
-### Malay names of berries
+#### Malay names of berries
 
 - Kertau / Mulberry
 - Cermai / Gooseberry
 - Terung pipit / Turkey berry
 
-### English words/phrases
+#### English words/phrases
 
 - poem
 - poetry
@@ -185,15 +183,6 @@ Index: 40
 - croon/crooned
 - in vogue
 - bawdy
-
-#### From the English translations of pantuns in A.W. Hamilton's Malay Pantuns
-
-- rice
-- sparrow
-- foot
-- cheek
-- nutmeg
-- wonder
 
 ## Popular "bayang" that should be in the database
 
