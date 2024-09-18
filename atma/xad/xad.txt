@@ -40601,28 +40601,30 @@ Pabilo hari Jumaat
 Di situlah haji babaju jubah
 Pabilo hari kiamat
 Di situlah dandam baru sudah
-
-
+===
 Apabila hari Jumaat
 Di situlah haji berbaju jubah
 Apabila hari kiamat
-
 Di situlah dendam baru sudah
 ===
 Pacah balah batu di gunuang
 Sari Rama bajalan malam
-Aduhai Allah
+Aduhai Allah tidak tatangguang
+Rasokan tidak dikanduang alam
+===
+Pecah belah batu di gunung
+Seri Rama berjalan malam
+Aduhai Allah tidak tertanggung
+Serasa tidak dikandung alam
 ===
 Pacah cawan ditimpo cawan
 Pacah ditimpo buli-buli
 Arok kami pada tuan
 Sudah tuan siapo lai
-
-
+===
 Pacah cawan ditimpa cawan
 Pecah ditimpa buli-buli
 Harap kami padamu tuan
-
 Setelah tuan siapa lagi
 ===
 Pacah cawan ditimpo cawan
@@ -40634,13 +40636,6 @@ Pacah cawan ditimpo cawan
 Pacah ditimpo limau kapeh
 Patamukan awan samo awan
 Itu banamo bungo cangkeh
-
-
-Pecah cawan ditimpa cawan
-Pecah ditimpa limau kapas
-Pertemukan awan sama awan
-
-Itu bernama bunga cengkeh
 ===
 Pacah palito urang alim
 Pacah ditimpo sularonya
@@ -40650,24 +40645,20 @@ Pacah sikunar di Tiagan
 Si Yakub namo nakhodonyo
 Kok dikana untuang badan
 Disabuik apo ka gunonyo
-
-
+===
 Pecah sekunar di Tiagan
 Si Yakub nama nakhodanya
 Jika dikenang untung badan
-
 Disebut apalah gunanya
 ===
 Pacahlah cipia dilayangkan
 Pacah diimpik daun tarok
 Bukan sadikik disayangkan
 Muko bak cando minyak lalok
-
-
+===
 Pecahlah ceper dilayangkan
 Pecah dihimpit daun tarap
 Bukan sedikit disayangkan
-
 Muka seperti minyak lelap
 ===
 Pacak kayu tanda sempadan
@@ -43145,9 +43136,9 @@ Cendawan hancur berperai
 Niat kekanda dalam hati
 Dengan bangsawan tidak bercerai
 ===
-Panah permainan Batara Indera 
-Pedang bertatah dengan permata 
-Supaya jangan mendapat cedera 
+Panah permainan Batara Indera
+Pedang bertatah dengan permata
+Supaya jangan mendapat cedera
 Di belakang tidak orang mengata
 ===
 Panah permainan Betara Indera
@@ -45227,13 +45218,6 @@ Pasang jerat menangkap kancil
 Lepas jerat kancil berlaluk
 Jangan coba bicara jahil
 Kawan akrab bisa bermusuhan
-
-
-Set the trap to catch the mouse deer
-Release the trap she will run away
-Do not try to speak ill of others
-
-Good friends can become the enemy
 ===
 Pasang jermal menangkap kelah
 Naik rakit mengail buntal
@@ -45250,15 +45234,15 @@ Menahan lukah tanpa umpamanya
 Perintah Quran jangan disanggah
 Kalau disanggah besar dosanya
 ===
-pasang kandil di tengah rumah
-terangnya sampai ke tengah halaman
-orang yang dil diberkahi Allah
-orang yang benar dirahmati Tuhan
+Pasang kandil di tengah rumah
+Terangnya sampai ke tengah halaman
+Orang yang dil diberkahi Allah
+Orang yang benar dirahmati Tuhan
 ===
-pasang katil dengan kelambu
-lurus tiang dengan tilamnya
-orang yang adil tanda berilmu
-akalnya benar elok fahamnya
+Pasang katil dengan kelambu
+Lurus tiang dengan tilamnya
+Orang yang adil tanda berilmu
+Akalnya benar elok fahamnya
 ===
 Pasang kelambu setinggi bahu
 Takut digigit nyamuk di hutan
@@ -45276,6 +45260,9 @@ Untung berganda bertambah kaya
 Kaya budi bertambah juga
 ===
 Pasang lilin bakar kertas
+Datok ada di kebun China
+Lak-s pama sahya payong kertas
+Hujan dan panas baru ter-guna
 ===
 Pasang lilin bakar kertas
 Dato ada dikebun China
@@ -45298,6 +45285,9 @@ Bijak tuan bijak ter-langsong
 Hintan maknikam di kata kan batu
 ===
 Pasang lukah dalam Bandar
+Lukah hilir sendirinya
+Tidak pulang bulan safar
+Talak gugur sendirinya
 ===
 Pasang lukah dalam jerami
 Belum patut di pengkalan
@@ -45310,6 +45300,9 @@ Harta dipakai bertambah susut
 Akal dipakai bertambah matang
 ===
 Pasang lukah di mulut sungai
+Kerapat berkapur-kapur
+Bukan getah melawan punai
+Punai tak dapat bulu bertabur
 ===
 Pasang menyenak airpun dalam
 Sampai pagi barulah timpas
@@ -45346,7 +45339,10 @@ Walau lelah ia teruskan
 Orang baik pantang mencela
 Kalau bersalah ia luruskan
 ===
-pasang pelita atur beratur
+Pasang pelita atur beratur
+Api menyala terang benderang
+Orang mulia hatinya jujur
+Memaafkan orang dadanya lapang
 ===
 Pasang pelita berhemat cermat
 Supaya minyak tidak tertumpah 
@@ -45363,10 +45359,10 @@ Azan bergema di suboh hari
 Orang kaya lagi mulia
 Bertambah mulia kalau berbudi
 ===
-pasang pelita di malam hari
-apinya terang tampak bersinar
-orang berguna tahukan diri
-hatinya lapang lakunya sabar
+Pasang pelita di malam hari
+Apinya terang tampak bersinar
+Orang berguna tahukan diri
+Hatinya lapang lakunya sabar
 ===
 Pasang pelita di malam pekat
 Melihat bayang di balik awan
@@ -45419,6 +45415,9 @@ Hilang sahabat mudah dicari
 Hilang anak rindu memanjang
 ===
 Pasang setangan atas kepala
+Anak Cina membakar dupa
+Hati di dalam sepertikan gila
+Ingatkan tuan tak boleh lupa
 ===
 Pasang surut airnya dengkat
 Arusnya ada jejak ke pantai
@@ -45500,22 +45499,40 @@ Cincin kawin lekat di jari
 Lelaki mengejar perempuan
 Pasti ada yang dicari
 ===
-pasanglah bedil petang jumat
-bedil setinggar keras bunyinya
-orang yang adil beroleh rahmat
-adil dan benar menjadi cahaya
+Pasanglah bedil petang jumat
+Bedil setinggar keras bunyinya
+Orang yang adil beroleh rahmat
+Adil dan benar menjadi cahaya
 ===
-pasanglah kandil di halaman
-===
-Pasar malam di Tanjung balai
-===
-Pasar malam di Tanjung balai
-===
-Pasar malam di Tanjung balai
+Pasanglah kandil di halaman
+Supaya terang orang di rumah
+Orang yang adil teguh beriman
+Memberi maaf hatinya murah
 ===
 Pasar malam di Tanjung balai
+Singgah sebentar ke Kota Langkat
+Hati siapa tidak 'kan lalai
+Hitam manis bertahi lalat
 ===
 Pasar malam di Tanjung balai
+Singgah ke pekan beli pepaya
+Hati siapa tidak 'kan lalai
+Melihat dinda pakai kebaya
+===
+Pasar malam di Tanjung balai
+Singgah ke pekan beli pepaya
+Hati siapa tidak 'kan lalai
+Melihat adik sedang bergaya
+===
+Pasar malam di Tanjung balai
+Singgah ke kedai membeli kertas
+Hati siapa tidak 'kan lalai
+Lihat tahi lalat dibibir atas
+===
+Pasar malam di Tanjung balai
+Kelasinya mengganti lantai
+Hati siapa tidak 'kan lalai
+Punya kekasih tinggi semampai
 ===
 Pasar malam di Tanjung Balai
 Singgah semalam di Teluk Nibung
@@ -45528,6 +45545,9 @@ Antara sahabat jadi keliru
 Jika mereka mungkirkan janji
 ===
 Pasar Minggu di pasar lama
+Ambil tembaga dari pematang
+Saya menunggu terlalu lama
+Belum juga adinda datang
 ===
 Pasar Minggu di pasar lama
 Ambil tembaga dari permatang
@@ -45548,40 +45568,6 @@ Pasir bercampur kerebong lokan
 Burung kedidi makan di pantei
 Begitulah saya kasihkan tuan
 Jika tak jadi saya tak pandei
-===
-Pasir bulan dalam perahu
-===
-Pasir bulan dalam perahu
-===
-Pasir bulan dalam perahu
-Berlabuh petang di batu bara
-Berkawan lalu ketepian
-Ketika menghadap kemudinya
-
-Kasih tuan hambalah tahu
-Bagai orang menggenggam bara
-Rasa hangat dilepaskan
-Begitu benar masalah kiranya
-===
-Pasir bulan dalam perahu
-Berlabuh tentang batu ara
-Berhemat lalu ke tepian
-Ke Tiku menghadap muaranya
-
-Kasih tuan kami 'lah tahu
-Sebagai orang menggenggam bara
-Terasa hangat dilepaskan
-Begitu benar malah kiranya
-===
-Pasir bulan dalam perahu
-Berlabuh tentang Batu Bara
-Bercermat lalu ke tepian
-Ke Ciku menghadap muaranya
-
-Kisah tuan hambalah tahu
-Sebagai orang menggenggam bara
-Terasa hangat dilepaskan
-Begitu benar malah kiranya
 ===
 Pasir Gudang pelabuhan terbuka
 Kapal tunda memandu arah
@@ -45614,6 +45600,9 @@ Rajin membaca sila amalkan
 Akal fikiran terbuka lapang
 ===
 Pasir Panjang tempat nya rata
+Handak mandi di tepi pantay
+Suda ber-kasay kita ber-dua
+Macham bunga kemvang di tangkay
 ===
 Pasir permata bercampur pudi 
 Pudi delima bercampur zamrud 
@@ -45621,6 +45610,9 @@ Kasih mesra di dalam hati
 Di mana boleh katakan takut
 ===
 Pasir permata bercampur pudi
+Pudi delima campur zamrud
+Kasih mesra di dalam hati
+Mana boleh mengatakan takut
 ===
 Pasir permata bercampur pudi
 Pudi delima bercampur yakut
@@ -45658,6 +45650,9 @@ Kasih tak boleh dijual beli
 Bukannya benda buat berniaga
 ===
 Pasir putih di sarang helang
+Selasih saya cucukkan
+Hitam putih di kata orang
+Kerana kasih saya turutkan
 ===
 Pasir putih di sarang helang
 Selasih saya cucurkan
@@ -45665,6 +45660,9 @@ Hitam putih dikata orang
 Kerana kasih saya turutkan
 ===
 Pasir putih di sarang lang
+Selasih saya chochokan
+Hitam putih bukata orang
+Kurna kasih saya turot kan
 ===
 Pasir putih jauh ke tepi
 Nampak dari muara Sebangan
@@ -45726,18 +45724,6 @@ Tu pat ni lote
 Mago ma panguba
 Mamora na niose
 ===
-Pat ni satua
-Tu pat ni lote
-Ma goma panguba
-Mamora na mose
-
-
-Kaki tikus
-Ke kaki puyuh
-Hilanglah sipengingkar
-
-Menjadi kaya yang diingkar
-===
 Pat pat ning
 Kalimat tingkur
 Empat batis kambing
@@ -45748,14 +45734,15 @@ Buah lalu di belakang
 Siapa untung dia mendapat
 Mata luyu tak memandang
 ===
-Pat
-===
-Pata antan menumbok tepong 
-Tepong di tumbok pagi hari 
-Rimba hutan suda kampong 
-Dari kampong menjadi negri 
+Pata antan menumbok tepong
+Tepong di tumbok pagi hari
+Rimba hutan suda kampong
+Dari kampong menjadi negri
 ===
 Pata batang di langgar onta
+Tutak rakit buat punyimbat
+Mata di tuntang hati pun chunta
+Jikalu sakit chari kan obat
 ===
 Pata changai nabi Usop
 Pata di asam ujong padang
@@ -45893,6 +45880,9 @@ Jika tahu ganja itu mabuk
 Buat apakah ia dimakan
 ===
 Patah galah dalam perahu
+Cemperai di ladang Mak Inti
+Melainkan Allah juga yang tahu
+Jika bercerai baiklah mati
 ===
 Patah galah dalam perahu
 Perahu pelata namanya ikan
@@ -45955,6 +45945,9 @@ Bila ngenang kesah gik marek
 Air mata mengalah sungei
 ===
 Patah genggong di panggung
+Patah gunting tuan letakkan
+Tuan dapat pagar tenggalong
+Lancang kuning tuan letakkan
 ===
 Patah hati terus merajuk
 Rajuknya sampai hutan belukar
@@ -46002,6 +45995,9 @@ Bukan salah kerana apa
 Salah dek untung buruk jua
 ===
 Patah mayang pada kelapa
+Patah didukung beruk tua
+Bukan sayang kerana apa
+Salah de untung buruk jua
 ===
 Patah menimpa batang padi
 Padi bernama padi baluk
@@ -46024,18 +46020,14 @@ Biar dicincang biar direbus
 Nadi berdenyut semangat menyala
 ===
 Patah pasak di dalam kemudi
+Patah di ruang bunga kiambang
+Kalau tidak bertemu lagi
+Bulan terang sama dipandang
 ===
 Patah pasak di dalam kemudi
 Patah di ruang bunga kiambang 
 Kalau tidak bertemu lagi
 Bulan terang sama dipandang
-
-
-The wedge is broken in the rudder
-Broken in Hyacinth's well
-If we don't meet again
-
-We can but look at the same full moon
 ===
 Patah pasak di dalam kemudi
 Patah di ruang bunga kiambang
@@ -46058,6 +46050,9 @@ Tambahan tidak mengerti
 Dapat sedikit beribu syukur
 ===
 Patah pijak oleh 'Cik Siti
+Kain tersangkut jatuh ke Lumpur
+Tambahan pula tidak mengerti
+Dapat sedikit beribu syukur
 ===
 Patah pucuk jelabuh belah
 Patah dengan ibunya kaki
@@ -46065,6 +46060,9 @@ Mudah-mudahan dikabulkan Allah
 Saya membuang sial pemali
 ===
 Patah puteri naga-naganya
+Sentakkan layar ke Inderagiri
+Hendak mati rasa-rasanya
+Air di telan serasa duri
 ===
 Patah puteri naga-naganya
 Sentakkan layar ke Inderagiri
@@ -46085,8 +46083,6 @@ Patah riok batang di rabak
 Di tengah latar berdebu debu 
 Serta ribot mendatang ombak
 Di hujan sementar ber-diam lalu 
-===
-Patah sabut di timpa sabut
 ===
 Patah sayap anak keluang
 Anak merpati terengah-engah
@@ -46109,8 +46105,14 @@ Apalah diharap kepada abang
 Hamba ini anak yatim piatu 
 ===
 Patah sumbu di Singgalang
+Terdayuk sebagai balai-balai
+Hati yang gila mabuk seorang
+Memikirkan kasih terbengkalai
 ===
 Patah tanduknya induk lembu
+Melompat pematang berlarian
+Gelisah duduknya si pemburu
+Melihat kijang berkeliaran
 ===
 Patah titi hendak meniti
 Rumah basah tidak berbumbung
@@ -46141,12 +46143,10 @@ Patah tuduang sibatang karek
 Dikacak diampokkannyo
 Kasiah sayang dunia akiraik
 Iko moh kabalasannyo
-
-
+===
 Patah tudung si batang kerat
 Dikacak lalu dihempaskannya
 Kasih sayang dunia akhirat
-
 Inilah rupanya balasannya
 ===
 Patah tumbuah hilang baganti
@@ -46165,6 +46165,9 @@ Biar hodoh senang di hati
 Asalkan mudah diajak bergurau
 ===
 Patah-lah daun di-lampai-kan
+Bari ba-ulu talang-danto
+Aka jo budi pa-jalan-kan
+Ba-itu urang nan bicaro
 ===
 Patahlah kaki induk Siamang
 Usai menangis tidur jadinya
@@ -46175,14 +46178,6 @@ Patahlah kaki induk siamang
 Usai menangis tidur jadinya
 Patahlah hati Datuk Dubalang
 Misainya habis dicukur bininya
-===
-Patahlah maniak di Salido
-Patah ta-ampeh ateh karang
-Dipiliah anak rang Kurinci
-Babantah niniak nan baduo
-
-Mamanggakkan lareh surang-surang
-Di dalam hati nan samo suci
 ===
 Patahlah pisau atas bangku
 Anak Cina membelah kundur
@@ -46195,6 +46190,9 @@ Apalah diharap kepada hamba
 Ilmu kurang hidup pun sempit
 ===
 Patahlah sayap kembang lelan
+Patah ditimpa selaranya
+Payahlah mata memandang bulan
+Bulan pabila akan jatuhnya
 ===
 Patahlah sayap kembang lelan
 Patah ditimpa selaranya
@@ -46234,6 +46232,9 @@ Tuan berkata biar lah tentu
 Sepaya sedap di dalam hati.
 ===
 Patin pula ke patin
+Sehari-hari merendang lada
+Kalau tidak bukit mendinding
+Sehari-hari nampak jua
 ===
 Patitieh pamenan andai
 Gurindam pamenan kato
@@ -46331,6 +46332,9 @@ Penyair menjadi pemikir
 Dalam menyusun kata kata
 ===
 Patung main bertali rambut
+Rambut dikembar tali sutera
+Pada yang lain jangan disebut
+Jika disebut jadi cedera
 ===
 Patut dicari batang putat
 Tak terbilang banyak buahnya
@@ -46352,14 +46356,6 @@ Bawa bekal pergi berjaja
 Anak sekolah isteri bekerja
 Tinggal pesan di mesin saja
 ===
-Paunyuik pambulang tali
-Indak tantu di ma kandangnyo
-Kareh hiduang bak kabau jalang
-Sipat kasayangan pulo dikaji
-
-Sapuluah pulo macam parkaro
-Elok dibilang supayo tarang
-===
 Pawang menjampi gunakan tawas
 Taruh di piring pengalas cawan
 Sudah ku tuntut ilmu Abu Nawas
@@ -46376,8 +46372,14 @@ Belum musim kakandakan pulang
 Ada sedikit lagi bicara
 ===
 Paya darat paya mentimun
+Daun serbat dalam padi
+Ibarat air saya nak minum
+Tidak ralat di dalam hati
 ===
 Paya di darat sungai Tarum
+Cina membelah kayu api
+Adinda ibarat air minum
+Sedikit tidak ralat di hati
 ===
 Paya direndah mencari cacing
 Tanah basah hujannya lambat
@@ -46390,6 +46392,9 @@ Paya jugak menabor budi
 Mas perak di pandang orang
 ===
 Paya malompat orang bupimpin
+Singga munutak bringin layu
+Kaya busobat dangan miskin
+Sobat subagi angin yang lalu
 ===
 Paya melompat orang ber pimpin
 Singga menetak bringin layu
@@ -46440,21 +46445,11 @@ Payahlah kami nan babansi
 Nan barabab di bawah batang
 Payahlah kami nan mananti
 Apa sababnyo lambek datang
-
-
+===
 Payahlah kami nan berbangsi
 Berebab di bawah batang
 Payahlah kami nan menanti
-
 Apa sebabnya lambat datang
-===
-Payokumbuah ampek pagaran
-Batu Labi Batu nan Limo
-Batu Balang jo batu Hampa
-Adapun tuo nan dituokan
-
-Tuo pilihan itu namonyo
-Mudo di umua indak ka manga 
 ===
 Payokumbuah baladang kunik
 Dibao nak urang ka Kuantan
@@ -46485,36 +46480,31 @@ Payuang lilin bakasau rotan
 Pamayuang dayang pai ka Judah
 Jawek pakirim sampaikan salam
 Katokan sayang balun sudah
-
-
+===
 Payung lilin berkasau rotan
 Pemayung dayang pergi ke Jedah
 Jawab kiriman sampaikan pesan
-
 Katakan sayang belum sudah
 ===
 Payung bertulis lagi berenda
+Payung 'tu zaman dulu kala
+Hidangan sedia menanti 'kanda
+Tersaji sudah sediakala
 ===
 Payung kain bertangkai tanduk
 Bertepi renda berpintal benang
 Gelak senyum dibawa tunguk
 Sebagai tanda belajar kenal
 ===
-pebening kite bepikir alus
-kolni ate gere ara mutekus
-gelah i uripi kekire gere temus 
-agin irebus kurara gangur
-
-i tose umahe lagu aseni tikus
-oja keti i pepiren mugenang berus
-ike i bijeren gere i urus
-pas limus seme betamur
-===
 Pecah belah batu di gunung
 Seri dewa berjalan malam
-Ya Allah
+Ya Allah tidak tertanggung
+Rasa tidak dikandung alam
 ===
 Pecah belah batu digunung
+Seri dewa berjalan malam
+Ya Allah tidak tertanggung
+Rasa tidak dikandung alam
 ===
 Pecah benteng dirempuh
 Itik angsa berenang di kali
@@ -46532,6 +46522,9 @@ Hilang nuri berganti bayan
 Bayan seekor penghibur hati
 ===
 Pecah buyung berisi buah
+Reput di petik bunga lalang
+Saya umpama si burung tempua
+Sebarang rumput di buat sarang
 ===
 Pecah buyung sebuah dua
 Reput dipetik bunga lalang
@@ -46539,8 +46532,14 @@ Saya umpama si burung tempua
 Sebarang rumput dibuat sarang
 ===
 Pecah buyung tempayan ada
+Boleh juga menyuci kaki
+Terbang tiung bayan ada
+Boleh juga mengibur hati
 ===
 Pecah buyung tempayan ada
+Boleh juga basuh kaki
+Terbang burung ayam ada
+Boleh juga menghibur hati
 ===
 Pecah buyung tempayan ada
 Boleh juga mencuci kaki
@@ -46557,17 +46556,25 @@ Emas urai dalam gelata
 Sejak anak emak tinggalkan 
 Gila berurai air mata
 ===
-Pecah cangkir
+Pecah cangkir cawan pinggan
+Emas derail dalam geleta
+Sejak anak bonda tinggalkan
+Gila berurai air mata
 ===
-Pecah cangkir
-===
-Pecah cangkir
+Pecah cangkir cawan pinggan
+Emas urai dalam geleta
+Sejak anak bonda tinggalkan
+Gila berurai air mata
 ===
 Pecah cawan di atas peti
-===
-Pecah cawan di atas peti
+Cawan minum Sultan Amat
+Tuhan Allah yang Maha Suci
+Jangan dilupakan setiap saat
 ===
 Pecah cawan ditimpa cawan
+Selasih tumbuh di perigi
+Berjalan sembilan bulan
+Kerana kasih kembali lagi
 ===
 Pecah cawan ditimpa cawan
 Pecah ditimpa belimbing
@@ -46575,6 +46582,9 @@ Hati mampu kami tahan
 Mata dengan apa kan di dinding
 ===
 Pecah cerek cawan berdengung
+Singgah terantuk di kedai kain
+Di dalam tilik dengan tenung
+Tuan sudah mencari lain
 ===
 Pecah kaca di muka pintu
 Tembikar dia mengajuk kaki
@@ -46587,6 +46597,9 @@ Hati suka berkata begitu
 Jiwa hilang tidak peduli
 ===
 Pecah kaca ditimpa bata
+Anak Kerukut mandi bersiram
+Jika saya sudah bercinta
+Tidak takut akan tenggelam
 ===
 Pecah kapur Che Malim
 Pecah di timpa tudung kudai
@@ -46599,8 +46612,14 @@ Bukannya patut bukan lawanku
 Laksana anjing di bawah rumah 
 ===
 Pecah mangkuk pecah pinggan
+Tali gasing di bawah rumah
+Tiada patut tiada padan
+Kerising di bawah rumah
 ===
 Pecah pekapur che' malim
+Pecah di timpa panah petang
+Astaghfaru'llah al-aathim!
+Pucuk di cita ulam datang
 ===
 Pecah pekapur Cik Mualim
 Pecah ditimpa panah petang
@@ -46608,12 +46627,24 @@ Astagfirullah al-'azim
 Pucuk dicita ulam mendatang
 ===
 Pecah piring ditimpa cawan
+Cawan dihidang di dalam talam
+Wajah tuan sangat rupawan
+Terbayang-bayang siang dan malam
 ===
 Pecah piring tertimpa batu
+Piring pecah terbelah dua
+Biduk dua nahkoda satu
+Ibarat orang beristri dua
 ===
 Pecah piring tertimpa batu
+Bawa berlayar ke Indragiri
+Jangan adik kata begitu
+Adik bunga suntingan negeri
 ===
 Pecah pukat di langgar ikan
+Ikan bernama si jarang gigi
+Hilang buntat berganti intan
+Intan bernama payung negeri
 ===
 Pecah tapak kaki berjalan
 Buntat dicari belum berjumpa
@@ -46660,13 +46691,6 @@ Sudah pechah rapatlah lagi
 Tobat saya tujoh turunan
 Jangan berjumpa begini lagi
 ===
-Peci terbuat dari lakan
-===
-Pecut pedati hendak ke pekan
-Melintas desa hari pun senja
-Kerana nak pulang dengan segera
-Pengecut
-===
 Pedada buah pedada
 Hutan sunyi ditanam gambir
 Berguruh tida(k) hujan pun tida(k)
@@ -46678,6 +46702,9 @@ Di belakang jangan orang mengata
 Supaya kerja segera menjadi
 ===
 Pedang bertatah dengan permata
+Permata dicampur dengan pudi
+Di belakang tidak orang mengata
+Supaya kerja segera menjadi
 ===
 Pedang bertulis awal selimpat
 Terbang paksi si burung wilmana
@@ -46784,9 +46811,6 @@ Peraturan tidak tertulis
 Jangan kianat penghianat
 Dia harus diperangi
 ===
-Pegatan dadi randha
-Senengane nguber-nguber jaka
-===
 Pegi ke hutan memburu rusa
 Belom memburu haripun hujan
 Walopun baruk kenal biasa
@@ -46812,18 +46836,6 @@ Perie te toloq le deket selang
 Sakit perase endek te bedait
 Sengak side bilin tiang
 ===
-Pekak pekak badak
-Hati berkehendak
-Pekak pekak daun padi
-Hati ingin hendak berbini
-
-
-Pretending to be dumb like a rhino
-The heart is keen to be the same
-Pretending to be dumb like the rice leaf
-
-The heart is keen to have a wife
-===
 Pekan Lukut orang China
 Duduk berniaga sayur dan ikan
 Masa membaca janganlah lena
@@ -46845,6 +46857,9 @@ Apa dicari harimau yang garang
 Terdengar menderam kau cabut lari
 ===
 Pekan Nabawan sewaktu pagi
+Orang berjual sayuran basah
+Budi mu tuan ku sanjung tinggi
+Dari awal sampai berpisah (Kumpulan Pantun Sabah)
 ===
 Pekan Nilai hampir di sana
 Ramai orang bermain bola
@@ -46868,7 +46883,8 @@ Tak patut nak bujang sampai ke mati
 ===
 Pekan Titi di Jelebu
 Lombong bijih ada di sana
-Bersihkan diri
+Bersihkan diri bersihkan kalbu
+Moga-moga tidak merana
 ===
 Pekannya indah berlorong-lorong 
 Tingkap bertulis awan karangan 
@@ -46885,9 +46901,6 @@ Pelajaran dari sekolah
 Bukan beban bukan hukuman
 Kekayaan di hari depan
 ===
-Pek-pek longsi
-Idong kepek tak dak isi
-===
 Pelabuhan kapal berlabuh
 Naik turun barang dagangan
 Persatuan bisa bertumbuh
@@ -46898,7 +46911,10 @@ Kapal belayar di tengah lautan
 Sudah dirisik pinang tak jadi
 Jodoh pertemuan di tangan Tuhan
 ===
-Pelaga
+Pelaga ketumbar jintan selasih
+Buah pala si temu giring
+Laila irat cinta nin masih
+Ke arah kebajikan tujuan bergantung
 ===
 Pelai-pelai lengan sedin sambi
 Ngoneq-ngoneq bedarak naenta siq kayuq
@@ -46913,9 +46929,12 @@ Lahirlah intelektual berhemah
 Pelajar kita yang sangat peka
 Terus menggembleng tenaga dan usaha 
 Memberi bantuan yang tidak mengira 
-Miskin
+Miskin kaya kaum dan agama
 ===
 Pelajar UMS ke Lahad Datu
+Membuat kajian sampai ke Kunak
+Kuasa SMS menjadi penentu
+Walau di tangan budak-budak (Kumpulan Pantun Sabah)
 ===
 Pelajaran anak Betara Indera
 Pengajian tamat khatam sekali
@@ -46931,9 +46950,6 @@ Pelakunya tentu hati buta
 Jasmani sihat menderita roh
 Di kelab malam menghabiskan masa
 Bergaul bebas lelaki dan perempuan
-===
-Pelan ini melibatkan semua warga
-Tenaga akademik
 ===
 Pelan Strategik Pengajian Tinggi Negara
 Baru dilancar Perdana Menteri kita
@@ -46975,9 +46991,15 @@ Kena jerat sembilan mata
 Maskota habis di jual
 Kerna ikemat sa-rambang mata
 ===
-Pelanduk di atas bata
+Pelanduk di atas batu
+Sedang makan taruk keledek
+Adik duduk singkapkan baju
+Saya menengok panau di tetek
 ===
 Pelanduk di atas batu
+Sedang memakan putik sengkuang
+Duduk-duduk singkapkan baju
+Hendak menengok panau berturang
 ===
 Pelanduk di atas batu
 Sedang makan putik sengkuang
@@ -47010,8 +47032,14 @@ Abangku suka rasa hatiku
 Oleh mendengar titahnya abang
 ===
 Pelang Melaka bermuat paku
+Dang Teja mandi bertimba
+Alangkah suka rasa hatiku
+Oleh mendengar kata kekanda
 ===
 Pelang Melaka bermuat paku
+Dan Teja mandi bertimba
+Alangkah duka rasa hatiku
+Mendengar adik kawin dipaksa
 ===
 Pelang Melaka bermuat paku
 Dang Teja mandi bertimba
@@ -47024,6 +47052,9 @@ Alangkah suka rasanya hati
 Tidak abang beroleh malu
 ===
 Pelang Melaka dari Serati
+Hanyut cempedak dari hulu
+Alangkah suka rasanya hati
+Tidak kekanda beroleh malu
 ===
 Pelang Melaka dari Serati
 Hanyut cempedak dari hulu
