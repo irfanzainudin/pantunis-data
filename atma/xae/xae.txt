@@ -4449,6 +4449,9 @@ Jangan tuan berhati bingong
 Saya tidak mencari ganti
 ===
 Putus tali di tepi rembat
+Perahu Linggi berdandan canggai
+Putuslah hati hendak bertambah
+Kayu yang tinggi hendak disigai
 ===
 Putus tali di tepi rimbat
 Perahu Linggi berdandan canggai 
@@ -6333,6 +6336,9 @@ Kurnia terhambur kepada orang
 Jangan sayang kepada hati
 ===
 Rambunia di dalam dulang
+Buah kepayang di atas peti
+Kurnia terhambur kepada orang
+Jangan sayang kepada hati
 ===
 Rambunia di dalam dulang
 Buah kepayang di atas peti
@@ -6350,6 +6356,9 @@ Jika disebut jadi cedera
 Cederanya lekas apa faedah
 ===
 Rambut dikembar tali sutera
+Sutera dipilin bila sudahnya
+Jika disebut jadi cedera
+Cedera itu apa faedahnya
 ===
 Rambut dipintal akan cemara
 Tanam halia tiada tumbuh
@@ -6372,6 +6381,9 @@ Beramal ibadahlah dengan tulus ikhlas
 Semata mengharap ridho Ilahi
 ===
 Rambut ditaruh dalam saku
+Dijawat oleh anak perdana
+Mari disambut kekanda pangku
+Hatiku ruat bagaikan pana
 ===
 Rambut ditaruh ke dalam sangku 
 Dijawatkan oleh anak perdana 
@@ -12846,12 +12858,19 @@ Saputangan dekapkan didada
 Untuk pengubat hati yang mayang
 ===
 Sapu-tangan pa-nyapu tangan
+Dalam tangan pa-nyapu bungo
+Malang tangan cilako tangan
+Dalam tangan urang nan punyo (Pantun Minangkabau)
 ===
 Saputangan panyapu tangan
 Diambiak panyapu bungo
-Malang tangan
+Malang tangan cilako tangan
+Dalam tangan urang nan punyo
 ===
 Sarabai di muka pintu
+Pergi ke parit hendak meriau
+Maka sampai sehinggakan situ
+Ratu Amas lalu berbalik ke Riau
 ===
 Sarabei di muka pintu
 Pergi ke parit hendak meriau
@@ -12861,10 +12880,9 @@ Ratu Amas lalu berbalik ke Riau
 Sarai sarumpun tapi tabiang
 Tumbuah di parak rang Bangkaulu
 Kalangbojo kaik bakaik
-Sajak bacarai jo nan kuniang
-
-Sapantun budak lapeh susu
-Sarikayo dimakan paik
+    Sajak bacarai jo nan kuniang
+    Sapantun budak lapeh susu
+    Sarikayo dimakan paik
 ===
 Sarancak saelok ikolah parak
 Indak badasun agak sabuah
@@ -39160,6 +39178,9 @@ Angkat tangan jari s'puluh
 Do'ah mintak smua-nya slamat.
 ===
 Tetak batang di dalam padi
+Periuk berisi arang
+Tiada berani masuk negeri
+Raja Bru Raja Siamang
 ===
 Tetak batang men-geta punei
 Punei terbang mengirei bulu
@@ -39513,6 +39534,9 @@ Hadat budi mau di balas
 Sabagi hutang sudah di bayar
 ===
 Tetak lontar alaskan padi
+Peti dibawa dari Palembang
+Bertemu sebentar bagaikan mimpi
+Itu membawa hatiku bimbang
 ===
 Tetak lontar alaskan padi
 Padi dibawa dari Palembang
