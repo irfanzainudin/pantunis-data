@@ -1,9 +1,4 @@
 ===
-Polipaku ri Nupaboma
-Nesai ri Kayumaboko mbatunju
-Ane maria marata rasi madea
-Bagika kenika tokasi ribanuana
-===
 Polong berdiri di atas busut
 Akan berjumpa kawan kawan
 Perhitong hati suba kusut
@@ -12,7 +7,7 @@ Handak bertemu pada mu tuan
 Polong berdiri di atas busut
 Akan berjumpa kawan kawan
 Perhitong hati suda kusut
-Handak bertemu pada mu tuan.
+Handak bertemu pada mu tuan
 ===
 Polong bermain mengacho orang
 Membuat demam kepialu gila
@@ -33,18 +28,11 @@ Pondok robek makan api
 Anak Cina main teropong
 Katak bertingkir besar hati
 Dapat dunia bawah tempurung
-
-
-A broken hut eaten by fire
-The Chinese boy piles his telescope
-The frog proudly perches
-
-He makes his world beneath a coconut shell
 ===
 Pontianak terbang menjadi burong
 Bunyi lagu mendayu dayu
 Kerna bimbang hati pun morong
-Rindu saya handak bertemu.
+Rindu saya handak bertemu
 ===
 Pontianak terbang menjadi burong
 Bunyi lagu mendayu dayu
@@ -143,8 +131,14 @@ Indak basuo wujud nan satu
 Cubo tengok dalam terekat
 ===
 Potehi wayang 'rang Cina
+Mana sama si wayang Jawa
+Kasih hamba tidak terkira
+Seluas lautan Jawa
 ===
 Potong akar tepi telok
+Hendak membuat bingkai pasu
+Air putar jangan cebok
+Puasa besar duduk menunggu
 ===
 Potong atap sorong melintang
 Atap terpakal dari jambi an
@@ -152,8 +146,14 @@ Bulan gelap bersulo bintang
 Jangan lupa dari janjian
 ===
 Potong bacang berjari-jari
+Batang laka buat cucuran
+Pak Sayang datang sambil berlari
+Air mata bercucur-cucuran
 ===
 Potong badan di kampung Laksa
+Ada abu di dalam kendi
+Rasa badan bagai disiksa
+Ibarat perahu tak berkemudi
 ===
 Potong balak membuat rakit 
 Potong mari di Tanjong Jati 
@@ -190,12 +190,10 @@ Ranum segar pisang dikupas
 Sudah kalah baru berkubu
 Koyak sangkar burung terlepas
 ===
-Potong kambing untuk ber qurban
-Di kota mina jumrah dilaksanakan
-Barang pengiring kami serahkan
-Semoga diterima tanda kasih sayang
-===
 Potong kayu di tepi pantay
+Amek mari di buat papan
+Jangan Tuan ber-hati kuatay
+Apa ke-handak sahya turot kan
 ===
 Potong kayu terus dibelah
 Dibelah dengan sabilah parang
@@ -216,8 +214,6 @@ Potong potong si daun pandan
 Potong mari di tepi tepi 
 Hanchor luloh nyawa di badan 
 Tuan sa-orang ikat-an hati 
-===
-Potong rambut bertakek-takek
 ===
 Potong rotan panjang sedepa
 Ambik buat tongkat bejalan
@@ -290,6 +286,9 @@ Nampak diri sabagi diam
 Sakit tak-boleh di tanggong-kan
 ===
 Prahu jawa burisi padi
+Puncha sabua di atas batu
+Kalau tau mambawa hati
+Akal ku dua di bri satu
 ===
 Prajurit bertempur memegang bedil
 Tak ada musuh jangan tembakkan
@@ -316,7 +315,10 @@ Maseng-maseng bermain lagu Aropa
 Deri mata trang sampay-kan layu
 Balek di rumah pintu di raba
 ===
-Prang  sagara dalam kapal
+Prang sagara dalam kapal
+Suntal budil tiga puchok
+Orang mara dangan fasal
+Kita di ambil dangan pujok
 ===
 Prang pringi ber-atoran 
 Rayat nya pulak beribu laksa 
@@ -404,12 +406,19 @@ Baja kurang benay tak baik
 Itu lah sabab padi nya layu
 ===
 Prau blayer deri s'brang
+Tiang bandera kayu nya ampat
+Kasi kuching dengan musang
+Ayam terbang tikus melompat
 ===
 Prau blayer pata nya kemudi
+Unggu pata jangan di buang
+Kalu tau mengamek hati
+Srumor idop di kenang orang
 ===
 Prau bugis ka Tanjong Batu
 Terkandas di karang ayer sa-depah
-Jajah disana
+Jajah disana jajah disitu
+Sebagi barang tiada berupah
 ===
 Prau bugis memuat atap
 Atap dari Tanjong Batu
@@ -419,14 +428,17 @@ Perjanjian dapat jugak di tentu
 Prau datang dari Pontian
 Sarat muat bua manggis
 Jikalu suda bua durian
-Kulit berduri isi nya manis.
+Kulit berduri isi nya manis
 ===
 Prau datang dari Pontian
 Sarat muat bua manggis
 Jikalu suda bua durian
 Kulit berduri isi nya manis
 ===
-Prau de lak layer  nya senget
+Prau de lak layer nya senget
+Angin ber-tiop s'bla bawa
+Kalu tidak hujan di langet
+Bolay kah idop padi di sawa?
 ===
 Prau di sebrang masok ka balok 
 Ikan blanak bermasak rempa 
@@ -456,12 +468,12 @@ Benda yang baik jarang terletak
 Prau payang pata kemudi
 Amek bangku bawak bernang
 Tuan saorang yang baik budi
-Sebab itu dudok mengenang.
+Sebab itu dudok mengenang
 ===
 Prau payang pata kemudi
 Amek bangku bawak bernang
 Tuan saorang yang baik budi
-Sebab itu dudok mengenang.
+Sebab itu dudok mengenang
 ===
 Prau payang pata kemudi
 Amek bangku bawak bernang
@@ -474,6 +486,9 @@ Kalu tak main dengan umpan
 Ikan yang mana bolay kan jaja 
 ===
 Prau pukat laju ber-lari
+Lalu tengglam di ribot topan
+Sesat barat ka-sana sini
+S'bagi ayam takda berban
 ===
 Prau sarat memuat bras
 Kiriman anak raja raja 
@@ -501,6 +516,9 @@ Bahru smalam ku mimpi tuan
 Sperti kaseh ada di pangku.
 ===
 Prau tengglam tepi daratan
+Berisi pasir dengan batu
+Bahru smalam ku mimpi tuan
+Sperti kaseh ada di pangku
 ===
 Prau tenglam tepi daratan
 Berisi pasir dengan batu
@@ -513,6 +531,9 @@ Baru semalam ku nimpi tuan
 Sperti kasay ada di pangku
 ===
 Prau tongkang mamuat kayu
+Handak singga di Sungei Pekan
+Mau ber-budi baik s'lalu
+Krana kasay jangan di tinggal kan
 ===
 Prau tongkang memuat kayu
 Datang angin di layar kan
@@ -525,6 +546,9 @@ Handak kasay kasay slalu
 Kasay jangan tuan tinggal kan
 ===
 Prau tongkang muat kayu
+Handak singga di sungei Pekan
+Mau berbudi baik s'lalu
+Jangan tinggal di s'paroh jalan
 ===
 Prawan di daik jalan bertudong 
 Jalan mari di kampong malayu 
@@ -547,6 +571,9 @@ Biar Petek jangan di gegar
 Takot terchabot akar di tanah
 ===
 Priaman berpagar karang
+Dilingkari oleh pisang emas
+Niat hati tuan seorang
+Bagai hutang belum lunas
 ===
 Prigi ini prigi di Achay 
 Amek ayer dudok menunggu 
@@ -554,23 +581,14 @@ Termega suda tuan berkasay
 Kenapa tak bolay berhati sunggu
 ===
 Priman berpagar karang
+Kapal berlabuh dari Pagai
+Niat hati tuan seorang
+Bagai hutang belum lansai
 ===
 Pring ditumpu-tumpuk
 Ana bumbung wadhahe merang
 Cilik diempuk-empuk
 Bareng gedhe lak maju perang
-===
-Prof. Madya Dr. Victor A. Pogadaev
-
-Juadah kuih - muih Raya
-Nasi dalam daun pandan
-
-Sambutlah temanku Melayu
-Hari suci
-===
-Projek penyelidikan kolaboratif dimulakan 
-Pembinaan keupayaan diberi keutamaan
-Bersama Kerajaan Persekutuan
 ===
 Projek terbesar penyelidikan kelestarian
 Agenda 21 Selangor Strategi Pembangunan Mampan 
@@ -593,6 +611,9 @@ Tuanlah jadi timbalan abang
 Di mana kan kita boleh bercerai
 ===
 Puan berisi buah ketapang
+Ketapang belah berperai-perai
+Tuanlah jadi timbalan abang
+Manalah boleh kita bercerai
 ===
 Puan berisi buah ketapang
 Ketapang dibelah berperai-perai
@@ -605,6 +626,9 @@ Kepada tuan mintak perguna
 Cinta tidak kemana pergi
 ===
 Puan berisi bunga angsana
+Puan berisi buah ketapang
+Bilakan sama mudamu tuan
+Tuanlah jadi timbalan abang
 ===
 Puan bernama Nara Taru 
 Santapan ratu Banjaran Kulon 
@@ -612,6 +636,9 @@ Di dalam dada bagai digaru
 Laksana sampan dilambung alun
 ===
 Puan bernama nara taru
+Santapan Sitti Rabihatun
+Dalam dada bagai digaru
+Sepantun sampai di lambung alun
 ===
 Puan bertajuk bunga melati
 Dialas pulak dengan kain
@@ -632,8 +659,6 @@ Puan dibentuk tukang Serati
 Santapan anak raja Palembang 
 Tuanlah patut belaku mati 
 Sama berdua kita selubang
-===
-Puan dibentuk tukang serati
 ===
 Puan dibentuk tukang serati
 Santapan anak raja Palembang
@@ -37548,6 +37573,9 @@ Bagie mana tieda ka saijang
 Moeda innie ka pandan manies
 ===
 Terbang elang dari Jawa
+Puan dibentuk tukang serati
+Tempat abang membuang nyawa
+Tuanlah patut berlaku mati
 ===
 Terbang elang dari kuala
 Orang menjerat burung wilmana
@@ -50985,11 +51013,14 @@ Wayang potehi dari Cina
 Wayang potehi sekarang langka
 ===
 Wayang potehi wayang 'rang cina
+Dulu di rembang banyak adanya
+Tidak pandang uang dan harta
+Abang kucinta apa adanya
 ===
 Wayang potehi wayang 'rang cina
-===
-Wedang bubuk gula Jawa
-Ora mathuk lewa-lewa
+Dimana-mana dahulu ada
+Kalau adik tidak percaya
+Ambil pisau belahlah dada
 ===
 Wedang bubuk
 Gula Jawa
