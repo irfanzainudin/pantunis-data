@@ -686,6 +686,9 @@ Tuan ada timbalan abang
 Tidaklah abang gentarkan mara
 ===
 Puan dirakit dari petani
+Bemban di mana saya tugalkan
+Kekanda berangkat dari sini
+Dendam di mana ditinggalkan
 ===
 Puan dirakit dari Petani
 Bemban di mana saya tugalkan
@@ -698,6 +701,9 @@ Tuan sudikan abang yang hina
 Tuan seorang hatiku mabuk
 ===
 Puan emas di atas peti
+Bunga mawar layu terletak
+Tuan berjalan bersenang hati
+Saya yang tinggal berhati rosak
 ===
 Puan emas di atas peti
 Bunga mawar layu terletak
@@ -715,13 +721,19 @@ Sekian lama patik mencari
 Baharulah dapat Allah menolong
 ===
 Puan emas raja di Jawa
+Raja Jawa main di padang
+Tuanlah jadi badan dan nyawa
+Caya durja gilang-gemilang
 ===
 Puan Gayah dan Encik Jair
+Ke Bangkalalak pergi melancong
+Biar tergoyah dek deras air
+Sendinya tidak tergugah langsung
 ===
 Puan kalapa puan
 Ka-tiga dengan kalapa bali
 Harap hati kapada tuan
-Tidak tuan siapa lagi.
+Tidak tuan siapa lagi
 ===
 Puan kalapa puan
 Ka-tiga dengan kalapa bali
@@ -741,9 +753,12 @@ Tidak tuan siapa lagi
 Puan klapa puan
 Ka-tiga dengan klapa bali
 Harap hati kepada tuan
-Tidak tuan siapa lagi.
+Tidak tuan siapa lagi
 ===
 Puan perak di atas batu
+Mari ditutuh dahan cempedak
+Tak patut tuan begitu
+Kami kecoh tegak-tegak
 ===
 Puan santapan datuk bendahara 
 Santap di balai dengan jawatan 
@@ -756,6 +771,9 @@ Badan tak tahan duduk sengsara
 Duduk lalai diharu syaitan
 ===
 Puan santapan Datuk Bendara
+Santap di balai dengan jawatan
+Badan tak tahan duduk sengsara
+Duduk lalai diharu setan
 ===
 Puan santapan permaisuri 
 Buah berembang jatuh dijotok 
@@ -763,8 +781,14 @@ Tuan nin payah dapat dicari
 Dengan abang sama setolok
 ===
 Puan sirih di atas gabus
+Gabus terletak di atas karang
+Tuan mendapat candai halus
+Terbuang kami kasa jarang
 ===
 Puan sirih diatas gabos
+Gabos terletak diatas karang
+Tuan mendapat chindai yang halus
+Terbang kami kasa yang jarang
 ===
 Puan tercampak ke dalam rimba 
 Kayu diraut dibuat pakau 
@@ -772,6 +796,9 @@ Tuan terletak di atas riba
 Abang terkejut terpikau-pikau
 ===
 Puan terletak atas cerana
+Duan empelas di gunung China
+Tuan tidak di pandang mata
+Belaskan apa dagang di hina
 ===
 Puan terletak di atas geta
 Daun mempelas di Gunung Cina 
@@ -827,16 +854,6 @@ Puas kucari sinar mentari
 Rupanya ada di balik awan
 Puas kucari penawar hati
 Rupanya ada bersama tuan
-===
-Puas mandi naik ke pantai
-Rentang tali kain disidai
-Makan nasi bersayur bayam
-Bayam tumis rencahnya lokan
-
-Di kedai kopi duduk bersantai
-Pagi dibuang senja terabai
-Padi di kepuk dimakan ayam
-Anak di rumah mati tak makan
 ===
 Puas menebas pokok lalang 
 Cepat subur cepat bercambah
@@ -902,13 +919,6 @@ Puas sudah saya ke ladang
 Tuai padi di atas bukit
 Bertahun-tahun saya berdagang
 Dipandang hina lagi sulit
-
-
-I've had enough of going to clearing
-To harvest the rice on the hill-top
-For years I've been a foreigner
-
-By others belittled and left alone
 ===
 Puas sudah saya menanti
 Jalan lurus kereta tiada
@@ -919,9 +929,6 @@ Puas sudah tangan berpacar
 Inda mau merah-merahnya
 Puas sudah mulut mengajar
 Inda mau singgah-singgahnya
-===
-Puasa yang yang yuk
-Pagi-pagi buka periuk
 ===
 Puaslah saya mencari galah
 Kait sebiji buah delima
@@ -934,8 +941,14 @@ Sida jauq tiang renggang
 Ita bedait leq dalem surat
 ===
 Pucha buyong burisi bua
+Rapot di putek bunga lalang
+Saya saumpama si burong tampua
+Sabarang rumpon di buat sarang
 ===
 Pucha buyong nama tumbaykor
+Limo sabiji di kurat kurat
+Saya saumpama burong yang saekor
+Anta kutimor anta kubarat
 ===
 Puchok kelapa di-makan lembu
 Lembu tua rupa-nya bodoh
@@ -1003,6 +1016,9 @@ Adek jaoh abang pon jaoh
 Siang teringat malam mengigau
 ===
 Puchok paoh slaras paoh
+Mari di isi dalam bakol
+Berniat sahya deri jaoh
+Lambat chepat tentu takbol
 ===
 Puchok paoh slaras paoh
 Mari di ulam waktu subo
@@ -1010,6 +1026,9 @@ Kalu berkaseh orang jaoh
 Siang teringat malam mengigo
 ===
 Puchok pauh berulam pauh
+Petang-petang kachau inti
+Sayang sahya berkaseh jauh
+Petang-petang hanchor hati
 ===
 Puchok pauh delima batu
 Anak semilang di tapak tangan
@@ -1096,23 +1115,40 @@ Buah jambu tiga serangkai
 Dudok jaoh beribu batu
 Pujok rayu tetap tercapai
 ===
-Pucuak katelo
+Pucuak katelo pisang utan
+Ureknyo dikakeh balam
+Allah Taala taulan bukan
+Takana juo siang-malam
+===
+Pucuk ketela pisang hutan
+Uratnya dikais balam
+Allah Taala taulan bukan
+Terkenang jua siang-malam
 ===
 Pucuak milu daun ba-pilin
+Pandan ta-sanda jo bungo-nyo
+Kok rindu caliek-lah camin
+Badan tak-gamba ka-duo-nyo (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Pucuak pauah daunnya pauah
 Sitarok laduang-laduangkan
-Adik jauah
+Adik jauah kami pun jauah
+Taragak samo manangguangkan
+===
+Pucuk pauh daunnya pauh
+Si taruk diladung-ladungkan
+Adik jauh kami pun jauh
+Rindu sama ditanggungkan
 ===
 Pucuak pauah kulai-kulaikan
 Kasiak badarai anyolai
 Pangku adiak buai-buaikan
 Kasiah bacarai anyo lai
-
-
+===
 Pucuk pauh kulai-kulaikan
 Kersik segera akan berderai
-Pangku adik
+Pangku adik buai-buaikan
+Kasih akan segera bercerai
 ===
 Pucuak pauah sadang tajelo
 Panjuluak buah galundi
@@ -1120,6 +1156,9 @@ Nan jauah silang sangketo
 Paaluih basi tingkekkan budi
 ===
 Pucuak pauah salaro bindun
+Kasiek di-mano pantai lai
+Lah jauah upiek ma-rindu
+Sayang di-mano sampai lai (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Pucuak pauah silaro pauah
 Pucuak kacang laduang-laduangkan
@@ -1132,6 +1171,9 @@ Bukanlah hambo cadiak pandai
 Pusako kato disambahkan
 ===
 Pucuk ara Jeram Perangin
+Sudah merungor meragu pula
+Kalau hendak dengar suara kami
+Sudah tidur jagalah pula
 ===
 Pucuk bayam digulai manis
 Mari batangnya digigit lihat
@@ -1139,6 +1181,9 @@ Rindu malam bawa menangis
 Rindu siang bawa melihat
 ===
 Pucuk bayam pucuk meranti
+Pucuk mengkirai dalam dulang
+Kokok ayam kami tak aci
+Murai membaca kami pulang
 ===
 Pucuk bayam si pucuk kangkung
 Batang keladi di balik kandang
@@ -1156,8 +1201,14 @@ Dusun luas buah pun cantik
 Bawa ke surau pisang seikat?
 ===
 Pucuk beluru ulam ketumbit
+Ular melancar tepi telaga
+Orang cemburu saya tak ambil
+Saya tumpang bergurau sahaja
 ===
 Pucuk bemban seligi tajam
+Mari tikam landak dipaya
+Lembut manis sirih digenggam
+Hendak mengunjuk emaknya ada
 ===
 Pucuk betik jadikan ulam
 Tanak beras dalam kuali
@@ -1170,6 +1221,9 @@ Bukan cantik kerana wajah
 Cantik kerana budi bahasa
 ===
 Pucuk capa digulai manis
+Cawan beras di dalam padi
+Bukan sahaja tunduk menangis
+Rawan belas di dalam hati
 ===
 Pucuk cekur mari diramu
 Buat melangir menjelang petang
@@ -1207,6 +1261,9 @@ Biar kerin sungei Sarawak
 Kamek sik akan mengubah kasih
 ===
 Pucuk enau pucuk meranti
+Pucuk kembang sekali dua
+Rintik panau menambat hati
+Bentuk kening membuang nyawa
 ===
 Pucuk enau pucuk meranti
 Pucuk kembang sekali dua
@@ -1329,8 +1386,6 @@ Buruk negeri lupakan adat
 Kesana risau kemari runsing
 ===
 Pucuk ketaya akar cambai
-===
-Pucuk ketaya akar cambai
 Pucuk lempata orang patahkan
 Bukannya saya cerdik pandai
 Sunat pidato disembahkan 
@@ -1345,15 +1400,10 @@ Masak lemak campur serai
 Hari ini kita berkampung
 Hari esok kita bercerai
 ===
-pucuk lakum bunga terpilih
-jalinnya indah jurai terjurai
-elok kaum karena pemimpin
-pemimpin bertuah bijak dan pandai
-===
-Pucuk leban gading gajah
-===
-Pucuk leban gading gajah
-Kerja segan makan gagah
+Pucuk lakum bunga terpilih
+Jalinnya indah jurai terjurai
+Elok kaum karena pemimpin
+Pemimpin bertuah bijak dan pandai
 ===
 Pucuk malung di atas meja
 Limo kasturi dibuat jeruk
@@ -1396,6 +1446,9 @@ Bunga di lengkung ular yang besar
 Carilah akal dengannya tipu
 ===
 Pucuk mengkirai dalam dulang
+Tarik langgam bertali-tali
+Murai membaca kami pulang
+Abang balik sekali lagi
 ===
 Pucuk mengkudu di tengah padang
 Pucuk direntas burung cawi
@@ -1433,6 +1486,9 @@ Biarlah rosak di dalam pelipatan
 Jangan rosak kena pakai
 ===
 Pucuk nipah kelipatan
+Terletak mari di tepi pantai
+Biarlah rosak di dalam pelipatan
+Jangan rosak kena pakai
 ===
 Pucuk paku di dalam paku
 Paku datang dari seberang
@@ -1455,6 +1511,9 @@ Tidak kuasa menanggung iba
 Duduk termangu seorang orang
 ===
 Pucuk paku perbuat timba
+Terbang bangau ke seberang
+Tidak kuasa menanggung iba
+Duduk termangu seorang-orang
 ===
 Pucuk paku pucuk bebuas
 Penuh bakul lalu dikendong
@@ -1487,6 +1546,9 @@ Kita mati baru bercerai
 Sampai lama bertemu lagi
 ===
 Pucuk pauh berulam pauh
+Petang-petang kacau inti
+Sayang saya berkasih jauh
+Petang-petang hancur hati
 ===
 Pucuk pauh berulam pauh
 Petang-petang kacau inti
@@ -1502,8 +1564,6 @@ Pucuk pauh dari Palembang
 Buah langsat lebat di hulu
 Duduk jauh berasa bimbang
 Sudah dekat berasa malu
-===
-Pucuk pauh delima batu
 ===
 Pucuk pauh delima batu
 Anak sembilang di tapak tangan
@@ -1531,6 +1591,9 @@ Agar jauh selangsengketa
 Baik perhalus basa dan budi
 ===
 Pucuk pauh selara pauh
+Daun mengkudu diladungkan
+Adik jauh kekanda jauh
+Kalau rindu sama tanggungkan
 ===
 Pucuk pauh selara pauh
 Daun mengkudu ditandungkan
@@ -1549,7 +1612,8 @@ Kalau rindu sama tanggungkan
 ===
 Pucuk pauh selara pauh
 Pucuk kacang ledung-ledungkan
-Adik jauh
+Adik jauh kami pun jauh
+Rindu sama ditanggungkan
 ===
 Pucuk pauh selara pauh
 Pucuk sembilang digulung ulat
@@ -1562,8 +1626,14 @@ Adik jauh kakanda jauh
 Kalau rindu sama menungkan
 ===
 Pucuk pauh selera pauh
+Pucuk bemban ladung berladung
+Adik jauh saya pun jauh
+Rindu dendam sama menanggung
 ===
 Pucuk pauh selera pauh
+Pandan di rimba diladungkan
+Adik jauh kekanda jauh
+Kalau rindu sama merenungkan
 ===
 Pucuk perana daun perana
 Ketiga dengan pucuk api-api
@@ -1571,8 +1641,14 @@ Baginda Ali minta guna
 Siti Fatimah turun mandi
 ===
 Pucuk perenggi pucuk pauh
+Anak Cina menggunting baju
+Hendak pergi tempatnya jauh
+Sama-sama menanggung rindu
 ===
 Pucuk petai sudahlah layu
+Pucuk pauh mula kembang
+Duduk dekat berasa malu
+Duduk jauh hatiku bimbang
 ===
 pucuk pinang dikerat layu
 buahnya masak dimakan puteri
@@ -1640,6 +1716,9 @@ Ladang kasih hangus terbakar
 Api cinta menjadi debu
 ===
 Pucuk sembong selara muda
+Orang menjala Lubuh Meranti
+Patuk tedung tidak bisa
+Kelit ke janda cemas mati
 ===
 Pucuk sembung selara muda
 Orang menjala lubuk meranti
@@ -1657,13 +1736,19 @@ Kamek tamsil perecak buruk
 Ke sana ke mari direpuk orang
 ===
 Pucuk serai melembut hidup
+Lada muda dipunca kain
+Kami tak tangis mengejar hidup
+Badan muda mencari lain
 ===
 Pucuk serdang daun serdang
 Ambil sehelai membungkus nasi
 Duduk sadang berdiri sadang
 Ambil satu pemutus hati
 ===
-Pucuk si lingga
+Pucuk si lingga linggalah
+Pucuk si jawi-jawi muda
+Tanah suci tinggal-tinggallah
+Kampung hamba menanti jua
 ===
 Pucuk si piang angsi
 Tarahan lesung merbau rendah
@@ -1671,6 +1756,9 @@ Perahu terbentuk nakhoda mati
 Sampai begini dendam tak sudah
 ===
 Pucuk si pisang angsi
+Tarahan lesung merbau rendah
+Perahu terbentuk nakhoda mati
+Sampai begini dendam tak sudah
 ===
 Pucuknya rebah dalam belukar
 Mati dililit si ribu-ribu
@@ -1790,7 +1878,10 @@ Sarang penyagat di dalam kayu
 Tengka laku dengan menjeling
 Sepaya ingat bolay kan tau
 ===
-Pukua gandang
+Pukua gandang pupuik sarunai
+Duduak di rumah Bandaharo
+Ingin ati mamandang punai
+Punai di pucuak kayu aro
 ===
 Pukui empat pukui sembilan
 Pukui lima belum kira
@@ -1808,8 +1899,14 @@ Kepala ditunduk tanda hormat
 Bukan menyerah untuk dipijak
 ===
 Pukul dendang kulit biawak
+Sedikit tidak berdentum lagi
+Hendak ke mana untung ku bawa
+Tuan yang tidak sayang lagi
 ===
 Pukul empat pukul lima
+Pukul lapan belum lagi
+Sirih lipat sudah terima
+Badan tuan belum lah lagi
 ===
 Pukul empat pukul lima
 Itulah tanda harikan siang
@@ -1827,8 +1924,14 @@ Payah mendapat tanding adinda
 Budinya baik hatinya sudi
 ===
 Pukul enam waktu maghrib
+Berbunyi burung rajawali
+Kirim salam dagang yang rarib
+Kepada tuan minta kenali
 ===
 Pukul gambang delapan belas
+Burung gelatik di pinggir kali
+Ibarat kembang di dalam gelas
+Akan dipetik susah sekali
 ===
 Pukul gambang delapan belas
 Burung jelatik di pinggir kali
@@ -1856,6 +1959,9 @@ Norma tidur berkudung sarung
 Tuan pulang apa rasanya
 ===
 Pukul gendang bertalu-talu
+Anak keling minum serobat
+Kita kini 'lah sama tahu
+Makanya abang berkirim surat
 ===
 Pukul gendang di pohon beringin
 Anak geroda turun mandi
@@ -1863,6 +1969,9 @@ Lihatlah helang menyongsong angin
 Begitulah saya menahan hati
 ===
 Pukul gendang kulit biawak
+Sedikit tidak berdentum lagi
+Handak kemana untung kubawa
+Kasih yang tidak sayang lagi
 ===
 Pukul gendang petang jumaat
 Pukul sekali mengada-ngada
@@ -1875,15 +1984,24 @@ Saya umpama rumput di bumi
 Rendah sekali pada yang banyak
 ===
 Pukul gendang tiup serunai
+Anak Keling mandi minyak
+Saya umpama rumput di bumi
+Rendah sekali pada yang banyak
 ===
 Pukul gendang tiup serunai
 Raja berangkat ke seberang
 Putih mata si burung punai
 Kayu ara ditunggu helang
 ===
-Pukul gendang
+Pukul gendang tiup serunai
+Raja berangkat ke seberang
+Putih mata si burung punai
+Kayu ara di tunggu helang
 ===
-Pukul gendang
+Pukul gendang tiuplah serunai
+Duduk di rumah Bendahara
+Ingin hati memandang punai
+Punai di pucuk kayu ara
 ===
 Pukul Gong pukul rebana
 Main gitar rumah Pak Ali
@@ -1891,6 +2009,9 @@ Apa sebab apa kerana
 Saya digantung tidak bertali
 ===
 Pukul lapan pukul sembilan
+Pukul tabuh keliling kota
+Serta tiup angin selatan
+Cabut sauh belayarlah kita
 ===
 Pukul lima mata hari masuk
 Katup pintu jendela rapat
@@ -1913,6 +2034,9 @@ Apa-kah obat nasib badanku
 Berhati pilu sa-tiap ketika?
 ===
 Pukul nobat tiup nafiri
+Hendak tabal raja di Kelang
+Tuan laksana sharbat Janggi
+Tujuh tahun manis tak hilang
 ===
 Pukul nobat tiup nafiri
 Hendak tabal raja di Kelang
