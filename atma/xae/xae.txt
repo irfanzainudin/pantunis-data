@@ -4541,13 +4541,6 @@ Putri malu tumbuh merambat
 Di semak dan hutan berduri
 Orang tidak pernah terlambat
 Mulai hidup bermawas diri
-
-
-Mimosa bushes grow wildly
-Mixed plants with jungle thorns
-People can never be too late
-
-To start anew all over again
 ===
 Putri meminang daywa tuju
 Putri mengarang sa-tangkay bunga
@@ -4555,6 +4548,9 @@ Sring benang kain bludu
 Bludu di tenun pancha warna
 ===
 Putri perak puti suasa
+Puti di achay saya ampaskan
+Hujan turun bagie sinjata
+Kasih tida saya lupaskan
 ===
 Putri salam pergi kadarat
 Padam api pelita kapas
@@ -4582,23 +4578,29 @@ Indak guno dicari sabab
 Habih untuang badan bacarai
 ===
 Putuih ta rentak tali balam
+Putuih di gigik salimbado
+Tuan ta-sintak tangah malam
+Duduak ma-urai aia mato (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Putuih taantak tali kaluang
 Ambiaklah rotan pangabeknyo
 Putuih taragak diadiak kanduang
 Pai ka pakan malieknyo
-
-
+===
 Putus terhentak tali kalung
 Ambillah rotan pengikatnya
 Pemutus rindu pada adik kandung
-
 Pergi ke pekan melihatnya
 ===
 Putuih tali jalo jamantuang
 Cubadak jalan ka payo
 Putuih ati nak bagantuang
-Tuan tak namuah
+Tuan tak namuah apo ka dayo
+===
+Putus tali jala jemantung
+Cempedak jalan ke paya
+Putus hati hendak bergantung
+Tuan tak mau apakan daya
 ===
 Putuih tali melambong wau
 Wau lambong di seberang paya
@@ -4626,8 +4628,14 @@ Tasintak lalok tangah malam
 Diambiek banta ditangisi
 ===
 Putuih-lah tali alang-alang
+Putuih ma-roak ka alaman
+Barang nan ampo nak nyo tabang
+Mano nan boneh ka tinaman
 ===
-Putus  tali melambong wau
+Putus tali melambong wau
+Wau di lambong sebrang paya
+Putus hati pandang ka-pulau
+Pulau tidak menanggong sahaya
 ===
 Putus benang berganti tali
 Layang-layang hanyut terapung
@@ -4660,6 +4668,9 @@ Putus runding kerana mufakat
 Hokum jatuh benar terletak
 ===
 Putus hati hendak bergantung
+Cempedak jalan ke paya
+Putus hati hendak bergantung
+Orang tak hendak apakan daya
 ===
 Putus jambatan dicari titi
 Pecah belanga kuali ada
@@ -4747,18 +4758,39 @@ Besar hati akan bergantung
 Orang benci apakan daya
 ===
 Putus tali jalan Jemantong
+Buah cempedak condong ke paya
+Putus hati hendak bergantung
+Orang tak hendak apakan daya?
 ===
 Putus tali kijang melompat
+Anak Jawa pandai menari
+Putus janji jangan diumpat
+Sebut nama sekali sehari
 ===
 Putus tali melambong wau
+Wau di lambong s'barang paya
+Putus hati pandang ke-pulau
+Pulau tidak memanggong sahya
 ===
 Putus tali melambung wau
+Wau di lambung seberang paya
+Putus hati pandang ke pulau
+Pulau tidak menanggung saya
 ===
 Putus tali mengukur benang
+Benang ada dipunca kain
+Putus janji jangan dikenang
+Sama-sama mencari lain
 ===
 Putus tali tempat bergantung
+Budak cina beli ketaya
+Putus hati hendak bergantung
+Orang enggan apakan daya
 ===
 Putus tali tempat bergantung
+Roboh pohon tempat bersarang
+Rasa putus hati dan jantung
+Melihat adik digandeng orang
 ===
 Putus terentak tali balam
 Putus digigit selimbada
@@ -4781,6 +4813,9 @@ Putus hati tempat bergantung
 Janji diengkar apa daya
 ===
 Putuslah tali mengulor benang
+Benang ada di dalam paya
+Putus janji jangan dikenang
+Sudah nasib di badan saya
 ===
 Puyuah di sangkak katitiran
 Babulu rantak di dadonyo
@@ -4793,6 +4828,9 @@ Laut diberi bertitian
 Buat tempat tegak sedianya
 ===
 Puyuh mengeram dalam padi
+Puan tercampak dalam hutan
+Kekanda bermimpi malam tadi
+Tuan terletak atas ribaan
 ===
 Puyuh mengeram di dalam padi 
 Puan tercampak ke dalam rimba 
@@ -4832,11 +4870,12 @@ Rupa tidak sebagei mana
 Rabuang dipapek jo sambilu
 Tidak pandan kutayo lai
 Taduang di baliak kalang ulu
-Tidak manaruah biso lai
-
-
+Tidak manaruah biso lai (Pantun Minangkabau pada akhir kurun ke-19) (Van Ophuijsen)
+===
 Rebung dipepat dengan sembilu
-Tidak pandan
+Tidak pandan ketaya ada
+Tedung di balik kalang hulu
+Tidak lagi menaruh bisa (Terjemahan) (Pantun Minangkabau pada akhir kurun ke-19) (Van Ophuijsen)
 ===
 Rachek burong deri Penyengat
 Di kebun raja dudok mentri
@@ -4849,34 +4888,39 @@ Sudah tahu dangkalnya ilmu
 Kenapa enggan untuk berguru
 ===
 Radam-radam di sangko pulau
+Subang-subang rakik-ba-rakik
+Rindu dandam lawan ba-gurau
+Kok di-tahan jadi pa-nyakik (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Radam-radam disangko pulau
 Ujuang Siam duo barakik
 Rindu dandam bao bagurau
 Dibao diam jadi panyakik
-
-
+===
 Redam-redam disangka pulau
 Ujung Siam dua berakit
 Rindu dendam bawa bergurau
-
 Dibawa diam jadi penyakit
 ===
 Raden Ajeng gelar Kartini
+Pagi hari meminum jamu
+Hancur luluh rasanya hati
+Bila masanya kita bertemu
 ===
 Raden Ayu baiak mimpinyo
 Mimpi mangguntiang langan baju
 Kalau kayu samo tingginyo
 Di mano angin buliah lalu
-
-
+===
 Raden Ayu baik mimpinya
 Mimpi menggunting lengan baju
 Kalau kayu sama tingginya
-
 Di mana angin boleh lalu
 ===
 Raden bergelar Carang Kalina
+Rambut ditaruh dalam saku
+Dekat tidak berapa bena
+Mari disambut kekanda pangku
 ===
 Raden Galoh belayar kolek
 Terkena karang kolek pun pechah
@@ -4899,6 +4943,9 @@ Dari jauh abangku datang
 Menuntut janji dari semula
 ===
 Raden Galuh bercincin intan
+Baju beledu awan selimpat
+Hanyut luluh dada ditekan
+Hendak mengadu tidak bertempat
 ===
 Raden Galuh bercincin intan
 Baju beledu awan selimpat
@@ -4931,6 +4978,9 @@ Hancur luluh rasa anggota
 Dendam bila akan bersatu
 ===
 Raden Galuh disambur bata
+Dibawa masuk ke gua batu
+Hancur luluh rasa anggota
+Dendam itu bila akan bersatu
 ===
 Raden Galuh emas juita
 Helang bermain di dalam taman
@@ -4948,6 +4998,9 @@ Hancur luluh rasanya hati
 Bertemu itu kalanya bila
 ===
 Raden Galuh Kesuma Wati
+Raib disambar Batara Kala
+Hancur luluh rasanya hati
+Bertemu itu kalanya bila?
 ===
 Raden Galuh Kesuma Wati
 Ghaib disambar Betara Kala
@@ -4980,6 +5033,9 @@ Sungguh jauh seperti damping
 Dekat tidak berapa bena
 ===
 Raden Galuh tengah bergunting
+Bergelar Raden Carang Kalina
+Sungguh jauh bagai berdamping
+Dekat tidak berapa bena
 ===
 Raden Galuh tengah bergunting
 Bergelar Raden Carang Kulina
@@ -4992,6 +5048,9 @@ Tuan memuji berhadapan
 Tanda tuan mengata kita
 ===
 Raden Inu Aji Kuripan
+Bermain tombak di luar kota
+Tuan memuji berhadapan
+Tanda tuan mengata kita
 ===
 Raden Inu Aji Kuripan
 Bermain tombak di luar kota
@@ -5004,6 +5063,9 @@ Hati rindu tidak menanggung
 Tidak tertanggung di dalam cita
 ===
 Raden Inu di Kuripan
+Dicuri ratu Sijuindu
+Sepantun jentayu menanti hujan
+Tiada kuasa menanggung rindu
 ===
 Raden Inu di Kuripan
 Dicuri oleh Ratu Sijuindu
@@ -5021,6 +5083,9 @@ Rindunya abang bagaikan mati
 Akan adinda Nila Utama
 ===
 Raden Inu Kertapati
+Itu pun sudah bersalin nama
+Rindunya abang bagaikan mati
+Akan adinda nila utama
 ===
 Raden Inu Kertapati
 Bertunang anak Ratu Kuripa
@@ -5043,6 +5108,9 @@ Tuan emas orang pun tahu
 Kami tembaga mutunya muda
 ===
 Raden patah raja di Jawa
+Dikawal oleh para dubalang
+Bercerai badan dengan nyawa
+Cinta ke adik tidak 'kan hilang
 ===
 Radin Galoh dudok ber gunting
 Gunting mari charang gurina
@@ -5085,6 +5153,9 @@ Jikalu tidak malu dan sopan
 Siapa kuasa menanggong rindu
 ===
 Radin Galoh sedang bergunting
+Nama bergelar Charang Kelana
+Sungguh nan jauh serasa damping
+Hati di dalam gundah gulana
 ===
 Radin galoh si bujang juhara
 Sabong di kiri sabong di kanan
@@ -5112,6 +5183,9 @@ Sakit rindu terlalu lama
 Tidak tahan rasa di hati
 ===
 Rading galoh turun ber-tapa
+Pandang menaigot s'gantang sari
+Barang ber-gaoh di s'klian sampa
+Dapat di pungot toksa di bli
 ===
 Radja itu buat sedia
 Tiada tahulah apa bilang
@@ -5124,6 +5198,9 @@ Radja Wolanda yang termulia
 Dalam lindungan yang kadamen
 ===
 Rafidah Matasan menulis puisi
+Daerah Beaufort tempat asalnya
+Jikalah insan tidak berisi
+Bagai reput dan tidak berguna
 ===
 Raga dibawa ke Pasir Karang 
 Berjumpa orang mengambil teritip 
@@ -5131,6 +5208,9 @@ Jadi boleh ditaksir orang
 Perkataannya banyak bukan sedikit
 ===
 Raga tersirat dari laka
+Bendera di jati merah
+Raja Siak datang ke Melaka
+Dibawa pergi ke Tangkera
 ===
 Ragam dunia nyatolah banyak
 Jokok dietong dibilangi 
@@ -5163,10 +5243,14 @@ Di dalam kata tidak perchaya
 Suda terkena siapa nak sesal
 ===
 Raja Aceh berpayung bulat
+Payung centera dari dang Judah
+Hati kasih boleh dibuat
+Hati masrat bukannya mudah
 ===
 Raja adil raja di sembah
 Raja zalim akan disanggah
-Bila pemimpin adil
+Bila pemimpin adil hikmah bertambah
+Rakyat damai sejahtera tersinggah
 ===
 Raja Ainon jalan ke selat
 Pulau Pinang pasirnya halus
@@ -5214,10 +5298,19 @@ Apa maksud biar plahan
 Pekara bodoh bichara kami
 ===
 Raja bediri lalu nerupong
+Meda bala maioh betugong
+Perau perintah udah betalagong
+Dikena soldadu di kapal lambong (Pantun Sarawak) (Ngayau Mepi) (Unggat Kedu) (Pantun Ngayau Mepi. Borneo Literature Bureau.) (Tahun 1964)
 ===
 Raja bekemas angkat ka Simanggang
+Mai soldadu beribu orang
+Mai peluru leka senapang
+Nangkin keris tali belulang (Pantun Sarawak) (Ngayau Mepi) (Unggat Kedu) (Pantun Ngayau Mepi. Borneo Literature Bureau.) (Tahun 1964)
 ===
 Raja bemalam di rumah Renggi
+Tuai Malayu sama dibai
+Penoh rumah pemadu rami
+Orang ke ngusong enda berenti (Pantun Sarawak) (Ngayau Mepi) (Unggat Kedu) (Pantun Ngayau Mepi. Borneo Literature Bureau.) (Tahun 1964)
 ===
 Raja berangkat inang berlalu
 Tuan puteri masuk beradu
@@ -5230,6 +5323,9 @@ Tuan kasih inda ketara
 Ibarat minyak bercampur aying
 ===
 Raja berangkat ke perahu
+Diiringkan anak Sutan Menteri
+Bolehkah saya mencium bau
+Membuat gulana hati sendiri
 ===
 Raja berangkat turun ke perahu 
 Diiringkan anak perdana menteri
@@ -5287,8 +5383,14 @@ Apa maksud biar perlahan
 Masakan bodoh bicara kami
 ===
 Raja besar dari suburang
+Hantar asail banua china
+Jantong hati adinda sorang
+Sri gumbala dalam dunia
 ===
 Raja besar makan ke jirat
+Dang Saja berulam jantung
+Padang mahsyar dunia akhirat
+Allah saja tempat bergantung
 ===
 Raja besar makan ke jirat
 Dang Saja berulam jantung 
@@ -5296,6 +5398,9 @@ Padang mahsyar dunia akhirat
 Allah sahaja tempat bergantung
 ===
 Raja besar makan kejirat
+Dang Saja berulam jantung
+Padang mahsyar dunia akhirat
+Allah saja tempat bergantung
 ===
 Raja Besar perang berarak
 Perang sekali tidak selesai
@@ -5373,6 +5478,9 @@ Ber tua badan mana nak lari
 Jerki pun datang bertalu talu
 ===
 Raja dikayuh ka Laut Lingga
+Perau deras dipilih iya
+Orang digelih alah samoa
+Abis tinggal nadai beteda
 ===
 Raja di-rom baru di rantay kan
 Panggil berkompol anak bua nya 
@@ -5380,6 +5488,9 @@ Antara blom baik petek kan
 Sampay busok apa guna nya 
 ===
 Raja diserang keinderaan
+Minta Bantu ke negeri China
+Abang menunggu tirai peraduan
+Apa perintah emas kencana
 ===
 Raja ditabal pengawal berlapis
 Cantik paras diarak diusung
@@ -5387,6 +5498,9 @@ Buku tebal isinya nipis
 Bunyinya keras si tin kosong
 ===
 Raja ditabi pemadu gaga
+Tuai sampal datai samoa
+Bejalai rurus nuju istana
+Berimbai enggau Residin singkang screta (Pantun Sarawak) (Ngayau Mepi) (Unggat Kedu) (Pantun Ngayau Mepi. Borneo Literature Bureau.) (Tahun 1964)
 ===
 Raja gagah lagi sakti
 Laksamana pergi berperang
@@ -5414,20 +5528,14 @@ Dari dahulu sampai sekarang
 Tuanlah jadi cermin mata
 ===
 Raja Iskandar tengah berperang
+Terkejut lari sampai ke kota
+Dari dulu sampai sekarang
+Tuanlah jadi cermin mata
 ===
 Raja Iskandar tengah berperang
 Terkejut lari sampai ke kota
 Dari dulu sampailah sekarang
 Tuanlah jadi cermin mata
-===
-Raja Jawa memilin sutera
-Sutera kiriman rang Pasaman
-Dibawa orang ke Painan
-Diambil penjahit bagian baju
-
-Pakaian sultan dari Semarang
-Kalau terkenang pada nan lama
-Ambillah api
 ===
 Raja Judah berkota karang 
 Duduk di balai mengadu singa 
@@ -5435,8 +5543,14 @@ Durjanya indah di mata abang
 Laksana intan berkarang bunga
 ===
 Raja Judah berkota karang
+Duduk dib alai mengadu singa
+Durjanya indah di mata abang
+Sepantun intan berkarang bunga
 ===
 Raja Kelantan raja berdaulat
+Belayar menuju Jedah
+hati kasih boleh dibuat
+Berkasih mesra tidaklah mudah
 ===
 Raja kling berkrosi pergol
 Intan bersilang dalam bilek nya
@@ -5449,6 +5563,9 @@ Rindunya awan bukan kepalang
 Mendengar cumbu lela bangasawan
 ===
 Raja Landak mudik berpelang
+Tunggul beledu tulis berawan
+Rindunya abang bukan kepalang
+Mendengar cumbu lela bangsawan
 ===
 Raja Landak mudik berperang 
 Tunggul beledu tulis berawan 
@@ -5466,6 +5583,9 @@ Tidur mengantuk kau ikut
 Leman sendi tunduk mengampai
 ===
 Raja Maluku meminjam kuda
+Kuda dipinjam kuda maulana
+Tuanku nyawa orang muda
+Bertambah arif bijaksana
 ===
 Raja Maluku meminjam kuda
 Kuda dipinjam kuda Maulana
@@ -5478,12 +5598,19 @@ Tempat abang duduk bertilik
 Sekarang baharu mendapat judu
 ===
 Raja Mataram Sultan Agung
+Makan bersama ibu suri
+Aib dan malu adinda tanggung
+Abang di mana 'kan dinda cari
 ===
 Raja Meluku meminjam kuda
 Kuda dipinjam kuda Maulana
-Tuanku
+Tuanku nyawa orang muda
+Bertambah arif bijaksana
 ===
 Raja muda paduka mulia
+Carikan obat bunga selasih
+Tuan muda hamba belia
+Mari kita memadu kasih
 ===
 Raja murka pesta dilarang
 Ikan todak menyerang kampung
@@ -5510,6 +5637,9 @@ Telah selesai puasa Ramadan
 Kenduri kita sambut menantu
 ===
 Raja Petani Raja Yaman
+Kain serupa bunga dedap
+Merosakkan hati merobohkan iman
+Darah gemuruh jadi tak tetap
 ===
 Raja portugis pergi memburu
 Sampay memburu katana China
@@ -5543,7 +5673,8 @@ tinggal pangkalan bekasku mandi
 ===
 Raja Rum sembahyang subuh
 Terendan pucuk gelegata
-Tersentuh kulit
+Tersentuh kulit cium tubuh
+Di dalam batin terlindung jua
 ===
 Raja sakti turun memikat 
 Dapat seekor paksi nuri
@@ -5578,7 +5709,7 @@ Tuan ba-a-lah lah daulu (Pantun Minangkabau)
 Raja sulong indra Sajohan
 Gaga brani lagi perkuasa
 Jikalu bolay tulongan Tuhan
-Bila kan bolay dapat binasa.
+Bila kan bolay dapat binasa
 ===
 Raja sulong indra Sajohan
 Gaga brani lagi perkuasa
@@ -5589,21 +5720,6 @@ Raja Tua datang kerama
 Ambil tali pengikat jarum
 Pintaknya tidak kami terima
 Segala hakikat telah termaklum
-===
-Raja tulih Raja Tiangan
-Tiga jo Raja Pariangan
-Empat jo Raja Limbukan
-Lima jo Raja Pagaruyung
-
-Enam jo Raja Bangkahulu
-Rintang membilang cerita sahaja
-Sedang kasih Tuan tinggalkan
-Sedang sayang Tuan gajaikan
-
-Bak duri dalam daging
-Bak tulang dalam kerongkongan
-Yang luka kena sembilu
-Lama lambat merusuh jua
 ===
 Raja udang matanya tajam
 Menyambar ikan sedang berenang
@@ -5686,6 +5802,9 @@ Tuan kenyang dengan mimpi
 Bangun tidur mencari nasi
 ===
 Rajo  bar-angkek ka muaro
+Patah-kan rantieng ka rakik-nyo
+Punai di pucuak kayu-aro
+Sumpit-an gadieng pa-nyumpik-nyo
 ===
 Rajo adia rajo disambah
 Rajo niayo rajo disanggah
@@ -5696,12 +5815,10 @@ Rajo Adia tagak di ulu
 Tagak manjalo ateh karang
 Takadia alah tadaulu
 Mandapati badan sakarang
-
-
+===
 Raja Adil tegak di hulu
 Tegak menjala di atas karang
 Takdir sudah terdahulu
-
 Mendapati badan sekarang
 ===
 Rajo adia tagak dibarieh
@@ -5740,38 +5857,19 @@ Bagilo-gilo goring ayam
 Kanai hikamaik pitih sirah
 ===
 Rajo inggarih di Batawi
-===
-Rajo Jao mamilin suto
-Suto kiriman rang Pasaman
-Dibao urang ka Painan
-Ambiak panjaik siba baju
-
-Pakaian sutan dari Samarang
-Kalau takana di nan lamo
-Ambiak api baka kumayan
-Duduak jo tampek panjaitan
-
-Tangguang di ati adiak surang
-Urang jaan dibaritau
+Singgah ka pakan Bangkaulu
+Arok kami allahu rabbi
+Raso ma-adok gunuang tujuah
 ===
 Rajo Magek pulang ke Magek
+Singgah ba-dayuang ka Simpuan
+Bungo kami jan di-ambiek
+Larang-an kumbang jo tabuan (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Rajo Suleiman rang Salayo
-===
-Rajo tulih Rajo Tiangan
-Tigo jo rajo Pariaman
-Ampek jo Rajo Limbukan
-Limo jo Rajo Pagaruyung
-
-Anam jo Rajo Bangkahulu
-Rintang mambilang kunci sajo
-Sadang kasih Tuan tinggakan
-Sadang sayang Tuan gajaikan
-
-Bak duri dalam dagiang
-Bak tulang dalam angkuangan
-Nan bak luko kanai sambilu
-Lamo lambek marusuoh juo
+Tinggal di rumah Lubuak Tarok
+Kok untuang ba-suo kito
+Adiek nan usah tuan arok
 ===
 Raju-raju pemarang Jawa
 Jawa lari ke baruh bukit
@@ -5794,8 +5892,14 @@ Sakiet bertjienta di dalam atie
 Dendamkoe pada toean saorang
 ===
 Rakit bambu dari seberang
+Orang muda bermain tombak
+Sakit sungguh kasih seorang
+Kita kasih orang tidak
 ===
 Rakit bambu orang seberang
+Rakit bertolak perlahan-lahan
+Sakit sungguh kasih seorang
+Bagai bertepuk sebelah tangan
 ===
 Rakit bukan sebarang rakit
 Rakit kami menghulu-hulu
@@ -5823,8 +5927,14 @@ Sakit sungguh kasih seorang
 Orang tidak kasihkan kita
 ===
 Rakit buluh dari seberang
+Ambil galah tolaklah hilir
+Alang sukarnya kasih seorang
+Bak air jatuh ke pasir
 ===
 Rakit buluh dari seberang
+Dulang terletak atas geta
+Sakit sungguh kasih seorang
+Orang tidak kasihkan kita
 ===
 Rakit buluh dari seberang
 ===
@@ -9025,6 +9135,9 @@ Awak juga membuang diri
 Sebab mendapat muda yang lain
 ===
 Ruak-ruak dalam belukar
+Terbang tiung atas kuala
+Dalam cinta tidak bertukar
+Tuan ku junjung atas kepala
 ===
 Ruak-ruak deri rimba
 Kasi makan padi di dulang
@@ -38379,6 +38492,9 @@ Biarlah pergi barang ke mana
 Tidak kuasa menanggung gundah
 ===
 Terbang tinggi ke pohon sena
+Anak unggas terbang merendah
+Biarku pergi barang ke mana
+Tidak kuasa menanggung gundah
 ===
 Terbang tinggi si cenderawasih
 Hinggap sebentar di pohon selasih
@@ -38386,6 +38502,9 @@ Irama segar melodi terpilih
 Mesra menerusi Sekapur Sirih
 ===
 Terbang tinggi si kumbang jati
+Terbang menyisih di atas awan
+Marilah datang si jantung hati
+Aku rindu padamu tuan
 ===
 Terbang tinggi si raja helang
 Hinggap mari di kayu tinggi
@@ -38398,6 +38517,9 @@ Toean koedjoendjoeng atas kepala
 Sepantoen baidoeri telah dikarang
 ===
 Terbang tiung atas kuala
+Terbang menyusup ke dalam limas
+Tuan ku anggap benang sutera
+Ku sulam dengan benang emas
 ===
 Terbang tiung dari kuala 
 Terbang nuri dari seberang 
@@ -38405,14 +38527,9 @@ Tuan kujunjung di atas kepala
 Laksana baiduri telah terkarang
 ===
 Terbang tiung dari kuala
-===
-Terbang tiung ke tanah seberang
-Terawang-awang di atas kayangan
-Entah sampai entah tidak
-Mengadu untung di rantau orang
-
-Tidur malam berbantal lengan
-Entah makan entah tidak
+Nuri terbang dari seberang
+Tuan kujunjung atas kepala
+Sepantun baiduri telah dikarang
 ===
 Terbang unggas dari udara 
 Samar menyamar di kaki awan 
