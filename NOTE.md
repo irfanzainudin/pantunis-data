@@ -244,3 +244,7 @@
 
 - [Search for this pattern] (Itulah Lalat)
 - There's another pantun that I cannot remember its pattern so I cannot search for it, but I remember it is a teka-teki and has an answer
+
+## Strange things in ATMA's MalayCivilization
+
+- https://malaycivilization.com.my/items/show/49413
