@@ -7932,6 +7932,9 @@ Tuan terikat di dalam hati
 Remuklah jiwa abang nan fana
 ===
 Remuk redam kapal di Tanjung
+Tampak dari Pulau Jerjak
+Rindu dendam sama di tanggung
+Hendak menangis bukannya budak
 ===
 Remuk redam kapal di tanjung
 Nampak dari Pulau Jerjak
@@ -7994,6 +7997,9 @@ Jika tuan bijaksana
 Langit tergantung mana talinya
 ===
 Rendah pohonnya dulang-dulang
+Tempat bersarang barau-barau
+Kalau untung kembali pulang
+Bila malang hilang di rantau
 ===
 Rendam melati terapung-apung
 Mari dipilih susunan renggang
@@ -8026,6 +8032,9 @@ Bengang risau angkara sendiri
 Pikat anak ibu yang lekat!
 ===
 Rendang kopi dihangusi
+Kopi direndang orang seberang
+Turun embun dinda tangisi
+Abang jauh dirantau orang
 ===
 Rendang lada disampul pulih
 Asam gelugur di tebing tinggi
@@ -8058,6 +8067,9 @@ Nyata terpikat masuk merisik
 Nyata mengandung besarnya perut
 ===
 Rendang rimpi emping belinjau
+Hendak memondok ke Suralaya
+Hari ini orang membantai kerbau
+Esok kita berhari raya
 ===
 Rendang sungguh pohon angsana
 Tempat berteduh tidak berpunya
@@ -8100,6 +8112,9 @@ Sudah malu cintakan saya
 Jika mati bersusun bangkai
 ===
 Rending lada di sampul puleh
+Asam gelugor di Tebing Tinggi
+Dipandang ada diambil tak boleh
+Biarlah gugur dia sendiri
 ===
 Renjani bunga renjani 
 Lalu bertumbu di tepi kolam 
@@ -8157,6 +8172,9 @@ Tuan laksana kamunchak payong
 Sahya di bawah menjunjong duli.
 ===
 Rentap dayong sorong dayong
+Pegang dayong sebla kiri
+Tuan diatas kamunchak payong
+Sahya di bawah menyunjong duli
 ===
 Rentap dayong sorong dayong
 Pegang dayong di tangan kiri
@@ -8167,11 +8185,6 @@ Rentap dayong tarek dayong
 Dayong di-rentap seblah kaki
 Tuan sa'umpama kamunchak payong
 Saya di-bawah menjunjong duli
-===
-Rere ho so tardungdungkon le
-Sibarebe ni Simangambat da
-Kehe ho so tarlungunkon
-Dalananmi na so tarambat da baya
 ===
 Resam hulu mencari parang
 Adat buaya makan menyerang
@@ -8202,9 +8215,6 @@ Retak karat kepada baja
 Retak galah terbelah dua
 Minta daulat kepada raja
 Minta petuah kepada nan tua
-===
-Retak menunggu belah
-Saja mencari salah
 ===
 Retak urat ada bercanggah
 Retak bara ada tengarang
@@ -8267,6 +8277,9 @@ Laksana siang menanti malam
 Demikianlah umur sekalian kita
 ===
 Riang-riang terbang ke kolam
+Tetak bentangur depan kota
+Laksana siang menanti malam
+Demikian umur sekalian kita
 ===
 Riang-riang terbang ke kolam
 Tetak bentangor depan kota
@@ -8352,12 +8365,10 @@ Ribu-ribu jalan ka Kandih
 Andak dibao ka pangkanyo
 Ibu kanduang jan manangih
 Anak dibao pamintaknyo
-
-
+===
 Ribu-ribu jalan ke Kandis
 Hendak dibawa ke pangkalnya
 Ibu kandung jangan menangis
-
 Anak dibawa ouang yang memintanya
 ===
 Ribu-ribu jalan ke kandis
@@ -8371,8 +8382,14 @@ Bundaku tinggal jangan menangis
 Anak membawa akan nasibnya
 ===
 Ribu-ribu merentang jalan
+Anak buaya merentang tasik
+Jika seribu orang berjalan
+Tuan seorang dipandang cantik
 ===
 Ribu-ribu merentang jalan
+Anak buaya merentang tasik
+Jika seribu orang berjalan
+Tuan seorang 'ku pandang cantik
 ===
 Ribu-ribu pokok mengkudu
 Cincin permata jatuh ke ruang
@@ -8395,6 +8412,9 @@ Usah digentar untuk berjuang
 Hamba tetap berdiri di belakang
 ===
 Ribut hujan masuk perahu
+Perang merbah dengan bintungan
+Larangan makhluk yang 'kan tahu
+Entahkan Allah dengan junjungan
 ===
 Ribut kuat ombak mengulung
 Pukul gendang tari menari
@@ -8437,8 +8457,14 @@ Laymo ini laymo China
 Setaon sekali nampak buahnya
 ===
 Rimau telap di bukit Pinang
+Langsung ke Rambai tempat berulang
+Tengah tidur selap terkenang
+Bagai di lambai rasa 'nak pulang
 ===
 Rimba besar di atas bukit
+Bukit Tinggi tebingnya curam
+Iba yang besar lepas penyakit
+Mendapat ubat hati yang geram
 ===
 Rimba dibakar menanam padi
 Makan berhulam buahnya petai
@@ -8456,17 +8482,18 @@ Hiba yang besar lepas penyakit
 Mendapat ubat hati yang geram
 ===
 Rimbo iko pintas-an punai
+Tampek barabah pulang makan
+Ambo iko sa-pantun inai
+Randah bana dari dahan
 ===
 Rimbo ini rimbo takapuang
 Tidak saelok paladangan
 Kami sapantun ameh lancuang
 Tidak buliah naiak timbangan
-
-
+===
 Rimba ini rimba terkepung
 Tidak seelok perladangan
-Kami sepantun emas lancung 
-
+Kami sepantun emas lancung
 Tidak boleh naik timbangan
 ===
 Rimbo nan tiado balanjuang
@@ -8510,6 +8537,9 @@ Adik tinggal di tempat suatu
 Kenangkan abang masa nak tidur
 ===
 Rimbun rampak pohon tembatu
+Tenggiran unggas panjang ekor
+Adik tinggal di tempat suatu
+Kenangkan abang masa 'nak tidur
 ===
 Rimbun rampak pohon tembatu
 Tenggiran unggas panjang ekor
@@ -8522,6 +8552,9 @@ Cantik wangi si bunga hidup
 Segar subur di tangkai takdir
 ===
 Rindu dendam dipintu kandang
+Pucuk bayam kutumis sahaja
+Rindu siang kubawa tandang
+Rindu malam kutangis sahaja
 ===
 Rinduan inilah dari dalam
 Hati yang suci dengan sedia
@@ -8529,18 +8562,14 @@ Kata penduduk selamat jalan
 Angin dan arus hantar mulia
 ===
 Rindu-rindang bawa ke kandang
+Batang bayam ditumiskan
+Rindu siang terbayang-bayang
+Rindu malam ditangiskan
 ===
 Ringin anom tumpang sari
 Tulungagung murah gula
 Isih enom nuruti ati
 Suk nak kadhung cik ndak ngaya-ngaya
-
-
-Beringin muda bersusun susun
-Di Tulungagung banyak gula
-Masih muda mengumbar birahi
-
-Sudah beristri mengeram diri
 ===
 Rintik rintik hujan seberang
 Rintik pagi sejuk sekali
@@ -8563,11 +8592,14 @@ Wajah cantik senyumnya manis
 Api cinta terasa dingin
 ===
 Rintik-rintis anak kasau
+Batang padi 'ku lurut juga
+Layar tak lepas ujung pulau
+'Ku putar kemudi 'ku turut juga
 ===
-rinu ni ate gerene tertjari 
-kemakin musambung urum penipi 
-teringet aku kin taon sisunji 
-semasa temuni iwan keramunting
+Rinu ni ate gerene tertjari
+Kemakin musambung urum penipi 
+Teringet aku kin taon sisunji 
+Semasa temuni iwan keramunting
 ===
 Rio renda di tengga padang
 Anak Blanda pasang meriam
@@ -8635,16 +8667,9 @@ Isteri yang lemah jangan didera
 Nanti merayap ke pintu belakang
 ===
 Riuh rendah di tepi teluk
-===
-Riuh rendah gegak gempita
-Pesta cahaya lampu pelita
-Pelita disangkut di dahan sena
-Terang benderang di malam raya
-
-Tajam pedang jelas di mata
-Tajam lidah menyusun kata
-Sama menghiris sama mengena
-Cuma membunuh berlainan cara
+Lihat orang duduk bertenun
+Tengah malam ayam berkokok
+Serasa tuan datang membangun
 ===
 Riuh sekali orang dipasar
 Hilir mudik berpusu-pusu
@@ -8707,6 +8732,9 @@ Bodoh bingal boleh diajar
 Bodoh sombong pentingkan diri
 ===
 Roboh lantai titian kijang
+Anak rusa makan padi
+Tubuh kecil dadanya bidang
+Tempat abang bersandar mati
 ===
 Roboh lantai titian kijang
 Anak rusa makan padi
@@ -8757,12 +8785,10 @@ Roko sitok mota-mati
 Tak-guwak eman segere
 Bojo sitok dadi ati
 Tak-guwak eman bombere
-
-
+===
 Rokok satu sering mati
 Akan dibuang sayang segarnya
 Istri satu sakitkan hati
-
 Akan kuceri sayang gemuknya
 ===
 Rokok apa sing paling enak
@@ -8779,12 +8805,10 @@ Rokok apa sing paling enak
 Sing paling enak rokok mlinjo
 Melok sapa sing paling enak
 Sing paling enak melok bojo
-
-
+===
 Rokok apa yang paling enak
 Paling enak rokok mlinjo
 Ikut siapa yang paling enak
-
 Yang paling enak ikut suami
 ===
 Rokok daun rokok keretek
@@ -8798,15 +8822,24 @@ Kasih tuan haram tak kekal
 Sebagai embun di hujung rumput
 ===
 Rokok suribu di bawak bukal
+Bawak mudek sampie kalukut
+Kasih tuan haram tak kakal
+Sebagie umbun di hujong rumput
 ===
 Romah ber-anjong di olak kan
+Romah baginda marah ganti
+Kami dimelia dihina kan
+Itu menghiba hati kami
 ===
 Roman jari atap lendang
 Tepinang bale leq deket paon
 Lamun side tetep keras doang
 Te bepisah jengke setaon
 ===
-Rombong ini
+Rombong ini rombong Malaka
+Perbuatan-nya tiada kasar
+Mata ini mata chilaka
+Menengok chantek terkejar-kejar
 ===
 Rono takilek dalam bulan
 Mambayang ka sawah bunta
@@ -8854,15 +8887,6 @@ Rosak hati kerana budi
 Rosak budi kerana orangnya
 ===
 Rosak pandan kerana padi
-===
-Rosak pandan kerana padi
-===
-Rosak pandan kerana padi
-Rosak padi kerana bunganya
-Rosak badan kerana budi
-Rosak budi kerana orangnya
-===
-Rosak pandan kerana padi
 Rosak padi kerana bunganya
 Rosak badan kerana budi
 Rosak budi kerana orangnya
@@ -8887,9 +8911,15 @@ Anak bebarau di atas lada
 Saya tak tahu larangan orang
 Saya menumpang bergurau saja
 ===
-Rotan batu
+Rotan batu rotan udang
+Anak bebarau di atas lada
+Saya tak tahu larangan orang
+Saya menumpang bergurau sahaja
 ===
 Rotan dahan batang cemperai
+Di belah tak mahu sipi
+Tiga tahun abang bercerai
+Malam tadi masuk mimpi
 ===
 Rotan dilipat panjang lima
 Naik perahu belayar ke Jawa
@@ -8906,16 +8936,6 @@ Pucuk menjulai ke seberang
 Tuhan dicari tidakkan dapat
 Tuhan berlindung di tengah terang
 ===
-Rotan manau dibuat bidai
-Diraut disalai di atas para
-Pacak tiang berdiri kaku
-Bidai diikat tali jerami
-
-Akal bagai kain cindai
-Halus lembut bak sutera
-Dilipat-lipat sebesar kuku
-Dihampar pula menutup bumi
-===
 Rotan peledas berbingkai akar 
 Akar diramu di hutan rimba 
 Syaitan dibalas dengan dibakar 
@@ -8926,7 +8946,10 @@ Dibilah tidak bertepi
 Cerai untuk berbelas tahun
 Baru semalam masuk mimpi
 ===
-Rotan relang
+Rotan relang rotan sega
+Rotan gajah rotan sengkela
+Itulah sebab orang berkata
+Pantun adalah bunga bahasa (Himpunan Pantun Melayu Pak Zek) (Sekapur Sirih) (Dato Haji Zakaria Hitam) (Himpunan Pantun Pak Zek. Petaling Jaya: Bukuraya Media) (Tahun 1991)
 ===
 Rotan rosak di hujung tanjung
 Hanyut terletak di tepi tebing
@@ -8954,6 +8977,9 @@ Bisa terlampun di paytak tedong
 Tukang yang mana dapat di tawar
 ===
 Rotan sega di kerat-kerat
+Hendak ikat pagar berjala
+Periuk tembaga bersenam karat
+Kalau di kalai baru semula
 ===
 Rotan sega dibelah-belah
 Ambik buluh ditetak dahan
@@ -8964,17 +8990,6 @@ Rotan sehasta diganti akar
 Akar disirat menganyam bubu
 Surat cinta sudah dibakar
 Mahligai kasih menjadi abu
-===
-Rotan sepatah doea patah
-Tarik kerakap batang padi
-Di bawa Soeutan dari Djoedah
-Padi jang djangan digempakan
-
-Kalau gempa antara goegoer
-Bila goegoer masoek perigi
-Di sitoe ditanam poela
-===
-Rotan sepatah dua patah
 ===
 Rotan soni dibola ompek
 Pucuk manjualai ka suborang
@@ -9027,6 +9042,9 @@ Rindu siang bawa bertandang
 Rindu malam ditangiskan
 ===
 Ru sebatang tepi tempat
+Merica perang dengan ujungnya
+Tolaklah dagang yang melarat
+Ke risau tuan dek untungnya
 ===
 Ruah-ruak burung di paya 
 Papan dirapat sampaian kain 
@@ -9069,6 +9087,9 @@ Orang tua hendak bercantek
 Rambut puteh sapu arang
 ===
 Ruak ruak lagi rumbia
+Kahit kahit dalam dulang
+Mas perak harta di dunia
+Budi baik di kunang orang
 ===
 Ruak ruak mandi di rumbia
 Mandi mari dalam dulang
@@ -9086,6 +9107,9 @@ Mas perak harta dunia
 Budi basa di kenang orang 
 ===
 Ruak-ruak burung di kali
+Papan dirapat sampaian kain
+Awak juga membuang diri
+Sebab mendapat muda yang lain
 ===
 Ruak-ruak burung di kali
 Papan dirapat sampaian kain
@@ -9100,7 +9124,7 @@ Tuan ku junjung atas kepala
 Ruak-ruak deri rimba
 Kasi makan padi di dulang
 Mas perak harta di dunia
-Budi baik di kenang orang.
+Budi baik di kenang orang
 ===
 Ruak-ruak deri rimba
 Kasi makan padi di dulang
@@ -9123,8 +9147,14 @@ Orang tua hendak bercantik
 Rambut putih disapu arang
 ===
 Ruak-ruak kena belantik
+Kena belantik burung lang
+Orang tua hendak cantik
+Rambut putih sapu arang
 ===
 Ruak-ruak kena belantik
+Kena belantik burung kuala
+Orang tua hendak cantik
+Gigi rongak gala-gala
 ===
 Ruak-ruak mandi di paya
 Orang menumbuk di Pulau Hantu
@@ -9182,6 +9212,9 @@ Susunan pantun kalau ta'betul
 Ma'afkan saya beribu ampun
 ===
 Ruki-ruki tanah Betawi
+Pinang muda di belah dua
+Fakir-fikir dalam hati
+Bantal satu kepala dua
 ===
 Rukrak-rukrak ujan renyai
 Ujan turon belah petang
@@ -9189,6 +9222,9 @@ Teketaq-ketaq pi ke kedai
 Pi ke kedai membeli barang
 ===
 Rukuk seribu di bawa bekal
+Dibawa mudik sampai ke Lukut
+Kasih tuan haram tak kekal
+Sebagai embun di ujung rumput
 ===
 Rukun syarat tak buliah tingga
 Kawajiban dalam barundiang
@@ -9211,6 +9247,9 @@ Rindu saya bukan sedikit
 Nyaris mati semalam-malam
 ===
 Ruku-ruku dari Peringit
+Teras jati bertalam-talam
+Rindu saya bukan sedikit
+Nyaris mati semalam-malam
 ===
 Ruku-ruku dari Peringit
 Teras jati bertalam-talam
@@ -9218,6 +9257,9 @@ Rindu sahaya bukan sadikit
 Nyaris mati sa-malam-malam
 ===
 Ruku-ruku riki-riki
+Buat serbat air madu
+Bagai kuku dengan isi
+Sahabat juga memberi malu
 ===
 Ruma berloteng bergantong tabir 
 Berjumput segala orang orang 
@@ -9255,6 +9297,9 @@ Katigo banamo 'sando aguang'
 Maso saisuak harago tak tantu
 ===
 Rumah angus pukullah tontong
+Anak Cina menarik pompa
+Rupanya bagus kantungnya kosong
+Tidak berguna suatu apa
 ===
 Rumah apa bilik bertingkat
 Atap dan dinding sama serupa
@@ -9287,23 +9332,14 @@ Niat hati nak getah bayan
 Tapi tergetah burung serindit
 ===
 Rumah ba-anjuang di Ulakan
+Rumah Banginda Marah Ganti
+Di-sanjuang kami di-antak-an
+Alangkah ibo ati kami
 ===
 Rumah baanjuang ujuang jo pangka
 Nan salanja kudo balari
 Tuturan alang ka babega
 Babega patang jo pagi
-===
-Rumah baharu cantik dialas
-Alasan dekat kerawang berbunga
-Saya umpama daun palas
-Balut ketupat baharu berguna
-
-
-The new house stands up prettily
-Wonderfully fretted with open-work flowers
-I am like any old palm leaf
-
-Just used to wrap up the rice
 ===
 Rumah bambu berlantai tenda
 Tikar pandan boleh dijual
@@ -9311,6 +9347,9 @@ Jaga nama baik anda
 Itu harta termahal
 ===
 Rumah baru berpintu kaca
+Rumah Tuanku Malim Sutan;
+Ambil buku mari dibaca
+Perintang hati diharu setan
 ===
 Rumah baru berpintu kaca
 Ruang tamu berperabot rotan
@@ -9318,6 +9357,9 @@ Ambil buku marilah baca
 Perintang hati diharu setan
 ===
 Rumah baru cantik di alas
+Alasan hebat kerrawang berbunga
+Saya umpama daun palas
+Balut ketupat baru berguna
 ===
 Rumah baru diri
 Atap daun rembia
@@ -9325,6 +9367,9 @@ Punggah sana sini
 Jumpa ulaq sawa
 ===
 Rumah baru empat persegi
+Dindingnya papan ditaruh cat
+Kalau disuruh memijit kaki
+Tidaklah akan menjadi cacat
 ===
 Rumah batu atap lama
 Pokok mengkirai di tepi tiang
@@ -9337,8 +9382,14 @@ Barang tak tentu jangan dikata
 Barang tak gamak selalu jadi
 ===
 Rumah batu berpintu kaca
+Tukangnya orang Tanggerang
+Kalau rindu bacalah buku
+Karena buku abang yang karang
 ===
 Rumah batu berpintu kaca
+Rumah Tuanku Malim Sultan
+Ambil buku mari dibaca
+Perintang hati diharu setan
 ===
 Rumah batu berpintu kaca
 Rumah tuanku Malim Sutan
@@ -9361,8 +9412,14 @@ Kalau sudah bertutup rapat
 Angin dan ribut tak dapat membuka
 ===
 Rumah bebilik ditingkatkan
+Rumah adat Indragiri
+Selama adik abang tinggalkan
+Selendang sutera 'kan ganti diri
 ===
 Rumah beranjung di Ulakan
+Rumah baginda Merahganti
+Kami dimulia dihinakan
+Alangkah hiba rasa hati
 ===
 Rumah bertuah punya penunggu
 Walaupun menurut urutan anak yang bungsu
@@ -9385,8 +9442,14 @@ Apakah besar maksud tuan
 Katakanlah ceper saya nak tahu
 ===
 Rumah besar berdinding tidak
+Mari dinding pelepah palas
+Tubuh besar berbini tidak
+Itu tanda orang pulas
 ===
 Rumah besar berdinding tidak
+Berdinding dengan daun palas
+Badan besar berbini tidak
+Itu tanda orang pemalas
 ===
 Rumah besar berkasau rotan
 Di titi berlari-lari
@@ -9394,6 +9457,9 @@ Kasih tidak berkelihatan
 Bagai cincin terpasang jari
 ===
 Rumah besar berkisi-kisi
+Belanda mabuk dua tiga
+Cakap jangan dihabisi
+Besar rambut di tinggal juga
 ===
 Rumah besar berkisi-kisi
 Belanda mabuk dua tiga
@@ -9421,6 +9487,9 @@ Hilang akar hilang peribadi
 Ada pensel tangan terikat!
 ===
 Rumah besar di goncang bayu
+Atapnya ijok dindingnya papan
+Tuan seumpama kain baju
+Tidak luput dari badan
 ===
 Rumah besar di Sungai Rambai
 Tiangnya sampai delapan puluh
@@ -9458,6 +9527,9 @@ Syaitan siapa datang mengaru
 Nasi ditelan serasa lilin
 ===
 Rumah besar Tengku Semah
+Tiang tengah tiga puluh
+Santap tuan belum berjamah
+Sirih tanam belum tumbuh
 ===
 Rumah besar tiang seribu
 Setampik berdinding papan
@@ -9470,20 +9542,24 @@ Syaitan siapa datang menggaru
 Nasi ditelan terasa lilin?
 ===
 Rumah bola dimakan api
+Asapnya sampai ke Batang Muar
+Sangat hiba di hati kami
+Olehnya tidak berkata benar
 ===
 Rumah bulek di Padang Data
 Tampak nan dari Palembayan
 Anguih ati bak dibaka
 Diliek dalam palimauan
-
-
+===
 Rumah bulat di Padang Data
 Tampak dari Palembayan
 Hangus hati bagai dibakar
-
 Dilihat dalam perlimauan
 ===
 Rumah buruk hujan tempias
+Melimpah air mengampus penuh
+Jangan encik' menunjuk chias
+Kelaku kelayak tiada senonoh
 ===
 Rumah buruk pintu sembilan
 Nanti diroboh tidak diroboh
@@ -9503,14 +9579,7 @@ Tumbuh cendawan berbelang-belang
 Rumah daun dindingnya bambu
 Angin silir hujan tak basah
 Keluarga lagi sengketa
-Sembunyi pedang 'mari bicara!' 
-
-
-Walls of the house are made of bamboo
-The blow of wind won't cause the wet
-If family are in real dispute
-
-Hide the machette
+Sembunyi pedang 'mari bicara!'
 ===
 Rumah di dalam bendang
 Tiang kayu bulat
@@ -9543,6 +9612,9 @@ Punggah habeh relai
 Sebab makan ulat
 ===
 Rumah dipansa abis ditunu
+Pesaka mudal bela ditemu
+Ipa munsoh rabut selalu
+Takut ka bala bulu saribu (Pantun Sarawak) (Ngayau Mepi) (Unggat Kedu) (Pantun Ngayau Mepi. Borneo Literature Bureau.) (Tahun 1964)
 ===
 Rumah gadang agiah batirai
 Balangik-langik batabia pulo
@@ -9553,21 +9625,11 @@ Rumah gadang balantai tigo
 Dititih sambia balari
 Kasiah sayang kan carai tido
 Sapantun cincin mangatam jari
-
-
+===
 Rumah gadang berlantai tiga
 Dititi sambil berlari
 Kasih sayang cerai tiada
-
 Sepantun cincin mengetam jari
-===
-Rumah gadang bari bapintu
-Nak tarak sampai ka dalam
-Jikok dibalun saleba kuku
-Kalau dikambang saleba alam
-
-Bago sagadang bijo labu
-Bumi jo langik ada di dalam
 ===
 Rumah gadang bari bapintu
 Nak tarang ka dalam
@@ -9588,17 +9650,16 @@ Rumah gadang bari baratok
 Bari badindiang kulik kayu
 Anak dagang di bari arok
 Allahurabbi nan ka tau.
-
-
+===
 Rumah gadang beri beratap
 Beri berdinding kulit kayu
 Anak dagang diberi harap
-
 Allahurabbi yang kan tahu
 ===
 Rumah gadang di Bukit Tinggi
-===
-Rumah gadang di Minangkabau
+Tampak nan dari gunung merapi
+Mau benar aku pergi
+Tapi kanda mungkir 'kan janji
 ===
 Rumah gadang pahatan pangeran
 Pintunya jangan dihempaskan
@@ -9621,6 +9682,9 @@ Lantainyo loyang bakarang
 Takarang ateh jariau
 ===
 Rumah gedang astana baru
+Papan diukir sisik tenggiling
+Petang-petang syaitan mengaru
+Nasi dimakan berasa lilin
 ===
 Rumah gedang atap jerami
 Lantai bambu dinding pelepah
@@ -9633,25 +9697,29 @@ Kalau hendak melamar kami
 Cinta ikhlas bukan mainan
 ===
 Rumah gedang bendulnya perak
+Ukiran anak raja dewa
+Tegang tidak kendur tidak
+Apa sebab putuskan sahaja?
 ===
 Rumah gedang berkepok-kepong
+Nampak pula tiang tajuknya
+Bukannya mudah cakap terlangsung
+Siang malam kena mabuknya
 ===
 Rumah gedang bersendi perak
 Beri bertonggak kayu jati
 Senang rupa badan terkucak
 Menaruh rusak dalam hati
 ===
-Rumah gedang bertingkap tidak
-Di mana angin nan lalu
-Entah di ruang-ruang lantai
-Hati memang bersikap tidak
-
-Di mana orang kok tahu
-Entahkan di situ nan merasai
-===
 Rumah gedang pecah delapan
+Belum sudah tukangnya mati
+Kiri tedung kanan lipan
+Tempat di mana berserah mati?
 ===
-Rumah gedang
+Rumah gedang papan berukir
+Keranji dibelah dua
+Kami datang kata tak mungkir
+Sebab dah janji kita berdua
 ===
 Rumah gedung jendela kaca
 Luas ruang jernih pandangan
@@ -9699,6 +9767,9 @@ Ayuhai encik kami bertanya
 Berapa harga intan di sini?
 ===
 Rumah kecil paranya lima
+Tempat menyalai ikan pari
+Adik kecil saya bertanya
+Berapa harganya intan di jari?
 ===
 Rumah kecil perannya lima
 Tempat menyalai ikan kerisi
@@ -9706,14 +9777,19 @@ Ayuhai encik saya bertanya
 Berapakah harga intan di sini?
 ===
 Rumah kecil pintu ke laut
-===
-Rumah kecil pintu ke laut
+Tempat Che Baba menggesek biola
+Tubuh kecil bagai diraut
+Mana hati saya tak gila
 ===
 Rumah kecil tiang berjajar
 Rumah dibina di tepi rawa
-Jadi murid
+Jadi murid wajiblah belajar
+Dewasa nanti tidak kecewa
 ===
 Rumah kecil tiang seribu
+Rumah gedang terpanggung
+Dari kecil timangan ibu
+Sudah besar timangan untung
 ===
 Rumah kecil tiang seribu
 Rumah besar bertiang sebatang
@@ -9776,6 +9852,9 @@ Hiduik di dunia bantu membantu
 Di dalam kubur terbaring surang
 ===
 Rumah kumandua di Si Junjuang
+Lai ta atok dangan ijuak
+Dapek ikan mangko di gungguang
+Untuak di makan patang bar-isuak
 ===
 Rumah lemas pintu berkunci
 Telur mencirak di dalam buluh
@@ -9788,6 +9867,9 @@ Tangkainya emas bunganya intan
 Bolehkan ranting hamba patahkan?
 ===
 Rumah limas Baginda Sutan
+Bunga kemuning tumbuh di laman
+Tangkainya emas bunganya intan
+Bolehkah ranting dipatahkan?
 ===
 Rumah limas empat persegi 
 Dinding papan ditaruh cat 
@@ -9864,9 +9946,6 @@ Termangu dara pingitan
 Sukar mencari kebenaran
 Musuh menunggu kesempatan
 ===
-Rumah pilih tiang besi
-Mata beleh terbit isi
-===
 Rumah pondok di tepi gaung
 Tempat orang pergi berjudi
 Mintakan pucuk bertambah daun
@@ -9886,12 +9965,10 @@ Rumah rang Cina korong papan
 Bagindo mudiak baparahu
 Janj i baduto kaliatan
 Budi barubah kami tau
-
-
+===
 Rumah rang Cina bersusun papan
 Baginda mudik berperahu
 Janji berdusta kelihatan
-
 Budi berubah kami tahu
 ===
 Rumah reyot tiris atapnya
@@ -9899,9 +9976,15 @@ Makanan ada mungkin tak ada
 Miskin papa orang adakan
 Bukan Tuhan dipersalahkan
 ===
-Rumah rungkup
+Rumah rungkup hujan tempias
+Basah kuyup kain sutera
+Kalau janda pandai berhias
+Terlebih pula anak dara
 ===
 Rumah sekolah atas bukit
+Bangsa Belanda mengajar Inggeris
+Gundahnya adinda bukan sedikit
+Rasanya dada bagai diiris
 ===
 Rumah sekolah di atas bukit 
 Bangsa Belanda mengajar Inggeris 
@@ -9914,13 +9997,9 @@ Gundahnya abang bukan sedikit
 Rasanya dada bagai dihiris
 ===
 Rumah sekolah di Maninjau
-===
-Rumah siap pahat pun senyap
-banyak kuini perkara kuini
-kuini berbau tandanya masak
-runding usai sengketa selesai
-banyak berani perkara berani
-berani Melayu pantang dianjak
+Atapnya ijuk dindingnya talang
+Adik serasa akan mengimbau
+Badan tak rasa bayang-bayang
 ===
 Rumah siapa berbelah bubong?
 Rumah saya berisi padi
@@ -9943,6 +10022,9 @@ Tunang siapa lalu bertudung
 Bekas tunangku inda menjadi
 ===
 Rumah siapa lentik bumbung
+Rumah Cik Siti membeli padi
+Tunang siapa lenggang bertudung
+Tunang saya yang tidak jadi
 ===
 Rumah siapa sebelah bumbung?
 Rumah saya berisi padi
@@ -10009,8 +10091,6 @@ Itu tempat duk sandar alu
 Rupa hodoh budipun tak ada
 Situ tempat orang tak malu
 ===
-Rumbigo dalam katidieng
-===
 Rumeh buruk pintu sembilan
 Nanti diroboh tidak diroboh
 Bagei pungguk rindukan bulan
@@ -10042,6 +10122,9 @@ Idop dunia sedang sedangan
 Jiwa bergantong di ujong napas
 ===
 Rumpai laut dari Semporna
+Sayur-sayuran dari Kundasang
+Hendak berpaut di mana-mana
+Cari kebenaran jadi perangsang (Kumpulan Pantun Sabah) (Umum) (Zaini Ozea) (Kumpulan Pantun Di Bawah Bayu. Dewan Bahasa dan Pustaka Cawangan Sabah.) (Tahun 2006)
 ===
 Rumpot teki di tenga hutan
 ===
