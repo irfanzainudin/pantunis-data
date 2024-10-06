@@ -239,6 +239,7 @@
 - Pantun #120267
 - Pantun #131024
 - Pantun #129727
+- Pantun #128843 ✅
 
 ## Pantun teka-teki that has answers
 
