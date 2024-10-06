@@ -48493,6 +48493,9 @@ Untuk apa berlaki tua
 Laki tua pandai memanjat
 ===
 Untuk apa membeli pinang
+Kalau dibelah pecah berkecai
+Untuk apa menjadi orang
+Kalau bekerja tidak selesai
 ===
 Untuk apa membeli rempah
 Kalau belanga penuh berisi
@@ -48575,6 +48578,9 @@ Untuk apa membeli keris
 Untuk menjaga laki menyelap
 ===
 Untuk apa mencelup bunga
+Kalau direnda tidak melekat
+Untuk apa hidup di dunia
+Kalau kerja tidak bermanfaat
 ===
 Untuk apa menebang pisang
 Supaya dapat merasa buahnya
@@ -48597,6 +48603,9 @@ Untuk apa mengingat hamba
 Kalau tuan sudah beristeri
 ===
 Untuk apa mengunun rusa
+Kalau rusa berkubang pasir
+Untuk apa disebut manusia
+Kalau bekerja bodoh dan pandir
 ===
 Untuk apa menjala limbat
 Untuk dijual setiap hari
@@ -48604,6 +48613,9 @@ Untuk apa bekerja berat
 Untuk bekal hidup nanti
 ===
 Untuk apa menumbuk emping
+Kalau bersama dedak padi
+Untuk apa duduk bersanding
+Kalau bekerja tidak menjadi
 ===
 Untuk apa menumbuk padi
 Kalau padi ada sekamnya
@@ -48666,6 +48678,9 @@ Untuk apa kami bermalam
 Kalau adik tak mau menegur
 ===
 Untuk apa paku dicabut
+Supaya mudah meletak galah
+Untuk apa ilmu dituntut
+Supaya kerja tidak menyalah
 ===
 Untuk apa pergi berburu
 Supaya dapat mengejar rusa
@@ -48688,6 +48703,9 @@ Untuk apa berlaki bujang
 Supaya senang disuruh-suruh
 ===
 Untuk apa pisang emas
+Jika buahnya dimakan musang
+Untuk apa uang dan emas
+Kalau kekasih jatuh ke orang
 ===
 Untuk apa sagu diayak
 Kalau tidak untuk dimakan
@@ -48739,7 +48757,10 @@ Untuk menjadi suluo ke jamban
 Untuk apo membilang ceito
 Untuk menjadi contoh teladan
 ===
-Untuk berjaya
+Untuk berjaya ikutlah petua
+Petua pertama menjauhi madat
+Ingatlah pepatah orang tua-tua
+Biar mati anak jangan mati adat
 ===
 Untuk bonda baju berseri
 Tambahkan lagi selendang merah
@@ -48747,9 +48768,14 @@ Bersama Rima di aidilfitri
 Bertambah lagi suasana meriah
 ===
 Untuk menghilangkan rasa kedudukan
-Tua
+Tua muda miskin dan kaya
+Tunku digelar 'Bapa Kemerdekaan'
+Penyatu semua rakyat Malaya
 ===
 Untuk penawar racun berbisa
+Kelapa muda kami sediakan
+Untuk penghibur hati saudara
+Rampai Irama kami sajikan
 ===
 Untuk penawar racun berbisa
 Kelapa muda kami sediakan
@@ -48775,11 +48801,6 @@ Untuknya dupa Dato' Hulubalang
 Hulubalang tampan segaknya rupa
 Kini hamba kembali pulang
 Dengan harapan dapat berjumpa
-===
-Untung dan hilang tidak tentukan faedahnya 
-juga harus lakukan
-Welakin susah jauh senang
-Ya sobat akan menang
 ===
 Untung galah sudah disambung
 Dapat petani mengait kelapa
@@ -48825,12 +48846,10 @@ Urang Aceh mangaia ikan
 Basampan panjang anyo lai
 Lapeh di pasa Ulakan
 Bajalan panjang anyo lai
-
-
+===
 Orang Aceh mengail ikan
 Memakai sampan panjang
 Lewat dari pasar Ulakan
-
 Segera berjalan panjang
 ===
 Urang Arab mandi bersabun
@@ -48847,45 +48866,31 @@ Urang Bantam mudiak ka Bantam
 Ka pakan mambali bareh
 Babaua itam samo itam
 Bak saka jo kopi kareh
-
-
+===
 Orang Bantam mudik ke Bantam
 Ke pekan membeli beras
 Berbaur hitam sama hitam
-
 Bagai gula enau dengan kopi keras
 ===
 Urang baralek di Paseban
 Puti bakundai katujuahnyo
 Bungo sakaki dalam bulan
 Musim pabilo kajatuahnyo
-
-
+===
 Orang berhelat di Paseban
 Puti berkonde ketujuhnya
 Bunga sekaki dalam bulan
-
 Musim pabila akan jatuhnya
 ===
 Urang barampek di Pasa Ateh
 Balimo turun jo gurunyo
 Kami diganggam-ganggam lapeh
 Indak bak itu daulunyo
-
-
+===
 Orang berempat di Pasar Atas
 Berlima turun dengan gurunya
-Kami digenggam-genggam dilepas 
-
+Kami digenggam-genggam dilepas
 Tidak begitu dahulunya
-===
-Urang Baso balum lai tibo
-Tidak jan jadi halangan
-Karajo nan tak ka sudah
-Sipat kasayangan nan kalimo
-
-Indak mamandang bangso
-Kaduduakan atau harato
 ===
 Urang baying pai mangaji
 Ka Cubadak jalan ka Panti
@@ -48913,6 +48918,9 @@ Jangan disusah jangan dibingong
 Kalo jodoh tidak ke mana
 ===
 Urang Bunguih ba-baju rantai
+Singgah di Rijang Bangkaulu
+Patuik bana badan ma-rasa-i
+Banyak mato-nyo bagai mangkudu
 ===
 Urang di lasuang manumbuak padi
 Sado nan caruah ditampi juo
@@ -48943,6 +48951,9 @@ Kalimo urang nan kayo
 Suko manolong nan bakakurangan
 ===
 Urang kalieng mam-bantai kambieng
+Kami nak sato sa-par-ampek
+Bungo di dalam cupu gadieng
+Mujua-lah kami nan man-dapek (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Urang Kampa manubo kampa
 Matilah ikan salu buaknyo
@@ -48963,33 +48974,15 @@ Urang Mangguang mambali padi
 Dibawo urang ka Salasa
 Pasampai pasan bakeh nuri
 Bayan takuruang dalam sangka
-
-
-Orang Mangguang membeli padi
-Dibawa orang ke Salasa
-Sampaikan pesan pada nuri
-
-Bayan terkurung dalam sangkar
-===
-Urang Mangguang mananam kapeh
-Bajaguang lalu ka Paingan
-Sayo manantang lauik lapeh
-Adaik manahan paratian
-
-
-Orang Mangguang menanam kapas
-Bertanam jagung
 ===
 Urang Mangguang pai bakudo
 Bapacu ka tangah sawah
 Ajo kanduang tangguanglah doso
 Samo sarahkan pado Allah
-
-
+===
 Orang Mangguang pergi berkuda
 Berpacu ke tengah sawah
 A bang kandung tanggunglah dosa
-
 Sama serahkan kepada Allah
 ===
 Urang manjarek tangah sawah
@@ -49001,16 +48994,11 @@ Urang manumbuak jolong gadang
 Ayam makan jolong turun
 Manangih di rantau urang
 Ka pulang barameh balun
-
-
-Orang menumbuk baru gadan
-Ayam makan jolong turun
-Menangis di rantau orang
-
-Akan pulang beremas belum
 ===
 Urang melukah menikalak
-Tiada rotan
+Tiada rotan ketaya ada
+Orang bersumpah selagi galak
+Tiada orang lagi percaya
 ===
 Urang nan takuik pado lahia
 Batin salalu bakarupatan
@@ -49021,21 +49009,6 @@ Urang Nata manjua panah
 Pamanah buruang di udaro
 Sajak sajangka dari tanah
 Balunlah tau nan bak nangko
-
-
-Urang Natal menjual panah
-Pemanah burung di udara
-Sejak sejengkal dari tanah
-
-Belumlah tahu yang seperti ini
-===
-Urang Padang maanik banang
-Dikumpa-kumpa dilipek
-Dilipek lalu dipatigo
-Kurang pandai marantang panjang
-
-Elok dikumpa mak nyo singkek
-Singkek sakadar ka paguno
 ===
 Urang Padang mandi ka gurun
 Mandi bakusuak bungo palo
@@ -49056,24 +49029,20 @@ Urang Pauah pai ka Padang
 Tibo di Padang jua-bali
 Dari jauah kamilah datang
 Mandanga adiak baiak budi
-
-
+===
 Orang Pauh pergi ke Padang
 Tiba di Padang berjual-beli
 Dari jauh kamilah datang
-
 Mendengar adik baik budi
 ===
 Urang Sianok pandai lukah
 Kanailah udang duo-duo
 Kok lai urang mati disumpah
 Saurang sajo urang tak kabasuo
-
-
+===
 Orang Sianok pandai melukah
 Kenalah udang dua-dua
 Jika ada orang mati disumpah
-
 Tak seorang pun akan tersua
 ===
 Urang Silungkang mambawok kapeh
@@ -49085,12 +49054,10 @@ Urang Suliki manyuligi
 Urang hanyuik baduo-duo
 Kasiah nan jangan diputuihi
 Bagi rambuik tinggakan juo
-
-
+===
 Orang Suliki pergi menyuligi 
 Orang hanyut berdua-dua
 Kasih jangan diputusi
-
 Separuh rambut tinggalkan jua
 ===
 Urang Talu manjua rotan
@@ -49139,6 +49106,9 @@ Mengharapkan musang menjaga reban
 Kononnya ayam hidup bahagia
 ===
 Urek jilatang rang panto-kan
+Gambulau daun aleh dulang
+Tiok urang datang di-tanyo-kan
+Di junguik pulau kato urang (Pantun Minangkabau) (L K Harmsen) (Batavia) (Tahun 1875)
 ===
 Urirang merah-nya dadu
 Jatoh dilumpor merah-nya kurang
@@ -49146,21 +49116,19 @@ Sakit sunggoh badan dimadu
 Masok disumsun menembus tulang
 ===
 Uroh uroh di matan suraoh
+Suraoh melarek di kaki dulang
+Ombak bertepok di ujong puloh
+Aros nya kras bukan kepalang
 ===
-urum2 beluh musara loloten
-urum2 mowen musara tenamunen
-tape gere kusangka wo bunge gergemen
-beluh gere bersinen ne kin sitaring
+Urum2 beluh musara loloten
+Urum2 mowen musara tenamunen
+Tape gere kusangka wo bunge gergemen
+Beluh gere bersinen ne kin sitaring
 ===
 Usah ba-ladang mudiek Pauah
-===
-Usah bamimpi barasian
-Mukasuik hati mamaluak gunuang
-Apa dayo tangan tak sampai
-Katujuah sipat kabancian
-
-Angan-angan tinggi mambubuang
-Sadang agak-agak manyampaian
+Rakik siapa man-jala-kan
+Usah ba-dagang jauah-jauah
+Sakik siapa mang-gilo-kan (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Usah diacah si anak kera
 Nanti diserkup si bapa beruk
@@ -49176,12 +49144,10 @@ Usah ditahan tabiang runtuah
 Kalau ditahan ditimponyo
 Usah ditahan ati rusuah
 Kalau ditahan digilonya
-
-
+===
 Usah ditahan tebing runtuh
 Kalau ditahan akan ditimpanya
 Usah ditahan hati rusuh
-
 Kalau ditahan gila dibuatnya
 ===
 Usah ditebang pohonan rimbun
@@ -49190,6 +49156,9 @@ Kalau berkembang di balik daun
 Di mana embun dapat menitik
 ===
 Usah di-timbo sumua Padang
+Jikok di-timbo mangkin panuah
+Usah di-cinto anak dagang
+Jikok di-cinto mangkin jauah (Pantun Minangkabau) (A.L van Hasslet) (Midden Sumatra: Leiden Brill) (Tahun 1881)
 ===
 Usah ditiru bungo culan
 Bungo nan harum tak jadi buah
@@ -49200,24 +49169,20 @@ Usah kito duduak di majun
 Mari kito duduak ka tangah
 Usah kito rintang di pantun
 Mari kito pulang ka rumah
-
-
+===
 Usah kita duduk di majun
 Mari kita duduk ke tengah
 Usah kita rintang kan pantun
-
 Mari kita pulang ke rumah
 ===
 Usah lai diarok lai
 Aroklah di gungguang pikau
 Usah lai diarok lai
 Sayo di baliak gunung ijau
-
-
+===
 Usahlah diharap lagi
 Harapanlah digunggung pikau
 Usahlah diharap lagi
-
 Saya di balik gunung hijau
 ===
 Usah menuba di tengah hari
@@ -49239,12 +49204,10 @@ Usah taleo-leo padi
 Namun bidauik saampu juo
 Usah baibo-ibo ati
 Namun iduik batamu juo
-
-
+===
 Usah terjela jela padi
 Namun biduk seempu jua
 Usah berhiba-hiba hati
-
 Jika hidup bertemu jua
 ===
 Usahakan berkata-kata
@@ -49258,6 +49221,9 @@ Usahlah mengungkai di tangan orang
 Di tangan Allah abang ungkaikan
 ===
 Usahkan pinang di parit
+Lagi sabut saya torang
+Usahkan bintang di langit
+Lagi rambut saya bilang
 ===
 Usahokan budi tak kalihatan
 Saumua hiduik urang tak lupo
@@ -49380,6 +49346,9 @@ Tatih adik'tatih
 Tatih ulang-ulang
 ===
 Utik-utik ikan bimbang
+Minyak ketiau di ujung galah
+Raja kecil silakan pulang
+Linggi di langgar Riau yang salah
 ===
 Utuk-utik ikan bambang 
 Minyak ketiau di hujung galah 
@@ -49406,41 +49375,6 @@ Wohe mateng dipethik bocah
 Aja umuk yen lagi duwe
 Saiki seneng sesuke susah
 ===
-Vallen dakpennen naar beneden
-Dakpannen stelt men er voor in de plaats
-Al sterft ook de vader
-Er is een zoon om hem te vervangen
-
-(door een schuldeiser gezegd tegen de zoon van zijn 
-overleden schuldenaar)
-===
-Van runderleer
-Maakt men gambirtassen
-Wanneer ge op reis mocht gaan
-Laat dan iets tot souvenir
-===
-Vandaag is het een bittere sitopu-plant
-Een sitarak wederom in de toekomst
-Laat ons vandaag nog bij elkander komen
-Want wederom scheiden moetten we immers later
-===
-Verbrand heeft men bamboe
-Op een weg met volgelnetten
-Wanneer de toorn over iemand komt
-Denkt men niet meer aan het verderf
-===
-Voetsporen van olifanten
-In het dal van Pangaloan
-Wanneer de radja mocht bevelen
-Is het goed te gehoorzamen
-===
-Vuurvliehjes in een pandanpalm
-Het salimbatuk-kruid is ineen gekronkeld
-Denk steeds
-===
-Wadhah lenga gendul kopi
-Golek kanca ngati-ati
-===
 Wafatnya Baginda jadi sejarah
 Berderai air mata Aisyah
 Berkesan sungguh tiada ter surah
@@ -49461,73 +49395,175 @@ Engkau ini anak perempuan
 Jikalau engkau ada pertemuan
 Suamimu itu jangan di lawan
 ===
-wahai ananda belahan diri
+Wahai ananda belahan diri
+Kerja menyalah jangan hampiri
+Berbuat maksiat jangan sekali
+Supaya hidupmu diberkahi Illahi
 ===
-wahai ananda buah hati bunda
+Wahai ananda buah hati bunda
+Berpegang teguhlah pada agama
+Beramalllah engkau sehabis daya
+Supaya selamat dari neraka
 ===
-wahai ananda cahaya gemilang
+Wahai ananda cahaya gemilang
+Ilmu di dada jangan dibuang
+Jauhkan segala pantang dan larang
+Supaya hidupmu tidak terbuang
 ===
-wahai ananda cahaya mata
+Wahai ananda cahaya mata
+Janganlah tamak kepada harta
+Mencari nafkah berpada-pada
+Supaya hidupmu tiada ternista
 ===
-wahai ananda cahaya rumah
+Wahai ananda cahaya rumah
+Dalam ibadah janganlah lengah
+Kerjakan suruh jauhkan cegah
+Supaya hidupmu beroleh berkah
 ===
-wahai ananda dengarkan peri
+Wahai ananda dengarkan peri
+Tunangan hidup adalah mati
+Carilah bekal ketika pagi
+Supaya tidak menyesal nanti
 ===
-wahai ananda dengarlah madah
+Wahai ananda dengarlah madah
+Baikkan laku elokkan tingkah
+Banyakkan kerja yang berfedah
+Supaya hidupmu beroleh berkah
 ===
-wahai ananda dengarlah pesan
+Wahai ananda dengarlah pesan
+Kuatkan hati teguhkan iman
+Jangan didengar bisikan setan
+Supaya dirimu diampuni Tuhan
 ===
-wahai ananda harapan ibu
+Wahai ananda harapan ibu
+Dalam beragama jangalah ragu
+Kokohkan iman perdalam ilmu
+Semoga Allah akan membantu
 ===
-wahai ananda hendaklah ingat
+Wahai ananda hendaklah ingat
+Hidup di dunia amatlah singkat
+Banyakkan amal serta ibadat
+Supaya selamat dunia akhirat
 ===
-wahai ananda intan dikarang
+Wahai ananda intan dikarang
+Duduk berguru janganlah kurang
+Berbuat baik jangan kepalang
+Supaya kelak hidupmu tenang
 ===
-wahai ananda intan terpilih
+Wahai ananda intan terpilih
+Jadilah engkau anak yang saleh
+Berbuat baik jangan memilih
+Bergaul jangan memilih kasih
 ===
-wahai ananda kekasih ayah
+Wahai ananda kekasih ayah
+Hanya Allah yang engkau sembah
+Ibu dan bapa jangan disanggah
+Supaya engkau beroleh berkah
 ===
-wahai ananda kekasih ibu
+Wahai ananda kekasih ibu
+Dalam beramal dalamkan ilmu
+Dalam beriman janganlah ragu
+Ridho Allah yang engkau rindu
 ===
-wahai ananda kemala negeri
+Wahai ananda kemala negeri
+Kokohkan iman di dalam diri
+Tunjuk ajar engkau dengari
+Bujukan stan engkau jauhi
 ===
-wahai ananda kuntum harapan
+Wahai ananda kuntum harapan
+Agama jangan dimudah-mudahkan
+Ingatlah selalu siksaan Tuhan
+Supaya kelak mendapat ampunan
 ===
-wahai ananda kuntum negeri
+Wahai ananda kuntum negeri
+Membela agama janganlah lari
+Daripada murtad eloklah mati
+Itulah adat Melayu sejati
 ===
-wahai ananda kuntum pilihan
+Wahai ananda kuntum pilihan
+Syarak dan sunnah jangan abaikan
+Berbuat kebajikan janganlah segan
+Supaya engkau dirahmati Tuhan
 ===
-wahai ananda mustika alam
+Wahai ananda mustika alam
+Kekallah engkau memeluk Islam
+Bersihkan diri luar dan dalam
+Banyakkan ingat siang dan malam
 ===
-wahai ananda mustika ayah
+Wahai ananda mustika ayah
+Dalam beriman janganlah goyah
+Betulkan akal luruskan langkah
+Mohonlah petunjuk kepada Allah
 ===
-wahai ananda mustika bunda
+Wahai ananda mustika bunda
+Janganlah cuai dalam agama
+Kerjakan sembahyang tiang agama
+Supaya hidupmu selamat sempurna
 ===
-wahai ananda mustika hati
+Wahai ananda mustika hati
+Pandai-pandailah membawa diri
+Hasutan orang jangan peduli
+Serahkan diri pada Illahi
 ===
-wahai ananda payung sekali
+Wahai ananda payung sekali
+Bersihkan niat lapangkan hati
+Jauhkan segala perbuatan keji
+Supaya hidupmu tidak terkeji
 ===
-wahai ananda peganglah janji
+Wahai ananda peganglah janji
+Berbuat khianat engkau jauhi
+Banyakkan olehmu bertanam budi
+Supaya kelak hidup terpuji
 ===
-wahai ananda pengobat dahaga
+Wahai ananda pengobat dahaga
+Berbuat kebajikan jangan dihingga
+Terhadap maksiat engkau berjaga
+Supaya mengelak siksa neraka
 ===
-wahai ananda permainan bunda
+Wahai ananda permainan bunda
+Janganlah engkau mabuk dunia
+Janganlah silau memandang harta
+Supaya hidupmu tidak menderita
 ===
-wahai ananda ratna manikam
+Wahai ananda ratna manikam
+Berpegang teguhlah kepada Islam
+Banyakkan amal siang dan malam
+Supaya hidupmu tidak tenggelam
 ===
-wahai ananda sibiran tulang
+Wahai ananda sibiran tulang
+Betulkan kaji tegakkan sembahyang
+Umur yang ada jangan dibuang
+Supaya hidupmu dipandang orang
 ===
-wahai ananda tajuk mahkota
+Wahai ananda tajuk mahkota
+Banyakkan amal sedikitkan kata
+Peliharalah mulut serta anggota
+Supaya menjauh aib dan nista
 ===
-wahai ananda tajuk mahkota
+Wahai ananda tajuk mahkota
+Jagalah lidah sebelum berkata
+Peliharalah kaki sebelum berkata
+Semoga Allah melimpahkan rahmah
 ===
-wahai ananda tambatan hati
+Wahai ananda tambatan hati
+Jauhkan sifat iri dan dengki
+Bekerjalah dengan bersungguh hati
+Itulah bekal hidup dan mati
 ===
-wahai ananda tambatan jiwa
+Wahai ananda tambatan jiwa
+Jauhkan olehmu sifat aniaya
+Berbaik-baik sesama manusia
+Supaya kelak tidak cedera
 ===
-wahai ananda timangan emak
+Wahai ananda timangan emak
+Di dalam Islam termpatmu tegak
+Sejari jangan engkau berganjak
+Hidup dan mati pantang diasak
 ===
-wahai ananda timbangan sayang
+Wahai ananda timbangan sayang
+Memeluk agama janganlah goyang
+Membela Islam jangan kepalang
+Esa hilang duanya terbilang (Ketakwaan) (Agama) (Tunjuk Ajar Melayu)
 ===
 Wahai Bujang tinggallah tuan
 Aku ditakdir mencari rakan
@@ -49544,7 +49580,10 @@ Siang malam kau terbayang
 Bila lagi nak tengok wayang
 Ingin aku nak cium sayang
 ===
-Wahai encik
+Wahai encik rakan taulan
+Abang adik lelaki perempuan
+Jadikan amanah suatu amalan
+Supaya hidup mendapat kepercayaan (Himpunan Pantun Melayu Pak Zek) (Amanah) (Dato Haji Zakaria Hitam) (Himpunan Pantun Pak Zek. Petaling Jaya: Bukuraya Media) (Tahun 1991)
 ===
 Wahai kaum wanita Islam
 Kelak bila perahu rumah tangga
@@ -49597,7 +49636,9 @@ Hamba ingin memohon ampun
 Kerana tiada daya kuasa
 ===
 Wajah ada banyak serupa
-Dukacita
+Dukacita semangat dan lelah
+Jangan cari alasan mengapa
+Ada kegembiraan nikmatilah
 ===
 Wajah cantik berambut ikal
 Daya tarik perempuan
@@ -50315,6 +50356,9 @@ Kita berganja mencari seronok
 Terlompat-lompat macam beruk
 ===
 Waktu senja sampai Nabawan
+Membawa sapi beratur-atur
+Tidak ku puja dirimu tuan
+Tidak termimpi di dalam tidur
 ===
 Waktu siang banyak merokok
 Karena banyak menerima tamu
@@ -50402,8 +50446,14 @@ Hatiku hancur mengenang tuan
 Pergi merajuk tidak berkabar
 ===
 Wak-wak kerbau dipadang
+Tarik seekor bawa ke huma
+Mak-mak tunangku datang
+Oraklah tikar sitabur bunga
 ===
 Walang kekek namanya walang
+Walang istilah orang Jawa
+Jangan adik berhati walang
+Lambat laun 'kan datang jua
 ===
 Walau aku telah menjadi abu
 Lebur dalam panasnya cinta nan satu
@@ -50436,6 +50486,9 @@ Walau banyak harta di-dunia
 Tidak menyama segala Ilmu
 ===
 Walau banyak toko di kota
+Hanya sebuah toko sepeda
+Walau banyak kumbang mengoda
+Hanya abang belahan jiwa
 ===
 Walau berdagang rugi sedikit
 Kami tertawa bergurau juga
@@ -50461,11 +50514,6 @@ Walau dibungkus bukan kiriman
 Sudah takdir Tuhan yang satu
 Meski ditanam bukan tanaman
 Cubalah teka apakah itu?
-===
-Walau disimpan dalam keranjang
-Harum mangga (quini) tercium juga
-Apa enaknya hidup membujang
-Tidur malam sendirian
 ===
 Walau globalisasi melanda negara 
 UKM teguh dengan "kebangsaan"nya 
@@ -50576,18 +50624,6 @@ Walau unta sudah mabuk
 Diusik babi minum juga
 Walau mata sudah kantuk
 Direngek laki bangun juga
-===
-Walaupun aku dibawa ke sana
-Di laut Anda cuci bagaikan sarung
-Aku tidak akan luntur
-Sebab kesumbaku kesumba Jawa
-
-
-Mauaq mubawa sau
-Di sasiq mutappassi
-Iqdaq malele
-
-Apaq kasumba Jawaq
 ===
 Walaupun banyak hewan di padang
 Jangan dijadikan tempat berburu
@@ -50909,18 +50945,6 @@ Janganlah pula suka berhenti
 Walaupun kawan mendapat untung
 Janganlah kita merasa dengki
 ===
-Walaupun siapa saja
-Berjiwa lembut seperti air
-Akan keruh juga jadinya
-Bila ada yang mengacaunya
-
-
-Maui tia anna inai
-Mepaq maiq uai
-Mapotaq toi
-
-Muaq diang manggugu
-===
 Walaupun taji sudah dipasang
 Karena goyang dicabut lagi
 Walaupun hati sudah meradang
@@ -50990,9 +51014,6 @@ Wang Daud  turun bergaji
 Berbata kopi di dalam sulang
 Mun sekadar guruh sekali
 Dahulukan hujan kemarau tia pulang
-===
-Wang di dalam kitab di luar
-Mengkuang di dalam atap di luar
 ===
 Wang dinar berbungkal-bungkal
 Dari Arabia boleh mendapat
@@ -51155,6 +51176,9 @@ Hati lah muak dirayu juga
 Lambat kaki tangan menampar
 ===
 Wanginya sampai bertahun-tahun
+Harumnya tetap meskipun layu
+Ku tolak tidak diterima belum
+Ku pikir-pikirlah dahulu
 ===
 Wangkang berpintu empat
 Keempat-empat pintu ke laut
@@ -51222,7 +51246,9 @@ Solat malam tak terasa letih
 Orang mukmin punya budaya
 ===
 Warna merah si tudung saji
-Hijau
+Hijau biru warna selanya
+Memang mudah mengikat janji
+Tidak semudah menepatinya
 ===
 Warna putih si bunga raya
 Buat mempelai indah dibentuk
@@ -51259,11 +51285,6 @@ Dibaca setiap hari
 Keindahan dan kebenaran
 Tidak diberikan harus dicari
 ===
-Wat zijn je pijlrjes?
-Wat is je blassroer?
-Wat zijn je woorden?
-Wat heb jet e zeggen?
-===
 Watikah pelantikan sudah diserahkan 
 Ikrar juga sudah dilafazkan 
 Majukanlah UKM sebagai perjuangan 
@@ -51279,9 +51300,15 @@ Wau bulan teraju tiga
 Mari adik marilah kawan
 Kita cuba beradu laga
 ===
-Wau
+Wau wau bulan
+Wau bulan teraju tiga
+Kita nyanyi berkawan-kawan
+Kurang lebih maafkan hamba
 ===
-Wau
+Wau wau bulan
+Wau masuk lubang
+Adik koyak pinang
+Kena jari abang
 ===
 Wau-wau bulan
 Wau bulan teraju tiga
@@ -51314,10 +51341,19 @@ Timang anak datu
 Jatuh timpa lembing
 ===
 Wayang bernama wayang potehi
+Dalangnya datang dari Cina
+Adik ku simpan di dalam hati
+Hati tidak ku bagi dua
 ===
 Wayang Jawa di gelar orang
+Dalang bernama Sudir Santosa
+Jangan dengar omongan orang
+Yang penting kita berdua
 ===
 Wayang kulit dari selatan
+Untuk hiburan Raja Semantan
+Walau jauh di seberang lautan
+Irama Melayu dilupa jangan
 ===
 Wayang kulit dari selatan
 Untuk hiburan Raja Semantan
@@ -51325,10 +51361,19 @@ walau jauh di seberang lautan
 Irama Melayu dilupa jangan
 ===
 Wayang potehi dari Cina
+Ronggolawe lakon cerita
+Cinta tidak ku bagi dua
+Hanya ke adik seorang saja
 ===
 Wayang potehi dari Cina
+Sinden berasal dari Blora
+Siang malam dimabuk cinta
+Hati di dalam bagai membara
 ===
 Wayang potehi sekarang langka
+Setahun sekali di kota Tuban
+Cinta hamba tidak terkira
+Yang tahu hanyalah Tuhan
 ===
 Wayang potehi wayang 'rang cina
 Dulu di rembang banyak adanya
@@ -51346,231 +51391,181 @@ Aja ngamuk
 Enggal tuwa
 ===
 Wilmana di atas gunung
+Penyengat tergantung tinggi
+Gundah gulana duduk termenung
+Teringat akan si jantung hati
 ===
 Wingko babat seri Semarang
+Orang Muntilan menjual lada
+Sakit singguh hati seorang
+Kita kasih orang tiada
 ===
 Wisma Aman di seberang jalan
 Bertentang pula bangunan DECTAR
 Berbakti jadikan amalan
 Jasa dikenang takkan pudar
 ===
-Wisma Dang Bandang
+Wisma Dang Bandang Wisma Budaya
+Cukup terjaga di ibu kota
+Gedung gudang harta di dunia
+Ke akhirat juga perginya kita
 ===
 Wisma merdeka tempat berbeli
+Kereta Kancil tampak menjalar
+Tidak ku sangka sama sekali
+Cacing kecil menjadi ular
 ===
-WM
-Memerah sena senduduk ditetak
+WM: Memerah sena senduduk ditetak
 Merah terbenam merajuk kesumba
 Indah terbina pondok teratak
-
 Mengapa diam diceruk rimba
-
-WS
-Kembara merantau berlayar perlahan
-
+===
+WS: Kembara merantau berlayar perlahan
 Berhenti rombongan di Indragiri
 Rimba nan hijau jadi pilihan
 Mencari ketenangan insafi diri
 ===
-WM
-Menggigil helang diterkam geroda
+WM: Menggigil helang diterkam geroda
 Merapat merpati merbah menggigal
 Sijil Ijazah cemerlang megah di dada
-
 Menempah ke IPT aibkan gagal
-
-WS
-Keris didulang kemas tersimpan
-
+===
+WS: Keris didulang kemas tersimpan
 Setia berabat tinggi nilainya
 Aib dan hina bersinar harapan
 Andaikan tekad berganding usaha
 ===
-WM
-Pucuk bernama gamat berbaja
+WM: Pucuk bernama gamat berbaja
 Jerami seikat dibelah jangan
 Bercucuk tanam cermat belanja
-
 Ekonomi meningkat itulah sumbangan
-
-WS
-Orang bertanam dekat jerami
-
+===
+WS: Orang bertanam dekat jerami
 Mawar berlilitan lena di paya
 Hidroponik menguat ekonomi
 Hambar sahutan dimana jaya
 ===
-WM
-Putik kenangan berseri di anjung
+WM: Putik kenangan berseri di anjung
 Menyapa pandan di muka pintu
 Putik berbunga lagi sejantung
-
 Mengapa setandan ranumnya satu
-
-WS
-Harum berbau di dalam puan
-
+===
+WS: Harum berbau di dalam puan
 Hantaran memikat menggoda hati
 Ranumnya satu terpesong haluan
 Lantaran sepakat tiada di hati
 ===
-WM
-Rejang menuding belukar nan kelam
+WM: Rejang menuding belukar nan kelam
 Pelepah bidara bergalang malap
 Bijak berunding luar dan dalam
-
 Indah bicara dimana silap
-
-WS
-Buah bidara di dalam kaca
-
+===
+WS: Buah bidara di dalam kaca
 Serai seikat di pangkal bertemu
 Salah bicara bukanlah punca
 Hanya mufakat belum di temu
 ===
-WM
-Segar melambai si pohon sena
+WM: Segar melambai si pohon sena
 Serata tebar menyembah bumi
 Mekar teratai seribu makna
-
 Mengapa mekar menyambah bumi
-
-WS
-Mekar cemperai bersemi di jerejak
-
+===
+WS: Mekar cemperai bersemi di jerejak
 Ke dahan beruas indah di pantai
 Mekar teratai ke bumi tak jejak
 Bimbangkan lemas dilanda badai
 ===
-WM
-Tiung bernyanyi terang cahaya
+WM: Tiung bernyanyi terang cahaya
 Kayu meranti dahan berduri
 Gunting sembunyi percaya
-
 Tidaklah nanti hancuri diri
-
-WS
-Ranting bernyanyi patah bergetar
-
+===
+WS: Ranting bernyanyi patah bergetar
 Merindukan teman di alur jawa
 Gunting tersembunyi usah digentar
 Teguhkan iman jujur di jiwa
 ===
-Woekerplanten tieren op de nangka-boom
-Sirihblaadjes op de boom hapadan
-Geleend is slechts het leven
-Aan de aarde behoort het lichaam
-===
 Wong Lan Cik nama dalangnya
+Wong Lan Cik nama sindennya
+Wahai adik numpang bertanya
+Hati patah apa obatnya
 ===
-WS
-Dihujung selat bertiup bayu
+WS: Dihujung selat bertiup bayu
 Teratai dikolam tampak serinya
 Dikandung adat budaya Melayu
-
 Dicemar susila mana manisnya
-
-WM
-Sinis surya dipersada meriah
-
+===
+WM: Sinis surya dipersada meriah
 Tatkala camar memainkan rabab
 Manis budaya pada maruah
 Susila yang cemar dipulihkan adap
 ===
-WS
-Embun menitik penyeri maya
+WS: Embun menitik penyeri maya
 Udara tenang segar berhembus
 Kalau keris lekuk ukirnya
-
 Mengapa bebayang menjadi lurus
-
-WM 
-Terguris pungguk melayang tirus
-
+===
+WM: Terguris pungguk melayang tirus
 Nanar buluh sedih cendana
 Keris berkeluk bebayang lurus
 Sinar penyuluh ditindi gerhana
 ===
-WS
-Gugus sudah seludang mayang
+WS: Gugus sudah seludang mayang
 Asal tanah semalu meliar
 Alakah indah pusaka moyang
-
 Dicemar dimusnah mengapa dibiar
-
-WM
-Meliar damar dipatah adika
-
+===
+WM: Meliar damar dipatah adika
 Terbenam pohonan lurut ke bemban
 Digilas tercemar tanah pusak
 Kerana pembangunan menuntut korban
 ===
-WS
-Mentari bebayang di ufuk timur
+WS: Mentari bebayang di ufuk timur
 Nak dara mandi sanggul tersimpul
 Masyarakat penyayang itulah matlamat
-
 Serakah dan dengki ujudkah kaul
 
-WM
-Kucut bersimpul siaga dimaya
-
+WM: Kucut bersimpul siaga dimaya
 Mendung di langit deras bergema
 Ujud kaul warga penyayang
 Kianat dan dengki dibentras bersama
 ===
-WS
-Meredah belukar ke alur tenang
+WS: Meredah belukar ke alur tenang
 Fajar menyongsong jemu di kuala
 Besar maksud terbilang
-
 Wajar di anjung tetamu bersila
-
-WM
-Mendayu irama tarian rodat
-
+===
+WM: Mendayu irama tarian rodat
 Tarian pusaka setia disanjung
 Tetamu bersila itulah adat
 Warisan budaya tetap disanjung
 ===
-WS
-Simpul bertingkah mawar sejambak
+WS: Simpul bertingkah mawar sejambak
 Tiada terurai nipis berduri
 Unggul apakah tepisnya ombak
-
 Hingga pantai menghakis diri
-
-WM
-Pria dilambak ke Perdu Ramu
-
+===
+WM: Pria dilambak ke Perdu Ramu
 Tumbuhnya bersilih berantai cendawan
 Setia ombak merindu tak jemu
 Unggulnya kasih pantai tertawan
 ===
-WS
-Suasana ceria tenang di rimba
+WS: Suasana ceria tenang di rimba
 Terbang bertuah burung kenari
 Usaha sia jangan dicuba
-
 Kelak kecewa memakan diri
-
-WM
-Disubuh sunyi asik memancing
-
+===
+WM: Disubuh sunyi asik memancing
 Duduk berehat di pohon berangan
 Ekonomi meleset negara meruncing
 Kita rakyat apa sumbangan
 ===
-WS
-Terbang tinggi si burung enggang
+WS: Terbang tinggi si burung enggang
 Patah sayapnya jatuh di desa
 Kalau sirih tak pulang ke gagang
-
 Mana hilangnya budaya sebangsa
-
-WM
-Cindai diraih berlenggang nak helang
-
+===
+WM: Cindai diraih berlenggang nak helang
 Diraih angsa menggigal gerangan
 Kalau sirih ke gagang tak pulang
 Budaya bangsa tinggal kenangan
@@ -51606,6 +51601,9 @@ Tanpa agama kehidupan manusia jadi buas
 Fikir hanya hal-hal kebendaan
 ===
 Y.B bernama Datuk Sapawi
+Ketua MBSS ke Dewan Bahasa
+Jika saya tuan rindui
+Hantar SMS setiap masa
 ===
 Ya Allah Malikul kami
 Nabi Muhammad penghulu kami
@@ -51662,7 +51660,10 @@ Berkahi rezeki yang kami nikmati
 Agar badan sehat wal'afiat
 Itulah modal ketenangan hati
 ===
-Ya Allah
+Ya Allah ya Tuhanku
+Tengok tingkah dengan laku
+Sudah untung malang nasibku
+Intan dipegang menjadi batu
 ===
 Ya Ar Hamar Rohimin Yar Hamna
 Bantulah hamba dalam ikhtiar
@@ -51686,9 +51687,13 @@ Bermujahadah lebih berkesan
 ===
 Ya ilahi tuanku rabbi!
 Kayu yang rendah menjadi tinggi
+Selama kucing tiada bergigi
+Tikus tiada sopan lagi
 ===
 Ya illahi tuanku rabbi!
 Lepaskan kuda dari tambangan
+Jika tuan hati berani
+Jangan di adu berpandangan
 ===
 Ya Jal jalai wal ikram
 Tegapkan hamba menghadapi keadaan
@@ -51735,9 +51740,15 @@ Curahkan hamba tabah dan sabar
 Godaan nafsu terus mengumbar
 Tegapkan hati jiwa yang tegar
 ===
-Ya Tuhan
+Ya Tuhan hamba dulu seorang majikan
+Banyak pekerja yang hamba bantu
+Setiap bulan upah dibayarkan
+Tak pernah pula mengulur waktu
 ===
-Ya Tuhan
+Ya Tuhan itu yang hamba lakukan
+Apakah itu menjadi suatu kebaikan
+Tolongkan kami Engkau bukakan
+Batu besar dapat disingkirkan
 ===
 Ya Ya Robbi Yang Maha Tahu
 Lapangkan rezeki luaskan ilmu
@@ -51808,11 +51819,6 @@ Yakin bukan sebarang yakin
 Yakin bertanak masak nasinya
 Berkain bukan sebarang kain
 Berkain koyak nampak isinya
-===
-Yakin bukan sebarang yakin
-Yakin bertanak masak nasinya
-Berkain bukan sebarang kain
-Berkain tipis banyak terbayang
 ===
 Yakin bukan sebarang yakin
 Yakin hilang tidakkan hilang
@@ -51912,7 +51918,7 @@ Chaching mangambang menjadi naga
 Yamtuan sait nakoda amboon
 Bunga nanas kembang pagi
 Kasay tuan sebagi amboon
-Kena panas ilang skali.
+Kena panas ilang skali
 ===
 Yamtuan sait nakoda amboon
 Bunga nanas kembang pagi
@@ -52114,18 +52120,6 @@ Yang berbiduk tentu bergalah
 Orang beriman perlu disanjung
 Orang perajuk perlu disergah
 ===
-Yang bersedih hati pura-pura
-Yang sakit pura-pura
-Hanya dengan pura-pura
-Hatinya tertarik kepadaku
-
-
-I masara tandi-tandi
-I mongeq tandi-tandi
-I tandi-tandi
-
-Pangolo na laqmai
-===
 Yang bertanam akan menuai
 Yang berlesung akan menumbuk
 Yang berfaham menjadi pandai
@@ -52256,7 +52250,10 @@ Dilantik lima tahun sekali
 Perkara kebajikan dibuat segera
 Baru rakyat marhaen suka hati
 ===
-Yang Di Pertua Besar
+Yang Di Pertua Besar Negeri Sembilan
+Berketurunan Minangkabau dari Sumatera
+Banyak ilmu banyak amalan
+Suruhan Allah dibuat segera
 ===
 Yang digamit endah tak endah
 Yang disekat semakin merapat
@@ -52582,16 +52579,6 @@ Yang keras bertulang
 Yang lunak berdaging
 Yang ikhlas terbilang
 Yang tamak tergiling
-===
-yang keruh buang ke laut
-apa tanda batang kuini
-yang semak buang ke rimba
-batangnya besar daunnya lebat
-yang busuk di kubur dalam
-apa tanda orang yang berani
-membela yang benar hatinya bulat
-
-yang kusut diselesaikan
 ===
 Yang kuda larinya deras
 Biarpun jauh melompat juga
